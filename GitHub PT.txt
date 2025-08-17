@@ -1,0 +1,824 @@
+.Patient Case 1
+                     🎯 **Simulation Objective:**
+                     ## 🧪 SIMULATED PATIENT CASE: "Ruperta"
+
+                     > **Name:** Ruperta M.  
+                     > **Age:** 72 years  
+                     > **Setting:** Outpatient Neurological Rehabilitation Clinic  
+                     > **Referral:** "Intermittent vertigo with position changes"  
+                     > **Chart Review Summary (from UpRuperta.txt & NM.txt context):**
+                     > - Episodes of vertigo when bending down and standing up  
+                     > - Lasts **less than 30 seconds**, resolves with stillness  
+                     > - No hearing loss, tinnitus, or neurological symptoms  
+                     > - **Dix-Hallpike Maneuver:**
+                     >   - Right side: Negative  
+                     >   - Left side: Positive  
+                     >   - Nystagmus: 3-second latency, 15-second duration, **torsional upbeating toward the left ear**, crescendo-decrescendo pattern  
+                     >   - Accompanied by vertigo  
+                     > - PMH: HTN, osteoarthritis  
+                     > - Meds: Lisinopril  
+                     > - Social: Lives alone, walks dog daily, fell once last month  
+                     > - Prior Level of Function (PLF): Independent ambulator, community walker
+
+                     ---
+
+                     ## 1º. WHAT WOULD YOU ASK IN THE INTERVIEW?
+
+                     Let’s start with **History**, which is the **first component** of the **Neurologic PT Examination**.
+
+                     ### 🔍 BIG PICTURE: Why Are We Asking This?
+
+                     The **interview** is not just about symptoms — it's about forming **clinical hypotheses** and ruling out **red flags**.
+
+                     Dizziness can come from:
+                     - **Peripheral vestibular** (inner ear): BPPV, vestibular neuritis
+                     - **Central vestibular** (brainstem/cerebellum): stroke, MS
+                     - **Cardiovascular**: orthostatic hypotension
+                     - **Medication side effects**
+                     - **Cervicogenic or psychological causes**
+
+                     So our questions help us:
+                     - **Localize the system involved**
+                     - **Rule out dangerous conditions**
+                     - **Establish baseline function and safety**
+
+                     Also, per your feedback, you missed **social history, fall history, and prior level of function (PLF)** — these are **critical** for safety and goal setting.
+
+                     ---
+
+                     ### ✅ STRUCTURED INTERVIEW QUESTIONS
+
+                     We’ll follow the **Neurological Evaluation Lab Worksheet** framework.
+
+                     ---
+
+                     #### A. **History of Present Illness (HPI)** – Chief Complaint: “I feel dizzy when I move my head”
+
+                     Ask:
+
+                     1. **Onset**:  
+                        - “When did this start?”  
+                        - *Why?* Sudden onset suggests **peripheral vestibular** (e.g., neuritis). Gradual = degenerative or medication.
+
+                     2. **Triggers**:  
+                        - “Does anything bring it on? Like rolling over in bed, looking up, bending down?”  
+                        - *Why?* Positional triggers = **BPPV**. Movement-related = **vestibular hypofunction**.
+
+                     3. **Duration**:  
+                        - “How long does each episode last?”  
+                        - *Why?* Seconds = **BPPV**. Minutes to hours = **vestibular migraine or TIA**. Constant = **neuritis or CNS lesion**.
+
+                     4. **Quality**:  
+                        - “Is it spinning (vertigo), lightheadedness, or unsteadiness?”  
+                        - *Why?* True **vertigo** (room spinning) → **vestibular system**. Lightheadedness → **cardiovascular or anxiety**.
+
+                     5. **Associated Symptoms**:  
+                        - “Any hearing loss, ringing in ears, nausea, headache, double vision, weakness?”  
+                        - *Why?* Hearing changes → **Meniere’s**. Neurologic symptoms → **central lesion**.
+
+                     6. **Course**:  
+                        - “Is it getting better, worse, or coming and going?”  
+                        - *Why?* Improving = likely **peripheral**. Fluctuating = **Meniere’s or migraine**.
+
+                     ---
+
+                     #### B. **Past Medical History (PMH)**
+
+                     Ask:
+                     - “Any history of stroke, diabetes, Parkinson’s, ear infections?”  
+                     - “Neck problems or head injuries?”  
+                     - *Why?* These can mimic or contribute to dizziness.
+
+                     ---
+
+                     #### C. **Medications & Allergies**
+
+                     - “What medications are you taking?”  
+                     - *Why?* Antihypertensives → orthostatic hypotension. Benzodiazepines → dizziness.
+
+                     ---
+
+                     #### D. **Social History & Prior Level of Function (PLF)** ← YOU MISSED THIS LAST TIME
+
+                     Ask:
+                     - “Do you live alone? Do you have stairs at home?”  
+                     - “Before this started, could you walk independently? Do you drive?”  
+                     - “Have you fallen? How many times? Any injuries?”  
+                     - “What do you enjoy doing?”  
+                     - *Why?* This tells us about **safety risks**, **home environment**, and **functional goals**. Falls history is a **RED FLAG**.
+
+                     ---
+
+                     #### E. **Patient Goals**
+
+                     - “What would you like to be able to do again?”  
+                     - “Are you afraid of falling?”  
+                     - *Why?* Guides treatment planning and outcome measures (e.g., Dizziness Handicap Inventory).
+
+                     ---
+
+                     ### 🧩 CLINICAL REASONING MAP: Where Does This Fit?
+
+                     All these questions are part of **Step 2: History, Observation, and Review of Systems (ROS)**.
+
+                     This step helps us:
+                     - Form hypotheses (e.g., “This sounds like BPPV”)
+                     - Decide what systems to test next
+                     - Identify **red flags** (e.g., sudden vertigo + ataxia = possible stroke)
+                     - Establish **baseline function** and **safety concerns**
+
+                     > 🔁 Reminder: The **Review of Systems (ROS)** is a **screening tool** to rule in/out system involvement. If positive, we do a **further detailed examination**.
+
+                     ---
+
+                     ## 2º. WHAT WOULD YOU PRIORITIZE IN THE NEUROLOGIC EXAM?
+
+                     Now, based on the history, we prioritize components of the **neurologic exam**.
+
+                     From the chart:  
+                     > “Episodes of vertigo with position changes, lasting <30 sec, torsional upbeating nystagmus on left Dix-Hallpike”
+
+                     👉 This is **classic Left Posterior Canal BPPV** — a **peripheral vestibular disorder**.
+
+                     But we must **rule out central causes** and **assess safety**.
+
+                     ---
+
+                     ### 🔍 BIG PICTURE: The Neurologic Exam Framework
+
+                     The exam follows a **hierarchical order**:
+
+                     1. **Mental Status** → Is the patient alert and able to participate?
+                     2. **Cranial Nerves** → Especially **II, III, IV, VI, VIII** for oculomotor and vestibular function
+                     3. **Sensory** → Is proprioception intact? (dorsal column)
+                     4. **Motor** → Strength, tone, coordination
+                     5. **Balance & Coordination** → Static, dynamic, walking
+                     6. **Functional Skills** → Sit-to-stand, gait, transfers
+
+                     > ⚠️ **Why this order?** Because higher-level systems affect lower-level ones. If a patient is confused or has gaze palsy, balance testing may be invalid.
+
+                     ---
+
+                     ### ✅ PRIORITIZED EXAM COMPONENTS FOR THIS PATIENT
+
+                     We’ll go through each, explaining **why**, **what we’re looking for**, and **how it fits into the bigger picture**.
+
+                     ---
+
+                     #### 2.a. **History, Observation, and Review of Systems (ROS)**
+
+                     Already done above.
+
+                     Now, during **observation**:
+                     - Watch how she enters the clinic: unsteady? Using furniture?
+                     - Does she avoid head movements?
+                     - *Why?* Natural movement reveals **compensatory strategies** and **fear of movement**.
+
+                     ---
+
+                     #### 2.b. **Sensory Exam**
+
+                     We focus on systems relevant to balance:
+
+                     1. **Light Touch** – Screen dermatomes (e.g., L5-S1)  
+                        - *Why?* Rule out peripheral neuropathy or radiculopathy.
+
+                     2. **Proprioception (Joint Position Sense)** – Big toe up/down  
+                        - *Why?* This tests the **dorsal column-medial lemniscus pathway**. Impaired proprioception → poor balance, especially in dark.
+
+                     > 🔄 Compare: In **BPPV**, proprioception is **intact**. In **bilateral vestibulopathy**, it may be **relied upon heavily**.
+
+                     ---
+
+                     #### 3.c. **Balance Exam**
+
+                     This is **critical** for dizziness.
+
+                     Breakdown:
+                     - **Static Standing Balance**: Sensory orientation & reactive control
+                     - **Dynamic Standing Balance**: Self-generated control
+                     - **Walking Balance**
+
+                     Use **standardized tools** from the **Core Set of Outcome Measures**:
+                     - **Berg Balance Scale (BBS)** – Static and dynamic balance
+                     - **Functional Gait Assessment (FGA)** – Walking with head turns, eyes closed, etc.
+                     - **Mini-BESTest** – Specifically assesses **balance control systems**
+
+                     > 🔍 Why these? Because they’re **evidence-based**, **valid**, and **responsive** to change in vestibular patients.
+
+                     ---
+
+                     #### 4.d. **Mental Status Exam**
+
+                     Quick screen:
+                     - **Alertness**: Is she awake and responsive?
+                     - **Orientation**: Person, place, time
+                     - **Attention**: Can she follow 2-step commands?
+                     - *Why?* To ensure she can **participate** in vestibular rehab. Cognitive impairment changes treatment approach.
+
+                     ---
+
+                     #### 5.e. **Motor Exam**
+
+                     Key elements:
+
+                     1. **Muscle Mass** – Any atrophy? (e.g., from inactivity)
+                     2. **ROM** – Cervical rotation? Limited ROM may cause cervicogenic dizziness.
+                     3. **Tone** – Normal? Spasticity suggests UMN lesion.
+                     4. **Strength** – Manual muscle testing (MMT) of legs and neck
+                        - *Why?* Weakness contributes to imbalance.
+                     5. **Motor Control** – Can she isolate head movements?
+                     6. **Involuntary Movements** – Tremor? Nystagmus?
+
+                     > 🔄 Compare: In **BPPV**, strength and tone are **normal**. In **Parkinson’s**, you’d see rigidity and bradykinesia.
+
+                     ---
+
+                     #### 6.f. **Functional Skills Exam and Movement Analysis**
+
+                     Observe:
+                     - **Sit-to-Stand**: Smooth? Uses arms?  
+                     - **Transfers**: Needs help?  
+                     - **Walking**: Wide base? Head stiff?  
+                     - **Stairs**: Can she do them?
+
+                     Use **Movement Analysis Worksheet** to note:
+                     - Initiation delay
+                     - Trunk stiffness
+                     - Head-trunk dissociation
+                     - Step length asymmetry
+
+                     > 🔄 Compare: In **BPPV**, gait is often **cautious but symmetric**. In **cerebellar ataxia**, it’s **wide-based and irregular**.
+
+                     ---
+
+                     #### 7.g. **Cranial Nerve Integrity Exam**
+
+                     Prioritize:
+                     - **CN II (Optic)**: Visual acuity, visual fields  
+                     - **CN III, IV, VI**: Extraocular movements (H-test), saccades, smooth pursuit, convergence  
+                     - **CN VIII (Vestibulocochlear)**: Hearing (whisper test), VOR (HIT), nystagmus
+
+                     > 🔍 Why? To assess **oculomotor and vestibular function** — central to dizziness.
+
+                     ---
+
+                     #### 8.h. **Coordination Exam**
+
+                     - **Finger-to-Nose (FTN)**: Check for dysmetria (past-pointing) → **cerebellar lesion**
+                     - **Heel-to-Shin (HTS)**: Same
+                     - **Rapid Alternating Movements (RAM)**: Pronation/supination → dysdiadochokinesia
+
+                     > 🔄 Compare: In **BPPV**, coordination is **normal**. In **central vertigo**, it’s **impaired**.
+
+                     ---
+
+                     ## 3º. DEMONSTRATE AN ASSESSMENT TO RULE OUT BPPV
+
+                     Now, we **rule out BPPV** using **positional testing**.
+
+                     ### 🔍 BIG PICTURE: What Is BPPV?
+
+                     - **Benign Paroxysmal Positional Vertigo (BPPV)** is a **peripheral vestibular disorder**.
+                     - Caused by **otoconia** (calcium crystals) in semicircular canals.
+                     - Most common: **Posterior canal BPPV** → **geotropic torsional upbeating nystagmus** on Dix-Hallpike.
+
+                     > 🔄 Compare:  
+                     > - **Horizontal canal BPPV** → **horizontal nystagmus**  
+                     > - **Central positional nystagmus** → **downbeating, no latency, no fatigue**
+
+                     ---
+
+                     ### ✅ TESTS TO RULE OUT BPPV
+
+                     1. **Dix-Hallpike Maneuver**  
+                        - *Purpose*: Diagnose **posterior canal BPPV**  
+                        - *How*:  
+                          - Sit → quickly lay back with head 20° below table, turned 45° to one side  
+                          - **Feet must be on the ground or supported** ← SAFETY ISSUE FROM YOUR FEEDBACK  
+                          - Observe for **nystagmus and vertigo**  
+                        - *Positive if*:  
+                          - **Latency** (1–5 sec delay)  
+                          - **Rotational (torsional) + upbeating nystagmus**  
+                          - **Fatigues with repetition**  
+                          - **Vertigo matches symptoms**
+
+                     2. **Supine Roll Test**  
+                        - *Purpose*: Diagnose **horizontal canal BPPV**  
+                        - *How*: Lie on back → rapidly roll head 90° left/right  
+                        - *Positive if*: **horizontal nystagmus**, beats toward lower ear (geotropic) or upper ear (ageotropic)
+
+                     > ⚠️ Safety: **Feet on ground or supported** during all tests. You were marked down for this.
+
+                     ---
+
+                     ## 4º. DEMONSTRATE AN ASSESSMENT (General)
+
+                     Now, broader vestibular and oculomotor screening:
+
+                     ### ✅ VOMS (Vestibular/Ocular Motor Screening)
+
+                     From your files: **VOMS includes**:
+                     1. **Smooth Pursuits** – Follow finger slowly side to side  
+                        - *Abnormal*: Saccadic (jumpy) tracking → **cerebellar/brainstem**
+                     2. **Saccades** – Rapid shift between two targets  
+                        - *Abnormal*: Overshoot/undershoot → **frontal lobe, basal ganglia**
+                     3. **Near Point Convergence** – Finger moves toward nose  
+                        - *Abnormal*: Double vision before 5–7 cm → **midbrain or CN III**
+                     4. **VOR (Head Impulse Test)**  
+                        - *How*: Small, quick head turn left/right while patient fixates on your nose  
+                        - *Positive*: **Catch-up saccade** → **ipsilateral vestibular hypofunction**
+                        - *Why?* Tests **high-frequency VOR** — if impaired, patient can’t stabilize gaze during walking
+                     5. **Positional Testing** – Already done (Dix-Hallpike)
+
+                     > 🔄 Compare:  
+                     > - **BPPV**: Positive Dix-Hallpike, **normal VOR**  
+                     > - **Vestibular Neuritis**: **Abnormal VOR**, spontaneous nystagmus, **negative Dix-Hallpike**
+
+                     ---
+
+                     ## 5º. WHAT TREATMENT WOULD YOU PROVIDE?
+
+                     ### ✅ For BPPV: **Canalith Repositioning Maneuvers**
+
+                     - **Posterior Canal BPPV** → **Epley Maneuver**  
+                     - **Horizontal Canal BPPV** → **Barbecue (Lempert) Roll**
+
+                     > 🔍 Why? These use gravity to move otoconia out of the canal.
+
+                     **Epley Steps**:
+                     1. Sit → turn head 45° affected side
+                     2. Lay back, head 20° below table
+                     3. Wait 30 sec (nystagmus fatigues)
+                     4. Turn head 90° to opposite side
+                     5. Turn body 90°, face down
+                     6. Sit up
+
+                     > ⚠️ **Feet on ground** during transitions ← SAFETY
+
+                     ---
+
+                     ## 6º. HOW WOULD YOU ASSESS DIFFICULTY?
+
+                     Use **objective and subjective measures**:
+
+                     - **Symptoms**: Rate dizziness/nausea 0–10 before/during/after
+                     - **Vital Signs**: BP, HR (especially if orthostatic)
+                     - **RPE (Rate of Perceived Exertion)**: 0–10
+                     - **Functional Tests**: Repeat FGA or BBS to track progress
+                     - **DHI (Dizziness Handicap Inventory)**: Patient-reported disability
+
+                     > 🔁 You were marked down for not measuring symptoms to **progress/regress** treatment.
+
+                     ---
+
+                     ## 7º. HOW WOULD YOU PROGRESS/REGRESS THE TREATMENT?
+
+                     ### 🔁 Progression:
+                     - Increase head movements during gait
+                     - Add dual-task (walk and talk)
+                     - Reduce base of support (tandem stance)
+                     - Add unstable surfaces (foam)
+                     - Increase speed of movements
+
+                     ### 🔁 Regression:
+                     - Slow down head movements
+                     - Use visual cues
+                     - Reduce duration
+                     - Perform seated first
+                     - Provide hand support
+
+                     > 📊 Use **symptom response** to guide:  
+                     > - < 3/10 → progress  
+                     > - > 5/10 → regress or stop
+
+                     ---
+
+                     ## 8º. PATIENT EDUCATION
+
+                     ### ✅ Key Points:
+
+                     1. **Diagnosis Explanation**:  
+                        - “You have **BPPV** — tiny crystals in your inner ear cause brief spinning when you move your head. It’s **not dangerous**, and we can fix it.”
+
+                     2. **Home Program**:  
+                        - **Brandt-Daroff Exercises** (if Epley not fully effective)  
+                        - Avoid sleeping on affected side for 48 hours  
+                        - Move slowly with head turns
+
+                     3. **Safety**:  
+                        - Use a cane if unsteady  
+                        - Install grab bars in bathroom  
+                        - Sit down when dizzy
+
+                     4. **Red Flags**:  
+                        - “If you get new weakness, slurred speech, or severe headache — go to ER.”
+
+                     > ⚠️ You were marked **1/5** on education — be **specific** and **clear**.
+
+                     ---
+
+                     ## ✅ SUMMARY: YOUR PRACTICAL EXAM CHECKLIST
+
+                     | Area                                | Key Points                                                       |
+                     |-------------------------------------|------------------------------------------------------------------|
+                     | **Chart Review**                    | Ask: PLF, social history, fall history, meds                     |
+                     | **PT Exam**                         | Include **motor** and **vestibular** components                  |
+                     | **Test & Measure 1 (HIT)**          | Feet on ground, explain catch-up saccade = **peripheral lesion** |
+                     | **Test & Measure 2 (Dix-Hallpike)** | Hold 30 sec, identify **torsional upbeating nystagmus**          |
+                     | **Intervention 1 (Epley)**          | Feet supported, **target in focus**, correct timing              |
+                     | **Intervention 2**                  | Measure symptoms (0–10), progress based on response              |
+                     | **Education**                       | Explain BPPV clearly, give **specific HEP instructions**         |
+                     | **Safety**                          | **Feet on ground** during all tests/interventions                |
+
+                     ---
+
+                     Would you like to **role-play** the exam now?  
+                     I can act as the **examiner**, and you respond as the student.  
+                     Or, I can simulate **another case** (e.g., vestibular neuritis, central vertigo) for comparison.
+                        But this time, we won’t just go through the motions.
+
+                        We will:
+                        - **Situate every element** within the **larger framework** of the neurologic exam
+                        - Explain **why** we do something — and **why we don’t do something else**
+                        - Compare **similar tests** and **differential diagnoses**
+                        - Clarify **what is being assessed at each step**, and **how it fits into the hierarchy of clinical decision-making**
+                        - Address your **past exam mistakes** explicitly:  
+                          - Missing **social history, fall history, PLF**  
+                          - Not identifying **motor or vestibular components**  
+                          - Poor **safety (feet not on ground)**  
+                          - Incorrect **dosage, cueing, interpretation**
+
+                        Let’s begin.
+
+                        ---
+
+                        ## 🧪 PATIENT CASE: "Ruperta M."
+
+                        > **Age:** 72  
+                        > **Chief Complaint:** “I get dizzy when I bend down to tie my shoes or roll over in bed.”  
+                        > **Duration:** Episodes last less than 30 seconds; resolve when still  
+                        > **No associated symptoms:** No hearing loss, tinnitus, headache, weakness, or numbness  
+                        > **Dix-Hallpike Maneuver:**  
+                        > - **Right side:** Negative  
+                        > - **Left side:** Positive  
+                        >   - **Latency:** 3 seconds  
+                        >   - **Duration:** 15 seconds  
+                        >   - **Nystagmus:** Torsional (rotational), **upbeating toward the left (downward) ear**  
+                        >   - **Pattern:** Crescendo-decrescendo  
+                        >   - **Vertigo reproduced:** Yes  
+                        > **PMH:** Hypertension, osteoarthritis  
+                        > **Medications:** Lisinopril  
+                        > **Social History:** Lives alone, walks dog daily, independent ambulator, fell once last month  
+                        > **Prior Level of Function (PLF):** Community ambulator, drives, climbs stairs  
+
+                        ---
+
+                        ## 🔍 BIG PICTURE: WHERE DOES THIS CASE FIT?
+
+                        Before we ask any questions or perform any tests, let’s map out the **clinical landscape**.
+
+                        All dizziness cases fall into two **main categories**:
+
+                        ### 🌐 1. **Vestibular System Disorders** → Most common cause of vertigo
+                        This is divided into:
+
+                        #### A. **Peripheral Vestibular Disorders** (Inner Ear)
+                        - **Benign Paroxysmal Positional Vertigo (BPPV)** ← Our suspected diagnosis
+                        - **Vestibular Neuritis**
+                        - **Labyrinthitis**
+                        - **Meniere’s Disease**
+
+                        #### B. **Central Vestibular Disorders** (Brainstem/Cerebellum)
+                        - Stroke (e.g., vertebrobasilar insufficiency)
+                        - Multiple Sclerosis
+                        - Cerebellar degeneration
+                        - Vestibular migraine
+
+                        > ✅ Why this matters:  
+                        > - **Peripheral** vertigo is **episodic, position-triggered, with latency and fatigability**, and **no neurologic deficits**.  
+                        > - **Central** vertigo is often **constant, spontaneous, with no latency**, and may have **ataxia, dysmetria, or abnormal saccades**.
+
+                        Our job is to **determine which category Ruperta’s symptoms belong to** — and if peripheral, **which specific condition**.
+
+                        ---
+
+                        ## 1º. WHAT WOULD YOU ASK IN THE INTERVIEW?
+
+                        Let’s now conduct the **History**, which is the **first step in Step 2: Examination Strategy**.
+
+                        But first — why are we doing this?
+
+                        ### 🔍 BIG PICTURE: The Role of History in Neurologic PT
+
+                        The **history** is not just about collecting facts — it’s about forming **hypotheses**.
+
+                        We use it to:
+                        - **Localize the lesion** (peripheral vs. central)
+                        - **Rule out red flags** (e.g., stroke, tumor)
+                        - **Establish baseline function and safety risks**
+                        - **Guide which systems to test next**
+
+                        It is part of **Step 2: Examination Strategy**, which includes:
+                        1. **History**
+                        2. **Observation**
+                        3. **Review of Systems (ROS)**
+
+                        And within ROS, we screen for:
+                        - **Cardiovascular/Pulmonary**
+                        - **Musculoskeletal**
+                        - **Neuromuscular**
+                        - **Integumentary**
+                        - **Psychological/Cognitive**
+                        - **Endocrine/GI/GU**
+
+                        But we don’t dive deep into all of them — only if something raises a red flag.
+
+                        So our interview is **focused but systematic**.
+
+                        ---
+
+                        ### ✅ WHAT TO ASK — AND WHY
+
+                        We follow the **HPI (History of Present Illness)** structure, but always tie each question back to **clinical reasoning**.
+
+                        | Question
+                           | What It Screens For
+                              | Why We Ask It
+                                 | Why We Don’t Skip It |
+                        |--------|---------------------|---------------|-----------------------|
+                        | **Onset:** “When did this start?”
+                           | Acute vs. chronic process
+                              | Sudden onset → vestibular neuritis or stroke. Gradual → BPPV or degenerative
+                                 | Skipping it misses clues about severity and urgency |
+                        | **Triggers:** “Does anything bring it on?”
+                           | Positional vs. spontaneous vertigo
+                              | Positional → BPPV. Spontaneous → central or Meniere’s
+                                 | If you don’t ask, you might miss the key diagnostic clue |
+                        | **Duration:** “How long does it last?”
+                           | Seconds vs. minutes/hours
+                              | Seconds → BPPV. Hours → Meniere’s or migraine. Constant → neuritis
+                                 | Duration helps differentiate BPPV from other conditions |
+                        | **Quality:** “Is it spinning, lightheaded, or unsteady?”
+                           | True vertigo vs. presyncope
+                              | Spinning → vestibular. Lightheaded → cardiovascular
+                                 | Mislabeling dizziness leads to wrong testing pathway |
+                        | **Associated Symptoms:** “Any hearing loss, tinnitus, headache, weakness?”
+                           | Cochlear or CNS involvement
+                              | Hearing changes → Meniere’s. Weakness → stroke
+                                 | Missing neurologic symptoms could delay life-saving referral |
+                        | **Course:** “Is it getting better, worse, or coming and going?”
+                           | Progression pattern
+                              | Improving → likely benign. Fluctuating → Meniere’s
+                                 | Helps determine prognosis and urgency |
+
+                        Now, here’s where you lost points last time:
+
+                        | Area You Missed 
+                           | Why It Matters
+                              | Why We Must Include It|
+                        |------------------|---------------|------------------------|
+                        | **Social History**
+                           | Safety, home environment, support system
+                              | Living alone? Stairs? Dog walking? → fall risk
+                                 | Without this, you can’t assess safety or design safe HEP |
+                        | **Prior Level of Function (PLF)**
+                           | Baseline for goals
+                              | Was she independent? Driving? Climbing stairs?
+                                 | You can’t measure progress without knowing baseline |
+                        | **Fall History**
+                           | Red flag for injury risk
+                              | “Have you fallen?” → yes, once last month
+                                 | Falls = high risk; affects intervention choices and safety |
+
+                        > 🔄 Compare:  
+                        > - If Ruperta lived in a nursing home with assistance, we might progress slower.  
+                        > - If she had **double vision or slurred speech**, we’d suspect **central vertigo** and refer immediately.
+
+                        So we ask these not just for formality — they directly affect **treatment decisions** and **safety**.
+
+                        ---
+
+                        ## 2º. WHAT WOULD YOU PRIORITIZE IN THE NEUROLOGIC EXAM?
+
+                        Now, based on the history, we **prioritize** the exam.
+
+                        But first — why not test everything?
+
+                        ### 🔍 BIG PICTURE: The Neurologic Exam Framework
+
+                        The **Neurologic Exam** is not a checklist — it’s a **hierarchical, hypothesis-driven process**.
+
+                        We follow this order:
+
+                        1. **Mental Status** → Can the patient participate?
+                        2. **Cranial Nerves** → Especially II, III, IV, VI, VIII (vision, eye movement, hearing/balance)
+                        3. **Sensory** → Proprioception, light touch (dorsal column integrity)
+                        4. **Motor** → Strength, tone, coordination
+                        5. **Balance & Coordination** → Static, dynamic, walking
+                        6. **Functional Skills** → Sit-to-stand, gait, transfers
+
+                        > ✅ Why this order?  
+                        > Because higher systems **enable** lower ones.  
+                        > - If a patient is confused (mental status), balance testing is invalid.  
+                        > - If they have gaze palsy (CN III/VI), VOR testing won’t work.
+
+                        So we don’t test balance before checking if the patient can follow commands.
+
+                        ---
+
+                        ### ✅ PRIORITIZED EXAM COMPONENTS — AND WHY
+
+                        Let’s go step by step.
+
+                        ---
+
+                        #### 2.a. **History, Observation, and Review of Systems (ROS)**
+
+                        We already did the history.
+
+                        Now, **observation**:
+                        - Watch how she walks in: wide base? Using walls? Avoiding head turns?
+                        - Does she look anxious? Nauseated?
+                        - *Why?* Natural behavior reveals **compensatory strategies** and **fear of movement**.
+
+                        **ROS Screening**:
+                        - **Cardiovascular:** Orthostatic BP? (dizziness on standing)  
+                          - *Why?* Could mimic vestibular disorder  
+                          - *Why not skip?* If BP drops 20 mmHg on standing, it’s not BPPV — it’s orthostasis
+                        - **Neuromuscular:** Any tremor, rigidity, ataxia?  
+                          - *Why?* Could suggest Parkinson’s or cerebellar disease  
+                          - *Why not skip?* Ataxia + vertigo = possible stroke
+
+                        > 🔁 You were marked down for not identifying **motor or vestibular components** — so we are now **explicitly linking** each test to its system.
+
+                        ---
+
+                        #### 2.b. **Sensory Exam**
+
+                        We focus on **proprioception and light touch**, because:
+
+                        - **Proprioception** comes from the **dorsal column-medial lemniscus pathway** → critical for balance
+                        - In **BPPV**, proprioception is **intact** — so if it’s impaired, we must consider **sensory ataxia**
+
+                        | Test | Why We Do It | Why We Don’t Do Others |
+                        |------|---------------|------------------------|
+                        | **Light Touch (LT)** | Screen for peripheral neuropathy (e.g., diabetic) | We don’t do vibration or stereognosis unless red flags — too time-consuming |
+                        | **Proprioception (Joint Position Sense)** | Test big toe up/down — assesses dorsal column | We don’t test fingers — lower limbs matter more for balance |
+
+                        > 🔄 Compare:  
+                        > - In **BPPV**, proprioception is **normal** — patient relies on vision and vestibular input  
+                        > - In **bilateral vestibulopathy**, patient becomes **dependent on proprioception**  
+                        > - In **tabes dorsalis (neurosyphilis)**, proprioception is **absent** → sensory ataxia
+
+                        So we do this to **rule out alternative causes of imbalance**.
+
+                        ---
+
+                        #### 3.c. **Balance Exam**
+
+                        This is **core** to vestibular rehab.
+
+                        But we don’t just say “balance” — we break it down:
+
+                        | Type | What It Assesses | Why We Do It | Why Not Skip |
+                        |------|------------------|-------------|-------------|
+                        | **Static Standing Balance** | Sensory orientation (vision, proprioception, vestibular) | Use **Romberg, Sharpened Romberg** | If impaired, we don’t progress to dynamic tasks |
+                        | **Dynamic Standing Balance** | Self-generated postural control | Use **Tandem Walk, Step Test** | Shows ability to adapt to movement |
+                        | **Walking Balance** | Integration of systems during locomotion | Use **Functional Gait Assessment (FGA)** | More sensitive than 10MWT for vestibular patients |
+
+                        > 🔄 Compare:  
+                        > - In **BPPV**, balance is **cautious but intact** when still  
+                        > - In **cerebellar ataxia**, it’s **wide-based, irregular, with truncal sway**
+
+                        We use **standardized tools** (FGA, Berg) because they’re **reliable, valid, and track change**.
+
+                        ---
+
+                        #### 4.d. **Mental Status Exam**
+
+                        Quick screen:
+                        - **Alertness**: Is she awake? Oriented?
+                        - **Attention**: Can she follow 2-step commands?
+                        - *Why?* If not alert, we **cannot proceed** with vestibular rehab — may need referral.
+
+                        We don’t do full MoCA unless cognitive concerns — too long for screening.
+
+                        ---
+
+                        #### 5.e. **Motor Exam**
+
+                        Key elements:
+
+                        | Element | Why We Do It | Why Not Skip |
+                        |--------|---------------|-------------|
+                        | **Muscle Mass** | Look for atrophy (e.g., from inactivity) | If weak, may need strengthening before VOR |
+                        | **ROM (Cervical)** | Limited rotation → cervicogenic dizziness | If stiff, may need manual therapy |
+                        | **Tone** | Spasticity → UMN. Rigidity → Parkinson’s | Abnormal tone changes diagnosis |
+                        | **Strength (MMT)** | Leg and neck strength → affects balance | Weakness = fall risk |
+                        | **Involuntary Movements** | Tremor, nystagmus | Nystagmus at rest → central lesion |
+
+                        > 🔁 You were marked down for not identifying **motor component** — so we are now **explicitly including it** and explaining **why**.
+
+                        ---
+
+                        #### 6.f. **Functional Skills Exam and Movement Analysis**
+
+                        Observe:
+                        - **Sit-to-Stand**: Uses arms? Slow initiation?  
+                        - **Transfers**: Needs help?  
+                        - **Walking**: Head stiff? Wide base?  
+                        - **Stairs**: Can she do them?
+
+                        Use **Movement Analysis Worksheet** to note:
+                        - Head-trunk dissociation
+                        - Step length asymmetry
+                        - Trunk stiffness
+
+                        > Why? Because **functional movement reveals compensation patterns**.
+
+                        ---
+
+                        #### 7.g. **Cranial Nerve Integrity Exam**
+
+                        Prioritize:
+                        - **CN II (Optic)**: Visual acuity, visual fields  
+                        - **CN III, IV, VI**: Extraocular movements (H-test), saccades, smooth pursuit  
+                        - **CN VIII (Vestibulocochlear)**: Hearing (whisper test), VOR (HIT), nystagmus
+
+                        > Why? Because **eye movements and vestibular function are linked** via the **vestibulo-ocular reflex (VOR)**.
+
+                        We don’t test CN V or VII unless facial symptoms — not relevant here.
+
+                        ---
+
+                        #### 8.h. **Coordination Exam**
+
+                        | Test | Why We Do It | Why Not Skip |
+                        |------|---------------|-------------|
+                        | **Finger-to-Nose (FTN)** | Check for dysmetria → cerebellar lesion | If abnormal, suggests central vertigo |
+                        | **Heel-to-Shin (HTS)** | Same | Differentiates central from peripheral |
+                        | **Rapid Alternating Movements (RAM)** | Dysdiadochokinesia → cerebellar | If impaired, we refer |
+
+                        > 🔄 Compare:  
+                        > - In **BPPV**, coordination is **normal**  
+                        > - In **stroke or MS**, it’s **impaired**
+
+                        So we do this to **rule out central pathology**.
+
+                        ---
+
+                        ## 3º. DEMONSTRATE AN ASSESSMENT TO RULE OUT BPPV
+
+                        Now, we **test for BPPV** — but why this test and not another?
+
+                        ### 🔍 BIG PICTURE: The Vestibular System
+
+                        The **inner ear** has:
+                        - **Semicircular canals** → detect **rotational head movement**
+                        - **Utricle & Saccule** → detect **linear acceleration and gravity**
+
+                        In **BPPV**, otoconia (crystals) break off and enter a canal — most commonly the **posterior canal**.
+
+                        When the head moves, they move → false signal → vertigo + nystagmus.
+
+                        So we **reproduce the trigger** with **Dix-Hallpike**.
+
+                        ---
+
+                        ### ✅ Dix-Hallpike Maneuver
+
+                        | Step | Why We Do It | Why Not Do It Differently |
+                        |------|---------------|--------------------------|
+                        | 1. Sit → lay back fast, head 20° below table, turned 45° | Aligns posterior canal with gravity | If head not below table, canal not vertical — test fails |
+                        | 2. Feet on ground or supported | Safety! You were marked down for this | Without support, patient may fall during vertigo |
+                        | 3. Observe for 30 sec | Latency and duration matter | Stopping early misses crescendo-decrescendo pattern |
+                        | 4. Look for torsional upbeating nystagmus toward lower ear | Classic for posterior canal BPPV | Horizontal = horizontal canal; downbeating = central |
+
+                        > 🔄 Compare:  
+                        > - **BPPV**: Latency, fatigues, torsional-upbeating  
+                        > - **Central positional nystagmus**: No latency, persists, downbeating
+
+                        So we do Dix-Hallpike because it’s **specific for posterior canal BPPV** — and we don’t use Supine Roll Test first because that’s for **horizontal canal**.
+
+                        ---
+
+                        ## 4º. DEMONSTRATE AN ASSESSMENT: VOMS
+
+                        Now, broader screening: **Vestibular/Ocular Motor Screening (VOMS)**
+
+                        | Test | Why We Do It | Why Not Skip |
+                        |------|---------------|-------------|
+                        | **Smooth Pursuits** | Saccadic tracking → cerebellar/brainstem | If abnormal, suggests central lesion |
+                        | **Saccades** | Overshoot/undershoot → frontal lobe | Helps differentiate BPPV from stroke |
+                        | **Convergence** | Double vision <5 cm → CN III or midbrain | If impaired, may need referral |
+                        | **VOR (HIT)** | Catch-up saccade → vestibular hypofunction | In BPPV, VOR is **normal** — so if abnormal, it’s not BPPV |
+                        | **Positional Testing** | Already done (Dix-Hallpike) | Confirms diagnosis |
+
+                        > Why not do all 10 cranial nerves? Because only **II, III, IV, VI, VIII** are relevant to dizziness.
+
+                        ---
+
+                        We’ll continue with **treatment, progression, education**, and then do a **full role-play**.
+
+                        Would you like to continue now?
