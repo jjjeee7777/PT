@@ -1,0 +1,2064 @@
+//////////////////////////////////////////////////////////////////////////////
+           //////////////////////////////////////////////////////////////////////////////
+           9.1. Background Readings and Materials
+           //////////////////////////////////////////////////////////////////////////////
+           ////////////////////////////////////////////////////////////////////////////// [☠.↓Ex].Repas.NM.Examin.WorkbookExtended
+
+               Vestibular Lab Workbook
+                  .('35 Vestibular_Lab_Workbook_trimmed1.pdf')
+                     (See also: '8.7. Use the Data Assignment' Vignette at Q&A doc)
+                     (See: 'Q&A::.Vestibular Lab Skills Descriptions' for mnemonics)
+                     (See: 'Q&A::.Heavy Duty Explantion for each element' for explanatory section 1 to 13)
+                     ------------------------------------------------------------------------------
+
+                     .Mini Menú (!!E).BasicsTests
+                        ✗ → No va pe a examen
+                        ------------------------------------------------------------------------------
+                        ΓTests Γ(TESTS)
+                           Ia.Oculomotor Examination
+                              .V1.Nine Quadrant Test
+                              .V2.Gaze Holding Nystagmus
+                              .V3.Smooth Pursuit
+                              .V4.Horizontal and Vertical Saccades
+                              .V5.Convergence
+                              .V6.Cover and Uncover Test
+                              .V7.Cross-Cover Test
+                           Ib.Vestibular ocular reflex (VOR) testing
+                              .V8.Head Impulse Test (Horizontal Canal)
+                              .V9.HINTS Exam (V8.=HI=Head Impulse, V3.=N=Nystagmus, & V6.=TS=Test Skew)
+                              .V10.Head Shake Test (Head Shaking Nystagmus)
+                              .V11.Dynamic Visual Acuity Test
+                              ✗.V12.Vibration Induced Nystagmus
+                              ✗.V13.Rinne test Γ(V13. & V14. go togerther)
+                              ✗.V14.Weber test Γ(V13. & V14. go togerther)
+
+                        II.Clinical Treatment Γ(INTERVENTIONS)
+                           .CT1.VOR x1 (x1 viewing)
+                           .CT2.VOR Cancellation (Visual Motion Sensitivity)
+                           .CT3.VOR Plus Vergence
+                           .CT4.Head Impulse Exercise
+                           .CT5.Eye Head Saccade Exercises
+                           .CT6.Imaginary Targets (Remembered Targets)
+                           .CT7.Brock String
+
+                        III.Posterior Canal BPPV Positional Tests Γ(TESTS)
+                           .BPPV.1.Dix-Hallpike ('Dix-Hallpike test.mp4') ('Dix-Hallpike test.mp4')
+                              .BPPV.2.Loaded Dix-Hallpike
+                              .BPPV.3.Modified Dix-Hallpike Test With Head Over Pillow
+                              .BPPV.4.Sidelying Test
+
+                        IV.Posterior Canal Canalith Repositioning Maneuvers Γ(INTERVENTIONS)
+                           .PCCRM.1.Modified Epley ('Modified Epley Maneuver.mp4')
+                           .PCCRM.2.Semont ('Semont & Maneuver.mp4')
+                           .PCCRM.3.Semont Plus
+                           .PCCRM.4.Li Maneuver ('Li Maneuver.mp4')
+
+                        V.Horizontal Canal BPPV Positional Tests Γ(TESTS)
+                           .HC-BPPV-PT.1.(2º)Long Sit to Supine
+                           .HC-BPPV-PT.2.(3º)Roll Test (Pagnini-McClure Roll Test) ('Roll test with sit to supine test.mp4')
+                           .HC-BPPV-PT.3.(1º)Bow and Lean Test ('Bow and Lean test.mp4')
+
+                        VI.Horizontal Canal Canalith Repositioning Maneuvers Γ(INTERVENTIONS)
+                           .Geotropic
+                              .HC-CCRM.1.Barbecue Maneuver for Canalithiasis
+                              .HC-CCRM.2.Gufoni Maneuver for Canalithiasis ('Gufoni Maneuver Geotropic.mp4')
+                              .HC-CCRM.3.Li Quick Maneuver for Canalithiasis ('Li for canalithiasis.mp4')
+                           .Ageotropic
+                              .HC-CCRM.4.Gufoni Maneuver for Cupulolithiasis ('Gufoni Maneuver Apogeotropic.mp4')
+                              .HC-CCRM.5.Kim Maneuver for Cupulolithiasis ('Kim for cupulolithiasis.mp4')
+
+                     .Explicació general
+                        ✗Intent 1 - No clar
+                           .PROMPT: How do you chose one test (or cluster of them) over another to perform in a patient? what is the philosophy behind? What is the difference between them (not what they do but for what purpose). I am trying to develop a logic to know what to apply or not according to the patient presentation. Can you explain this also through practical examples. Explain in in several cycles if you do not have enough with one, but I want a good explanation.
+                              ### Developing a Logical Framework for Choosing Vestibular and Ocular Motor Tests
+
+                              When selecting tests or clusters of tests to perform on a patient, the goal is to efficiently and accurately diagnose the underlying cause of their symptoms. The choice of tests depends on the clinical presentation, history, and specific findings during the initial assessment. Below, I will explain the philosophy behind test selection, differentiate between tests based on their purpose, and provide practical examples through multiple cycles.
+
+                              ---
+
+                              ## Cycle 1: Philosophy Behind Test Selection
+
+                              The philosophy of choosing one test (or cluster) over another revolves around:
+                              1. Symptom Localization: Identifying whether the issue is central (brainstem, cerebellum) or peripheral (vestibular labyrinth, vestibular nerve).
+                              2. Efficiency: Minimizing unnecessary testing while maximizing diagnostic yield.
+                              3. Clinical Utility: Prioritizing tests that are most relevant to the patient’s chief complaint and history.
+                              4. Progression: Starting with general screening tests and moving toward more specific assessments as needed.
+
+                              ---
+
+                              ### Key Questions to Guide Test Selection (!!E).InterviewBasics
+                              - What is the patient’s primary symptom?
+                                - Dizziness, vertigo, imbalance, visual disturbances, or hearing loss?
+                              - Is the symptom acute or chronic?
+                                - Acute presentations may require urgent differentiation between central and peripheral causes.
+                              - Are there associated neurological signs?
+                                - Skew deviation, cranial nerve palsies, or other findings suggest central pathology.
+                              - Does the patient have a history of trauma, infection, or systemic disease?
+                                - This helps guide suspicion toward structural or functional issues.
+
+                              ---
+
+                              ### Example 1: Acute Dizziness
+                              A 60-year-old patient presents with acute dizziness, nausea, and vomiting. They also report mild imbalance but no hearing loss. 
+
+                              #### Step 1: Rule Out Central Causes
+                              - Perform the HINTS Exam (V9), which includes:
+                                - Head Impulse Test (V8): To assess peripheral vestibular function.
+                                - Nystagmus (V2): Look for direction-changing nystagmus.
+                                - Test of Skew (V6): Check for skew deviation.
+                              - Purpose: The HINTS exam is highly sensitive and specific for identifying posterior circulation strokes in patients with acute vestibular syndrome.
+
+                              #### Step 2: Confirm Peripheral Vestibular Dysfunction
+                              - If the HINTS exam suggests a peripheral cause:
+                                - Perform Dix-Hallpike Test (BPPV.1) or Roll Test (HC-BPPV-PT.2) to assess for BPPV.
+                              - Purpose: These positional tests confirm the presence of canalithiasis or cupulolithiasis.
+
+                              ---
+
+                              ## Cycle 2: Differentiating Between Tests Based on Purpose
+
+                              Tests can be grouped by their purpose rather than their mechanics:
+
+                              ### 1. Screening Tests for General Function
+                              - Nine Quadrant Test (V1): Assesses ocular alignment and range of motion.
+                              - Gaze Holding Nystagmus (V2): Detects gaze-evoked nystagmus, indicating central dysfunction.
+                              - Smooth Pursuit (V3): Evaluates smooth tracking of moving objects; abnormalities suggest cerebellar involvement.
+
+                              #### Practical Example: Chronic Imbalance
+                              A 75-year-old patient reports chronic imbalance and occasional dizziness when walking. No acute onset or vertigo.
+
+                              - Start with Nine Quadrant Test (V1) to rule out gross ocular misalignment.
+                              - Follow with Smooth Pursuit (V3) and Saccades (V4) to assess cerebellar function.
+                              - Purpose: These tests screen for subtle deficits in ocular motor control that could contribute to imbalance.
+
+                              ---
+
+                              ### 2. Diagnostic Tests for Specific Conditions
+                              - Cover/Uncover Test (V6) and Cross-Cover Test (V7): Identify tropias (manifest) and phorias (latent) misalignments.
+                              - Dynamic Visual Acuity Test (V11): Assesses vestibulo-ocular reflex (VOR) integrity during head movements.
+                              - Head Shake Test (V10): Provokes nystagmus in patients with unilateral vestibular hypofunction.
+
+                              #### Practical Example: Head Trauma
+                              A 40-year-old patient had a recent head injury and now complains of dizziness and blurred vision during head movements.
+
+                              - Use Dynamic Visual Acuity Test (V11) to evaluate VOR function.
+                              - Perform Head Shake Test (V10) to provoke latent nystagmus.
+                              - Purpose: These tests identify vestibular dysfunction caused by trauma.
+
+                              ---
+
+                              ### 3. Positional Tests for BPPV
+                              - Dix-Hallpike (BPPV.1): Diagnoses posterior canal BPPV.
+                              - Roll Test (HC-BPPV-PT.2): Diagnoses horizontal canal BPPV.
+
+                              #### Practical Example: Episodic Vertigo
+                              A 50-year-old patient experiences brief episodes of vertigo triggered by rolling over in bed.
+
+                              - Perform Dix-Hallpike (BPPV.1) if symptoms occur with vertical head movements.
+                              - If negative, perform Roll Test (HC-BPPV-PT.2) to check for horizontal canal involvement.
+                              - Purpose: These tests localize the affected semicircular canal in BPPV.
+
+                              ---
+
+                              ## Cycle 3: Practical Examples Through Multiple Scenarios
+
+                              ### Scenario 1: Concussion
+                              A 25-year-old athlete sustained a concussion two weeks ago and now reports dizziness, headaches, and difficulty focusing during rapid head movements.
+
+                              #### Test Selection:
+                              1. VOMS (CT1–CT7): Assess vestibular and oculomotor function using:
+                                 - Smooth pursuits (V3), saccades (V4), convergence (V5), and VOR exercises (CT1).
+                              2. Dynamic Visual Acuity Test (V11): Evaluate VOR during head movements.
+                              3. Balance Assessment: Use tools like the Berg Balance Scale or Functional Gait Assessment.
+
+                              #### Rationale:
+                              - Post-concussion symptoms often involve vestibular and oculomotor dysfunction.
+                              - These tests help quantify impairments and guide rehabilitation.
+
+                              ---
+
+                              ### Scenario 2: Progressive Neurological Symptoms
+                              A 65-year-old patient with a history of diabetes reports gradual onset of imbalance, double vision, and dizziness.
+
+                              #### Test Selection:
+                              1. HINTS Exam (V9): Rule out central causes like stroke or brainstem lesions.
+                              2. Cover/Uncover Test (V6) and Cross-Cover Test (V7): Check for ocular misalignment.
+                              3. Vibration-Induced Nystagmus (V12): Assess central vestibular pathways.
+
+                              #### Rationale:
+                              - Diabetes increases the risk of peripheral neuropathy and central nervous system complications.
+                              - These tests differentiate between peripheral and central causes.
+
+                              ---
+
+                              ### Scenario 3: Hearing Loss
+                              A 55-year-old patient reports hearing loss, tinnitus, and episodic vertigo lasting hours.
+
+                              #### Test Selection:
+                              1. Rinne and Weber Tests (V13 & V14): Assess conductive vs. sensorineural hearing loss.
+                              2. Head Impulse Test (V8): Evaluate peripheral vestibular function.
+                              3. Positional Testing (BPPV.1, HC-BPPV-PT.2): Rule out BPPV.
+
+                              #### Rationale:
+                              - Ménière’s disease or labyrinthitis may present with these symptoms.
+                              - Audiometric and vestibular tests help confirm the diagnosis.
+
+                              ---
+
+                              ## Cycle 4: Summary of Logic and Decision-Making
+
+                              ### Logic Flowchart
+                              1. Acute vs. Chronic Presentation:
+                                 - Acute: Prioritize HINTS Exam (V9) and positional tests (BPPV.1, HC-BPPV-PT.2).
+                                 - Chronic: Screen with Nine Quadrant Test (V1), Smooth Pursuit (V3), and Saccades (V4).
+
+                              2. Central vs. Peripheral Localization:
+                                 - Central: Focus on HINTS Exam (V9), Vibration-Induced Nystagmus (V12), and Cover Tests (V6, V7).
+                                 - Peripheral: Use Dix-Hallpike (BPPV.1), Roll Test (HC-BPPV-PT.2), and Head Impulse Test (V8).
+
+                              3. Specific Complaints:
+                                 - Dizziness: Dynamic Visual Acuity Test (V11), VOMS (CT1–CT7).
+                                 - Hearing Loss: Rinne and Weber Tests (V13, V14).
+
+                              ---
+
+                              ### Final Answer
+                              To choose the appropriate test(s):
+                              1. Understand the purpose of each test—whether it screens, diagnoses, or localizes pathology.
+                              2. Match the test to the patient’s presentation based on symptoms, history, and clinical findings.
+                              3. Progress logically from general to specific assessments, prioritizing efficiency and relevance.
+
+                              By applying this framework, you can systematically select the most appropriate tests for any given patient scenario.
+
+                        ✓Intent 2.1 (!!E).Basics
+                           PROMPT: There are I.ΓTests (from V1 to V14), II.Clinical Treatment, III.Posterior Canal BPPV Positional Tests, IV.Posterior Canal Canalith Repositioning Maneuvers, V.Horizontal Canal BPPV Positional Tests, and VI.Horizontal Canal Canalith Repositioning Maneuvers. Briefly, what is the difference between these groups?
+                              ✗Ignorora este:
+                                 The groups you mentioned are distinct categories related to the diagnosis and treatment of Benign Paroxysmal Positional Vertigo (BPPV) and other vestibular disorders. Below is a brief explanation of the differences between these groups:
+
+                                 ---
+
+                                 ### I. ΓTests (from V1 to V14)
+                                 - Purpose: These are diagnostic tests used to assess various aspects of vestibular function, including balance, gaze stability, and positional vertigo.
+                                 - Examples: 
+                                   - Head Impulse Test (HIT): Evaluates the vestibulo-ocular reflex (VOR).
+                                   - Dynamic Visual Acuity Test (DVA): Assesses gaze stability during head movements.
+                                   - Vibration Induced Nystagmus: Detects asymmetries in vestibular function.
+                                 - Focus: These tests are not specific to BPPV but are used to evaluate broader vestibular system dysfunction.
+
+                                 ---
+
+                                 ### II. Clinical Treatment
+                                 - Purpose: This group encompasses general treatment strategies for vestibular disorders, including BPPV.
+                                 - Examples:
+                                   - Canalith Repositioning Maneuvers: Specific treatments for BPPV.
+                                   - Vestibular Rehabilitation: Exercises to improve balance and reduce dizziness.
+                                   - Patient Education: Teaching patients about their condition and post-treatment care.
+                                 - Focus: Broad therapeutic approaches that may apply to various vestibular conditions, not limited to BPPV.
+
+                                 ---
+
+                                 ### III. Posterior Canal BPPV Positional Tests
+                                 - Purpose: These are specific diagnostic tests used to identify posterior canal BPPV, which is the most common type of BPPV.
+                                 - Examples:
+                                   - Dix-Hallpike Test: The gold standard for diagnosing posterior canal BPPV.
+                                   - Sidelying Test: An alternative to the Dix-Hallpike for detecting posterior canal involvement.
+                                 - Focus: Identifying torsional or upbeating nystagmus characteristic of posterior canal BPPV.
+
+                                 ---
+
+                                 ### IV. Posterior Canal Canalith Repositioning Maneuvers
+                                 - Purpose: These are specific treatments designed to resolve posterior canal BPPV by relocating displaced otoconia back into the utricle.
+                                 - Examples:
+                                   - Modified Epley Maneuver: A step-by-step repositioning technique.
+                                   - Semont Maneuver: A liberatory maneuver involving rapid side-to-side movements.
+                                   - Li Maneuver: A simplified version of the Epley.
+                                 - Focus: Treating posterior canal BPPV by physically moving otoconia out of the affected canal.
+
+                                 ---
+
+                                 ### V. Horizontal Canal BPPV Positional Tests
+                                 - Purpose: These are diagnostic tests used to identify horizontal canal BPPV, which is less common than posterior canal BPPV.
+                                 - Examples:
+                                   - Roll Test (Pagnini-McClure Roll Test): Detects horizontal nystagmus when the head is turned side-to-side.
+                                   - Sit-to-Supine Test: Assesses nystagmus when moving from a sitting to supine position.
+                                   - Bow and Lean Test: Helps differentiate geotropic vs. apogeotropic nystagmus.
+                                 - Focus: Identifying horizontal nystagmus patterns to diagnose horizontal canal BPPV.
+
+                                 ---
+
+                                 ### VI. Horizontal Canal Canalith Repositioning Maneuvers
+                                 - Purpose: These are specific treatments designed to resolve horizontal canal BPPV by relocating displaced otoconia.
+                                 - Examples:
+                                   - Gufoni Maneuver: Used for both geotropic and apogeotropic horizontal canal BPPV.
+                                   - Barbecue (Lempert) Roll Maneuver: A rotational technique for geotropic horizontal canal BPPV.
+                                   - Kim Maneuver: Specifically for apogeotropic horizontal canal BPPV.
+                                 - Focus: Treating horizontal canal BPPV by physically moving otoconia out of the affected canal.
+
+                                 ---
+
+                                 ### Summary of Differences
+                                 | Group                                   | Purpose                                                                                      | Focus                                                                 |
+                                 |---------------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+                                 | I. ΓTests (V1 to V14)                   | Diagnostic tests for general vestibular function.                                                | Assessing balance, gaze stability, and nystagmus; not specific to BPPV.   |
+                                 | II. Clinical Treatment                  | General treatment strategies for vestibular disorders.                                           | Broad therapeutic approaches, including BPPV-specific maneuvers.          |
+                                 | III. Posterior Canal BPPV Positional Tests | Diagnostic tests specifically for posterior canal BPPV.                                          | Identifying torsional or upbeating nystagmus.                            |
+                                 | IV. Posterior Canal Canalith Repositioning Maneuvers | Treatments specifically for posterior canal BPPV.                                               | Relocating otoconia in the posterior canal.                              |
+                                 | V. Horizontal Canal BPPV Positional Tests | Diagnostic tests specifically for horizontal canal BPPV.                                         | Identifying horizontal nystagmus patterns (geotropic/apogeotropic).      |
+                                 | VI. Horizontal Canal Canalith Repositioning Maneuvers | Treatments specifically for horizontal canal BPPV.                                              | Relocating otoconia in the horizontal canal.                             |
+
+                                 ---
+
+                                 ### Final Answer
+                                 Each group serves a distinct purpose in the assessment and management of vestibular disorders:
+                                 - ΓTests focus on general vestibular function.
+                                 - Clinical Treatment includes broad therapeutic strategies.
+                                 - Posterior Canal BPPV Positional Tests diagnose posterior canal involvement.
+                                 - Posterior Canal Canalith Repositioning Maneuvers treat posterior canal BPPV.
+                                 - Horizontal Canal BPPV Positional Tests diagnose horizontal canal involvement.
+                                 - Horizontal Canal Canalith Repositioning Maneuvers treat horizontal canal BPPV. 
+
+                                 These groups collectively provide a structured approach to diagnosing and treating BPPV and other vestibular conditions.
+                              
+                              ✓I am not interested on lists or describing each element inside the list. I want a good explanation of the philosophy of these group to have a general global understanding of their existence and application
+                                 The philosophy behind the organization and application of these groups lies in creating a structured, evidence-based framework for diagnosing, treating, and managing vestibular and neurologic conditions, particularly focusing on balance and movement disorders such as Benign Paroxysmal Positional Vertigo (BPPV). Each group serves a unique role in the continuum of care, from initial assessment to targeted intervention, and reflects a holistic approach to understanding human movement and function. Below is an explanation of the overarching philosophy and purpose of these groups:
+
+                                 ---
+
+                                 ### 1. ΓTests (V1–V14): The Foundation of Assessment
+                                 - Philosophy: These tests are rooted in the idea that objective measurement and standardized evaluation are critical for identifying impairments in the vestibular system. They provide a foundation for understanding how sensory inputs (e.g., visual, vestibular, somatosensory) interact to maintain balance and orientation.
+                                 - Application: By assessing specific components of vestibular function (e.g., gaze stability, dynamic visual acuity, nystagmus), these tests help clinicians pinpoint system-specific deficits. This is essential for formulating hypotheses about underlying pathologies and guiding further diagnostic or therapeutic steps.
+
+                                 ---
+
+                                 ### 2. Clinical Treatment: A Patient-Centered Approach
+                                 - Philosophy: Clinical treatment emphasizes individualized care and the integration of patient preferences into decision-making. It acknowledges that while evidence-based practices provide a strong foundation, each patient’s unique context—physical, cognitive, emotional, and environmental—must shape their treatment plan.
+                                 - Application: This group underscores the importance of adaptability in therapy. Techniques like vestibular rehabilitation, mental practice, and guided discovery are tools to empower patients to regain independence and confidence. The philosophy here is that engagement and self-correction are key drivers of recovery.
+
+                                 ---
+
+                                 ### 3. Posterior Canal BPPV Positional Tests & 5. Horizontal Canal BPPV Positional Tests: Precision in Diagnosis
+                                 - Philosophy: These positional tests are grounded in the principle that specificity matters when diagnosing BPPV. Identifying the affected canal (posterior vs. horizontal) and the type of otoconial displacement (canalithiasis vs. cupulolithiasis) ensures that interventions are targeted and efficient.
+                                 - Application: By eliciting characteristic nystagmus patterns, these tests allow clinicians to localize the source of vertigo with precision. This specificity is crucial because different types of BPPV require distinct treatments, and misdiagnosis can lead to ineffective or even harmful interventions.
+
+                                 ---
+
+                                 ### 4. Posterior Canal Canalith Repositioning Maneuvers & 6. Horizontal Canal Canalith Repositioning Maneuvers: Restoring Balance Through Action
+                                 - Philosophy: The philosophy here is that active intervention can directly address the mechanical nature of BPPV. By physically relocating displaced otoconia, these maneuvers aim to restore normal vestibular function and alleviate symptoms.
+                                 - Application: These maneuvers exemplify the principle of cause-and-effect in clinical practice. They are designed to be simple yet highly effective, emphasizing the importance of correct technique and patient education to ensure compliance and success.
+
+                                 ---
+
+                                 ### Integration of Evidence-Based Practice and Clinical Reasoning
+                                 - Philosophy: Underlying all these groups is a commitment to evidence-based practice and clinical reasoning. The frameworks provided by organizations like the International Classification of Functioning, Disability, and Health (ICF) and the Academy of Neurologic Physical Therapy (ANPT) emphasize the interplay between body structures, activities, participation, and environmental factors.
+                                 - Application: This integrative approach ensures that assessments and treatments are not performed in isolation but are part of a broader understanding of the patient’s lived experience. For example, a patient with BPPV may also have comorbidities like anxiety or mobility impairments, which must be considered when designing a care plan.
+
+                                 ---
+
+                                 ### Promoting Generalization and Long-Term Outcomes
+                                 - Philosophy: Beyond addressing immediate symptoms, these groups aim to promote generalization—the ability to apply learned skills in varied contexts—and long-term outcomes. This involves challenging patients through task variations, environmental modifications, and progressive difficulty.
+                                 - Application: Techniques like task-specific guided discovery, mental practice, and distributed practice encourage patients to internalize new movement patterns and adapt them to real-world scenarios. This fosters resilience and reduces the likelihood of recurrence.
+
+                                 ---
+
+                                 ### A Holistic View of Human Movement
+                                 - Philosophy: At its core, this framework reflects a biopsychosocial model of health, where physical impairments are viewed in the context of psychological and social factors. For instance, motivation, self-efficacy, and attention play critical roles in motor learning and recovery.
+                                 - Application: Clinicians are encouraged to adopt strategies that enhance patient engagement and self-efficacy, such as providing clear instructions, offering opportunities for reflection, and celebrating small successes. This creates a collaborative environment where patients feel empowered to take ownership of their recovery.
+
+                                 ---
+
+                                 ### Final Answer
+                                 The philosophy behind these groups is to create a comprehensive, patient-centered framework for diagnosing and treating vestibular and neurologic conditions. Each group serves a distinct yet interconnected role: ΓTests establish a baseline of function, Clinical Treatment tailors interventions to individual needs, Positional Tests identify specific pathologies, and Canalith Repositioning Maneuvers provide targeted solutions. Together, they reflect a commitment to precision, evidence-based practice, and holistic care, ensuring that patients receive effective, individualized treatment that addresses both immediate symptoms and long-term outcomes.  
+
+                        ✓Intent 2.2 (!!E).Basics
+                           PROMPT: Among I.ΓTests (from V1 to V14), III.Posterior Canal BPPV Positional Tests, and V.Horizontal Canal BPPV Positional Tests. How do you choose based on patient presentation? And I can see the differences looking at the names. What I want to know is if a patient comes to the clinic and I know nothing but what he/she tells me, what group should I use. I am trying to figure out this from the beginning. Can you put also examples?
+                              When a patient comes to the clinic with dizziness or balance-related symptoms, your initial choice of assessment tools depends on the patient's presentation—their history, symptoms, and reported triggers. The goal is to systematically narrow down the possible causes of their symptoms and determine the most appropriate group of tests to use. Below is a structured explanation of how to choose between I. ΓTests, III. Posterior Canal BPPV Positional Tests, and V. Horizontal Canal BPPV Positional Tests, along with examples.
+
+                              ---
+
+                              ### 1. Start with I. ΓTests (V1–V14): General Vestibular Assessment
+                              - When to Use:
+                                - If the patient presents with non-specific dizziness, imbalance, or vertigo, but you have no clear indication of the underlying cause.
+                                    ¦La torre gemela es maretja (es menetja en el cap [mental] que va a caure's), es tambaletja físicament (va a caure de deveres) i es molt alta (que vertigen) 
+                                - These tests are designed to evaluate
+                                    general vestibular function
+                                       and identify abnormalities in
+                                          gaze stability,
+                                          head movement control, and
+                                          positional responses.
+                                - They help differentiate between peripheral vestibular disorders (e.g., BPPV, vestibular neuritis) and central vestibular disorders (e.g., stroke, multiple sclerosis).
+
+                              - Why Choose This Group First?
+                                - Before jumping into specific positional tests for BPPV, it’s important to rule out other potential causes of dizziness, such as central nervous system involvement or generalized vestibular dysfunction. Γ(For Red Flags first & before more specific tests like the other groups; trugh group I)
+                                - These tests provide a baseline assessment of the vestibular system and guide further testing.
+
+                              - Examples:
+                                - Dynamic Visual Acuity Test (DVA): Assess whether the patient experiences blurred vision during head movements.
+                                - Head Impulse Test (HIT): Evaluate the integrity of the vestibulo-ocular reflex (VOR).
+                                - Vibration Induced Nystagmus: Detect asymmetries in vestibular function that may suggest unilateral hypofunction or central pathology.
+
+                              - Patient Example:
+                                - A 65-year-old woman reports feeling "off balance" and occasionally dizzy when turning her head quickly. She denies positional vertigo but mentions difficulty reading street signs while walking. In this case, you would start with ΓTests to assess general vestibular function before moving to more specific tests.
+
+                              ---
+
+                              ### 2. Transition to III. Posterior Canal BPPV Positional Tests
+                              - When to Use:
+                                - If the patient describes episodic vertigo triggered by changes in head position relative to gravity (e.g., rolling over in bed, bending forward, or looking up), posterior canal BPPV is highly suspected.
+                                - Posterior canal BPPV accounts for 80–90% of all BPPV cases, making these tests the logical next step if positional vertigo is reported.
+
+                              - Why Choose This Group?
+                                - The posterior canal is the most commonly affected semicircular canal in BPPV due to its anatomical orientation.
+                                - These tests are specifically designed to elicit torsional-upbeating nystagmus, which is characteristic of posterior canal involvement.
+
+                              - Examples:
+                                - Dix-Hallpike Test: The gold standard for diagnosing posterior canal BPPV. It involves positioning the patient’s head 45° to one side and lowering them into a supine position with the head extended slightly over the edge of the table.
+                                - Sidelying Test: An alternative to the Dix-Hallpike for patients who cannot tolerate neck extension (e.g., those with cervical spine issues).
+
+                              - Patient Example:
+                                - A 45-year-old man complains of brief episodes of intense spinning vertigo when lying down in bed or rolling over at night. He denies hearing loss or tinnitus. Based on his description of positional triggers, you would proceed directly to posterior canal positional tests, starting with the Dix-Hallpike test.
+
+                              ---
+
+                              ### 3. Move to V. Horizontal Canal BPPV Positional Tests
+                              - When to Use:
+                                - If the patient describes positional vertigo without torsional nystagmus or if posterior canal testing yields negative results despite a strong history of positional vertigo.
+                                - Horizontal canal BPPV accounts for 8–17% of BPPV cases and often presents differently from posterior canal BPPV. Symptoms are typically provoked by lying flat or rolling side-to-side in bed.
+
+                              - Why Choose This Group?
+                                - Horizontal canal BPPV has distinct clinical features, including horizontal nystagmus (rather than torsional) that beats toward the affected ear (geotropic) or away from the affected ear (apogeotropic).
+                                - These tests are essential for diagnosing less common forms of BPPV that may be missed with posterior canal-focused testing.
+
+                              - Examples:
+                                - Supine Roll Test (Pagnini-McClure Roll Test): The patient lies supine, and the head is quickly turned 90° to each side. Horizontal nystagmus is observed for direction and intensity.
+                                - Bow and Lean Test: Helps differentiate geotropic vs. apogeotropic nystagmus by observing responses in flexion (bow) and extension (lean).
+
+                              - Patient Example:
+                                - A 50-year-old woman reports feeling dizzy when lying flat on her back or rolling side-to-side in bed. She denies symptoms when bending forward or looking up. Her Dix-Hallpike test was negative. Based on her positional triggers, you would perform horizontal canal positional tests, starting with the Supine Roll Test.
+
+                              ---
+
+                              ### How to Choose Between Groups Based on Patient Presentation
+
+                              | Patient Presentation                                   | Initial Group to Use         | Reasoning                                                                                     |
+                              |------------------------------------------------------------|----------------------------------|---------------------------------------------------------------------------------------------------|
+                              | Non-specific dizziness, imbalance, or visual disturbances   | I. ΓTests                   | Rule out central vestibular dysfunction or generalized vestibular hypofunction.                  |
+                              | Episodic vertigo triggered by head movements (e.g., rolling over, bending) | III. Posterior Canal BPPV Tests | Posterior canal BPPV is the most common form; positional triggers suggest posterior canal involvement. |
+                              | Positional vertigo without torsional nystagmus             | V. Horizontal Canal BPPV Tests | Horizontal canal BPPV should be considered if posterior canal tests are negative but symptoms persist. |
+
+                                 (Γ)Briefly, what do you mean by torsional nystagmus?
+                                    Torsional nystagmus refers to a type of involuntary, repetitive eye movement where the eyes rotate around their anterior-posterior axis, causing the top of the eye to move either toward the nose (intorsion) or away from the nose (extorsion). This rotational movement is often described as a "twisting" motion of the eye.
+
+                                    Key points about torsional nystagmus:
+                                    - It is typically associated with dysfunction in the vestibular system, especially involving the semicircular canals, which detect rotational head movements.
+                                    - Torsional nystagmus is commonly seen in conditions like benign paroxysmal positional vertigo (BPPV), particularly when the posterior or anterior semicircular canals are affected.
+                                    - The direction of torsion (clockwise or counterclockwise) is described from the patient’s perspective, not the examiner’s.
+                                    - It may occur alone or in combination with horizontal or vertical components, resulting in mixed nystagmus patterns (e.g., torsional-horizontal or torsional-vertical).
+
+                                    In clinical practice, observing torsional nystagmus helps localize the source of vestibular dysfunction and guide diagnosis and treatment.
+
+                              ---
+
+                              ### Final Answer
+                                 To determine which group of tests to use:
+                                    1. Start with I. ΓTests if the patient presents with non-specific dizziness or imbalance to rule out broader vestibular dysfunction.
+                                    2. Transition to III. Posterior Canal BPPV Positional Tests if the patient describes positional vertigo with triggers like rolling over or bending forward.
+                                    3. Move to V. Horizontal Canal BPPV Positional Tests if posterior canal tests are negative but positional vertigo persists.
+
+                                 By following this systematic approach, you ensure comprehensive evaluation and accurate diagnosis. For example:
+                                    - A patient with vague dizziness → ΓTests.
+                                    - A patient with vertigo when rolling over → Posterior Canal Tests.
+                                    - A patient with vertigo when lying flat → Horizontal Canal Tests.
+
+                        ✓Intent 2.3 (!!E).Basics
+                           PROMPT: Now, help me with I.ΓTests. Explain how to proceed with this group since there are a lot of tests. How do you choose one above another? Do not give me lists but the general idea of these tests.
+                              The I. ΓTests group represents a collection of vestibular and neurological assessments designed to evaluate various aspects of sensory integration, motor control, coordination, and balance. These tests are not specific to one condition but instead provide a broad understanding of how the nervous system, musculoskeletal system, and sensory systems interact to maintain function. The general philosophy behind this group is to identify impairments in body structures and functions that may contribute to activity limitations or participation restrictions.
+
+                              ### How to Choose Among the Tests
+                              When faced with a patient presenting with dizziness, imbalance, or other neurologic symptoms, the choice of which test to use depends on the clinical hypothesis you form based on the patient’s history and initial observations. Here’s the general approach:
+
+                              1. Start Broadly: Rule Out Systemic Issues
+                                 - Begin with tests that assess fundamental functions such as mental status, cranial nerve integrity, or sensory perception. These tests help establish whether the issue is localized to a specific system (e.g., vestibular, musculoskeletal) or if it involves broader neurological dysfunction.
+                                 - For example, if a patient reports dizziness but also has difficulty concentrating or remembering, you might prioritize mental status testing or cranial nerve assessment to rule out central nervous system involvement.
+
+                              2. Narrow Down Based on Symptom Characteristics
+                                 - Use the patient’s description of their symptoms to guide your selection. If they describe dizziness triggered by head movements, focus on tests that assess the vestibulo-ocular reflex (VOR), such as the Head Impulse Test (HIT) or Dynamic Visual Acuity Test (DVA).
+                                 - If the patient reports unsteadiness while walking or during daily activities, prioritize balance testing or coordination assessments like the Finger-to-Nose Test or Gait Analysis.
+
+                              3. Progress from Simple to Complex
+                                 - Start with simpler, less provocative tests to avoid overwhelming or fatiguing the patient. For instance, begin with static balance assessments before progressing to dynamic tasks that challenge stability (e.g., walking while turning the head).
+                                 - This progression helps gauge the patient’s tolerance and provides a clearer picture of their functional limitations without exacerbating symptoms prematurely.
+
+                              4. Target Specific Systems When Indicated
+                                 - Once you’ve identified potential areas of impairment, select tests that target those systems more specifically. For example:
+                                   - If you suspect vestibular dysfunction, use tests like the Vibration Induced Nystagmus Test or Gaze Holding Nystagmus to assess asymmetries in vestibular input.
+                                   - If coordination deficits are suspected, incorporate rapid alternating movement tests such as foot tapping or heel-to-shin testing.
+
+                              5. Use Clinical Judgment to Adapt
+                                 - Not all tests need to be performed for every patient. Instead, rely on your clinical reasoning to determine which tests will yield the most meaningful information. For example:
+                                   - A frail elderly patient with complaints of falling might benefit most from a combination of static and dynamic balance tests rather than exhaustive vestibular assessments.
+                                   - A younger individual with acute vertigo and nausea might require more detailed vestibular testing to differentiate between peripheral and central causes.
+
+                              ---
+
+                              ### General Idea Behind These Tests
+                              The overarching goal of the ΓTests is to bridge the gap between impairment and function. They serve as diagnostic tools that help clinicians:
+                              - Identify underlying impairments: By systematically evaluating sensory, motor, and coordination systems, these tests pinpoint specific deficits contributing to the patient’s symptoms.
+                              - Guide treatment planning: The results inform targeted interventions, such as vestibular rehabilitation, balance training, or cognitive retraining.
+                              - Monitor progress over time: Many of these tests can be repeated at intervals to track improvements or declines in function.
+
+                              Ultimately, the choice of test reflects a hypothesis-driven process. You start with what you know about the patient’s presentation and use the appropriate tests to confirm or refute your suspicions. This ensures that your evaluation is both efficient and comprehensive, minimizing unnecessary testing while maximizing diagnostic accuracy.
+
+                        ✓Intent 2.4 (!!E).Basics
+                           PROMPT: That was a lot and I got a little lost. Let's focus just on the I.ΓTests. You can go on more detail now. SO I have 14 tests. Explain in a practical way how do I choose among those. Should I choose one or several and which ones? Can you make a structured practical approach explanation? Is each test testing something different? Explain through examples.
+                              The I.ΓTests group includes a variety of vestibular and oculomotor assessments designed to evaluate different aspects of the vestibular, visual, and central nervous systems. Each test targets specific functions or impairments, and your choice of which tests to perform depends on the patient’s presentation, symptoms, and suspected underlying issues. Below is a structured, practical approach to selecting and using these tests effectively.
+
+                              ---
+
+                              ### 1. Start with the Patient’s Presentation (!!E).InterviewBasics
+                                 Before choosing any test, gather key information from the patient history and initial observations:
+                                 - Symptoms: Does the patient report dizziness, imbalance, blurred vision, vertigo, or oscillopsia (visual instability)?
+                                 - Triggers: Are symptoms provoked by head movements, changes in position, or visual stimuli?
+                                 - Associated Symptoms: Are there signs of hearing loss, tinnitus, nausea, or cognitive changes?
+                                 - Context: Is the patient post-concussion, elderly with balance issues, or recovering from an acute vestibular event?
+
+                                 This information helps you form a working hypothesis about the underlying cause and guides your selection of tests.
+
+                              ---
+
+                              ### 2. Practical Approach to Choosing Tests
+                                 Here’s a step-by-step guide for how to choose among the 14 tests:
+
+                                 #### Step 1: Rule Out Central vs. Peripheral Causes
+                                    - Why? Dizziness can arise from either peripheral vestibular dysfunction (e.g., BPPV, vestibular neuritis) or central nervous system disorders (e.g., stroke, multiple sclerosis). Identifying the source early is critical.
+                                    - Tests to Use:
+                                      - Head Impulse Test (HIT) (V8): Assesses the vestibulo-ocular reflex (VOR) and identifies unilateral peripheral vestibular hypofunction. A positive HIT suggests peripheral dysfunction.
+                                      - HINTS Exam (V9): Combines HIT, nystagmus observation (from V2), and the Test of Skew (from V6) to differentiate central from peripheral causes. A normal HIT with direction-changing nystagmus or skew deviation strongly suggests a central lesion.
+
+                                      Example: A 50-year-old patient presents with acute vertigo and nausea. You suspect a stroke but want to confirm. Perform the HINTS exam:
+                                      - HIT: Negative (normal VOR → possible central issue).
+                                      - Nystagmus: Direction-changing with gaze → central pathology.
+                                      - Test of Skew: Positive (skew deviation) → confirms central lesion.
+
+                                    ---
+
+                                 #### Step 2: Assess Oculomotor Function
+                                    - Why? Abnormal eye movements can indicate vestibular, cerebellar, or brainstem dysfunction.
+                                    - Tests to Use:
+                                      - Nine Quadrant Test (V1): Evaluates gaze stability in all directions. Look for spontaneous nystagmus or gaze-evoked nystagmus.
+                                      - Smooth Pursuit (V3): Tests the ability to follow a slowly moving target. Jerky or saccadic pursuit suggests cerebellar or brainstem involvement.
+                                      - Horizontal and Vertical Saccades (V4): Assesses rapid eye movements. Hypometric (undershooting) or hypermetric (overshooting) saccades may indicate cerebellar dysfunction.
+                                      - Convergence (V5): Checks near vision alignment. Convergence insufficiency can be seen in concussion or fatigue syndromes.
+
+                                      Example: A 30-year-old patient reports difficulty focusing while reading after a concussion. Perform:
+                                      - Smooth Pursuit (V3): Jerky pursuit → impaired tracking.
+                                      - Convergence (V5): Reduced convergence → convergence insufficiency.
+
+                                    ---
+
+                                 #### Step 3: Evaluate Gaze Stability
+                                    - Why? Gaze instability during head movements is a hallmark of vestibular dysfunction.
+                                    - Tests to Use:
+                                      - Gaze Holding Nystagmus (V2): Assesses whether the eyes remain stable when looking in eccentric positions. Persistent nystagmus suggests vestibular or cerebellar dysfunction.
+                                      - Dynamic Visual Acuity Test (DVA) (V11): Measures visual acuity during head movements. A significant drop in acuity indicates impaired VOR.
+                                      - Head Shake Test (V10): Provokes nystagmus after rapid head shaking. A positive test suggests vestibular asymmetry.
+
+                                      Example: A 60-year-old patient complains of blurred vision while walking. Perform:
+                                      - Gaze Holding Nystagmus (V2): Persistent nystagmus → vestibular dysfunction.
+                                      - DVA (V11): Loss of >2 lines → impaired VOR.
+
+                                    ---
+
+                                 #### Step 4: Screen for Positional Vertigo
+                                    - Why? Positional vertigo is often caused by BPPV, which requires specific positional testing.
+                                    - Tests to Use:
+                                      - Head Shake Test (V10): Can help identify underlying vestibular asymmetry even if positional testing is negative.
+                                      - Vibration Induced Nystagmus (V12): Provokes nystagmus with vibration applied to the mastoid process. Useful for detecting unilateral vestibular hypofunction.
+
+                                      Example: A 45-year-old patient reports brief episodes of vertigo when rolling over in bed. Perform:
+                                      - Head Shake Test (V10): Horizontal nystagmus → unilateral vestibular hypofunction.
+                                      - Vibration Induced Nystagmus (V12): Confirmatory test for vestibular asymmetry.
+
+                                    ---
+
+                                 #### Step 5: Assess Hearing Function
+                                    - Why? Hearing loss or auditory symptoms often accompany vestibular dysfunction, especially in conditions like Ménière’s disease or labyrinthitis.
+                                    - Tests to Use:
+                                      - Rinne Test (V13): Differentiates conductive vs. sensorineural hearing loss.
+                                      - Weber Test (V14): Assesses sound lateralization to identify asymmetries in hearing.
+
+                                      Example: A 70-year-old patient reports dizziness and reduced hearing in one ear. Perform:
+                                      - Weber Test (V14): Sound lateralizes to the affected ear → conductive hearing loss.
+                                      - Rinne Test (V13): BC > AC → confirms conductive hearing loss.
+
+                              ---
+
+                              ### 3. Key Considerations
+                              - Comprehensive vs. Focused Testing:
+                                - In a time-limited setting (e.g., emergency department), prioritize focused tests like HIT, HINTS, and DVA.
+                                - In a rehabilitation or outpatient setting, perform a more comprehensive assessment to guide treatment planning.
+
+                              - Combining Tests:
+                                - Use multiple tests to cross-check findings. For example, combine HIT (V8) with DVA (V11) to confirm vestibular dysfunction.
+                                - Use HINTS (V9) as a cluster to rule out central causes.
+
+                              - When to Refer:
+                                - If central pathology is suspected (e.g., stroke), refer immediately for further imaging or evaluation.
+                                - If hearing loss is detected, refer to an audiologist or otolaryngologist.
+
+                              ---
+
+                              ### 4. Summary Table of Tests and Their Purpose
+
+                              | Test                      | Purpose                                                                                   | When to Use                                                                 |
+                              |-------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+                              | Nine Quadrant Test (V1)   | Assess gaze stability in all directions.                                                      | Suspected nystagmus or gaze instability.                                        |
+                              | Gaze Holding Nystagmus (V2)| Detect nystagmus during eccentric gaze.                                                       | Rule out vestibular or cerebellar dysfunction.                                  |
+                              | Smooth Pursuit (V3)       | Evaluate slow eye tracking.                                                                   | Concussion, cerebellar dysfunction.                                             |
+                              | Saccades (V4)             | Assess rapid eye movements.                                                                  | Cerebellar dysfunction, coordination deficits.                                  |
+                              | Convergence (V5)          | Check near vision alignment.                                                                 | Post-concussion, convergence insufficiency.                                     |
+                              | Cover Tests (V6, V7)      | Identify ocular misalignment or skew deviation.                                               | Central vs. peripheral causes of dizziness.                                     |
+                              | HIT (V8)                  | Assess VOR and identify unilateral vestibular hypofunction.                                   | Peripheral vs. central causes of acute vertigo.                                 |
+                              | HINTS Exam (V9)           | Cluster of tests to differentiate central from peripheral causes.                            | Acute vertigo with suspected stroke.                                           |
+                              | Head Shake Test (V10)     | Provoke nystagmus after head shaking.                                                        | Unilateral vestibular hypofunction.                                             |
+                              | DVA (V11)                 | Measure visual acuity during head movements.                                                  | Vestibular dysfunction affecting gaze stability.                                |
+                              | Vibration Induced Nystagmus (V12) | Detect vestibular asymmetry with vibration.                                           | Unilateral vestibular hypofunction.                                             |
+                              | Rinne & Weber (V13, V14)  | Differentiate conductive vs. sensorineural hearing loss.                                      | Hearing loss or auditory symptoms.                                              |
+
+                              ---
+
+                              ### Final Answer
+                              To choose among the 14 tests, follow a structured, hypothesis-driven approach based on the patient’s presentation:
+                              1. Rule out central vs. peripheral causes using HIT (V8) and HINTS (V9).
+                              2. Assess oculomotor function with Nine Quadrant Test (V1), Smooth Pursuit (V3), and Saccades (V4).
+                              3. Evaluate gaze stability using Gaze Holding Nystagmus (V2), DVA (V11), and Head Shake Test (V10).
+                              4. Screen for positional vertigo with Head Shake Test (V10) and Vibration Induced Nystagmus (V12).
+                              5. Assess hearing function with Rinne (V13) and Weber (V14) tests.
+
+                              Each test evaluates a distinct aspect of vestibular and neurologic function, and combining them provides a comprehensive understanding of the patient’s condition.
+
+                        ✗Intent 2.5 - Cases Practice
+                           That was a great explanation (what I was looking for). Can you test me on that? make patient cases for the group "I.ΓTests", then make me choose among the most adequate tests. Then, ask me about the best Maneuvers/Γ(INTERVENTIONS) that would follow from group "II.Clinical Treatment". Or maybe, the next tests for group "III.Posterior Canal BPPV Positional Tests" and then the best Maneuvers/Γ(INTERVENTIONS) for group "IV.Posterior Canal Canalith Repositioning Maneuvers". And then maybe group "V.Horizontal Canal BPPV Positional Tests" is needed and you will ask me which one. Then what ia/are the best Maneuvers/Γ(INTERVENTIONS) from group VI.Horizontal Canal Canalith Repositioning Maneuvers. This way, we will cover as many combinations as possible starting from the most simple combination that is I.ΓTests then II.Clinical Treatment. After each multiple choice question, print the correct answer and a complete rationale. Let's star with the fisrt case.
+
+                              ### Case 1: A 60-Year-Old Woman with Episodic Dizziness
+                              Patient Presentation:
+                              - The patient is a 60-year-old woman who reports feeling "off balance" and occasionally dizzy when turning her head quickly.
+                              - She denies hearing loss or tinnitus but mentions difficulty reading street signs while walking.
+                              - She has no history of trauma, falls, or recent infections.
+                              - Her symptoms are not positional (e.g., not triggered by lying down or rolling over in bed) but worsen with rapid head movements.
+
+                              ---
+
+                              ### Step 1: Choose the Most Appropriate Tests from Group I.ΓTests
+                              Question 1:  
+                              Based on the patient’s presentation, which of the following tests from Group I.ΓTests would be most appropriate to perform initially?  
+
+                              A. V1.Nine Quadrant Test  
+                              B. V2.Gaze Holding Nystagmus  
+                              C. V3.Smooth Pursuit  
+                              D. V8.Head Impulse Test (Horizontal Canal)  
+                              E. V11.Dynamic Visual Acuity Test
+
+                              Answer:  
+                              E. V11.Dynamic Visual Acuity Test
+
+                              Rationale:  
+                              The patient’s primary complaint is difficulty reading street signs while walking, which suggests gaze instability during head movements. The Dynamic Visual Acuity Test (DVA) is specifically designed to assess visual acuity during active head movements and helps identify impairments in the vestibulo-ocular reflex (VOR). This test directly addresses her reported symptom of blurred vision during movement.
+
+                              Other options:
+                              - V1.Nine Quadrant Test: Evaluates gaze stability in all directions but does not specifically address dynamic head movements.
+                              - V2.Gaze Holding Nystagmus: Useful for detecting nystagmus during eccentric gaze but less relevant here since her symptoms occur during active movement.
+                              - V8.Head Impulse Test: Assesses VOR function but is more sensitive for acute vestibular hypofunction rather than chronic or mild deficits.
+                              - V3.Smooth Pursuit: Tests slow eye tracking but is not as relevant for head movement-related dizziness.
+
+                              ---
+
+                              ### Step 2: Choose the Best Clinical Treatment (Intervention) from Group II.Clinical Treatment
+                              Question 2:  
+                              After performing the Dynamic Visual Acuity Test, you observe a significant loss of visual acuity (>2 lines) during head movements. What is the best initial intervention from Group II.Clinical Treatment?
+
+                              A. CT1.VOR x1 (x1 viewing)  
+                              B. CT4.Head Impulse Exercise  
+                              C. CT5.Eye Head Saccade Exercises  
+                              D. CT7.Brock String
+
+                              Answer:  
+                              A. CT1.VOR x1 (x1 viewing)
+
+                              Rationale:  
+                              The Dynamic Visual Acuity Test result indicates an impaired vestibulo-ocular reflex (VOR), which is critical for maintaining gaze stability during head movements. VOR x1 exercises involve moving the head while keeping the eyes fixed on a target, directly targeting the deficit identified by the DVA test. This intervention is foundational for improving VOR function and addressing the patient’s symptoms.
+
+                              Other options:
+                              - CT4.Head Impulse Exercise: Focuses on rapid head movements but is more advanced and better suited for patients with acute vestibular hypofunction.
+                              - CT5.Eye Head Saccade Exercises: Combines eye and head movements but may be too complex for this stage of rehabilitation.
+                              - CT7.Brock String: Targets convergence and binocular vision issues, which are unrelated to her symptoms.
+
+                              ---
+
+                              ### Case 2: A 45-Year-Old Man with Positional Vertigo
+                              Patient Presentation:
+                              - The patient is a 45-year-old man who reports brief episodes of intense spinning vertigo when lying down in bed or rolling over at night.
+                              - He denies hearing loss or tinnitus.
+                              - His symptoms are triggered by specific head positions relative to gravity.
+
+                              ---
+
+                              ### Step 1: Choose the Most Appropriate Tests from Group III.Posterior Canal BPPV Positional Tests
+                              Question 3:  
+                              Which test from Group III.Posterior Canal BPPV Positional Tests is most appropriate to confirm the diagnosis?
+
+                              A. BPPV.1.Dix-Hallpike  
+                              B. BPPV.2.Loaded Dix-Hallpike  
+                              C. BPPV.4.Sidelying Test  
+                              D. BPPV.3.Modified Dix-Hallpike Test With Head Over Pillow
+
+                              Answer:  
+                              A. BPPV.1.Dix-Hallpike
+
+                              Rationale:  
+                              The patient’s history strongly suggests posterior canal BPPV, given the positional triggers (lying down, rolling over). The Dix-Hallpike test is the gold standard for diagnosing posterior canal BPPV and is specifically designed to elicit torsional-upbeating nystagmus characteristic of this condition.
+
+                              Other options:
+                              - BPPV.2.Loaded Dix-Hallpike: Used if the standard Dix-Hallpike is inconclusive but unnecessary here since the classic test is sufficient.
+                              - BPPV.4.Sidelying Test: An alternative to the Dix-Hallpike but less sensitive for detecting posterior canal involvement.
+                              - BPPV.3.Modified Dix-Hallpike: Useful for patients with limited neck mobility but not required in this case.
+
+                              ---
+
+                              ### Step 2: Choose the Best Maneuver from Group IV.Posterior Canal Canalith Repositioning Maneuvers
+                              Question 4:  
+                              During the Dix-Hallpike test, you observe torsional-upbeating nystagmus when the patient’s head is turned to the right. What is the best maneuver to treat this condition?
+
+                              A. PCCRM.1.Modified Epley  
+                              B. PCCRM.2.Semont  
+                              C. PCCRM.4.Li Maneuver  
+                              D. PCCRM.3.Semont Plus
+
+                              Answer:  
+                              A. PCCRM.1.Modified Epley
+
+                              Rationale:  
+                              The presence of torsional-upbeating nystagmus during the Dix-Hallpike test confirms posterior canal BPPV on the right side. The Modified Epley Maneuver is the most widely used and effective treatment for posterior canal BPPV, guiding displaced otoconia back into the utricle.
+
+                              Other options:
+                              - PCCRM.2.Semont: Effective but less commonly used due to its complexity compared to the Modified Epley.
+                              - PCCRM.4.Li Maneuver: Simplified version of the Epley but less established in clinical practice.
+                              - PCCRM.3.Semont Plus: A variation of the Semont Maneuver that is unnecessary in this case.
+
+                              ---
+
+                              ### Case 3: A 50-Year-Old Woman with Horizontal Positional Vertigo
+                              Patient Presentation:
+                              - The patient is a 50-year-old woman who reports feeling dizzy when lying flat on her back or rolling side-to-side in bed.
+                              - She denies symptoms when bending forward or looking up.
+                              - Her symptoms are positional but not consistent with posterior canal BPPV.
+
+                              ---
+
+                              ### Step 1: Choose the Most Appropriate Test from Group V.Horizontal Canal BPPV Positional Tests
+                              Question 5:  
+                              Which test from Group V.Horizontal Canal BPPV Positional Tests is most appropriate to confirm the diagnosis?
+
+                              A. HC-BPPV-PT.1.Long Sit to Supine  
+                              B. HC-BPPV-PT.2.Roll Test (Pagnini-McClure Roll Test)  
+                              C. HC-BPPV-PT.3.Bow and Lean Test
+
+                              Answer:  
+                              B. HC-BPPV-PT.2.Roll Test (Pagnini-McClure Roll Test)
+
+                              Rationale:  
+                              The patient’s symptoms suggest horizontal canal BPPV, as they occur during rolling movements in bed. The Roll Test (Pagnini-McClure Roll Test) is the gold standard for diagnosing horizontal canal BPPV and helps determine whether the nystagmus is geotropic (canalithiasis) or apogeotropic (cupulolithiasis).
+
+                              Other options:
+                              - HC-BPPV-PT.1.Long Sit to Supine: Useful for detecting anterior canal BPPV but not relevant here.
+                              - HC-BPPV-PT.3.Bow and Lean Test: Can help differentiate geotropic vs. apogeotropic nystagmus but is supplementary to the Roll Test.
+
+                              ---
+
+                              ### Step 2: Choose the Best Maneuver from Group VI.Horizontal Canal Canalith Repositioning Maneuvers
+                              Question 6:  
+                              During the Roll Test, you observe geotropic horizontal nystagmus that beats toward the ground on both sides, worse on the left. What is the best maneuver to treat this condition?
+
+                              A. HC-CCRM.1.Barbecue Maneuver for Canalithiasis  
+                              B. HC-CCRM.2.Gufoni Maneuver for Canalithiasis  
+                              C. HC-CCRM.5.Kim Maneuver for Cupulolithiasis  
+                              D. HC-CCRM.4.Gufoni Maneuver for Cupulolithiasis
+
+                              Answer:  
+                              A. HC-CCRM.1.Barbecue Maneuver for Canalithiasis
+
+                              Rationale:  
+                              Geotropic horizontal nystagmus indicates horizontal canal canalithiasis, with free-floating otoconia in the canal. The Barbecue Maneuver (Lempert Roll Maneuver) is the most effective treatment for geotropic horizontal canal BPPV, guiding the otoconia out of the canal and into the utricle.
+
+                              Other options:
+                              - HC-CCRM.2.Gufoni Maneuver for Canalithiasis: Effective but less commonly used for geotropic cases.
+                              - HC-CCRM.5.Kim Maneuver for Cupulolithiasis: Used for apogeotropic nystagmus caused by cupulolithiasis, not applicable here.
+                              - HC-CCRM.4.Gufoni Maneuver for Cupulolithiasis: Also for apogeotropic nystagmus, not relevant in this case.
+
+                              ---
+
+                              These cases and questions should give you a solid understanding of how to choose appropriate tests and interventions based on patient presentations. Let me know if you’d like to go through more scenarios!
+
+                        ✓.ΓIntent 2.6 - Cases Practice progessive building difficulty based on new infor from Imm3B
+                           Excellent. We’ll start a full vestibular practical simulation from scratch, modeled exactly how your Immersion 3B exam would expect:
+
+                           Format:
+                           ✅ Step-by-step clinical reasoning
+                           ✅ Short introductions before each assessment phase
+                           ✅ Immediate quiz questions per section to reinforce learning
+                           ✅ Full rationale including:
+
+                            What the test is for (purpose)
+                            Why to perform it (indications)
+                            What to look for (positive/negative findings)
+                            Numerical details (angles, reps, times)
+                            Neuroscience relevance
+                            Cut-offs and interpretation
+                            What to do next (clinical decisions, treatments)
+
+                           ---
+
+                           Case Simulation Begins:
+
+                           A 65-year-old male presents to your outpatient vestibular clinic. He reports dizziness, imbalance, and brief episodes of vertigo lasting less than one minute, primarily when turning in bed or getting up in the morning. No hearing loss. Symptoms started 1 week ago, progressively worsening. PMH: Hypertension, no recent trauma, no headaches, no tinnitus, independent ambulation.
+
+                           ---
+
+                           Step 1: General Observation & History
+
+                           Introduction:
+                           Before any test, your vestibular practical expects you to observe and interview the patient. This helps form hypotheses and select appropriate tests, avoiding unnecessary or unsafe procedures.
+
+                           Quiz 1:
+                           What three key aspects of the patient's history make you suspect a peripheral vestibular cause rather than central? (Select all that apply)
+
+                           A) Symptoms last seconds to minutes
+                           B) No headaches reported
+                           C) No recent trauma
+                           D) Symptoms provoked by head position changes
+                           E) Independent ambulation
+
+                           Please answer, then I'll provide rationale and move forward.
+
+                           A, D, E
+
+                           ✅ Correct Answer: A, D, E
+
+                           ### Rationale:322w23wqq
+
+                           A) Symptoms last seconds to minutes → This is typical of peripheral vestibular disorders like BPPV. Central causes (e.g., stroke, MS) often present with persistent dizziness or vertigo, lasting hours to days.
+
+                           D) Symptoms provoked by head position changes → Classic for Benign Paroxysmal Positional Vertigo (BPPV), the most common peripheral vestibular disorder.
+
+                           E) Independent ambulation → Many patients with mild-to-moderate peripheral vestibular dysfunction retain functional ambulation. Severe central pathology often causes profound gait disturbance requiring assistance.
+
+                           ---
+
+                           Incorrect Options:
+                           B) No headaches reported → The absence of headaches helps rule out vestibular migraine, but central causes (like stroke) may still present without headaches.
+                           C) No recent trauma → While trauma can cause vestibular dysfunction, its absence doesn’t strongly differentiate central from peripheral causes.
+
+                           ---
+
+                           Next Step: Pre-Test Decision Making
+
+                           Given the history suggests a peripheral positional vertigo etiology (likely BPPV), your next action is targeted testing to confirm.
+
+                           Before Testing - Quick Screening:
+
+                            Vitals322w23wqq
+                            Cervical ROM & integrity (safety for positional maneuvers)
+                            Oculomotor screening for red flags (central signs)
+
+                           ---
+
+                           Quiz 2 (Multiple Choice):
+
+                           What finding would be a contraindication to performing positional testing like Dix-Hallpike?
+
+                           A) Positive spontaneous nystagmus with fixation suppression
+                           B) Limited cervical ROM with pain during extension and rotation
+                           C) Brief dizziness on rolling over in bed
+                           D) Gait speed of 1.05 m/s with mild imbalance
+
+                           Your answer?
+
+                     .Heavy Duty Explantion for each element -----------------------------------------------------------------
+                        Γ I did not put enphasis on the concrete steps to peform the test (some has them from the document), but on the backgrounf information. If you know that onem the the steps can be seen from the videos, etc; easy
+                        ------------------------------------------------------------------------------
+                        PROMPT:
+                           -Explain these sections below (1 to 12) for the test ___. Your information must be gathered only from the course content and (see uploaded documents):
+                              →1) What is this test for?
+                              →2) why should I perform it and when not?
+                              3) When to perform the test unilaterally, bilaterally, how many times, etc.?
+                              4) What are the clues from the patient interview?
+                              5) What are the clues from the Physical Therapy assessments?
+                              →6) What I am looking for when performing the test? What is a positive and a negative test and what they mean?
+                              →7) All about grades, angles, degrees, times, repetitions, and that has to be with numerical data (ordered by execution steps of the test). 
+                              →8) From the Neuroscience subject, explain all I need to know about this test including the neuroanatomy involved and the processes involved (step by step).
+                              9) List and explain precautions, contraindications, etc.
+                              →10) What is next? What treatments should I recommend to this patient?
+                              11) Are there variations of the test? Just let me know if any variations exist (only name them)
+                                 .................................................................................
+                                 If this test is a variation already, then you will do only the sections (1 to 11) that are different from the main one, so state the ones that are the same from the man one but do not do them again.
+                                      -I want to know:
+                                          11.1) The name
+                                          11.2) how they differ from each other or what make them different
+                                          11.3) What are the advantages and disadvantages of the specific variation
+                              12) Something else you want to add (from the course content) that I could be missing?
+                              13) Cut offs of this test (!!).Falta de fer
+                              ------------------------------------------------------------------------------
+                              More options I haven't included here but that I can think about
+                                 For each test I have to know
+                                     -What are we evaluating/testing? Why do I do this assessment/test?
+                                     -What side am I testing (involved and uninvolved side) an why? How that affects the test (how to perform the test right vs. left)? I need to understand why we turn the head right or left
+                                     -When do we test one side ot both? and why?
+                                     -What are the cut offs?
+                                     -All about:
+                                         How many times do I perform it?
+                                         How many seconds/minutes should I hold for each step?
+                                     -What to do next if the test is positive? Is there any treatment/manuver I can prescribe/perform
+
+                     I.ΓTests (Per a l'examen volem saber 1, 2, 6, 7, 8+-, 10) Imm3B_PracticalExam_Description → Refer to: Imm3B_PracticalExam_Mnemo
+                        .From V1 to V11, what I am looking for on the patient and what it means. Give complete explanations:
+                           Based on the content from NM.txt, here is a comprehensive breakdown of V1 to V11 as part of the vestibular and oculomotor examination. For each test, I explain:
+
+                           - What you are looking for
+                           - What it means clinically
+                           - How it relates to vestibular function and neurological integrity
+
+                           ---
+
+                           ## ✅ V1: Nine Quadrant Test → Eye Movement Range of Motion
+                              ### 🔍 What You Are Looking For:
+                              - Presence of spontaneous or gaze-evoked nystagmus
+                              - Full range of motion in all directions (up, down, right, left, up-right, up-left, down-right, down-left)
+                              - Smoothness and conjugacy of eye movements
+                              - Any limitations, jerkiness, or drift back toward center
+
+                              ### 🧠 What It Means:
+                              - Gaze-evoked nystagmus that increases with eccentric gaze suggests central pathology
+                              - Nystagmus that decreases with visual fixation is more likely peripheral
+                              - Restricted range of motion may indicate cranial nerve palsy (III, IV, VI)
+                              - Asymmetric responses may suggest brainstem or cerebellar dysfunction
+
+                              > From course content:  
+                              > “The patient should look in primary gaze to the right, left, up, down, up into the right, up into the left, down into the right, down into the left... we should be assessing to see if the eyes are properly aligned, and if there are any nystagmus that we see in any of these positions.”
+
+                           ## ✅ V2: Gaze Holding Nystagmus
+                              ### 🔍 What You Are Looking For:
+                              - Ability to maintain steady gaze in eccentric positions
+                              - Presence of nystagmus when maintaining gaze at 30° off-center (in up, down, right, or left gaze)
+
+                              ### 🧠 What It Means:
+                              - Persistent nystagmus during gaze holding may indicate central lesions, especially cerebellar or brainstem involvement
+                              - Normal response = no nystagmus or drift
+
+                              > From course content:  
+                              > “The physical therapist asks the patient to look in eccentric gaze for up to 30 seconds while the PT observes for presence of nystagmus.”
+
+                           ## ✅ V3: Smooth Pursuit
+                              ### 🔍 What You Are Looking For:
+                              - Eyes smoothly following a slowly moving target in horizontal and vertical planes
+                              - No saccadic intrusions, jerking, or inability to follow the target
+
+                              ### 🧠 What It Means:
+                              - Smooth pursuit deficits suggest cerebellar dysfunction
+                              - Poor smooth pursuit can also occur in Parkinson’s disease, toxic/metabolic encephalopathy
+
+                              > From course content:  
+                              > “Smooth pursuit – ability to follow a slow-moving object across full range of vertical and horizontal eye movements.”
+
+                           ## ✅ V4: Horizontal and Vertical Saccades
+                              ### 🔍 What You Are Looking For:
+                              - Speed and accuracy of rapid eye movements between two targets
+                              - Presence of hypometric, hypermetric, or slow saccades
+                              - Presence of square wave jerks (small saccades interrupting fixation)
+
+                              ### 🧠 What It Means:
+                              - Abnormal saccades may indicate central nervous system dysfunction, especially involving the frontal eye fields, superior colliculus, or cerebellum
+                              - Slowed or inaccurate saccades seen in progressive supranuclear palsy, multiple sclerosis, stroke, or TBI
+
+                              > From course content:  
+                              > “Saccades are quick involuntary small movements of both eyes simultaneously... both eyes should accurately move together to the target.”
+
+                           ## ✅ V5: Convergence
+                              ### 🔍 What You Are Looking For:
+                              - Eyes turning inward as a target moves closer
+                              - Ability to maintain single vision as target approaches nose
+                              - Distance at which double vision occurs
+
+                              ### 🧠 What It Means:
+                              - Convergence insufficiency common after concussion or traumatic brain injury
+                              - Can contribute to visual disturbances and reading difficulties
+
+                              > From course content:  
+                              > “Convergence – the ability to bring both eyes inward toward the nose as a target moves closer.”
+
+                           ## ✅ V6: Cover and Uncover Test (Cover Test)
+                              ### 🔍 What You Are Looking For:
+                              - Eye movement when one eye is covered and then uncovered
+                              - If the eye moves upward, downward, or laterally upon uncovering
+
+                              ### 🧠 What It Means:
+                              - Detects manifest strabismus (tropia)
+                              - Helps identify ocular misalignment or weakness in extraocular muscles
+                              - May contribute to dizziness or diplopia
+
+                              > From course content:  
+                              > “Cover/uncover test: used to detect manifest strabismus (tropia).”
+
+                           ## ✅ V7: Cross-Cover Test
+                              ### 🔍 What You Are Looking For:
+                              - Eye movement when alternating cover between eyes
+                              - Direction of eye movement when switching occlusion
+
+                              ### 🧠 What It Means:
+                              - Identifies latent strabismus (phoria)
+                              - May reveal binocular instability contributing to visual discomfort or motion sensitivity
+
+                              > From course content:  
+                              > “Cross-cover test: detects latent strabismus (phoria).”
+
+                           ## ✅ V8: Head Impulse Test (Horizontal Canal)
+                              ### 🔍 What You Are Looking For:
+                              - Patient maintains focus on target during rapid passive head rotation
+                              - Presence of corrective saccade after head stops
+
+                              ### 🧠 What It Means:
+                              - Corrective saccade indicates impaired VOR gain due to unilateral peripheral vestibular hypofunction
+                              - Absence of corrective saccade = normal VOR function
+
+                              > From course content:  
+                              > “A positive HIT indicates reduced VOR gain and is associated with unilateral peripheral loss.”
+
+                           ## ✅ V9: HINTS Exam (not explicitly labeled but relevant)
+                              Γ See also the tests manually in this section
+
+                              (Included here as it's often integrated with VOR testing)
+                                 ### 🔍 What You Are Looking For:
+                                 - Head Impulse Test: presence of corrective saccade
+                                 - Nystagmus type: direction-fixed vs. direction-changing
+                                 - Test of Skew: vertical misalignment with cover-uncover
+
+                                 ### 🧠 What It Means:
+                                 - Direction-fixed nystagmus + positive HIT = peripheral lesion
+                                 - Vertical nystagmus + skew deviation = central lesion
+                                 - Used to differentiate central vs. peripheral causes of acute dizziness
+
+                           ## ✅ V10: Head Shake Test (Head Shaking Nystagmus)
+                              ### 🔍 What You Are Looking For:
+                              - Nystagmus after passive horizontal head shaking at ~2 Hz
+                              - Direction and intensity of nystagmus
+                              - Symptom provocation (dizziness, nausea)
+
+                              ### 🧠 What It Means:
+                              - Horizontal nystagmus beating toward the healthy ear = unilateral vestibular hypofunction
+                              - Vertical nystagmus post-head shake = possible central lesion
+                              - A positive test supports diagnosis of vestibular asymmetry
+
+                              > From course content:  
+                              > “If vertical nystagmus is provoked post head shake, then this may be an indication of a central lesion.”
+
+                           ## ✅ V11: Dynamic Visual Acuity Test (DVA)
+                              ### 🔍 What You Are Looking For:
+                              - Accuracy of reading an eye chart under static vs. dynamic head movement
+                              - Number of lines lost during head movement (e.g., 2 Hz yaw plane shaking)
+
+                              ### 🧠 What It Means:
+                              - Loss of visual acuity during head motion = impaired VOR function
+                              - Useful for quantifying functional impact of vestibular loss
+                              - Guides rehabilitation goals and tracks progress
+
+                              > From course content:  
+                              > “Dynamic visual acuity test: clinical version assesses visual acuity during horizontal motion of the head.”
+
+                           ## 📋 Summary Table: V1–V11 Vestibular & Oculomotor Tests
+
+                              | Test | What to Look For | Clinical Meaning |
+                              |------|------------------|------------------|
+                              | V1: Nine Quadrant Test | Gaze-evoked nystagmus, restricted ROM | Central/peripheral lesion; CN III/IV/VI dysfunction |
+                              | V2: Gaze Holding Nystagmus | Nystagmus in eccentric gaze | Cerebellar/brainstem dysfunction |
+                              | V3: Smooth Pursuit | Jerky/slow/poor tracking | Cerebellar, metabolic, or degenerative disorder |
+                              | V4: Saccades | Hypometric/hypermetric saccades | CNS dysfunction (e.g., TBI, MS, Parkinson’s) |
+                              | V5: Convergence | Inability to converge eyes | Post-concussion syndrome, convergence insufficiency |
+                              | V6: Cover-Uncover Test | Eye drift/movement with monocular viewing | Manifest strabismus (tropia) |
+                              | V7: Cross-Cover Test | Latent drift with alternating occlusion | Latent strabismus (phoria) |
+                              | V8: Head Impulse Test (HIT) | Corrective saccade after fast head turn | Peripheral vestibular hypofunction |
+                              | V10: Head Shake Test | Post-shake nystagmus (horizontal or vertical) | Asymmetrical VOR (horizontal), central lesion (vertical) |
+                              | V11: DVA Test | Line loss during head movement | Functional impairment of VOR |
+
+                           ## 💡 Clinical Pearls from Course Content:
+                              - “Nystagmus that does not change direction and decreases with visual fixation is indicative of peripheral nystagmus.”
+                              - “Vertical nystagmus post-head shake may be an indication of a central lesion.”
+                              - “Dynamic visual acuity loss correlates with impaired functional mobility and driving safety.”
+                              - “Abnormal VOR cancellation is associated with central disorders.”
+
+                        .Pair these assessment with the these treatments:
+                           ## ✅ 1. Pairing: VOR x1 (x1 viewing)  
+                              ### ➤ Assessment Findings That Indicate This Treatment:
+                              - Positive Head Impulse Test (HIT) with corrective saccades
+                              - Reduced Dynamic Visual Acuity (DVA)
+                              - Symptom provocation with VOR cancellation or head movement
+                              - Diagnosis of Unilateral Vestibular Hypofunction (UVH)
+
+                              ### 🧠 Rationale:
+                              - VORx1 improves gaze stability by enhancing vestibulo-ocular reflex gain
+                              - Used to treat patients with impaired VOR function due to peripheral vestibular loss
+
+                              > From NM.txt:  
+                              > “A gaze stabilization exercise used to improve the gain of the VOR… performing either pitch or yaw head movements.”
+
+                           ## ✅ 2. Pairing: VOR Cancellation (Visual Motion Sensitivity)  
+                              ### ➤ Assessment Findings That Indicate This Treatment:
+                              - Reports of dizziness in visually complex environments
+                              - Positive visual motion sensitivity test
+                              - Normal HIT/VOR function but increased symptoms during visual motion exposure
+                              - Diagnosis of Persistent Postural-Perceptual Dizziness (PPPD) or Vestibular Migraine
+
+                              ### 🧠 Rationale:
+                              - VOR cancellation trains the patient to suppress unnecessary eye movements during self-motion
+                              - Useful for patients with visual over-dependence or motion sensitivity
+
+                              > From NM.txt:  
+                              > “VOR cancellation… used for visually induced dizziness and visual motion sensitivity.”
+
+                           ## ✅ 3. Pairing: VOR Plus Vergence  
+                              ### ➤ Assessment Findings That Indicate This Treatment:
+                              - UVH or BVH with need for enhanced VOR gain adaptation
+                              - Good vergence function (normal convergence/divergence)
+                              - Difficulty maintaining focus during head movement
+                              - Goal: Improve dynamic visual acuity and gaze stability
+
+                              ### 🧠 Rationale:
+                              - Combines VORx1 with vergence eye movements to enhance neuroplasticity and VOR gain
+                              - Particularly useful when standard VORx1 shows limited progress
+
+                              > From NM.txt:  
+                              > “Recent research suggests that combining VORx1 with vergence may enhance the adaptation process, increasing the gain of the VOR.”
+
+                           ## ✅ 4. Pairing: Head Impulse Exercise  
+                              ### ➤ Assessment Findings That Indicate This Treatment:
+                              - Unilateral vestibular hypofunction
+                              - Corrective saccades noted on HIT to one side
+                              - Difficulty with high-frequency head movements
+                              - Poor dynamic visual acuity during unpredictable head motion
+
+                              ### 🧠 Rationale:
+                              - Targets reflexive eye-head coordination
+                              - Trains the brain to compensate for reduced VOR function
+
+                              > From NM.txt:  
+                              > “The patient quickly moves their head about 15–20 degrees toward the affected side and then slowly returns to center.”
+
+                           ## ✅ 5. Pairing: Eye-Head Saccade Exercises  
+                              ### ➤ Assessment Findings That Indicate This Treatment:
+                              - Bilateral vestibular hypofunction
+                              - Poor gaze stability despite normal ocular motor function
+                              - Oscillopsia during head movement
+                              - No improvement with adaptation exercises alone
+
+                              ### 🧠 Rationale:
+                              - Encourages use of voluntary saccadic eye movements to compensate for lost VOR
+                              - Promotes central preprogramming of eye movements
+
+                              > From NM.txt:  
+                              > “This exercise is prescribed for patients with bilateral loss… The goal is to attempt to have the saccadic eye system help to compensate for damage to the VOR.”
+
+                           ## ✅ 6. Pairing: Imaginary Targets (Remembered Targets)  
+                              ### ➤ Assessment Findings That Indicate This Treatment:
+                              - Bilateral vestibular loss with oscillopsia
+                              - Inability to maintain gaze stability even with visible targets
+                              - Difficulty with central programming of eye movements
+                              - Need for substitution strategies
+
+                              ### 🧠 Rationale:
+                              - Encourages central preprogramming of gaze shifts
+                              - Helps patients develop internal representations of space to stabilize vision without visual input
+
+                              > From NM.txt:  
+                              > “Imaginary targets are used in substitution strategies to promote alternative methods of gaze control.”
+
+                           ## ✅ 7. Pairing: Brock String  
+                              ### ➤ Assessment Findings That Indicate This Treatment:
+                              - Convergence insufficiency
+                              - Complaints of visual fatigue or double vision
+                              - Poor performance on smooth pursuit or saccadic testing
+                              - Visual complaints during computer work or reading
+
+                              ### 🧠 Rationale:
+                              - Improves convergence, binocular coordination, and fixation stability
+                              - Useful for patients with oculomotor dysfunction, especially after concussion or visual fatigue
+
+                              > From NM.txt:  
+                              > “Brock string is used for oculomotor re-education and convergence training.”
+
+                           ## 📋 Summary Table:
+
+                              | Assessment Finding | Intervention | Rationale |
+                              |--------------------|--------------|-----------|
+                              | Positive HIT + reduced DVA | CT1. VOR x1 (x1 viewing) | Enhances VOR gain; improves gaze stability |
+                              | Visually induced dizziness | CT2. VOR Cancellation | Reduces visual motion sensitivity |
+                              | Need for enhanced VOR gain + normal vergence | CT3. VOR Plus Vergence | Boosts VOR adaptation using convergence |
+                              | Unilateral vestibular loss with corrective saccades | CT4. Head Impulse Exercise | Trains high-frequency VOR response |
+                              | Bilateral vestibular loss | CT5. Eye-Head Saccade Exercises | Substitutes saccades for impaired VOR |
+                              | Oscillopsia without visual input | CT6. Imaginary Targets | Promotes central programming of gaze shifts |
+                              | Visual fatigue, convergence issues | CT7. Brock String | Improves convergence and binocular coordination |
+
+                        ------------------------------------------------------------------------------
+                        .V1.Nine Quadrant Test
+                           1º.The patient looks at a 9-point grid (high/middle/low X left/center/right) as the physical therapist (PT) moves a target (index finger).
+                           -May need to lift eyelid for down gaze positions.
+                           -The PT observes for nystagmus in any of the directions.
+                           ------------------------------------------------------------------------------
+                           This is ROM
+
+                        .V2.Gaze Holding Nystagmus
+                           Una creu
+                           30 degrees + hold 30 seconds
+
+                           1º.The PT asks the patient to look in eccentric gaze for up to 30 seconds while the PT observes for presence of nystagmus.
+                           2º.The patient should look to the right about 30 degrees and hold that position, then switch to about 30 degrees to the left while looking at a target (such as the PT’s fingertip or a pen).
+                           3º.The patient should also look up and down 30 degrees. This can be combined with eye movement range of motion testing.
+
+                        .V3.Smooth Pursuit
+                           Una creu
+                           ✓30 degrees + ✗hold 30 seconds
+                           2 seconds to go from right to left
+
+                           1º.The PT holds a target (fingertip) at a distance of 3 feet from the patient.
+                           2º.The PT asks the patient to follow the target as the PT slowly moves the target left to right, then up and down.
+                              -The PT does not exceed 30 degrees from the nose for each eye.
+                              -The target should be moved at a rate requiring approximately 2 seconds to go from right to left, another 2 seconds to go from left to right, and the same timing for up and down.
+                           ------------------------------------------------------------------------------
+                           Test the ability to follow a slowly moving target. The patient and the examiner are seated. The examiner holds a fingertip at a distance of 3 ft. from the patient. The patient is instructed to maintain focus on the target as the examiner moves the target smoothly in the horizontal direction 1.5 ft. to the right and 1.5 ft. to the left of midline. One repetition is complete when the target moves back and forth to the starting position, and 2 repetitions are performed. The target should be moved at a rate requiring approximately 2 seconds to go fully from left to right and 2 seconds to go fully from right to left. The test is repeated with the examiner moving the target smoothly and slowly in the vertical direction 1.5 ft. above and 1.5 ft. below midline for 2 complete repetitions up and down. Again, the target should be moved at a rate requiring approximately 2 seconds to move the eyes fully upward and 2 seconds to move fully downward. Record: Headache, Dizziness, Nausea & Fogginess ratings after the test. (Figure 1)
+
+                        .V4.Horizontal and Vertical Saccades
+                           1º.The PT holds two single points (fingertips) horizontal at a distance of 3 feet from the patient; 1.5 feet to the right and 1.5 feet to the left of midline so that the patient must gaze 30 degrees to the left and 30 degrees to the right.
+                           2º.The PT instructs the patient to move their eyes as quickly as possible from one point to the next. The same process is repeated up and down.
+                           ------------------------------------------------------------------------------
+                           Horizontal Saccades:
+                              The examiner holds two single points (fingertips) horizontally at a distance of 3 ft. from the patient, and 1.5 ft. to the right and 1.5 ft. to the left of midline so that the patient must gaze 30 degrees to left and 30 degrees to the right. Instruct the patient to move their eyes as quickly as possible from point to point. One repetition is complete when the eyes move back and forth to the starting position, and 10 Γ(both sides are one) repetitions are performed. Record: Headache, Dizziness, Nausea & Fogginess ratings after the test.
+                           Vertical Saccades:
+                              Repeat the test with 2 points held vertically at a distance of 3 ft. from the patient, and 1.5 feet above and 1.5 feet below midline so that the patient must gaze 30 degrees upward and 30 degrees downward. Instruct the patient to move their eyes as quickly as possible from point to point. One repetition is complete when the eyes move up and down to the starting position, and 10 repetitions Γ(both sides are one)are performed. Record: Headache, Dizziness, Nausea & Fogginess ratings after the test. (Figure 3)
+
+                        .V5.Convergence
+                           Scores of ≤5 cm are considered normal
+
+                           1º.The PT holds up a stick that is marked with a 14 point font target in front of the patient.
+                           2º.The PT instructs the patient to watch the target with both eyes as it comes toward the patient’s face and state when the target doubles.
+                           3º.The PT records the distance from the patient’s nose to where the patient says the target doubled.
+
+                           -Scores of ≤5 cm are considered normal.
+                           ------------------------------------------------------------------------------
+                           Measure the ability to view a near target without double vision. The patient is seated and wearing corrective lenses (if needed). The examiner is seated front of the patient and observes their eye movement during this test. The patient focuses on a small target (approximately 14 point font size) at arm’s length and slowly brings it toward the tip of their nose. The patient is instructed to stop moving the target when they see two distinct images or when the examiner observes an outward deviation of one eye. Blurring of the image is ignored. The distance in cm. between target and the tip of nose is measured and recorded. This is repeated a total of 3 times with measures recorded each time. Record: Headache, Dizziness, Nausea & Fogginess ratings after the test. Abnormal: Near Point of convergence ≥ 6 cm from the tip of the nose.
+
+                        .V6.Cover and Uncover Test
+                           indicates tropia
+                              Inward movement = exotropia
+                              Outward movement = esotropia
+                              Downward movement = hypertropia
+                              Upward movement = hypotropia
+
+                           COVER (indicates tropia if positive):
+                           1º.The patient is seated looking straight ahead at a target approximately 10 feet away.
+                           2º.The paddle (occluder) is placed over one eye and the PT observes for any eye movement of the uncovered eye.
+                              Note if the eye moves in or out, up or down.
+                           3º.Then UNCOVER. Repeat for the other eye.
+                              If a corrective movement is seen, it means that a misalignment was present.
+                                 Inward movement means that an exotropia was present and named for the eye that moved.
+                                 Outward movement means that an esotropia was present.
+                                 Downward movement means a hypertropia was present.
+                                 Upward movement means a hypotropia was present.
+
+                           A tropia can be
+                              fixed or
+                              alternating
+
+                        .V7.Cross-Cover Test
+                           indicates phoria
+                           The same movement will be seen in both eyes, so phorias are not named by side.
+                           The occluder is held over one eye for 3–4 seconds and it is then quickly placed over the other eye.
+                              Repeat for 3–4 cycles.
+
+                              Inward movement = exophoria
+                              Outward movement = esophoria
+                              Downward movement = hyperphoria
+                              Upward movement = hypophoria
+
+                           CROSS COVER (indicates phoria, if COVER test is negative):
+                           1º.The patient is seated looking straight ahead at a target approximately 10 feet away.
+                           2º.The occluder is held over one eye for 3–4 seconds and it is then quickly placed over the other eye.
+                              Repeat for 3–4 cycles
+                              The PT observes the eye that that is being uncovered and notes if it moves in or out, up or down.
+                                 -The same movement will be seen in both eyes, so phorias are not named by side
+                                 -If a corrective movement is seen, it means that a misalignment was present.
+                                    Inward movement means that an exophoria was present.
+                                    Outward movement means that an esophoria was present.
+                                    Downward movement means a hyperphoria was present.
+                                    Upward movement means a hypophoria was present.
+
+                        .V8.Head Impulse Test (Horizontal Canal)
+                           1º.The patient is instructed to look at a target in midline.
+                           2º.The PT slowly moves the patient’s head in the yaw plane about 15–20 degrees and then quickly moves the patient’s head to midline (the impulse) while the patient attempts to keep their eyes on the target.
+                           3º.The head is rapidly stopped, and the PT checks to see if the patient has a “catch-up” saccade that will refixate their eyes on the target.
+
+                           -The head can be moved away from midline for the impulse, but it is better to move toward the midline.
+                           -The movement must be fully stopped before doing the next impulse.
+
+                           -A normal VOR response to rapid passive head rotation is that the patient is able to fixate on the central target without saccades.
+                           -An abnormal response occurs when head is rotated to the side of the vestibular lesion and there is an inability to maintain fixation during rotation of the head requiring a corrective saccade once the head has stopped moving.
+
+                        .V9.HINTS Exam (V3., V6., & V8.)
+                           to identify a posterior circulation stroke
+                           cluster of tests
+                              V8.Horizontal head Impulse Testing
+                              Direction changing Nystagmus
+                                 Γ V3.Smooth Pursuit (only)
+                              Vertical Test of Skew
+                                 Γ V6.Cover and Uncover Test
+
+                           -The HINTS exam can be used as a tool to identify a posterior circulation stroke.
+                           -The cluster of tests includes
+                              Horizontal head Impulse Testing
+                              Direction changing Nystagmus
+                              Vertical Test of Skew
+                           -A single central finding on any of the three components rules in a posterior circulation stroke.
+
+                        .V10.Head Shake Test (Head Shaking Nystagmus)
+                           WITH GOGGLES – PREFERRED
+                           WITHOUT GOGGLES
+
+                           head forward 20–30 degrees
+                           shakes eyes closed for 20 cycles quickly
+                              post-shake nystagmus
+
+                           1º.The PT tilts the patient’s head forward 20–30 degrees and shakes the head in the yaw plane with eyes closed for 20 cycles quickly.
+                           2º.The PT has the patient open their eyes and observes for post shake nystagmus.
+
+                        .V11.Dynamic Visual Acuity Test
+                           1º.Static Visual Acuity
+                           2º.shake the patient’s head 20–30 degrees in the yaw plane with head flexed 30 degrees at 2 Hz (240 beats (!!E.V) on a metronome, head is in right or left position with each beat).
+                           3º.note the lowest complete line (Dynamic Visual Acuity)
+                           4º.positive test = patient lost more than two lines while moving the head versus while the head is still and indicates a deficit in the functional VOR.
+
+                           1º.The patient sits at a distance that is marked at the top of the LogMAR Eye chart.
+                           2º.The PT insturcts the patient to read the LogMAR Eye chart first with the head still, and notes the lowest complete line (Static Visual Acuity).
+                           3º.The PT then shakes the patient’s head 20–30 degrees in the yaw plane with head flexed 30 degrees at 2 Hz (240 beats on a metronome, head is in right or left position with each beat).
+                           4º.The PT notes the lowest complete line (Dynamic Visual Acuity).
+
+                           -A positive test occurs if the patient lost more than two lines (!!E.V) while moving the head versus while the head is still and indicates a deficit in the functional VOR.
+
+                        .V12.Vibration Induced Nystagmus
+                           vibration with a frequency of 100Hz is applied to the mastoid process
+                           In someone with unilateral vestibular loss, the resulting nystagmus will beat away from the affected ear
+
+                           1º.While the patient is sitting with goggles donned, vibration with a frequency of 100Hz is applied to the mastoid process.
+
+                           -In someone with unilateral vestibular loss, the resulting nystagmus will beat away from the affected ear.
+
+                        .V13.Rinne test Γ(V13. & V14. go togerther)
+                           discern sound transmitted through air versus bone and helps assess for unilateral hearing loss
+
+                           1º.strike the fork inducing vibration
+                           2º.The stem of the tuning fork is placed on the mastoid process of the patient
+                           3º.The patient is then asked to cover their other ear with their hand
+                           4º.The patient informs the PT when the sound can no longer be heard.
+                           5º.The process is then repeated with the tines of the tuning fork held near the external auditory canal and the patient again informs the examiner when the sound can no longer be heard
+
+                           Results:
+                              Normal hearing is observed when:
+                                 the vibrating tuning fork positioned near the ear is louder and lasts twice as long compared to when placed on the mastoid.
+                              Abnormal:
+                                 When the sound is at least equally loud or louder when the fork is placed on the mastoid compared to when it is held next to the ear.
+
+                           .V14.Weber test Γ(V13. & V14. go togerther)
+                              Used to assess for a unilateral hearing loss and to characterize conductive versus sensorineural loss.
+
+                              1º.Using a 512-Hz tuning fork, the PT strikes the fork tines to induce vibration
+                              2º.The stem of the tuning fork is then placed on the top of the patient’s head
+                              3º.The patient is asked “is the sound louder in your right ear, left ear, or the same in both?”
+
+                              Results:
+                                 Normal hearing is confirmed when:
+                                    -the sound is heard midline and equally on both sides
+                                 ΓAbnormal:
+                                    Unilateral sensorineural hearing loss is observed if:
+                                       the patient hears the sound louder (lateralizes) in the unaffected ear
+                                    Unilateral conductive hearing loss is observed if:
+                                       the patient hears the sound louder (lateralizes) in the affected ear
+                                    Symmertical conductive hearing loss is observed if:
+                                       the patient does not exhibit lateralization
+
+                     II.Clinical Treatment
+                        .CT1.VOR x1 (x1 viewing)
+                           Horizontal
+                           Vertical
+
+                           18–24 inches away from eyes
+                           pt. moves head in either pitch or yaw planes while keeping the target in focus
+                              move their head as quickly as possible but to keep the target in focus
+                           PT determines if the head movements increase their symptoms and at what speed
+                              They should be able to move their head at about 100–120 (!!E.V) beats per minute on a metronome without symptoms
+                           ------------------------------------------------------------------------------
+                           Vestibular-Ocular Reflex (VOR) Test
+                              Assess the ability to stabilize vision as the head moves. The patient and the examiner are seated. The examiner holds a target of approximately 14 point font size in front of the patient in midline at a distance of 3 ft.
+                                 Horizontal VOR Test:
+                                    The patient is asked to rotate their head horizontally while maintaining focus on the target. The head is moved at an amplitude of 20 degrees to each side and a metronome is used to ensure the speed of rotation is maintained at 180 beats/minute (one beat in each direction). One repetition is complete when the head moves back and forth to the starting position, and 10 repetitions are performed. Record: Headache, Dizziness, Nausea and Fogginess ratings 10 sec after the test is completed.
+                                 Vertical VOR Test:
+                                    The test is repeated with the patient moving their head vertically. The head is moved in an amplitude of 20 degrees up and 20 degrees down and a metronome is used to ensure the speed of movement is maintained at 180 beats/minute (one beat in each direction). One repetition is complete when the head moves up and down to the starting position, and 10 repetitions are performed. Record: Headache, Dizziness, Nausea and Fogginess ratings after the test. (Figure
+
+                        .CT2.VOR Cancellation (Visual Motion Sensitivity)
+                           Horizontal
+                           Vertical
+
+                           1º.pt. extends their arm directly in front of their body or clasps their hands together
+                           2º.pt. instructed to visually fixate on the target and maintain fixation.
+                              -The entire body is then rotated 80 degrees (!!E.V) back and forth to each side at a comfortable speed for several cycles (use a metronome at 50 beats/minute) (!!E.V).
+                              -May use a swivel chair/stool or the patient can twist from waist using a stationary seat or stand with feet apart.
+                              -NOTE: Patient must keep the head, neck and shoulders moving together as a unit and their hands/thumbs straight out in front of their body. 
+                           Normal response is when:
+                              the eyes remain stationary and motionless throughout the test
+                           ------------------------------------------------------------------------------
+                           Visual Motion Sensitivity (VMS) Test
+                              Test visual motion sensitivity and the ability to inhibit vestibular-induced eye movements using vision. The patient stands with feet shoulder width apart, facing a busy area of the clinic. The examiner stands next to and slightly behind the patient, so that the patient is guarded but the movement can be performed freely. The patient holds arm outstretched and focuses on their thumb. Maintaining focus on their thumb, the patient rotates, together as a unit, their head, eyes and trunk at an amplitude of 80 degrees to the right and 80 degrees to the left. A metronome is used to ensure the speed of rotation is maintained at 50 beats/min (one beat in each direction). One repetition is complete when the trunk rotates back and forth to the starting position, and 5 repetitions are performed. Record: Headache, Dizziness, Nausea & Fogginess ratings after the test.
+
+                        .CT3.VOR Plus Vergence
+                           VORx1 Γ(CT1.) exercise while moving the target toward and away from their nose
+                              they are doing vergence + the VORx1 exercise simultaneously
+
+                        .CT4.Head Impulse Exercise
+                           1º.The patient is seated and focusing on a target about 3 feet from their nose
+                           2º.They quickly move their head about 15–20 degrees toward the affected side and then slowly move their head back to center
+
+                        .CT5.Eye Head Saccade Exercises
+                           For pt. with:
+                              unilateral and bilateral loss
+                              but definitely for patients with bilateral loss
+
+                           1º.There are two targets in front of them at least 18 inches away at about a 30 degree angle from their nose to the right and the left (or up and down)
+                           2º.The patient is to look at one target, and then move their eyes ONLY to the second target, then move their head and repeat this in the opposite direction
+
+                           Goal: to attempt to have the saccadic eye system help to compensate for the damage to the VOR
+
+                        .CT6.Imaginary Targets (Remembered Targets)
+                           NOTE: The patient should NOT be holding the target.
+
+                           1º.pt. looks at a target directly in front of them
+                           2º.close eyes and turn their head slightly in the yaw plane imagining that they are still looking at the target
+                           3º.open eyes and see if they were able to keep their eyes on the target
+                           4º.repeat the exercise in the opposite direction
+
+                        .CT7.Brock String
+                           1º.The patient holds one end of the Brock string at the tip of their nose and the other end is attached to a stationary object so that the string is taut
+                           2º.Move the nearest bead to the near point of convergence or just closer
+                           3º.Move the far bead to arm’s length and place the middle bead at the midpoint of the other two
+                           4º.pt. starts by focusing on the far bead and holds for 5–10 seconds
+                              pt. should report seeing two lines diverging toward them like the letter "A" from the far bead
+                           5º.Next, the patient changes focus to the middle bead and holds for 5–10 seconds
+                              -The patient should report seeing two lines diverging toward and away from them like the letter "X" from the middle bead
+                           6º.Then the patient changes focus to the close bead and holds for 5–10 seconds
+                              -The patient should report seeing two lines diverging away from them like the letter "V" from the close bead.
+                           7º.Then the patient moves focus back to the middle bead and far bead, holding each for 5–10 seconds
+                           8º.This should be repeated until symptoms increase by several units or the patient needs to take a break
+                           10º.Progress by changing starting point, increasing reps, or adding more beads to the string.
+                     
+                     III.Posterior Canal BPPV Positional Tests
+                        .BPPV.1.Dix-Hallpike ('Dix Hallpike.mp4') ('Dix-Hallpike test.mp4')
+                           WITHOUT GOGGLES
+                           WITH GOGGLES–PREFERRED
+
+                           1º.After checking cervical range of motion
+                           2º.with the patient in long-sitting position on a mat table
+                           3º.the PT places patient’s head in 45 degrees of yaw rotation
+                              Γ Towards PT - Afected side 
+                           4º.The PT quickly (1–2 seconds) lowers the patient to supine position with head extended 30 degrees below the edge of the mat.
+                           5º.The PT observes for nystagmus to become evident over 30 seconds and notes the direction of the nystagmus.
+                              5º.1.For posterior canal BPPV
+                                 nystagmus should be upbeating and torsional toward the tested side
+
+                           -Good body mechanics are utilized to avoid injury
+                           -The PT maintains contact with the patient after bringing the patient back up to the sitting posture and is careful throughout the maneuver to avoid neck or back pain for the patient and back pain for the PT
+                           ------------------------------------------------------------------------------
+                           The head is rotated 45 deg and extended 20-30 deg over the edge of a bed. You are expecting to see a torsional-upbeating nystagmus in BOTH eyes. The torsion is beating down towards the affected ear. It is imperative that you hold the person by the shoulders when they come back to the long sit position. You will repeat the above test to the opposite side.
+                              What does it mean?
+                                 If unilateral BPPV, you will observe torsional upbeating nystagmus when the head is turned to the affected side. You would expect the nystagmus to have a latency, increase then decrease in intensity (crescendo- decrescendo), and then last under one minute and typically the person experiences vertigo. If they have bilateral BPPV, they will have torsional upbeating nystagmus on both sides.
+                              Interventions
+                                 Modified Epley (first choice)
+                                    The PT instructs and demonstrates for patient and explains the purpose to the patient.
+                                       STEP 1:
+                                          Seat the patient on the table in long sitting with head in 45 degrees rotation toward the affected ear. Quickly lower to supine (1-2 sec) so they may be taken back to the head-hanging position with the neck in slight extension (20-30 degrees of extension). The PT stabilizes the head with hands and waits for the nystagmus to stop. Observe for eye movement in the head hanging position.
+                                       STEP 2:
+                                          Then rotate the head 90 deg towards the uninvolved side by turning the head toward opposite side - PT observes eyes- wait for nystagmus to stop. Keep neck in extension during the turn to the opposite side and wait 30 sec.
+                                       STEP 3:
+                                          Log roll patient onto unaffected side so that the head is turned to face ground- hold and wait 30 sec.
+                                       STEP 4:
+                                          Keep chin tucked towards their shoulder and have them rise to sitting but HOLD ON TO THEM when they sit up with both hands. Then slowly turn head back to midline. HOLD ON TO THEM when as they come to sitting and up to a minute or more after completion of the maneuver.
+
+                        .BPPV.2.Loaded Dix-Hallpike
+                           Perform the same as Dix-Hallpike, except
+                              begin with head rotated 45 degrees towards the side being texted,
+                              flexed 30 degrees to chest,
+                              and while in the long sitting position (i.e., pre-loading the head).
+                           Hold for 30 seconds before placing the patient in supine.
+                           ------------------------------------------------------------------------------
+                           The person’s head is rotated 45 degrees to the affected side and flexed forward 30 degrees in the plane of the posterior canal for 30 seconds, before placing patient in supine.
+                              What does it mean?
+                                 -This is a test for posterior canal BPPV but with the additional 30 degrees of flexion, it may result in longer duration of nystagmus and more intense symptoms, hopefully making the diagnosis easier for you to see.
+                              Interventions
+
+                        .BPPV.3.Modified Dix-Hallpike Test With Head Over Pillow
+                           Place the person in the middle of the bed. Turn their head 45 degrees and lie them over the pillow. The sensitivity of the test was 96% and the specificity was 88%
+                              What does it mean?
+                                 It is comparable to the Dix-Hallpike test and provides another alternative for testing
+
+                        .BPPV.4.Sidelying Test
+                           1º.The patient starts in sitting with legs resting over edge of table (hips/knees at 90 degrees)
+                           2º.The PT has the patient turn their head 45 degrees away from the ear being tested and brings them rapidly down sidelying to the table on the side being tested, with the nose toward the ceiling.
+                           3º.The PT observes for nystagmus to become evident over 30 seconds and notes the direction of the nystagmus. 
+                              positive test: ¿? 
+                           4º.The PT brings the patient back up to sitting, taking care to hold onto the patient as they return to sitting and for about 30 seconds to 1 minute after they have returned to sitting.
+                           ------------------------------------------------------------------------------
+                           -The person is sitting on the edge of the bed.
+                           To test the right posterior canal, the head is rotated 45 deg towards the left.
+                           -You then bring the patient down to the bed onto their right side with their head extended while maintaining the rotation.
+                           -Upon rising to sitting, hold the persons shoulders so that they do not fall back.
+                           -You will repeat the above test to the opposite side to test the L posterior canal.
+                           -If they have bilateral BPPV, they will become symptomatic to both sides.
+                              What does it mean?
+                                 -The patient should only have vertigo or nystagmus if the right ear is involved with the test when the person lays to the right.
+
+                     IV.Posterior Canal Canalith Repositioning Maneuvers
+                        .PCCRM.1.Modified Epley ('Modified Epley Maneuver.mp4')
+                           With Goggles–preferred
+                           Without Goggles
+  
+                           STEP 1:
+                              -The PT seats the patient on the table in long sitting with the head in 45 degrees rotation toward the affected ear.
+                              -The PT quickly lowers the patient to supine (1–2 seconds) so they may be taken back to the head-hanging position with the neck in slight extension (20–30 degrees of extension).
+                              -The PT stabilizes the head with their hands and waits for the nystagmus to stop.
+                              -The PT observes for eye movement in the head hanging position.
+                           STEP 2:
+                              -The PT rotates the head 90 degrees towards the uninvolved side by turning the head toward opposite side.
+                              -The PT observes the patient’s eyes and waits for nystagmus to stop. Keep the neck in extension during the turn to the opposite side and wait 30 seconds.
+                           STEP 3:
+                              Log roll patient onto unaffected side so that the head is turned to face ground.
+                              Hold and wait 30 seconds.
+                           STEP 4:
+                              -The patient keeps their chin tucked towards their shoulder and rises to sitting while the PT HOLDS ON TO THE PATIENT with both hands.
+                              -The PT slowly turns the patient’s head back to midline.
+                              -The PT HOLDS ON TO THE PATIENT as they come to sitting and up to a minute or more after completion of the maneuver. 
+                           ------------------------------------------------------------------------------
+                           The PT instructs and demonstrates for patient and explains the purpose to the patient.
+                              STEP 1:
+                                 Seat the patient on the table in long sitting with head in 45 degrees rotation toward the affected ear. Quickly lower to supine (1-2 sec) so they may be taken back to the head-hanging position with the neck in slight extension (20-30 degrees of extension). The PT stabilizes the head with hands and waits for the nystagmus to stop. Observe for eye movement in the head hanging position.
+                              STEP 2:
+                                 Then rotate the head 90 deg towards the uninvolved side by turning the head toward opposite side - PT observes eyes- wait for nystagmus to stop. Keep neck in extension during the turn to the opposite side and wait 30 sec.
+                              STEP 3:
+                                 Log roll patient onto unaffected side so that the head is turned to face ground- hold and wait 30 sec.
+                              STEP 4:
+                                 Keep chin tucked towards their shoulder and have them rise to sitting but HOLD ON TO THEM when they sit up with both hands. Then slowly turn head back to midline. HOLD ON TO THEM when as they come to sitting and up to a minute or more after completion of the maneuver.
+
+                        .PCCRM.2.Semont ('Semont & Maneuver.mp4')
+                           1º.The PT rotates the patient’s head 45 degrees away from the affected side
+                           2º.and quickly moves the patient into side-lie (head now facing up, image 3).
+                           3º.Stay in this position for 1–2 minutes.
+                           4º.Quickly, in one motion, sit up and move the patient onto the opposite side-lie (good side) without changing head position (nose now facing the ground, image 6).
+                           5º.Stay in this position for 1–2 minutes.
+
+                           -Remember that modeling suggests the ‘flip’ needs to be completed in <1.5 seconds. The PT then returns the patient slowly to sitting.
+                           -If reversal of nystagmus occurs (or unsure), repeat up to three repetitions.
+
+                        .PCCRM.3.Semont Plus
+                           1º.The patient begins sitting upright and facing forward,
+                           2º.then the PT turns the patient’s head away from the affected ear.
+                           3º.The PT quickly lays the patient down on the side of the involved ear, over the edge of the table about 20–30 degrees so that the patient’s dependent arm can abduct off the table and rest on the stool.
+                           4º.The patient stays there until the vertigo passes.
+                           5º.The PT QUICKLY sits the patient up and then lays them on their other side while KEEPING the patient’s head pointing over the shoulder the entire time (the orientation of the head should not change).
+                              -This should be completed in one movement without stopping in the middle.
+                              -The patient should be facing down toward the ground.
+                           6º.Wait there until any vertigo/nystagmus passes.
+                           7º.The PT then HOLDS ON TO THE PATIENT as they come to sitting, and continues holding onto them for up to a minute or more after completion of the maneuver.
+                           ------------------------------------------------------------------------------
+                           Semont plus (from Strupp RCT)
+                              The PT explains the purpose to the patient; the patient is rapidly moved from lying on one side to lying on the other. You can move the table up to a comfortable position for you and have a stool placed at the end of the table to which you will be moving patient first. Start sitting and turn the head away from the affected ear. Then lie patient down on involved ear side quickly over the edge of the table about 20-30 degrees, so that their dependent arm can abduct off the table and rest on the stool. The patient is to stay there until the vertigo passes. The PT QUICKLY sits the patient up and then lays them on their other side but KEEPING the patient’s head pointing over the shoulder during the entire time (Do not change the orientation of the head). The patient should be facing down to the ground. Also do not stop in the middle of this movement. Wait there until any vertigo/nystagmus passes. Then patient sits up and you must HOLD ON TO THEM when as they come to sitting and up to a minute or more after completion of the maneuver.
+
+                        .PCCRM.4.Li Maneuver ('Li Maneuver.mp4')
+                           1º.Start with patient in sitting with legs hanging over edge of the table (hips/knees at 90 degrees)
+                           2º.The PT moves the patient down quickly to their involved side with their nose forward while holding their head (no turning of the head is required for this maneuver)
+                           3º.After 1 minute, or after resolution of the nystagmus, the PT rapidly moves the patient 180 degrees with the healthy ear down on the table and their nose facing forwards
+                           4º.The patient lies there for 4 minutes and then the PT rapidly lifts them back to sitting
+                           5º.The PT HOLDS ON TO THE PATIENT for up to several minutes after completion of the Li maneuver
+                           ------------------------------------------------------------------------------
+                           -Li maneuver for the posterior canal Start in sitting with legs hanging over edge of mat (hips/knees at 90 deg).
+                           -The PT moves the patient down quickly to their involved side with their nose forward while you hold their head (no turning of the head is required for this maneuver).
+                           -After 1 minute or after resolution of the nystagmus, rapidly move them 180 degrees with the healthy ear down on the mat with their nose facing forwards.
+                           -Lie there for 4 minutes and then rapidly lift them back to sitting. HOLD ON TO THEM for up to several minutes after completion of the Li maneuver.
+
+                     V.Horizontal Canal BPPV Positional Tests
+                        .HC-BPPV-PT.1.Long Sit to Supine
+                           1º.The patient starts in long sitting
+                           2º.and then moves to supine quickly, ending in approximately 30 degrees of neck flexion (on a pillow will usually work fine)
+                           3º.The PT observes eye movement if there is any. 
+
+                        .HC-BPPV-PT.2.Roll Test (Pagnini-McClure Roll Test) ('Roll test with sit to supine test.mp4')
+                           WITH GOGGLES – PREFERRED
+                           WITHOUT GOGGLES
+
+                           1º.The patient starts supine with their head flexed 20–30 degrees.
+                           2º.The PT quickly moves the head to the right and holds for 30 seconds.
+                           3º.The PT observes for nystagmus to become evident over 30 seconds and notes the direction of the nystagmus.
+                           4º.The PT moves the head back to midline and waits for 30 seconds before quickly moving the head to the left and holding for 30 seconds.
+                           5º.The PT observes for nystagmus to become evident over 30 seconds and notes the direction of the nystagmus.
+                              If positive, nystagmus should be beating towards the ground (geotropic), OR away from the ground (ageotropic), in both right and left head positions.
+                           6º.The PT should note which side the patient experienced the worse symptoms and which side had the more intense nystagmus.
+                           ------------------------------------------------------------------------------
+                           -From the supine position with head flexed to 30 deg,
+                           -move head to the right and wait for 30 sec.
+                           -Then return to center and wait 30 sec or until nystagmus stops.
+                           -Then roll head to the left and wait for 30 sec,
+                           -and return to center.
+                           -Observe the nystagmus throughout to determine which direction the nystagmus is beating (towards or away from earth).
+
+                              What does it mean?
+                                 Nystagmus beating towards earth is called “geotropic” nystagmus and if it beats away from earth it is called “ageotropic or apogeotropic” nystagmus.
+
+                                 If geotropic, you should see greater nystagmus on the affected side during the roll test. To confirm, you should have seen the nystagmus beat TOWARDS the good side in the sit to supine test.
+
+                                 If ageotropic, you should see greater nystagmus on the unaffected side during the roll test. To confirm, you should have seen the nystagmus beat TOWARDS the affected side in the sit to supine test.
+
+                              Interventions
+                                 Geotropic Gufoni liberatory maneuver (GLM)
+                                    Patient sits in the middle of a bed and is briskly brought down onto the unaffected ear and held for 30 sec. The head is then quickly turned down by 45 deg and held there for 2-3 minutes, then the patient is brought back into the sitting position.
+                                 Li quick repositioning maneuver
+                                    Start in supine in the middle of a large bed. Log roll patient 90 deg onto the affected side and wait until the symptoms resolve. The clinician then is to stand behind the patient grabs the patient’s hand on the involved side and QUICKLY log rolls them 180 deg onto their unaffected side. Stay on the unaffected left side for 2 minutes and then bring the patient to sitting. The maneuver takes approximately 3 minutes to perform.
+
+                        .HC-BPPV-PT.3.Bow and Lean Test ('Bow and Lean test.mp4')
+                           WITH GOGGLES – PREFERRED
+                           WITHOUT GOGGLES
+                           
+                           1º.The patient begins in sitting.
+                           2º.BOW: The patient flexes their head to be parallel to floor and holds for 30 seconds.
+                           3º.The PT notes the direction of nystagmus.
+                              -If geotropic nystagmus is observed with the roll test, the nystagmus will beat towards the affected ear.
+                              -If ageotropic nystagmus is observed with the roll test, the nystagmus will beat towards the healthy ear.
+                           4º.LEAN: The patient extends their head as if looking at ceiling for 30 seconds.
+                           5º.The PT notes the direction of nystagmus, which should be opposite to what you saw in the BOW test.
+                              -If geotropic nystagmus is seen with the roll test, the nystagmus will beat towards the healthy ear.
+                              -If ageotropic nystagmus is seen with the roll test, the nystagmus will beat towards the affected ear.
+                              -(Geotropic — nystagmus beats toward Good, Ageotropic — Affected)
+
+                           -Results from this test will be used to confirm the side of the affected ear if there is uncertainty about which ear had the greatest nystagmus/vertigo.
+                           ------------------------------------------------------------------------------
+                           (need to integrate the information from the roll test to make sense of this)
+                           -Person is sitting. With neck flexion about 60 deg (the Bow), observe the nystagmus that occurs with the change of head position.
+                           -In long sitting, then extend the head about 60 deg from neutral (the Lean) and observe the nystagmus. 
+                           
+                           IMPORTANT:
+                              -to optimize patient comfort and efficiency of testing, it is best to perform the horizontal canal BPPV tests in the following order:
+                                 1.Bow and Lean 
+                                 2.Sit to supine
+                                 3.Roll
+
+                                 Make sure to write down the findings in each position. You may not see anything with the bow and lean or long sit to supine tests.
+
+                              What does it mean?
+                                 If geotropic during the roll test,
+                                    with neck flexion
+                                       the nystagmus should beat TOWARDS the affected side.
+                                    With neck extension,
+                                       the nystagmus should beat TOWARDS the good side.
+                                 If ageotropic,
+                                    you should see greater nystagmus on the unaffected side during the roll test.
+                                       With neck extension,
+                                          the nystagmus should beat TOWARDS the affected side. Used to confirm side of affected ear if intensity of nystagmus/vertigo is uncertain during roll test.
+                              Interventions
+                                 Ageotropic
+                                    Kim maneuver
+                                       Starting in supine, log roll the patient 135 deg towards the affected side so that their nose is almost facing the floor. Put the vibrator over their mastoid of affected side for 30 sec; wait for the nystagmus to stop. Then do a series of log rolls away from affected ear and wait for 3 minutes in each position or until vertigo/nystagmus stop. Log roll them back to side lying (90 deg from supine). Then log roll to supine nose up position. Then log roll 90 deg to unaffected side and vibrate over the mastoid again for 30 sec. Finally log roll to prone. The PT will move the patient carefully and ensure that they do not excessively pull on their cervical spine.
+                                    Gufoni liberatory maneuver (GLM)
+                                       Patient sits in the middle of a mat table with legs hanging over side and head in midline. The PT will have the person look straight and then bring the patient down onto their AFFECTED side. After 30 sec, they will turn their head up towards the ceiling and let them rest in this position approximately 2 minutes. At the end of the 2 minutes, they should bring the subject back to sitting holding onto them throughout. If this does not work, most of us will try the same maneuver but have the nose tilted down towards the floor.
+
+                     VI.Horizontal Canal Canalith Repositioning Maneuvers
+                        .HC-CCRM.1.Barbecue Maneuver for Canalithiasis
+                           1º.The patient begins in a supine position with their head flexed 30 degrees.
+                           2º.The PT then rotates the patient’s head 90 degrees towards the affected side; this position is held for 30 seconds after the nystagmus stops.
+                           3º.From here the PT rotates the patient’s head back to neutral.
+                           4º.Next, the patient’s head is rotated 90 degrees towards the unaffected side.
+                              -Again, this position is held for 30 seconds after the nystagmus stops.
+                           5º.The patient then rolls prone
+                           6º.after 30 seconds from when the nystagmus stops, the patient can either get up from the prone position or complete the roll and return to sitting from the sidelying position.
+
+                        .HC-CCRM.2.Gufoni Maneuver for Canalithiasis ('Gufoni Maneuver Geotropic.mp4')¿?
+                           1º.The patient sits in the middle of a mat table with legs hanging over the side and the head in midline.
+                           2º.The PT briskly moves the patient down onto the UNAFFECTED side and holds for 30 seconds.
+                           3º.The head is then quickly turned down by 45 degrees and held there for 2–3 minutes,
+                           4º.then the patient is brought back into the sitting position.
+
+                        .HC-CCRM.3.Li Quick Maneuver for Canalithiasis ('Li for canalithiasis.mp4')
+                           1º.The patient starts in supine in the middle of a large bed.
+                           2º.The PT log rolls the patient 90 degrees onto the affected side and waits until the symptoms resolve.
+                           3º.The PT then stands behind the patient and grabs the patient’s hand on the involved side and QUICKLY log rolls them 180 degrees onto their unaffected side.
+                           4º.The patient stays on the unaffected left side for 2 minutes and then the PT brings the patient to sitting.
+
+                           -The maneuver takes approximately 3 minutes to perform.
+
+                        .HC-CCRM.4.Gufoni Maneuver for Cupulolithiasis ('Gufoni Maneuver Apogeotropic.mp4')¿?
+                           1º.The patient sits in the middle of the table with legs hanging over the side and head in midline.
+                           2º.The PT instructs the patient to look straight ahead, then brings the patient down onto their AFFECTED side for 30 seconds.
+                           3º.Then the PT turns the patient’s head up towards the ceiling and lets them rest in this position approximately 2 minutes.
+                           4º.At the end of the 2 minutes, the PT brings the patient back to sitting, holding onto the patient throughout.
+                              -If this does not work, it is common to try the same maneuver but with the patient’s nose tilted down towards the floor.
+
+                        .HC-CCRM.5.Kim Maneuver for Cupulolithiasis ('Kim for cupulolithiasis.mp4')
+                           1º.Starting with the patient in supine, the PT log rolls the patient onto the affected side
+                           2º.then turns the patient’s head 135 degrees towards the floor.
+                           3º.The PT places the vibrator over the mastoid of the affected side for 30 seconds and waits for the nystagmus to stop.
+                           4º.The PT log rolls the patient back to side lying (90 degrees from supine),
+                           5º.then log rolls the patient to supine nose up position.
+                           6º.Next the PT logs rolls the patient 90 degrees to the unaffected side and vibrates over the mastoid again for 30 seconds.
+                           7º.Finally log roll the patient to prone.
+
+                           -The PT will move the patient carefully and ensure that they do not excessively pull on the cervical spine.
+
+                     PROMPT: Tell me everything I need to know about the movement of the eyes so when I perform the tests listed in the "35 Vestibular_Lab_Workbook_trimmed1" I know what it is being talked about. I do not need an explanation by test. I just want the material about the movement of the eyes (saccades, directions, and other eye movements and effects) and what they mean. Also, explain the underlaying neuroscience and neuroanatomy behind it.
+                        ## 🧠 EYE MOVEMENT SYSTEMS: Overview mmm.ReferenceTable_AllAboutEyeMovements
+                           Eye movements are essential for
+                              visual stability,
+                              tracking moving objects,
+                              and shifting attention.
+                           They are tightly controlled by multiple
+                              brain regions,
+                              cranial nerves,
+                              and reflexive and voluntary pathways.
+
+                           There are five main types of eye movements:
+                              1. Saccades
+                              2. Smooth Pursuit
+                              3. Vestibulo-Ocular Reflex (VOR)
+                              4. Optokinetic Nystagmus (OKN)
+                              5. Vergence Movements
+
+                        ## 1️⃣ Saccadic Eye Movements
+                           ### 🔍 Definition:
+                           - Rapid, ballistic movements that shift gaze from one point to another.
+                           - Used to quickly refixate on new visual targets.
+
+                           ### 📏 Speed:
+                           - Fastest eye movement: 350–900°/sec
+
+                           ### 🧭 Direction:
+                           - Can be horizontal, vertical, or diagonal
+                           - Occur in both conjugate (both eyes move same direction) and disconjugate (eyes move differently)
+
+                           ### ⚙️ Control Pathway:
+                           - Frontal Eye Fields (FEF) → Superior Colliculus → Brainstem Burst Neurons → Cranial Nerves III, IV, VI
+                           - Basal Ganglia helps suppress unwanted saccades
+                           - Cerebellum fine-tunes accuracy
+
+                           ### 🧪 Clinical Meaning:
+                           - Abnormal saccades (e.g., slow, hypometric, or dysmetric) suggest central nervous system lesions, such as cerebellar dysfunction or brainstem stroke
+                           - Peripheral vestibular issues usually do not affect saccades
+
+                        ## 2️⃣ Smooth Pursuit Eye Movements
+                           ### 🔍 Definition:
+                           - Slow, smooth tracking of moving visual targets
+                           - Maintains target on fovea during motion
+
+                           ### 🧭 Direction:
+                           - Horizontal and vertical; requires intentional focus
+
+                           ### 📏 Speed:
+                           - Max speed: ~100°/sec
+
+                           ### ⚙️ Control Pathway:
+                           - Begins with visual cortex
+                           - Information goes to middle temporal area (MT/V5) → frontal eye fields → dorsolateral pons → vestibulo-cerebellum → brainstem nuclei (III, IV, VI)
+
+                           ### 🧪 Clinical Meaning:
+                           - Impaired smooth pursuit may indicate cerebellar dysfunction, Parkinson’s disease, or toxic/metabolic encephalopathy
+                           - Not typically affected in peripheral vestibular disorders
+
+                        ## 3️⃣ Vestibulo-Ocular Reflex (VOR)
+                           ### 🔍 Definition:
+                           - Stabilizes vision during head movement
+                           - Generates eye movement opposite to head movement
+
+                           ### 🧭 Direction:
+                           - Compensatory movement: opposite direction to head motion
+                             - Head right → Eyes left
+                             - Head up → Eyes down
+
+                           ### ⚙️ Control Pathway:
+                           - Vestibular apparatus → Vestibular nerve (CN VIII) → Vestibular nuclei → MLF → Cranial Nerve nuclei III, IV, VI
+
+                           ### 🧪 Clinical Meaning:
+                           - VOR integrity is tested via Head Impulse Test (HIT)
+                           - Loss of VOR = peripheral vestibular loss (e.g., vestibular neuritis)
+                           - Central causes can also alter VOR (e.g., cerebellar infarct)
+
+                        ## 4️⃣ Optokinetic Nystagmus (OKN)
+                           ### 🔍 Definition:
+                           - Reflexive eye movement generated when large visual fields move across the retina
+                           - Combines smooth pursuit and saccades
+
+                           ### 🧭 Direction:
+                           - Smooth phase follows moving stimulus; fast phase resets gaze
+
+                           ### ⚙️ Control Pathway:
+                           - Visual input → Visual cortex → MT/V5 → Parietal cortex → Brainstem centers
+
+                           ### 🧪 Clinical Meaning:
+                           - Absent OKN suggests visual pathway lesion or cortical blindness
+                           - Helps assess visual processing and integration with eye movements
+
+                        ## 5️⃣ Vergence Eye Movements
+                           ### 🔍 Definition:
+                           - Disconjugate eye movements used to align eyes on near or far targets
+
+                           ### 🧭 Types:
+                           - Convergence: eyes turn inward (near focus)
+                           - Divergence: eyes turn outward (far focus)
+
+                           ### ⚙️ Control Pathway:
+                           - Triggered by retinal disparity
+                           - Involves visual cortex, frontal eye fields, and midbrain
+                           - Convergence center located in rostral midbrain
+
+                           ### 🧪 Clinical Meaning:
+                           - Convergence insufficiency common in traumatic brain injury (TBI)
+                           - Useful in assessing concussion symptoms and visual-vestibular integration
+
+                        ## 🧬 NEUROANATOMY INVOLVED IN EYE MOVEMENT CONTROL
+                           | Structure                            | Role in Eye Movement |
+                           |--------------------------------------|----------------------|
+                           | Frontal Eye Fields (FEF)             | Initiates voluntary saccades |
+                           | Superior Colliculus                  | Coordinates reflexive saccades |
+                           | Parieto-occipital cortex             | Processes visual motion for smooth pursuit |
+                           | Dorsolateral Pons                    | Integrates signals for smooth pursuit |
+                           | Medial Longitudinal Fasciculus (MLF) | Coordinates conjugate horizontal gaze |
+                           | Cerebellum (flocculonodular lobe)    | Modulates VOR and smooth pursuit accuracy |
+                           | Vestibular nuclei                    | Integrates vestibular info to control VOR |
+                           | Brainstem burst neurons              | Generate rapid saccadic commands |
+                           | Cranial Nerves III, IV, VI           | Innervate extraocular muscles |
+
+                        ## 🧪 CLINICAL INTERPRETATION OF ABNORMAL EYE MOVEMENTS
+                           | Finding                                                  | Likely Cause |
+                           |----------------------------------------------------------|---------------|
+                           | Slow or hypometric saccades                              | Cerebellar lesion, Parkinson's |
+                           | Square-wave jerks (small saccades interrupting fixation) | Brainstem or cerebellar dysfunction |
+                           | Horizontal gaze palsy                                    | Pontine lesion (e.g., stroke) |
+                           | Internuclear ophthalmoplegia (INO)                       | Lesion in MLF (common in MS) |
+                           | Downbeat nystagmus                                       | Cerebellar lesion (especially flocculus) |
+                           | Upbeat nystagmus                                         | Brainstem or medullary lesion |
+                           | Gaze-evoked nystagmus                                    | Central lesion (if persistent), normal in some people |
+                           | Direction-fixed nystagmus                                | Central pathology |
+                           | Spontaneous nystagmus without stimulus                   | Peripheral or central vestibular dysfunction |
+
+                        ## 🧭 TYPES OF NYSTAGMUS & WHAT THEY MEAN
+                           | Type of Nystagmus              | Description                    | Clinical Significance                  |
+                           |--------------------------------|--------------------------------|------------------------|
+                           | Spontaneous nystagmus          | Occurs without stimulus        | Peripheral or central vestibular issue |
+                           | Positional nystagmus           | Triggered by head position     | BPPV if transient and geotropic |
+                           | Gaze-evoked nystagmus          | Occurs at extreme gaze         | Central if persistent |
+                           | Downbeat nystagmus             | Fast phase downward            | Cerebellar pathology |
+                           | Upbeat nystagmus               | Fast phase upward              | Brainstem or pontine lesion |
+                           | Rotational/torsional nystagmus | Spiral-like eye movement       | Indicates vestibular involvement |
+                           | Optokinetic nystagmus absence  | No response to moving stripes  | Visual pathway or cortical lesion |
+                           | End-point nystagmus            | Mild nystagmus at extreme gaze | Normal variant |
+
+                        ## 🧩 KEY CONCEPTS FROM THE COURSE MATERIAL
+
+                           From your course materials:
+
+                           - The medial longitudinal fasciculus (MLF) coordinates conjugate horizontal gaze between both eyes.
+                           - The vestibulo-ocular reflex (VOR) keeps images stable during head motion.
+                           - The cerebellum and vestibular nuclei integrate sensory inputs to modulate eye movements.
+                           - Voluntary saccades are driven by the frontal eye fields, while reflexive saccades originate from the superior colliculus.
+                           - Smooth pursuit involves temporal and frontal eye fields, and is modulated by the vestibulo-cerebellum.
+                           - Vergence movements are triggered by retinal disparity and involve the midbrain convergence center.
+
+                        ## ✅ SUMMARY TABLE
+                           | Eye Movement   | Function                            | Neural Control                     | Clinical Significance |
+                           |----------------|-------------------------------------|------------------------------------|------------------------|
+                           | Saccades       | Shift gaze rapidly                  | FEF, SC, CN III, IV, VI            | CNS lesions if abnormal |
+                           | Smooth Pursuit | Track moving object                 | Visual cortex, MT/V5, cerebellum   | Cerebellar or metabolic dysfunction |
+                           | VOR            | Stabilize vision during head motion | Vestibular system, MLF, CN III, VI | Peripheral or central vestibular loss |
+                           | OKN            | Respond to large field motion       | Visual cortex, MT/V5               | Visual pathway or cortical lesions |
+                           | Vergence       | Focus on near/far targets           | Midbrain, visual cortex            | TBI/concussion, visual-vestibular mismatch |
+
+                        If you're performing tests like the Nine Quadrant Test, Dix-Hallpike, or Head Impulse Test, understanding these eye movements will help you interpret what you're seeing and localize the problem—whether it's peripheral vestibular, central, or purely ocular.
+
+               .Vestibular Lab Skills Descriptions Imm3B_PracticalExam_Mnemo → Refer to: Imm3B_PracticalExam_Description
+                   .('36 Vestibular Lab Skills_2024.pdf')
+                     ¦
+                        ΓI.Tests Γ(TESTS)
+                           Ia.Oculomotor Examination = la pilota del/o cul (Oculomotor) del pong (sentat to el rato)
+                               .Spontaneous nystagmus 
+                                    Fulla de paper
+                               .V1.Nine Quadrant Test → Eye Movement range of motion
+                                    dibuixa 9 punts en la fulla
+                               .V2.Gaze Holding Nystagmus
+                                    Pinta els marges / Posa les pales del Pong (dalt i baix; dos parells)
+                               .V3.Smooth Pursuit 
+                                    Pinta una creu
+                               .V4.Horizontal and Vertical Saccades
+                                    Jugem al Pong
+                                        lateral
+                               .V5.Convergence
+                                     Jugem al Pong
+                                         frontal
+                               .V6.Cover and Uncover Test (also called Cover Test)
+                               .V7.Cross-Cover Test 
+                                    ------------------------------------------------------------------------------
+                                    Fiquem les ulleres per a no fermos mal amb la pilota (dos variacións)
+
+                           Ib.Vestibular ocular reflex (VOR) testing (all done with patient sitting) = Anem a menejar el cap
+                               .V8.Head Impulse Test (Horizontal Canal)
+                                    Aixina es diu no (VOR que no NOR), si no t'agrà el joc de Ping xq el pega a l'ull
+                               .V9.HINTS Exam (V8.=HI=Head Impulse, V3.=N=Nystagmus, & V6.=TS=Test Skew)
+                               .V10.Head Shake Test (Head shaking nystagmus)
+                                    Aixina no! es aixina! (sàcsali el cap amb malíxia)
+                               .V11.Dynamic Visual Acuity Test 
+                                    No em fas cas, pues allegir (a vore si thens hous de llegir després de la sacsà)
+
+                        II.Clinical Treatment Γ(INTERVENTIONS) (A vore com balles)
+                               .CT1.VOR x1 (x1 viewing) 
+                                    Ara a VORe com balles de costat tu asoles
+                               .CT2.VOR Cancellation (Visual Motion Sensitivity)
+                                    Ballem = No, ho cancele
+                               .CT3.VOR Plus Vergence
+                                    Ara a VORe com balles; m'acostes i m'allunyes
+                               .CT4.Head Impulse Exercise
+                                    Qué no!
+                               .CT5.Eye Head Saccade Exercises
+                                    Ok, Ok.
+                               .CT6.Imaginary Targets (Remembered Targets)
+                                    El meu test
+                               .CT7.Brock String
+
+                        III.Posterior Canal BPPV Positional Tests Γ(TESTS)
+                            .BPPV.1.Dix-Hallpike
+                              Dix = Deu en Fracés està en el pasillo (Hall) del pico = Pike
+
+                                 .Dix-Hallpike
+                                    -El Francés està sentat en Long Sitting com una F gità, i passa el 30 graus perque aixina no ronca (la "F" es com la boca)
+                                    -El cap gira cap al PT, el costat que volem testejar (e.g.: esquerre)
+                                       El Fracés es franc, ens mira i ens diu el costat que te afectat (que es ixe)
+                                    -Obsevem per a nystagmus a l'esquerre (!!E.f)
+                                       Significa això que el costat afectat es l'esquerre?
+                                          -Segons Alexander's Law seria cap al Fast Fase (l'esquerra), entonces la dreta (te hypofunció) es l'afectat, però esta llei no aplica ací. Ací es, el costat efectat es el costat del nystagmus
+                                    -30 sec
+                                       Una entrevista ràpida amb el Fracés de Matrix
+                                    -Intervention
+                                       El moro de la poma después del Ramamdan que te una alegria de mejar que dona voltetes
+
+                                 .Loaded Dix-Hallpike
+                                    Es igual que el Dix-Hallpike, lo únic que canvia es:
+                                       Es diu "loaded" per lo de la rotació a 30 graus / 30 sec, antes de começar
+
+                                 .Modified Dix-Hallpike - Sidelying test
+                                    La dona del Francés (la Francesa) que es més sensitiva. Però es mentirosa perque va besar a Neo (mira cap al costat que no li fa mal) (i es pla, no 30 graus d'inclinació, perque està igual que el Fracés de poder) (i sentà i no en F perque encara que es la dona i Francesa, no es igual que ell)
+
+                                 .Modified Dix-Hallpike test with head over pillows
+                                    Es igual que el Dix-Hallpike, lo únic que canvia es:
+                                       Lògic, com tenim el coxí, no cal els 30 graus d'inclinació
+
+                        IV.Posterior Canal Canalith Repositioning Maneuvers / Canalith repositioning procedures (CRPs) / Canalith repositioning maneuvers (CRMs) Γ(INTERVENTIONS)
+                            .Posterior Canal (tots comencen com el Francés, el costat afectat baixa primera)
+                                .Modified Epley (first choice)
+                                    Del Fracés Dix, al Moro menja poma
+                                    Menjem poma després de tot el Ramadan ixe del Bow and Lean
+                                    Volteta completa de contents que estem d'haber menjat
+                                    Al moro hi ha que tindre-lo a 30 graus per baix per ser inferior moralment
+                                    Sempre respeta les pauses de les postracions del Ramadan
+                                    I ha que mantindrelo en vergonya per ser inferior aixina que cap cap a vall cuan l'alçes
+                                .Li maneuver for the posterior canal = ('Li Maneuver.mp4')
+                                    Després del Moro va el Japonés ninja (que està en dos puestos; es l'unic) (que mira fixe xa no perdre de vista a l'oponent) (que es menetja de costat a costat com el Budistes) (es el que més s'aspera; 4 minutes en la última posició que es el seu truc final) (que navia de costat molt ràpid per que es un ninja)
+                                .Semont plus (from Strupp RCT) (no es ni sincer ni mentirós; les seues putes sí; mirar més avall)
+                                    -Després va el Mormó del sermó (que es menetja de costat a castat com el Budistes xq també es Budista); sempre mira al mateix costat (però es mentirós/flas, els seus sermons, i no diu el costat que li fa mal. Fa els seus sermons i passa de tots, gira el cap i va a la seua) (i també es un ser inferior com el moro i el Fracés el fica 30 graus per baix)
+
+                        V.Horizontal Canal BPPV Positional Tests (fer en ordre) Γ(TESTS)
+                            .Bow and Lean Test
+                               Bow & Lean to the horizont
+                                   Geotropic -> nystagmus beats toward affected (la naturaletza de la terra es sincera)
+                                       ¦El joc del Xino que s'inclina per a afirmar
+                                          Li pregunte: ja has fet el rotllito Xino, en terra, que t'he demanat?
+                                             Si (= flexion) → entonces: nystagmus should beat TOWARDS the affected side = Pues molt MAL cotxino! i mira cap a mi diguent sí
+                                                extension) → entonces lo contrari: nystagmus should beat TOWARDS the good side
+                                       ¦SI el rotllito Xino l'ha fet en el banc de la cuina, el torllito no està afectat per la brutea, i la vista va cap al costat bo (o no afectat)
+
+                                   Ageotropic -> Good (el cel es bo perque hi han angels)
+                            .Sit to Supine test (Similar to Lean Test) 
+                                 Lean again (Similar to Lean Test)
+                            .Roll Test (Pagnini-McClure Roll Test) 
+                                 ✗Lean and up (Volteta completa?)
+                                 Geo = sicer, cap el afectat
+                                    sit to supine test
+                                       Al revés:
+                                          nystagmus beat TOWARDS the good side
+                                 Ageo = unnafected (cap al cel on els angles no s'afecten; es elparadís)
+                                    sit to supine test
+                                       Al revés:
+                                          greater nystagmus on the unaffected
+                                 (!!).Falta mnemo per a la interpretació; mirar el video
+                                ------------------------------------------------------------------------------
+                                So: Bow, Lin, Lin, Lin, Up / Els de la sala verda
+                            
+                        VI.Horizontal Canal Canalith Repositioning Maneuvers Γ(INTERVENTIONS)
+                            .Horizontal Canal (va de putes que es giten en horizontal xq son del clan de la terra)
+                                 .Geotropic BPPV maneuvers
+                                    .Gufoni maneuver for geotropic nystagmus (first choice)
+                                       La golfa (mentirosa) es gita a un costat (però mira recte cuan baixa), però no mira al violador (costat afectat)
+                                          mentirosa = geotropic → perque bateja cap a al costat que no li fa mal
+                                             Baixa recte com el ninja xq es una golfa japonesa
+                                                i després mira al costat que no està afectat
+                                          No s'amaga la cara = canalolithiasis
+                                       Es una deprmida perque cuan s'alça es queda mirant cap a vall
+                                    .Li quick repositioning maneuver for geotropic horizontal canal = ('Li for canalithiasis.mp4')
+                                       El germà del Japonés Ninja
+                                          Es sicer com el germà xo no es Budista sino vago (es gita; contrari a maneuver)
+                                          S'agita molt en el llit perque menja molta pma com el Moro
+                                       O
+                                       Si en la primera apració el ninja rotava de costat ara imita a un arbre rodant
+                                          I continua esperanse el que més (2 min.) però la mitat que nates que eren 4 min.
+                                 .Ageotropic BPPV maneuvers
+                                    .Kim maneuver for ageotropic HC BPPV (first choice)
+                                       Pega voltes en el llit amb el vibrador-mansturbador (son pare era Moro)
+                                    .Gufoni maneuver for ageotropic nystagmus
+                                       La golfa (sicera) es gita a un costat, però mira al violador (costat no afectat)
+                                          -sincera = ageotropic → perque bateja cap a un costat xo signifca l'altre (es sicera però diu una mentireta i al final no entra en el cel)
+                                             Baixa recte com el ninja xq es una golfa japonesa
+                                                i després mira al costat que no està afectat
+                                          -Te un praigues on s'amaga la cara = cupulolithiasis x la vergonya de que al final no va entrar al cel
+
+                              Les dos Golfes tenen la pecualiaritat de que baixen al costat que no es el que fa mal            
+                                 La Geo es una Golfa mentirosa (canal cap a l'infern de la terra) i avergonyida
+                                 La Geo es una Golfa sincera (cupula del cel) 
+
+                            ------------------------------------------------------------------------------
+                            ------------------------------------------------------------------------------
+                            .Progressive gaze stability exercise (VOR Adaptation) ¦Reza per a adaptar-te
+                                 .VOR X1 (X1 viewing)
+                                    Vore (VOR) un punt fixe (la creu) mentre es menetja el cap en creu
+                                 .VOR X2 (X2 viewing)
+                                    Lo mateix que VOR X1 peró menejem la creu i el cap en direccions contraries
+                                    Mata vampiros en inspecció
+                                 .VOR plus vergence
+                                    Lo mateix que VOR X1 (un punt fixe (la creu)) però cap a vant i arrere
+                                    Mata vampiros tirachines
+                                 .Unilateral self-initiated head impulses toward affected side
+                                    Després de l'exorcisme amb la creu, les compulsions del cap
+                            .Substitution exercise
+                                 .Imaginary targets (remembered targets)
+                                    El meu test
+                                 .Eye Head saccade exercises (saccadic corrections)
+                                    La mirà i menetjà xulesca
+                            .Habituation exercises (use them carefully and only in select patients):
+                                 La bola disco
+                            .Oculomotor exercises
+                                 .Pencil Pushup
+                                 .Smooth Pursuits
+                                 .Saccades
+                                 .Brock String
+                                 .3-Dot Card
+                            .Static and dynamic standing balance and walking balance exercise 
