@@ -1,0 +1,363 @@
+*Els tituls són orientatius (es deuen a com vaig buscar la informació per a crear el document); en realitat està tot mesclat
+
+Seconds, sc.(FALTA)
+Minutes, min.(FALTA)
+Hours, hs.
+Day, Daily, dy.
+Week, Weekly, Wk.
+Months, Monthly, mth.
+Year, Yearly, yr.
+
+------------------------------------------------------ SECONDS
+Parameters Associated with Stretching Exercises/Interventions
+    Duration of stretch
+        *Research and opinions vary greatly on this and it is likely dependent on the patient and the reason for performing stretch
+            Regardless, it is essential to hold the stretch for greater than the 10-15 second holds
+        For basic flexibility: 
+            30-60 second duration is probably optimal 
+            Combinations of frequency and total duration may influence this 
+            If more bouts of stretching are performed, the duration of each stretch applied may not need to be as long 
+                i.e.;  2 bouts of 60 seconds of stretch may be as beneficial as 4 bouts of 30 seconds of stretch 
+        For significantly shortened tissues: 
+            Duration of stretch should be minutes to many minutes as tolerated 
+            We will discuss this concept in greater detail later. ¿?
+    Frequency of stretch
+        If the patient has no Pathology, daily 
+        With tissue irritability? 
+            2-5 sessions/week
+        ---------------------------------------------
+		How often should one stretch?
+			If the patient has no Pathology, daily 
+		With tissue irritability? 
+			2-5 sessions/week 
+		Examine for signs of inflammation (*See "Exercise Prescription for Stretching")
+
+------------------------------------------------------ MINUTES
+Principles of Fracture Repair [PrinFractRep_]
+    	Hematoma	
+		Tissue Granulation
+		Callus Formation
+			Immature
+			Mature
+		Remodeling
+		Minutes
+		Hours                            
+		Weeks/Months
+			4-6 Weeks
+			2+ months
+		Years
+
+Altman’s Criteria
+    If radiographs of the knee are available for consideration, then the criteria are as follows
+        Morning Stiffness that lasts <30 minutes
+
+SUB_1RM - One-Rep Max
+
+SUB_10RM - Ten-Rep Max
+
+------------------------------------------------------ HOURS
+Dynamic Wrist & Hand Splint
+    12 hours per day
+
+If the pt. reports soreness for 1 or 2 hours after the therapy
+    Quantify the pain (numeric pain scale 1 to 10 NPRS)
+        It would be ok → if it was like 3
+        It would be NOT ok
+            if it would be like 5 and above
+            Pain during hours
+            Not a clear answer here
+
+------------------------------------------------------ DAYS
+Joint mobilization could be inconfortable (8/10 is acceptable), and this is ok as long as we do not put the patient in missery for days
+
+DVT screening of the lower extremity [MSK1_WellCritPredRule]
+    Active cancer (treatment within 6 months, or palliation)
+    Bedridden for more than 3c days because of surgery (Within 4 weeks)
+
+Neuro: PT2060_Mod2_Lecture_Video_2b_Part3.pdf
+    Effects of rehabilitation on plasticity
+        Motor skill training is important
+        Intensity of rehab, and amount of time between injury and start of rehab is important.
+        Early rehab enhances recovery
+            -Rats with sensorimotor lesion, enriched rehab either five or 30 days post injury. Rats who had started at day five had much better use of their impaired forelimb
+            -Excessively/high intensive rehab immediately following a lesion is detrimental to function: CIT in rats worsened the injury and led to long-lasting deficits. Extreme over-use immediately after an injury is detrimental.
+        Improvements can be made, even when rehab is initiated in the chronic phase of an injury
+            May require greater repetitions
+            Task-specific practice/CIMT
+
+Total Knee Arthroplasty (TKA) Rehab
+    Rehab Goals
+        Common inpatient benchmarks
+            Priority Tests and Measures 4 days post-op outpatient setting based on those goals
+        Early Rehab
+            Day 1-7
+            Weeks 1-2
+            Mid - Later Rehab (weeks 2-6)
+
+Heel Pain/Plantar Fasciitis
+    Interventions
+        Stretching
+            Can provide short term relief (2-4 months)
+            Need to perform at least 2x per day
+
+Manual Therapy Post Ankle Fracture
+    Outcomes assessed
+        within 7 days of cast removal, &
+        4 and 12-weeks post removal
+    n = 11 (age 18-64) (immobilized mean 48 days)
+    Results – 
+		-Compared to baseline significant improvement in LEFS and ankle lunge test  (changes persisted at the 12 week mark)
+    
+Appropriate Parameters for Prescribing Range of Motion Exercises
+    PROM
+		Frequency should be once to multiple times per day based on patient tolerance
+
+Exercise Prescription for Stretching
+	What does the evidence say about Duration and Frequency of stretch?
+		Hamstrings                                             30-60 sec daily                         5 days/week
+			                                                   2 min hold, 3x/session                  2 sessions/week
+			                                                   30-60 sec 1x/day VS 30-60 sec 3x/day
+		Calf Stretch (65-89 years old)                         10 rep, 15 sec
+		Hamstrings (around 56 years old)	                   60° > than 15° or 30°                   5 times x week
+		Use of weight enoughto hold position may help in elderly subjects
+	---------------------------------------------------------------
+	Total End-Range Time (TERT) (No tinc clar estes identacions, pot ser que no existixquen com estan ací ¿?)
+		The longer the tissue is at end-range, the better the chance for a permanent change in length
+			Allows for plasitc changes and creep in connective tissue
+			Driving principle behind: low-load, long duration stretching
+			One Source (McClure PW. et al. Phys TIW. 1994):
+				For contractures, start at 60 minutes/day
+			Defer to patient tolerance and signs of lasting inflammation
+		The amount of time at end range is key
+			Do NOT need to be all at once
+			May break it up into several unas during the day
+				I.e.: If you want 60 minutes of TERT in a day you could do the following
+					5 stretches held for 12 minutes each
+					3 stretches for 20 minutes each
+
+HEAL_SoftTissueHealing
+	Stages of Tissue Healing
+        1st Acute Inflamation Stage
+            The Acute Inflammation Stage occurs one to 4 days after injury
+        2nd.Subacute/Repair Stage
+            Occurs three to 20 days (3 weeks) after an injury
+        3rd.Maturation and Remodeling Stage
+            The Maturation and Remodeling Stage begins around 21 days (3 weeks) after an injury
+            After 3 weeks, deposition of collagen fibers occurs in a much more organized fashion
+
+(Γ)Classification of a patient's condition as acute, subacute, or chronic
+    1. Acute
+       - Duration: 0-4 weeks (0-30 days)
+       - Characteristics:
+         * Recent onset of symptoms
+         * Tissue healing phase
+         * High irritability
+         * Rapid changes in symptoms
+
+    2. Subacute
+       - Duration: 4-12 weeks (1-3 months)
+       - Characteristics:
+         * Transition period between acute and chronic phases
+         * Moderate irritability
+         * Some improvement in symptoms, but not fully resolved
+
+    3. Chronic
+       - Duration: More than 12 weeks (>3 months)
+       - Characteristics:
+         * Persistent symptoms
+         * Low irritability
+         * Slower rate of change in symptoms
+         * May involve central sensitization
+
+    It's important to note that these timeframes are general guidelines and may vary slightly depending on the specific condition or the healthcare professional's approach. The classification helps in determining appropriate treatment strategies and understanding the nature of the patient's condition.
+
+    Additionally, some sources may use slightly different cut-off points, such as considering 6 weeks as the transition from acute to subacute. However, the overall concept of progression from acute to chronic remains consistent.
+
+PREC_DenseTissueHealingStage (bone healing) - Stages of Tissue Healing
+    1st.Acute Inflamation/Inflamatory Stage
+        1-4,5 days after injury (highly variable)
+    2nd.Subacute/Repair/Reparative Stage - HEAL_Dense_Subacute
+        3,4-20 days (3 weeks) (total: 1-6 weeks) after an injury
+    3rd.Maturation and Remodeling Stage - HEAL_Dense_Remodeling
+        Healing tissue increases in strength
+		----------------------------------------------
+		Months to years REPE
+		Around 21 days (3 weeks) after an injury
+			0-21 days (Pendent Chart en Captures ¿?)
+				Scar collagen accumulation increases & stabilizes at the end
+			0-21 days(3 weeks)-42 days (6 weeks=a month and 1/2)
+				Breaking Strength increases & stabilizes at the end
+		----------------------------------------------[MSK1_C2.3 "PT 2231_Mod 2_Principles of Fracture Repair.pptx"]
+		Months to years REPE
+
+PREC_BoneHealingStage - Repair/Healing of Bone Tissue in 4 stages
+    2nd.Fibrocartilaginous procallus formation
+        *TYPICALLY # 2-3 DAYS TO 2 WEEKS AFTER FRACTURE (fx)
+    3rd.Callus formation
+		*TYPICALLY BETWEEN # 2-6 WEEKS
+
+Plasticity Changes
+    This patient experiences a lasting change in tissue length and maintains the gains in extension over a couple of days
+        Questions
+            .Based on signs and symptoms from your examination, you suspect that a patient has a lower extremity fracture. However, they report that the radiograph taken on the day of the injury was normal. The ideal time for a follow up x-ray would be in: ¿?
+                2 weeks 
+                2 days 
+                1 month 
+                None of these as a second image is not needed
+
+Commonly Missed Fractures of the Spine, Upper and Lower Extremities
+    Potential fractures should be re-imaged if fracture is not detected on day of onset of symptoms.
+	1-2 weeks post injury, a fracture can be detected since most of the acute swelling has subsided.
+
+Rehabilitation for Total Hip Arthroplasty [MSK1_L07]
+    Early Rehab Stage (first coupple of days in the hospital)
+
+Alternatives to MMT
+    One-repetition maximum testing (estimated one rep max testing)
+        Qualitative Isolation Test
+            NON-STANDARDIZED TESTING
+                -A physical therapist may, in theory, qualitatively assess the performance of any task relevant to the patient’s daily function Assessment 
+
+Strength/Muscle Performance [MSK1_HipMMTAss]
+    Selective Tissue Tension Testing (STT)
+    Strength Testing/Manual Muscle Testing (MMT) for the Hip [Kin]
+        Commonly Tested Muscles (Muscle Performance Testing Priorities)
+            Range of Motion (ROM) Assessment Priorities ("03_03 Mod 3_ROM Considerations of Hip.mp4") & [MSK1_C3.5_ROM&CapsPat]
+                This is based on the tests and measures that are most likely to provide valuable information
+                    Least important to routinely assess during a PT exam (based on daily function)
+
+------------------------------------------------------ WEEKS
+Tendinitis vs. Tendonosus AKA Tendinosous AKA Tendonosous [MSK1_L07] [MSK1_L07_TendVSTend]
+    Tendonosus (more for the elbow)
+        Development of fibrotic unhealthy layers of tissue within tendon
+            If it is going for more than a week or so
+
+-What if a therapy is not effective? Let's say for 6 weeks (a good amunt of time to think about it) of really good interventions
+    Referral to a surgeon (imaging)
+
+Common Mechanisms of Injury ACL vs. PCL Rupture
+    Grafts used for ACL Reconstruction (surgery)
+        Early Quad Strengthening Considerations
+                Early, resisted OKC extension?
+                    Ext from 90°-0° LAQ with no weight - OK
+                        Light cuff weights before 12 weeks?
+                            -Again, that's a little bit of a fog controversial area. Also after 12 weeks, full range extension against higher intensities seems to be just fine.
+                *After 12 weeks, full range EXT against higher intensities
+
+Total Hip Arthroplasty
+    Precautions Post THA
+        Anterior Approach Contraindications
+            Varies by surgeon but avoid
+                It's always a question as to how long patients need to avoid these activities
+                    this is something upon which there's no consensus eithen
+                        I've heard some folks say six weeks to six months and some for life
+
+PROC_ResisTrain - Resistance Training
+	Goals - are to increase
+		Strength
+			 Neural Adaptations VS Hypertrophy Timeline (*See "Neural Adaptations VS Hypertrophy Timeline.png")
+				 In general:
+					 2-3 wks for significant neural adaptations
+					 6-12 weeks for hypertrophy and tissue changes
+					 Strenght comes much later
+
+Manual Resistance Excises (MREs)
+    Basic Principles of Resistance Training
+        Limiting Reversibility/Detraining
+            • 1-2 weeks after cessation
+            STRATEGY #1
+            . 2x/week?
+
+What is the primary purpose of Hx & Physical Exam?
+    Identify (most important)
+        Impaired body structures
+            Impairments vs. Patho-Anatomical Diagnosis (AKA Physiological Diagnosis) [MSK_L02]
+                Impairments (impaired body structures)
+                    Why is identifying patient impairments often more important than identifying diagnosis?
+                        diagnosis is what they had 3 weeks ago, for examle
+
+Embryonic Development of Bone ("Embryonic Development of Bone.png")
+	Week 6
+	Week 7
+    Month 6
+	    Resorption of the central canal has occurred and the medullary cavity has formed
+
+EXTRA-Articular
+	Evaluate and Treat Extra-Articular pathology
+        Proximal tendinopathies (Γ POSTERIOR)
+            Proximal hamstring injuries
+                Hamstring strain ¦PROTA_MNEMO_JoYoKung-FuSplash Center
+                    Grades:
+                        (I)- Mild strain (1-3 wks)
+                        (II) - Partial tear (4-8 wks)
+                        (III) - Complete tear or avulsion (3-6 months)
+
+------------------------------------------------------ MONTH
+Heel Pain/Plantar Fasciitis
+    Clinical course of pathology:
+		Some moderate evidence to suggest 80% will have resolution of symptoms within a 12-month period
+    Interventions
+        Orthotics:
+                Short term pain relief (3 months) and improved function 
+                No evidence for prolonged use of greater one year
+            Night splints:
+                When symptom duration is greater than 6 months, night splints should be considered
+                Should be worn for 1-3 months
+    Effect of Foot Orthoses for Plantar Fasciitis: Landorf KB (2006)
+				Outcome Measures:
+					Primary – 
+						Pain and function at 3 and 12 months (Foot Health Status Questionnaire)
+				Conclusions:
+					Pain
+					Function
+						Significant at 3 months for prefab and customized
+						Significance lost at 12 months
+
+TABLE 1: Characteristics Associated with Adhesive Capsulitis Stages [MSK2__PrimAdhesiveCapsul_Stages] [5Hmb.1]
+    ¦Li pege i toque (me'n aprofite d'una tia amb un nuchacu de 3 seccions; la tia de la película de Frozen)
+    Stage
+        Time Period
+            Presentation
+    --------------------
+    Stage I - Pre-Freezing
+        0 – 3 months ¦La cosa comença a estar mal en els dos aspectes: dolor i moviment
+            Achy at rest and sharp at end ranges
+            ROM mild to moderately limited in capsular pattern (ER > ABD > IR/FLEX)
+                ¦Bofetó a la cara del revés / el signe de PARA! / batecul i toca chona
+    Stage II - Freezing ¦La cosa es fica pitjor
+        3 – 9 months
+            Worsening pain at rest and with motion
+            Further loss in the capsular pattern
+    Stage III - Frozen Γ(longest time) ¦La dolor remitix però el moviment empijora
+        9 – 14 months
+            Pain receding / May be pain-free at rest
+            ROM marked loss in a capsular pattern
+                ¦3 palets =
+                    major cantitat de temps i mobilitat (nunchaku de 3 seccions és més mòvil; doncs tot lo contrari)
+                    3 pastilles lleven el dolor millor que 1 o 2
+    Stage IV - Thawing ¦La cosa millora
+        14 – 25 months (and beyond)
+            Processes are reversing
+    --------------------
+    (Γ)A mesura que el temps aumenta
+        0 to ≥ 25
+            -El dolor aumenta hasta els 9 mesos i disminuix a partir dels 9 mesos; pot desapareixer >14 mesos
+            -El moviment disminuix hasta els 14 mesos i es pot recuperar a partir dels 14 mesos
+
+
+------------------------------------------------------ YEARS
+1.Hip Fractures & Dislocations
+    Fractures
+        -9/10 Hip fractures occur in patients older than 65 years.
+            -Hip fractures in this population are considered very serious because they have up to a 24% mortality rate at two year follow-up!
+
+Patients with OA tend to be >50 years age
+
+Age < 12 or age > 50 years
+    Age < 12 or age > 50 years
+
+Strain of the Gastrocnemius
+    These injuries are most common in athletes >30 years of age and are VERY easy to re-injure
+
+Winquist and Hansen classification system
+    -2-A simple oblique-transverse fracture without comminution (Winquist-Hansen Grade 0) of a femur that had a distal femoral fracture treated with a plate 16 years earlier.

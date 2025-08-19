@@ -1,0 +1,217 @@
+
+.Mini Menú Hip mmm.Hip
+	.Types of conditions that commonly present by location ("Hip Conditions By Location.png")
+		Anterior
+			Symptoms presenting here tend to be associated with pathology affecting the
+				joint surfaces
+				hip flexors
+				iliopsoas bursa
+		Lateral
+			Symptoms presenting here tend to be associated with
+				gluteal pain syndrome
+					greater trochanteric bursitis
+					gluteus medius pain syndrome
+		Posterior (REFERRED)
+			This is the least common referral pattern of the hip but when present more likely associated with pathology of the pathology of
+				hip extensors, or
+				hip external rotators
+		Groin (REFERRED)
+			Refers from multiple hip anatomy structures; No clear pattern.
+
+	.Hip and Knee Flexibility Tests
+		2-Joint-Muscles
+			ITB & TFL
+				Ober’s Test & Modified Ober’s Test
+				Thomas Test (Iliopsoas & Rectus Femoris)
+				Hip Flexors Test
+				Hamstring Length Test / Hamstring Test
+		1-Joint-Muscles
+			Piriformis Test/Flexibility (Piriformis Length)
+			Adductors Test
+
+	.Special Tests for the Hip
+		Intra-Articular Tests - Tests to Assess the Condition for Intra-Articular Pathology
+			FADIR’s Test
+			Axial Loading Various Positions
+			Scour Test
+		Resisted Straight Leg Raise (SLR)
+		1st.Log Roll Test
+		2st.FADIR Test
+		3nd.Scour Test
+		Chronic Groin Pain
+			Squeeze Test
+		Femoral Retro/Anteversion
+			Craig’s Test AKA Ryder Method
+		Capsular Hypermobility/Instability
+			Log Roll (anterior hypermobility)
+			Anterior Apprehension Test AKA HEER Test
+		True Leg Length Discrepancy
+			Leg length measurement
+		Proximal ITB Syndrome/Snapping Hip Syndrome (Lateral)
+		General Hip Pathology or Spine/SI Joint
+		Gluteal Pain Syndrome
+			Gluteal De-Rotation Test
+		Piriformis Syndrome
+			Piriformis Test
+
+	.Location of hip symptoms
+		Location
+			Deep structures
+			Superficial structures
+		Convergence (of nerves) & Referred Pain
+
+	.Overview of Hip Conditions
+		The Treatment-Based Classification (TBC) Approach
+			1stQuestion.Hip vs. Lumbosacral Spine
+			2ndQuestion.Extra-Articular vs. Intra-Articular
+				INTRA-Articular
+					Labral Injury
+						Traumatic injury
+						Impingement REPE↓
+						Hypermobility/Osteoarthritis (OA) REPE↓
+					Osteoarthritis (OA)
+						Impingement REPE↑
+						Hypermobility/Osteoarthritis (OA) REPE↑
+						Hypomobility/Osteoarthritis OA
+					------------------------------------------------------------------------------
+					1.Hip Fractures & Dislocations
+						Fractures
+						Dislocations
+					2.Osteoarthritis (OA)
+					3.Pathology affecting the Acetabular Labrum/Labral pathologies
+						Femoral Acetabular Impingement (FAI)
+							Cam FAI
+							Pincer FAI
+						Hypermobility/capsular laxity
+							Global Laxity (genetics)
+							Focal Laxity
+							------------------------------------------------------------------------------
+							Congenital Hip Dysplasia
+						------------------------------------------------------------------------------
+						Acetabular labral tears
+						FAI/Acetabular labral tears
+					4.Avascular Necrosis
+
+	.THER EX for the hip 
+
+	.JOINT MOBILITY RUBRIC
+
+	.Immersion2A - Structuring your Physical Examination
+		MSK1 - Hip - Comprehensive Skills List
+			1.General Flow of an MSK Exam
+				Lumbar Motion Screen
+			2.Joint Mobility Assessment - General
+			3.Joint Mobility Assessment – Hip
+				Hip Joint Long Axis Distraction ← Accessory Motion Testing
+			4.Lower Quarter Screen
+				Dermatomes - Sensation
+				Myotomes
+				DTRs
+			5.Pathologic Reflexes
+				Babinski
+				Hoffman’s
+			6.Palpation of Hip Bony Landmarks
+			7.Hip Range of Motion Assessment
+			8.Hip MMT/Strength Testing
+			9.Special Tests
+				FADIR’s
+				Scour
+				Squeeze (groin)
+				Log Roll Test
+				Anterior Apprehension Test
+				Leg Length Discrepancy Measurement
+				Dynamic Ober’s (NEW)
+				FABER’s
+				Gluteal De-Rotation Test
+				Piriformis Test
+				ΓCraig’s Test
+				ΓResisted SLR
+			10.Functional Testing
+				Single Leg Stance
+				Squat
+				Single Leg Squat
+				Lateral Step Down
+			11.Basic Hip Strengthening Exercises
+				Clamshells
+				Sidelying Hip Abduction
+				Gluteal Setting
+				Prone Hip Extension
+					General
+					Glut Max
+				T-Band Hip ABD/ER in Hooklying
+				Standing
+					Hip ABD
+					Hip Ext
+					Marching
+			12.Advanced Hip Strengthening Exercises
+				Quadruped ER/ABD
+				Isometric ER on Wall
+				Single Leg Stance T-Band Trunk Rotation
+				Lunge w/ABD T-Band Moment
+			13.Balance Exercise Progression
+			14.Gait Training for Hip Impairments
+				Wt Shifting
+				Repeated Stepping
+			(Γ)15.Elasticity Tests
+				90/90 Test
+				Thomas Test
+				Ely’s Test
+				Modified Ober’s Test
+
+.Collective term for disorders of chronic pain due to involvement of anatomical structures in region of pubic tubercle which can include
+	The information provided is fairly detailed but could benefit from clarification and restructuring to ensure anatomical accuracy and better readability. Below is a revised and corrected version:
+
+	---
+
+	### **Anatomical Structures in the Region of the Pubic Tubercle**
+
+	#### **Structures Attaching to the Pubic Bone:**
+	From lateral (out) to medial (in):
+	1. **Muscles:**
+	   - Pectineus muscle
+	   - Adductor longus muscle
+	   - Adductor brevis muscle
+	   - Obturator externus muscle
+
+	2. **Abdominal Muscles (Superior to the Pubic Bone):**
+	   - External abdominal oblique muscle
+	   - Internal abdominal oblique muscle
+	   - Transversus abdominis muscle
+	   - Pyramidalis muscle (if present)
+	   - Rectus abdominis muscle
+	   - Psoas minor muscle (if present)
+
+	3. **Ligaments and Tendinous Structures:**
+	   - Inguinal ligament (runs from the anterior superior iliac spine to the pubic tubercle)
+	   - Linea alba (midline tendinous structure extending from the xiphoid process to the pubic symphysis)
+
+	#### **Other Relevant Structures:**
+	1. **Pubic Symphysis:**
+	   - The cartilaginous joint uniting the left and right pubic bones.
+
+	2. **Soft Tissue Surrounding the Pubic Rami:**
+	   From lateral (out) to medial (in):
+	   - **Muscles:**
+	     - Iliacus muscle
+	     - Psoas major muscle
+	     - Iliopsoas muscle (formed by the union of the iliacus and psoas major muscles)
+	   - **Bursa:**
+	     - Iliopsoas (iliopectineal) bursa
+	   - **Ligaments:**
+	     - Pubofemoral ligament
+	     - Iliofemoral ligament
+
+	---
+
+	### **Additional Clarifications:**
+	1. **Above the Pubic Tubercle:**
+	   - The abdominal wall muscles (external and internal oblique, transversus abdominis) attach indirectly to the pubic tubercle and surrounding structures via their aponeuroses.
+	   - The rectus abdominis muscle inserts on the pubic crest and pubic symphysis.
+
+	2. **Posterior to the Pubic Bone:**
+	   - Obturator internus and the pelvic diaphragm may also be considered if extending the regional focus.
+
+	3. **Variations:**
+	   - The pyramidalis muscle and psoas minor muscle are not consistently present in all individuals.
+
+	This revision provides a clear, organized approach, grouping structures by their anatomical relevance and proximity to the pubic tubercle.

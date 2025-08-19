@@ -1,0 +1,363 @@
+-*Consultar "FOOT AND ANKLE PATHOLOGIES COMMONLY MANAGED BY PHYSICAL THERAPISTS::MSK1 Cases Research.txt" per a completar el back bone perfectament!!
+
+-Pas.1a. Read the case or interview the pt. if there not one
+	What I want to know from this first step?
+		What is the CC?
+			Exact location of the pain
+-Pas.1b. Γ Hypothesis (differential diagnosis) ¿?
+	Γ To do this step you need to:
+		1st, know ver well the pathology [MSK1_TheWhyExamin]
+			For each element of the "Pathology"
+				2nd, Match possible elements of the "Historical Features"
+					Now, you know what to ask the patient to this respect that could not be in the "History" previous to the interview
+						Research their lives, their sports, etc. 
+-PasX. What questions would you ask to determine the SINSS?
+	Same philosophy as: (See [MSK1_TheWhyExamin])
+		
+-PasX. What findings would you expect for: Foot Posture?, AROM & PROM?, Resistive Testing/Strength?, Joint Mobility Testing?, Flexibility Assessment?, and Palpation?
+	(Γ)You can skeep this step since we are going to find out on the "Physical Exam"
+		However, you should start havinf an idea of what to spect so we can be more carefull during the "Physical Exam."
+-PasX. Physical Exam - Common Specific PT Exam Components Usually include: [MSK_L01] [KIN] [MSK_PTExamComp]
+		Collecting data from tests and measures performed [MSK1_C1.2] [MSK1_Test&Measur]
+		-------------------------------------------------
+		GENERAL
+			1.Global Observation (AKA inspection)
+				Γ*Same philosophy as: (See [MSK1_TheWhyExamin]) but also, take in account all the next since you can discover new things
+				Posture Assessment (before the history vs. [after the history]) REPE
+					-Viewing the patient in a static position to notice abnormalities, or the lack thereof, that may be related to the condition and resulting complications
+						Standing
+						Seated
+						Etc...
+				--------------------------------- 
+				Reasons for performing observation may include identification of: 
+					Postural and alignment abnormalities (as discussed in KIN 2229)
+					Muscle
+						atrophy
+						hypertrophy
+						spasm
+					Bony mal-alignments
+					Integumentary anomalies
+						scarring
+						discoloration
+						possible malignant growths
+						etc.
+					Signs of inflammation
+						swelling
+						redness
+					Painful body regions (as evidenced by the manner in which the patient holds or positions him/herself)
+					Overall patient
+						demeanor (conducta/comportamiento)
+						mood
+						disposition
+					Evidence of certain movement patterns (callouses on hands and feet, wear-pattern on the shoes)
+					And many others
+				Good Practices for Observation/Inspection [MSK1_C1.4]
+					Informal observation
+						When is the first time you should perform observation?
+							As soon as you see them - Begins when you first lay eyes on the patient
+								since they do don't know you are watching them (this plays on your advantage)
+									They can bias their movements involuntarily or voluntarily for their personal purposes
+								Posture Assessment ([before the history] vs. after the history) REPE
+									Standing
+									Seated
+									Etc...
+					Formal Observation
+						-After taking the history but before beginning other parts of the physical exam, perform formal observation first with EVERY SINGLE PATIENT
+							LEBEC’S GOLDEN RULE OF OBSERVATION:
+								-*They could have surgeries that they do not remember or they consider too far in time to be important
+								-------------------------------
+								Always LOOK before you touch or ask the patient to move
+								Look before they move
+								Observe everyone
+					Observed Body Regions
+						-Unless it involves a very sensitive area, you should be able to view as much as possible of the observed body region on bare skin, not through the outline of clothing or other coverings
+							Use gowns, drapings, or other means to expose the area without exposing sensitive areas
+							Not doing this is a major pet peeve of CI’s everywhere
+								-Γ The sentence "Not doing this is a major pet peeve of CI’s everywhere" implies that failing to perform a certain action or behavior is a significant annoyance for clinical instructors (CIs) in various places or settings. In this context, a "pet peeve" refers to a particular habit or behavior that greatly irritates or bothers someone. The term "CI's" likely refers to clinical instructors, who are individuals responsible for supervising and mentoring students in a clinical setting, such as a physical therapy clinic. Therefore, the sentence suggests that there is a common expectation among clinical instructors for students to perform a specific action, and failing to do so frustrates them.
+						------------------------------------------------- [MSK_L01]
+						When performing a posture assessment, the most important practice to consistently implement is to:
+							✓Maximally expose the patient’s trunk & spine
+			2.Functional Assessment
+			3.Cardiopulmonary Assessment
+			4.Integumentary Integrity
+			5.Basic Neurological Screening (Quína es la diferencia entre este el "Neuromuscular Assessment" (més avall)? ¿?)
+		-SPECIFIC - List specific versions of each tests and measures you would perform for this individual during your physical examination: Observation & Inspection, Gait & Posture, AROM & PROM, Muscle performance testing (MMT & STT), Functional testing, Flexibility, Joint mobility, Balance & Proprioception, Palpation, Special tests.
+			6.Musculoskeletal Assessment
+				-*Have a idea of what structures may be implicated from the previous steps, so we can rule out/in any before trying Special Test later on
+				---------------------------------------------------------------
+				Joint Screening (or testing ¿?)
+				Range of Motion (ROM)
+				Joint Mobility
+				Flexibility Test/Muscle Length Test
+				Gross Strength/Muscle Performance MMT
+				Special tests
+				Palpation
+			7.Neuromuscular Assessment
+				Somatosensory Testing
+				Coordination
+				Balance
+				Cranial Nerve Testing
+				Upper Motor Neuron Testing UMN
+                    --------------------------------------------------------
+                    Another list of possibilities
+                        Observation & Inspection 
+                        Gait & Posture
+                        AROM & PROM 
+                        Muscle performance testing (MMT & STT) 
+                        Functional testing 
+                        Flexibility 
+                        Joint mobility 
+                        Balance & Proprioception 
+                        Palpation
+                        Special tests
+						(See also: (See [MSK1_ApartatsPathology]::04 MSK1 Ankle&Foot All.txt)
+-PasX. Establishing the Treatment Goals "ABCDE" (Audience, Behavior, Condition, Degree, & Expected Time Frames).
+-PasX. What tests and measures do you think you would need to repeat or add on subsequent visits?.
+-PasX. As patien Recovers & Progresses, consider:
+    Early in the recovery process (weeks 1 & 2)
+        a) In-clinic interventions
+            1. Pain management & Swelling
+                Modalities/Cryotherapy
+                Elevation
+                Non-steroidal anti-inflammatory drugs (NSAIDs)
+                Massage
+                Education
+            2. Restoring range of motion (ROM)
+                Manual Therapy/Joint Mobilizations within the limits of tissue healing
+            1. Strengthening
+                Isometrics
+            3. Minimizing gait deviations
+                Gait training
+                Use of assistive devices
+        b) Home Exercises
+    Midway through recovery (week 3)
+        a) In-clinic interventions
+            x. Manual Therapy
+            1. Progressive strengthening/Therapeutic Exercises
+                Concentric exercises
+            2. Neuromuscular Control & Proprioceptive Training
+            3. Functional rehabilitation
+        b) Home Exercises
+    Towards the end of recovery (week 4+)
+        a) In-clinic interventions
+            1. Progressive strengthening
+                Excentric exercises
+                Plyometric exercises
+            2. Return to activity progression
+            3. Comprehensive rehabilitation
+            4. Patient education and self-management
+        b) Home Exercises
+            ---------------------------------------------------- Structural Variation to take the notes
+            a) What in-clinic interventions 
+                Early Phase (Weeks 1 & 2)
+                Mid Phase (Week 3)
+                End Phase (Week 4+)
+            b) Home Exercises would you address the impairments in the early phase, the mid phase, and the end phase?.
+                Early Phase (Weeks 1 & 2)
+                Mid Phase (Week 3)
+                End Phase (Week 4+)
+-PasX. What would be the interventions for these Impairments? Or what impairments associated with these findings? How you would treat them? For example: for Chronic Inflammation, Extreme/Excessive Foot Posture, Decreased Talocrural Joint Mobility, Decreased Flexibility, Painful/Possibly limited ROM, Hip Muscle Weakness, Proprioception, etc. (complete this information if somehing is missing).
+
+PENDENT de consensuar dalt (!!) From Hip document
+	BACKBONE/SUMMARY
+		0st_Hist.
+		    Consideration to derive the treatment 1 - Age
+		    How they walk & general state
+		Stablish relaationship & SUBJECTIVE
+		    1st_Q. to 3th_Q.
+		        What I want to get primarily, If can, from  is:
+		            Consideration to derive the treatment 2 - Severity of the issue/pain
+		                Is it one of those: (¦ROMNoP) REPE
+		                    Pain
+		                    Neurological
+		                        Numbness
+		                        Tingling
+		                    ROM deficit (¦SWaP)
+		                        Stiffnes
+		                        Weakness (¦PAN)
+		                            Atrophy
+		                            Neurological
+		                            Pain
+		                        Pain
+		            Early Hypothesis
+		                Can we treat or refer?
+		                Lumbosacral or Hip? REPE
+		                    If Hip, Intra- (Non-Contractile) or Extra- (Contractile)? REPE
+		OBJECTIVE
+		    PHYSICAL EXAM - Confirmation of Hypothesis from Subjective
+		        General Flow of the MSK Exam
+		            -Lumbosacral or Hip? (See [PROC_MSK1_TBCHip]) Treatment-Based Classification Approach (Γ TBCA) vs. Treatment-Based on Patho-Anatomical Diagnosis AKA Classification-Based Treatment
+		                Initial Considerations (See [MSK1_CoreStepsHowTo])
+		                Positioning optimization considerations in mind already (See: [MSK1_PositElementsClassif]::"From MSK1")
+		                    Then we find out
+		                        If Hip, Intra- (Non-Contractile) or Extra- (Contractile)? REPE
+		                            If Extra-:
+		                                Is it one of those: REPE
+		                                    Pain
+		                                    Neurological
+		                                        Numbness
+		                                        Tingling
+		                                    ROM deficit
+		                                        Stiffnes
+
+PLANTILLA (From Cases Research .doc)
+---------------------------------------------------------- Breaking Up
+----------------------------------------------------------
+1. Tests and Measures: (can skeep "a)")
+	1.a) Hypothetic Findings for Each Differential Diagnosys: (for Plantar Fascitis)
+		- Foot Posture:
+		- Gate
+		- AROM & PROM:
+			(both ¿?)
+			AROM
+			PROM
+		- Resistive Testing/Strength:
+		- Joint Mobility Testing:
+		- Flexibility Assessment:
+		- Palpation:
+	1.b) Real Tests and Measures:
+		*Some types of tests/measures would not be necessary/appropriate
+		*Be specific
+		----------------------------------------------------------------
+		Observation & Inspection 
+		Gait & Posture
+		AROM & PROM 
+		Muscle performance testing (MMT & STT) 
+		Functional testing 
+		Flexibility 
+		Joint mobility 
+		Balance & Proprioception 
+		Palpation
+		Special tests
+			----------------------------------------------------------------
+			- Observation & Inspection:
+				Observe ...↓ for signs of compensation.
+					Posture
+					Gait
+			- AROM & PROM (both):
+			- MMT:
+			- Functional Testing: (investigar millor(!!))
+			- Flexibility:
+			- Joint Mobility:
+			- Balance & Proprioception: Evaluate static and dynamic balance.
+				✗Not in the first visit
+			- Palpation:
+
+2. Repeat/Add Tests:
+- Reassess ankle dorsiflexion and toe extension range of motion.
+	(See: AROM & PROM?)
+- Monitor changes in pain intensity and functional abilities.
+	(See: Functional Testing?)
+- Assess improvements in strength and flexibility.
+	(See: MMT?)
+
+3. Questions for SINSS: (See [MSK1_SINSS])
+	*Completa realisticament com t'ajuden estes preguntes i les preguntes per cada punt; aixin ja ho tindrás fet (!!) 
+	SIN1.
+		SIN1.a.
+			SIN1.a1.
+				SIN1.a1.A.
+					-How would you rate the severity of your pain on a scale from 0 to 10?
+				SIN1.a1.B.
+				SIN1.a1.C.
+			SIN1.a2.
+	SIN2.						
+		SIN2.a.
+			-Is your pain worse in the morning or after prolonged periods of standing or walking?
+				(It seem s a Where? questrion ¿?)
+		SIN2.b.
+	SIN3.
+		SIN3.a.
+			-Inflammatory: Have you noticed any swelling or redness in the affected area?
+		SIN3.b.
+			-How has your pain affected your daily activities or exercise routine? REPE
+	SIN4.
+		SIN4.a.
+			Functional Limitations:
+				-How has your pain affected your daily activities or exercise routine? REPE
+			Response to Previous Interventions:
+				-Have you tried any treatments or interventions for your pain? If so, what was the response?
+		SIN4.b.
+
+4. Treatment Goals "ABCDE" (Audience, Behavior, Condition, Degree, & Expected Time Frames):
+	*This is a generic one b/c we did not have much to thi respect from the pt.
+	- Audience: The patient
+	- Behavior: ___
+	- Condition: During ___ activities.
+	- Degree: Achieve measurable improvements in pain levels, functional abilities, strength, and flexibility?.
+	- Expected Time Frames:
+		- Short-term (0-_ weeks): __
+		- Intermediate-term (_-_ weeks): ___
+		- Long-term (_+ weeks): ___
+	FINAL SENENCE:
+		-___
+
+5. Intervention for Impairments - Recovery & Progression:
+	*(Strength Progression: Isometrics → Concentrics → Eccentrics)
+	*Respect the order you see here & progress as tolerated
+	*Adress interventions for the specific impairments
+		Proper to the the condition
+			General List (per refinar (!!))
+					Muscle Weakness
+					Decreased Joint Mobility
+						Muscle Weakness
+							Nutritional Deficiencies
+						Joint Stiffness
+						Painful/Possibly limited ROM
+						Soft Tissue Restrictions
+						Pain
+					Chronic Inflammation
+					Swelling and Edema
+					Extreme/Excessive Foot Posture
+					Decreased Flexibility? (Calf, Other LE Tissue)
+					Decreased Balance and Proprioception
+					Postural Dysfunction
+						Extreme/Excessive Foot Posture
+					Neurological Deficits
+					Cardiorespiratory Impairments
+					Functional Limitations
+					Gait Abnormalities
+					Muscle Imbalance
+					Scar Tissue Formation
+					Cognitive Impairments
+					Psychosocial Factors
+					Biomechanical Dysfunction
+					Environmental Barriers
+					Medication Side Effects
+					Fear of Movement
+					Sensory Deficits
+		Specifics to the pt.
+	--------------------------------------------------------------
+	- Early Phase (Weeks 1 & 2)
+		a) In-Clinic Interventions:
+			General Impairments
+				Pain Management & Inflammation (Chronic Inflammation?)
+				Joint mobilizations (Manual therapy techniques) (before Stretching and Strengthening)
+					Improve ankle mobility
+				Painful/Possibly Limited ROM
+					pain-relieving modalities and gentle mobilization techniques
+				Stretching / Decreased Flexibility
+				Progressive Strengthening Exercises
+					*(Isometrics or Concetrics as tolerated) (No sé qué és massa o adequat ací ¿?)
+					---------------------------------------------------------------------
+					Strengthening of
+			Specific impairment for thr pt. & condition
+				___
+				___
+		b) Home Exercises:
+			- Calf stretches using a wall or towel.
+  			- Towel scrunches and marble pickups for intrinsic foot muscle strength.
+  			- Plantar fascia stretches using a towel or foam roller.
+  			- Ankle mobility exercises such as ankle alphabet or dorsiflexion stretches
+	- Mid Phase (Week 3)
+		a) In-Clinic Interventions:
+			Progress to more aggressive stretching and strengthening exercises, incorporate proprioceptive training.
+			Proprioception:
+				Enhanced through balance and proprioceptive training exercises.
+		b) Home Exercises:
+			¿?
+	- End Phase (Week 4+)
+		a) In-Clinic Interventions:
+			Gradually return to functional activities and sports-specific exercises, continue strengthening and flexibility program.
+		b) Home Exercises:
+			¿?

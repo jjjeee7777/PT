@@ -1,0 +1,23 @@
+[☠.MSK3] [☠.4W] Musculoskeletal PT III
+
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+Wrist Comprehensive
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+
+MMTs
+	Flexion
+	Extension
+	Pronation
+	Supination
+	Radial Deviation
+	Ulnar Deviation
+
+Flexibility Assessment
+	Flexion
+		Keep the elbow extended, with the fingers and thumb relaxed. Extend the wrist without radial or ulnar deviation.
+		For normal flexibility, the wrist should be able to extend through its full range. The fingers may flex.
+	Extension
+		Keep the elbow extended, with the fingers and thumb relaxed. Flex the wrist without radial or ulnar deviation.
+		For normal flexibility, the wrist should be able to flex through its full range. The fingers may extend.

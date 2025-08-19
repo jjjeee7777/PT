@@ -1,0 +1,1392 @@
+//////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+INDEX
+//////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+
+.Llegenda
+.Measurements
+	-Measurements - UQ
+	-Measurements & Axes - LQ
+.Open/Closed-Packed Positions
+	-UQ
+	-LQ
+	-O/C-PP UQ & LQ From "clinical-kinesiology-and-anatomy.pdf"
+.Degrees of freedom (DOF) ☠
+.Arthrokinematics (Open Chain vs. Close Chain/Concave-Convex Rule/Roll & Glide) - (Biomechanics)
+.Capsular Pattern & Restrictions
+	*(Passive/Active Restraints)
+	-Capsular Pattern
+	-Restrictions (Passive/Active Restraints) - UQ
+	-Restrictions - LQ
+.Other measurements
+.Other Non-Related
+
+//////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+Llegenda
+//////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+
+Normal Ranges Involved:
+    *(K)=From Kines (A)=From Anat
+    *(maximally limited) (very limited) (limited) (slightly limnited) (normal)
+
+°:°
+~: Aproximately
+Around: ¿?
+Up to: ¿?
+Average: ¿?
+≈: ¿?
+OKC Open-Kinetic Chain (OKC)
+CKC Close-Kinetic Chain (OKC)
+OPP Open-Pack Position
+CPP Close-Pack Position
+-: Un guió simple
+(-): Un número negatiu
+REPE!!: Informació repetida
+☢ Per on m'he quedat 
+☠/¿? Revisar/Pendent/Falta
+¿? Dubte
+Tension ≠ Congruengy/Concordancy
+Restraints/Restrictions/Limitations
+
+//////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+Pendents de Investigar i Afegir a Este Document ¿?
+//////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+
+.List of all Force Coupples
+.list of all ° of freedom
+.Type of jont
+.List of all the articulations on the body
+.List of all bones of the body
+
+
+//////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+Measurements
+//////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+
+Mini Menú
+	.Measurements - UQ
+		.Atlanto-Occipital (A/O) Joints
+		.Atlanto-Axial (A/A) Joints
+		.Scapulothoracic Joint (STJ)
+		.Glenohumeral (GH) Isolated
+		.Glenohumeral (GH) & Scapulothoracic (ST) Joints
+			.Scapulohumeral Rhythm
+		.Shoulder Complex/Shoulder Girdle
+		.Elbow joint
+			.Humeroulnar Joint (HU)
+			.Radioulnar Joint (RU)
+		.Wrist
+			.Radio-Ulnar/Radioulnar/Forearm Joint
+				.Wrist (Radiocarpal Joint - Not Ulna participating)
+				.Radio-Ulnar/Radioulnar Proximal Joint
+		.Metacarpophalangeal Joints (MCP)
+			.2nd to 5th fingers
+			.Thumb
+			.Functional
+		.Interphalangeal joints (IP)
+			.Interphalangeal
+			.Proximal Interphalangeal (PIP)
+			.Proximal Interphalangeal
+			.Distal Interphalangeal
+		.Spine
+			.Thoracic Spine
+			.Lumbar Spine
+	.Measurements & Axes - LQ
+		.Innominate moving about fixed sacrum
+		.Sacroiliac Joint (SI)
+		.Pubic angle of a typical female pelvis
+		.Hip - Femur on Acetabula
+		.Tibiofemoral Joint - Knee
+		.Sagittal Plane Motion of the Foot
+		.Frontal Plane Motion of the Foot
+			.Frontal Plane motion in foot & ankle
+		.Midtarsal Joint Axis
+			.Oblique Axis
+			.Longitudinal Axis
+		.Talocrural Joint Axis
+			.Transverse Plane Motion of the Foot
+				.Transverse plane motion in the foot and ankle
+			.Triplane Motion of the Foot
+				.Supination
+				.Pronation
+			.1st MTP
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+.Measurements - UQ
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+.Atlanto-Occipital (A/O) Joints - Upper Cervical (Occiput on C1)
+	Flexion:     ~10°
+	Extension:   ~25°
+	Sidebending: ~5°
+	Rotation:    N/A ¿?
+
+.Atlanto-Axial (A/A) Joints - Upper Cervical (C1-C2/C1 on C2)
+	Rotation:          ~45
+	Flexion/Extension: ~10°
+	Sidebending:       N/A ¿?
+
+.Scapulothoracic Joint (STJ)
+	10°-20° of anterior tilt 
+	5°–10° of upward rotation 
+	35° of internal rotation
+
+.Glenohumeral (GH) Isolated
+	Flexion/extension:              120°    
+	Abduction/adduction:            120° 
+	External/internal rotation:     90° & ≈65° 
+	Horizontal abduction/adduction: 
+
+.Glenohumeral (GH) & Scapulothoracic (ST) Joints
+	Flexion:              150°-180°
+	Extension:            50°-60°
+	Abduction:            150°–180°
+	Adduction 
+	External rotation:    90°
+	Internal rotation:    50°-60° 
+	Horizontal abduction:
+	Horizontal adduction:
+	-------------------------------------------
+	.Scapulohumeral Rhythm
+		.Scapulohumeral rhythm is the movement relationship between the shoulder girdle and shoulder joint. After the first 30°, for every 2° of shoulder joint flexion or abduction, the shoulder girdle rotates upwardly 1°.
+		.The first 30° of shoulder joint motion is pure shoulder joint motion. However, after that, for every 2° of shoulder flexion or abduction that occurs, the scapula must upwardly rotate 1°. This 2:1 ratio is known as scapulohumeral rhythm.
+
+.Shoulder Complex/Shoulder Girdle (the 4 articulations):
+    Flexion: (In general 160-180°)
+    	Flexion (from Extended)
+			0° to 90
+		Flexion (from 90°)
+			90° to 160-180°
+			90° to 150°-180°
+	Extension: 50°-60°
+    Abduction: 170°-180°
+    	Abduction (total)
+			120°
+    Internal Rotation: 60°-70°
+    	At 90° of abduction
+			60°-70°
+			50°-60°
+			≈65° 
+    External rotation: 80°-90°
+    	45°
+		At 90° of abduction
+			80-90°
+			90°
+
+.Elbow joint
+	.Humeroulnar Joint (HU) (mainly¿?) + Humeroradial Joint (HR)
+		*With Forearm Pronated, Mid-Pronated, Supinated
+		Flexion & Extension (elbow range of motion):
+			Active Restrain (with)
+				-From 5° of hyperextension to 150° of flexion (5°-0°-150°): [1°-145° (up to 10°)] = 5°+5°=10°
+				-0°–145°
+					Up to 10° hyperextension is normal
+					Limited by apposition of contracting anterior muscles.
+			Passive Restrain (with)
+				-160°
+					Limited by bony contact and posterior soft tissue tension.
+		Hyperextension
+			Up to 10°
+				Fully Flexed = 0° or 5°–10° of Hyperextension due to ligamentous laxity.)
+	.Radioulnar Joint (RU)
+		Pronation:  90°
+		Supination: 90°
+
+.Wrist
+	.Radio-Ulnar/Radioulnar/Forearm Joint (No part of the Elbow Joint in some sources)
+		.Wrist (Radiocarpal Joint - Not Ulna participating) (Could imply Midcarpal sometimes) (Palm-Wrist ¿?)
+			Average: 
+				Flexion:          85°-90°//80°-90°
+				Extension:        70°-80° 
+				Radial deviation: 20°-25° 
+				Ulnar deviation:  30°-35°
+			Functional: 
+				Flexion:          10°
+				Extension:        35°
+				Radial deviation: N/A 
+				Ulnar deviation:  N/A
+		.Radio-Ulnar/Radioulnar Proximal Joint (Elbow area; Radial Notch of Ulna) (Spin)
+			Average: 
+				Pronation         0°-80°//80°-90° (on Radial Notch)
+				Supination        0°-65°//90°     (on Radial Notch)
+			Functional: N/A
+
+.Metacarpophalangeal Joints (MCP)
+	*More flexion range of motion in the 4th and 5th digits than the 2nd and 3rd.
+	*Amount of flexion available in the MCP joints 2 through 5 increases as you move ulnarly toward the pinky finger.
+	*Huge difference in active versus passive extension in the MCP joints. Actively, most of us can extend those joints to around 30° to 40° ,but if you push passively with your opposite hand, you should get closer to 90°.
+	---------------------------------------------
+	Classification (Valid for all MCPs)
+		Condyloid, 2° of freedom
+			-Motion in Sagital plane (flexion & extension) greater than the Coronal plane (abduction & adduction).
+			-No Rotation
+	---------------------------------------------
+	.2nd to 5th fingers: 
+		Flexion:
+			90° index; progressive increase to 110° at 5th digit
+			Grip
+				Strong when they in 70°-90° of Flexion
+		Extension:
+			30°-40° AROM
+			90°     PROM 
+		Abduction/Adduction:
+			20°-30° in neutral; restricted in flexion 
+		Rotation:
+			passively; variable
+	.Thumb:
+		Provides additional ROM for opposition, grasping, & contouring
+		Flexion:
+			50°
+		Extension: 
+			0° 
+		Abduction/Adduction: 
+			Both limited 
+	.Functional:
+		Best at creating a strong grip when they are in 70°-90° of flexion 
+
+.Interphalangeal joints (IP)
+	*Some passive rotation in your IP joints, but our tendons are not aligned in a way that allows active rotation.
+	----------------------------------------
+	Functional Considerations (IP: PIP & DIP)
+		Digits flex towards thumb (5>2) 
+		Produces tighter grip on ulnar side of hand.
+	----------------------------------------
+	.Interphalangeal (Proximal with Distal Phalange) (IP)
+		Extension
+			Up to 50°.
+	.Proximal Interphalangeal (PIP)
+		Flexion
+			90° ¿?
+		Extension
+			50°.
+	.Proximal Interphalangeal (Proximal with Medial Phalanges) (PIP)
+		*More flexion range of motion in the 4th and 5th digits than the 2nd and 3rd.
+		---------------------------------
+		Flexion
+			110° (more 5th than 2nd)
+			Thumb 90°
+		Extension
+			0° or Limited (for the rest of fingers)
+			Thumb: up to 50°
+		Hyperextension
+			Up to 30°
+	.Distal Interphalangeal (Medial with Distal Phalanges) (DIP)
+		*Functionally, this increased flexion range of motion on the ulnar side of the hand means that you can produce a tighter grip on that side of the hand.
+		---------------------------------
+		Flexion
+			90° (with ulnarward increase)
+		Hyperextension
+			Up to 30°
+
+.Spine
+	.Thoracic Spine
+		Flexion/Extension
+			Minimal due to frontal orientation of facets
+			upper segments - about 4°/segment
+			Mid segments - about 6°/segment
+			T1/T12, T2/L1 - about 12°/segment
+			More flexion than extension
+		Rotation
+			Relatively free in thoracic region
+			Limited by ribs and facet joints
+			More in upper levels; decreases as move caudally
+			Upper thoracic - about 8° or 9°/segment
+			Lower thoracic - only about 2°/segment
+			With rotation, costal cartilage of ribs deform
+		Lateral Flexion
+			-Orientation of facets would allow for free movement
+			-But lateral flexion is limited, especially in upper thoracic levels, by resistance of ribs and sternum
+			-About 6°-8° total for each segment
+	.Lumbar Spine
+		Flexion/Extension
+			-Total range of flexion/extension for each lumbar vertebra is about 14°, with high degree of individual variability
+			-Lower levels slightly more mobile
+			-L1/2 through L4/5 can flex from neutral (10°) more than extend from neutral (3°) (No em quedat antes que es 14? Que està contantme ara. ¿?)
+			-At L5/S1, ratio of flexion/extension is variable
+		Axial Rotation
+			-2° for each segment, with L3/4 and L4/5 slightly more mobile than other segments
+		Lateral Bending
+			10° total for each upper 3 lumbar segments
+			Less at L4/5 and least at L5/S1
+			L5/S1 tends to bend in opposite direction
+		Composite Motion (Clinical Measures)
+			Flexible Ruler Data
+				-From erect (about 46° extension) to forward bending (about 21° flexion) ¿?
+			Inclinometer Data
+				From erect to forward bending (about 55° of flexion)
+				From erect to extension (about 27° of extension)
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Measurements & Axes - LQ
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+.Innominate moving about fixed sacrum
+	Anterior Rotation:  5°
+	Posterior Rotation: 5°
+
+.Sacroiliac Joint (SI): 1.8°-9.0°
+
+.Pubic angle of a typical female pelvis: 90°-100°
+
+.Hip - Femur on Acetabula
+	Flexion: approximately 125° degrees
+	Extension: 10°-20°
+	Abduction: 45°
+	Adduction: 30°
+	Internal rotation: 20°-45°
+	External rotation: 40°+
+	-----------------------------------------
+	10° of extension required for normal gait
+
+.Tibiofemoral Joint - Knee
+	*See O/C-PP LQ - Tibiofemoral Joint (knee)
+	(Comprovar esta info amb algú ¿? Pero recorda lo que el va dir el Adjunt; es més simple a l'hora de mesurar)
+		Measurement 1: 0-170 From fully extended (0 degrees) to fully flexed (170 degrees).
+		Measurement 2: 15-0-170 From hyperextension (15 degrees) to fully extended (0 degrees) to fully flexed (170 degrees).
+		Measurement 3: 15-170 From flexed (start at 15 degrees from 0 degrees) to fully flexed (170 degrees).
+
+.Sagittal Plane Motion of the Foot (more Talocrural Joint + less Midtarsal Joint)
+	*Some motion also available at the (tell axis and plane) Oblique axis of midtarsal joint
+	Axis lies perpendicular to plane of motion
+	Axis lies in frontal & transverse plane
+	------------------------------------------
+	Dorsiflexion: 	15°-20°
+	Plantarflexion: 30°-50°
+	*In a weightbearing position
+		Close to 50° (92% is from the talocrural joint.)
+
+.Frontal Plane Motion of the Foot:
+	.Frontal Plane motion in foot & ankle:
+		Axis lies perpendicular to plane of motion
+			Then, axis lies in sagittal (or longitudinal) (for inv. & ever.) & transverse (AKA horitzontal) (also for inv. & ever.; front-back axis, could be also for planarflex & dorsiflex; for med-lat axis) planes. ¿?
+		Resultant motion:
+			Inversion & Eversion
+		Joint that provides motion:
+			Subtalar joint provides most of this motion
+				Inversion: 25°-30°
+				Eversion:  5°-15° (5°-15°-20°-25°-30°)
+			Midtarsal joint (longitudinal axis) will also provide this motion
+
+.Midtarsal Joint Axis - (2 Axes)
+	*We are talking about Eversion & Inversion again and only one axis (longitudinal); ignore at the moment the Oblique axis from the image below in this note. It is very similar to subtalar (talus + calcaneus) axis, but is it not the same; it is another one farther anteriorly.
+	------------
+	.Oblique Axis
+		-Angled 52° from transverse plane & 57° medially from sagittal plane
+		-Looks very similar to talocrural joint axis
+		-Allows mostly DF/abd (pronation) & PF/add (supination)
+	.Longitudinal Axis:
+		-Angled 15° from transverse plane (going up) & 9° medially from sagittal plane
+		-Looks very similar to subtalar joint axis
+		-Allows mostly Eversion & Inversion
+
+.Talocrural Joint Axis
+	Connects tips of medial & lateral malleoli
+	Runs from inferior lateral & medially, superior and anterior ¿?
+	Tipped anterior and posterior to true frontal plane by approximately 6°
+	Allows mostly dorsiflexion/plantarflexion with slight abd/ev & add/inv
+
+.Transverse Plane Motion of the Foot
+	.Transverse plane motion in the foot and ankle
+		Axis lies perpendicular to the plane of motion
+			-Axis lies in the sagittal and frontal (this is the longitudinal axis, AKA superior-inferior axis) planes. 
+		Resultant motion is in abduction & adduction
+		Joint(s) that provide that motion:
+			-Is not the primary motion at any joint in the foot and ankle !!
+			-Combination from talocrural, subtalar, and midtarsal
+
+.Triplane Motion of the Foot:
+	.Supination
+		Goes with which other action? Plantarflexion
+			Talocrural joint
+			Also Oblique axis of midtarsal joint
+		----------------------------------------
+		Inversion
+			Subtalar joint
+			Also Longitudinal axis of midtarsal joint
+		Adduction
+			Slight contribution from talocrural, subtalar, and midtarsal
+	.Pronation
+		Dorsiflexion
+			Talocrural joint
+			Oblique axis of midtarsal joint
+		Eversion
+			Subtalar joint
+			Longitudinal axis of midtarsal joint
+		Abduction
+			Slight contribution from talocrural, subtalar, and midtarsal
+
+.1st MTP
+	Normal Gait:
+		Requires 75° of 1st MTP extension
+		Occurs as a result of
+			Heel lift
+			STJ supination
+			1st MTP shorter than 2nd ↓
+			Normal sesamoid function
+	
+//////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+Open/Closed-Packed Positions
+//////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+
+*See also: OneNote - Grades
+*(Γ "Open and Closed-Packed Positions.pdf")
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+O/C-PP UQ
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+Shoulder
+	Open-Packed Position
+		Around 30 degrees of
+			abduction & 
+			horizontal adduction
+	Close-Packed Position 
+		(Γ)1.with the arm in "apprehension"
+			full abduction &
+			external rotation
+		(Γ)2.with the arm in "lock” position"
+			full extension &
+			internal rotation
+
+Humeroulnar + Humeroradial + Radioulnar Joints - Elbow
+	Open-Packed Position
+		Humeroulnar Joint (HU): 70° of elbow flexion, 10° supination
+		Humeroradial Joint (HR): Full extension and full supination 
+		Radioulnar Joints (RU):  35° of supination, 70° elbow flexion (proximal); 10° supination (distal)
+	Close-Package Position
+		Humeroulnar Joint (HU):  Full elbow extension 
+		Humeroradial Joint (HR): 90° of flexion, 5° of supination 
+		Radioulnar Joints (RU) (proximal and distal): 5° of supination
+
+Wrist Joints (Radiocarpal & Midcarpal)
+	Open-Packed Position:
+		Slight flexion
+	Close-Package Position:
+		Full extension or full radial deviation
+		Full extension and/or radial deviation
+
+Metacarpophalangeal Joints (MCP)
+	Close-Package Position: full flexion 
+	Open-Packed Position:   slight flexion
+
+1st Carpometacarpal Joint (Thumb)
+	Close-Package Position:
+		Full Flexion = Opposition
+	Open-Packed Position:
+		Slight Flexion = halfway between flexion and extension
+
+Carpometacarpal joints (CMC) & Intermetacarpal (IMC) Joints (2nd, 3rd, 4th, & 5th digits)
+	*2nd through 5th digits: motion increases as you move ulnarly.
+	*2nd and 3rd CMC and IMC joints are almost immobile, and then as you move toward the 5th digit there is more and more motion available.
+	----------------------------------------- 
+	Open-Packed Position:   neutral position
+	Close-Package Position: full flexion or a tight fist
+
+Interphalangeal joints (IP: PIP & DIP) Joints
+	Close-Package Position: full extension
+	Open-Packed Position:   slight flexion
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+O/C-PP LQ
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+Hip (Revisar tot açò amb un adjunt; pero tot està be desde els apunts ¿?)
+	Position of dislocation:
+		Quadruped: 90° flexion + Slight abduction + External Rotation (maximal articular congruengy/concordancy)
+	Close-Package Position (much variation here in the literature)
+		*Position of maximal ligamentous tension
+		**The Close-Pack Position of the hip, unlike most joints, is not the position of maximal articular congruengy (quadruped), and is not the usual position of dislocation (quadruped is position of dislocation !!)
+		------------------------------
+		Most commonly mentioned components are
+			Extension + Adduction + Internal Rotation
+				It is true that IR has much compresion and congruency with the most changes to pinch and compress the intra-articular structures, but for a Closed-Packed position with the least movement and the most stability the combination with the ER is the one preferred: [MSK1_L06 "50:57sec"]
+					Extension + Slight Abduction + ER ¿? 
+		From Kin: 
+			Extension + Slight Abduction + Internal Rotation (other sources suggest External Rotation)
+		From MSK1:
+			Flexion + Abduction + Internal Rotation [MSK1_L05 00:00sec]
+	Open-Package Position (maximal ligamentous laxity)
+		-30° flexion Head produces tension (on mm) back & down, then pushes frontally and superiorly. Responds to frontal & horizonyal plane ¿?.
+		-30° abduction Head produces tension (on mm) in the back & down. Also in ms. the front because of the curvature of the neck of femur. Then pushes back, up, & medially. Responds to horizontal & frontal plane ¿?.
+		-Slight external rotation Head produces tension (on mm) on the front then pushes backwards. Responds to frontal plane ¿?.
+		----------------------------
+		30° flexion + 30° abduction + slight external rotation
+
+Patellofemoral Joint (knee)
+	Open-Packed Position: full extension
+	Close-Package Position: full flexion
+	-----------------------------------------
+	*From full extension to 90° flexion, the femur articulates with the medial and lateral facets of the patella.
+	*Beyond 90° of flexion (from fully extended and going down. Achieving 0° is fisically impossible.), the patella slips off the trochlear groove of the femur and the lateral and medial facets of the patellar make contact on the femoral condyles.
+	*At 135° (from 90°=femur & tibia perpendicular and keep flexing), the lateral femoral condyle protrudes anteriorly to such a point that a transverse rotation of the patellar occurs. This rotation allows the odd facet to articulate on the medial condyle.
+	------------------------------------------
+	Patellar Motion
+		During flexion, the patella moves inferiorly
+		During extension, the patella moves superiorly
+
+Tibiofemoral Joint (knee)
+	*Most of its motion occurs in the sagittal plane, but there is some rotation in the transverse plane too.
+	---------------------------------
+	Open-Packed Position
+		30°-45° of knee flexion
+		Or 70° of flexion
+	Close-Package Position
+		full extension (locked at 0°)
+
+Ankle (Talocrural)
+	Open-Packed Position
+		Neutral between 0° of
+			plantarflexion & 
+			dorsiflexion
+		From MSK1: 15°-20° of plantarflexion
+
+	Close-Packed Position
+		(Γ)with the foot in maximal “locked position”
+			dorsiflexion & 
+			inversion
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+O/C-PP UQ & LQ From "clinical-kinesiology-and-anatomy.pdf"
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+*Source: From Magee, DJ: Orthopedic Physical Assessment, ed 4. WB Saunders, Philadelphia, 2002, p 50
+
+Close-Packed Position:
+	Facet (spine)
+		Extension
+	Temporomandibular
+		Clenched teeth
+	Glenohumeral
+		Abduction and lateral rotation
+	Acromioclavicular
+		Arm abducted to 30°
+	Sternoclavicular
+		Maximum shoulder elevation
+	Ulnohumeral (elbow)
+		Extension
+	Radiohumeral
+		Elbow flexed 90°, forearm supinated 5°
+	Proximal radioulnar
+		5° supination
+	Distal radioulnar
+		5° supination
+	Radiocarpal (wrist)
+		Extension with ulnar deviation
+	Metacarpophalangeal (fingers)
+		Full flexion
+	Metacarpophalangeal (thumb)
+		Full opposition
+	Interphalangeal
+		Full extension
+	Hip 
+		Full extension and medial rotation*
+	Knee
+		Full extension and lateral rotation of tibia
+	Talocrural (ankle)
+		Maximum dorsiflexion
+	Subtalar
+		Supination
+	Midtarsal
+		Supination
+	Tarsometatarsal
+		Supination
+	Metatarsophalangeal
+		Full extension
+	Interphalangeal
+		Full extension
+
+Open-Package Position:
+	Facet (spine)
+		Midway between flexion and extension
+	Temporomandibular 
+		Mouth slightly open (freeway space)
+	-------------------------------
+	Glenohumeral 
+		55° abduction, 30° horizontal adduction
+	Acromioclavicular 
+		Arm resting by side in normal physiological position
+	Sternoclavicular
+		Arm resting by side in normal physiological position
+	Ulnohumeral (elbow)
+		70° flexion, 10° supination
+	Radiohumeral
+		Full extension and full supination
+	Proximal radioulnar
+		70° flexion, 35° supination
+	-------------------------------
+	Distal radioulnar
+		10º supination
+	Radiocarpal (wrist)
+		Neutral with slight ulnar deviation
+	Carpometacarpal
+		Midway between abduction/adduction and flexion/extension
+	Metacarpophalangeal
+		Slight flexion
+	Interphalangeal
+		Slight flexion
+	-------------------------------
+	Hip
+		30° flexion, 30° abduction and slight lateral rotation
+	Knee
+		25° flexion
+	-------------------------------
+	Talocrural (ankle)
+		10° plantar flexion, midway between maximum inversion and eversion
+	Subtalar
+		Midway between extremes of range of movement
+	Midtarsal
+		Midway between extremes of range of movement
+	Tarsometatarsal
+		Midway between extremes of range of movement
+	Metatarsophalangeal
+		Neutral
+	Interphalangeal
+		Slight flexion
+
+//////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+Degrees of freedom (DOF)
+//////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+
+Types of DOF
+	Uniaxial joints allow movement in 1 plane.
+	Biaxial joints allow movement in 2 planes.
+	Multiaxial joints allow movement in more than 2 planes.
+
+The Six Types of Articular Surfaces of Synovial Joints
+	Classification based on: the shape of the articular surfaces of the bones that forms each joint
+		Ball-and-Socket
+		Pivot
+		Hinge
+		Condyloid
+		Saddle
+		Plane
+
+Shoulder (GH) Joint - 3 DOF
+☢
+
+
+//////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+Arthrokinematics - Roll & Glide (Biomechanics)
+//////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Arthrokinematics (Open Chain vs. Close Chain/Concave-Convex Rule/Roll & Glide) - (Biomechanics) - UQ
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+Temporomandibular Joint - Opening and Closing the Mouth
+	Movements of the Temporomandibular Joint
+		*Convex (head of mandible) on Concave (mandibular fossa & articular disk)
+		-Elevation AKA flexion (close mouth) (mouth closed [elevated and retruded]) → posterior glide & anterior roll.
+		-Depression AKA extension (open mouth) (mouth widely open [mandible protruded and depressed]) → anterior glide & posterior roll.
+
+Arthrokinematics of the following cervical joints
+	Occiput on C1 (A/0 joint) Atlanto-Occipital or Atlantooccipital Joint (AO)
+		Two joints act as one joint to create nodding (transverse axis) and slight sidebending (ant-post axis) movements.
+			-Flexion: occipital condyles roll anterior and glide posterior (and superior) on C1 articular surface of lateral mass.
+			-Sidebending (~5°) with slight contralateral rotation:
+				SIDE BENDING RIGHT:
+					Minimal motion in this plane (think joint play)
+					R occiput travels MIA (medially inferior, anterior)
+					L occiput travels LPS (lateral, posterior, superior)
+	C1 on C2 (A/A joint) Atlanto-Axial or Atlantoaxial Joint
+		Movement occurs at the one median and two lateral A/A joints simultaneously. The lateral joints support the head's weight via the atlas, while the medial joint guides rotation.
+			Rotation:
+				1. Dens does not move, but acts as pivot around which movement occurs
+				2. Inferior facet of atlas glides opposite to direction of rotation
+				3. Contralateral facet glides anteriorly
+				4. Ipsilateral facet glides posteriorly  
+					Example: if you turn your head to the right, the right inferior facet will glide backwards and the left inferior facet will glide forwards
+				● Total range is ~45°
+				● Limited by alar ligaments
+			Flexion/Extension:
+				1. Inferior facets of atlas are convex, while superior facets of axis are concave → roll and glide opposite
+				2. Minimal flexion/extension (~10°) occurs at these joints. During flexion, the atlas' inferior facets roll anteriorly, glide posteriorly and the atlas' anterior arch glides inferiorly. 
+				3. The opposite motions occur during extension. Inferior facets roll posteriorly and glide anteriorly. Anterior arch glides superiorly.
+	Lower Cervical (C3-C7) Joints
+		-Movement occurs at uncovertebral, intervertebral, and facet joints. The uncovertebral joints allows the upper vertebra to rotate in relation to the lower vertebra.
+		-Intervertebral joints create the flexion/extension motion and are guided by uncovertebral joints. The intervertebral joints also create sidebending that is coupled with rotation in plane with the facet joints.
+			Flexion: N/A
+			Combined sidebending w/ rotation: N/A
+
+Shoulder - Glenohumeral Joint (GH)
+	*Convex humeral head moving on a concave glenoid fossa. So, we’ll have opposite rolls and glides. 
+	Flexion 
+		Anterior-Superior roll
+		Posterior-inferior glide 
+	Extension  
+		Posterior-inferior roll
+		Anterior-superior glide 
+	Abduction 
+		Superior roll
+		Inferior glide 
+	External rotation 
+		Posterior roll
+		Anterior glide Internal rotation 
+		Anterior roll
+		Posterior glide 
+	Horizontal abduction 
+		Posterolateral roll
+		Anteromedial glide 
+	Horizontal adduction 
+		Anteromedial roll
+		Posterolateral glide
+
+Humeroulnar & Humeroradial Joints
+	Open Chain: Radius and Ulna on Humerus (Concave on Convex)
+		-During flexion, there is an anterior (volar) roll and glide of ulna and radius on humerus. 
+		-During extension, there is a posterior (dorsal) roll and glide of ulna and radius on humerus. 
+	Closed Chain: Humerus on radius and ulna (Convex on Concave)
+		-During flexion, anterior roll and posterior glide 
+		-During extension, posterior roll and anterior glide
+
+Radioulnar Joints - Supination & Pronation 
+	-Proximal RUJ: There is “spin”, but the ulna has a concave radial notch and the radius has a convex radial head, therefore…
+		Pronation: anterior roll and posterior glide of radial head on proximal ulna
+		Supination: posterior roll and anterior glide of radial head on proximal ulna
+	-Distal RUJ: Medial aspect of radius is concave (ulnar notch) and the radial aspect of distal ulna is convex, therefore....
+		Pronation: anterior roll and glide of distal radius on ulnar head
+		Supination: posterior roll and glide of distal radius on ulnar head
+
+
+Arthrokinematics for the Thumb’s Joint
+	Flexion (CMC + MCP + IP Joints) (mainly Frontal Plane)
+		Roll: Medial rotation
+		Glide: Medial rotation
+	Extension (CMC + MCP + IP Joints) (mainly Frontal Plane)
+		Roll: Lateral rotation
+		Glide: Lateral rotation
+	Abduction (& IR) (CMC Joint) (Sagittal Plane)
+		Roll: Anterior
+		Glide: Posterior
+	Adduction (& ER) (CMC Joint) (Sagittal Plane)
+		Roll: Posterior
+		Glide: Anterior
+
+Arthrokinematics for the Wrist (Radio-Carpal Joint)
+	*Convex proximal row of carpals move on the concave distal radius (roll and glide in opposite directions).  
+	Flexion: anterior roll & posterior glide. 
+	Extension: posterior roll & anterior glide 
+	-----------------------------------------------------------
+	*Distal carpals glide in the same direction the hand rolls.
+	Radial deviation: lateral roll & medial glide 
+	Ulnar deviation: medial roll & lateral glide
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Arthrokinematics (Open Chain vs. Close Chain/Concave-Convex Rule/Roll & Glide) - (Biomechanics) - LQ
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+Hip
+	*See also: "O/C-PP LQ" → "Hip"
+	Open-Chain (non-weight-bearing) – Convex on Concave – Acetabulum planes are used here.
+	--------------------------------------------------------
+	From: "Pre_Sync Module 2 & Cadaver Video Mod02.docx"
+		Open-Chain (non-weight-bearing) – Convex on Concave – Acetabulum planes are used here.
+			.Hip flexion: 
+			*(Superior & Posterior planes respectively.)
+			- Roll : Anterior & Superior 
+			- Glide: Posterior & Inferior. 
+			Greater Trochanter goes posteriorly, posterior spin of the Femur or Femoral Head.
+
+			.Hip extension: 
+			*(Superior & Posterior planes respectively.)
+			-Roll: Posterior & Superior
+			-Glide: Anterior & Inferior
+			Greater Trochanter goes anteriorly, anterior spin of the Femur or Femoral Head.
+
+			.Hip abduction:
+			*(Superior & Medial planes respectively.)
+			- Roll: Lateral & Superior 
+			- Glide: Medial & Inferior
+			Greater Trochanter goes superiorly, superior roll  & glides inferiorly of the Femur or Femoral Head.
+
+			.Hip adduction:
+			*(Superior & Medial planes respectively – No Lateral plane in this case.)
+			- Roll: Medial & Inferior
+			- Glide: Lateral & Superior
+			Greater Trochanter goes inferiorly, inferior roll & glides superiorly of the Femur or Femoral Head.
+
+			.Hip internal rotation:
+			*(Only medial plane is used in this case. Anterior plane could be used too though.)
+			- Roll: Anterior 
+			- Glide: Posterior
+			Greater Trochanter goes anteriorly, anterior roll & glides posteriorly of the Femur or Femoral Head.
+
+			.Hip external rotation:
+			*(Only medial plane is used in this case. Posterior plane could be used too though.)
+			- Roll: Posterior
+			- Glide: Anterior
+			Greater Trochanter goes posteriorly, posterior roll & glides anteriorly of the Femur or Femoral Head.
+
+		Close-Chain (weight-bearing) – Concave on Convex – Head of Femur planes are used here.
+			.Hip flexion:
+			*(Superior & Anterior planes respectively.)
+			- Roll : Anterior & Inferior
+			- Glide: Anterior & Inferior
+
+			.Hip extension:
+			*(Superior & Posterior planes respectively.)
+			-Roll: Posterior & Inferior
+			-Glide: Posterior & Inferior
+
+			.Hip abduction:
+			*(Superior & Lateral planes respectively.)
+			- Roll: Lateral & Inferior
+			- Glide: Lateral & Inferior
+
+			.Hip adduction:
+			*(Superior & Medial planes respectively.)
+			- Roll: Medial & Inferior
+			- Glide: Medial & Inferior
+
+			.Hip internal rotation:
+			*(Only Medial plane is used here. Anterior & Superior planes could be used here too.)
+			- Roll: Anterior 
+			- Glide: Anterior
+
+			.Hip external rotation:
+			*(Only Medial plane is used here. Poterior & Superior planes could be used here too.)
+			- Roll: Posterior
+			- Glide: Posterior
+
+Tibiofemoral Joint - Knee
+	Open Chain: 
+		*Concave on convex --> roll and glide SAME direction
+		*There is no roll and glide for IR & ER, so for Open Chain is ER.
+		Flexion - posterior roll, posterior glide
+		Extension - anterior roll, anterior glide
+	Closed Chain:
+		*Convex on concave --> roll and glide OPPOSITE directions
+		*There is no roll and glide for IR & ER, so for Close Chain is ER.
+		Flexion - posterior roll, anterior glide
+		Extension - anterior roll, posterior glide
+	------------------------------------------------
+	Screw Home Mechanism/Screw-Home Mechanism - Knee
+		Open-Kinetic Chain (video was this):
+			Tibia moving on femur - Concave on convex
+				External Rotation of tibia of about 10°-15° to lock knee in extension
+				Internal Rotation of tibia to unlock knee out of extension
+		Closed-Kinetic Chain:
+			Femur moving on tibia - Convex on concave
+				Internal rotation of femur of about 10°-15° to lock knee in extension
+				External Rotation of femur to unlock knee out of extension		
+
+Ankle Dorsiflexion/Plantarflexion open chain vs. close chain
+	Talocrural Join – Main Joint for PF & DF
+		Open Chain: Talus (convex) on Tibia (concave) & Fibula (distal head) - Roll & Glide different direction.
+			.Plantarflexion - posterior roll, anterior glide
+			.Dorsiflexion - anterior roll, posterior glide
+		Closed Chain: Tibia (concave) & Fibula (distal head) on Talus (convex) – Roll & Glide same direction.
+			.Plantarflexion - posterior roll, posterior glide
+			.Dorsiflexion - anterior roll, anterior glide
+
+Talocrural Joint ​(ankle mortise/ankle joint proper)
+	*Articulation between concave distal tibia and fibula with the convex talar dome.
+	Plantarflexion – anterior glide of talus/posterior glide of tibia
+		Note: With motion into the restricted position = as we go into PF – talus will (glide/roll) glide anteriorly with a posterior roll (anterior capsule becomes taut).
+	Dorsiflexion – posterior glide of talus/anterior glide of tibia
+		Note: Posterior capsule becomes taut with DF. You could get some discomfort with lesions of the talar head, if the head hits the mortise.
+
+Subtalar Joint
+	*Articulation between the talus and calcaneus.
+	Supination: 
+		Use the anterior calcaneus as a reference point.
+		Calcaneus rolls medially.
+		Anterior facets glide medially & posterior facet glides laterally.
+	Pronation: 
+		Use the posterior calcaneus as a reference point.
+		Calcaneus rolls laterally.
+		Anterior facets glide laterally & posterior facet glides medially.
+
+Tibiofibular Joint 
+	*Articulation between the tibia and fibula.
+	Flata? ¿?
+
+1st Metatarsal
+	Open Kinetic Chain:
+		Phalange moving on metatarsal
+		Concave on convex: roll and glide SAME directions
+			Flexion: 
+				Posterior roll
+				Posterior glide of phalange
+			Extension: 
+				Anterior roll
+				Anterior glide of phalange
+			Abduction: 
+				Medial roll
+				Medial glide of phalange
+			Adduction: 
+				Lateral roll
+				Lateral glide of phalange
+	Closed Kinetic Chain:
+		Metatarsal moving on phalange
+		Convex on concave: roll and glide OPPOSITE direction
+			Extension:
+				Anterior roll
+				Posterior glide of metatarsal
+
+//////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+Capsular Pattern & Restrictions
+//////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+
+*A capsular pattern is the reproducible limitation of joint movements when the joint capsule is the limiting structure.
+*A non-capsular pattern is a pattern of limitation of joint movement that is not the result of the joint capsule.
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Capsular Pattern
+*Adapted from Magee, DJ: Orthopedic Physical Assessment, University of Alberta, 1993. - UQ & LQ
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+*From more limited to less limited, separated by comas.
+
+Temporomandibular
+	Opening
+Occipitoatlanto
+	Extension & side flexion equally limited
+--------------------------------------------
+Ligaments Connecting Axis and Occipital Bone
+	Alar Ligaments
+		 Primary restraints for contralateral rotation & lateral flexion; 2ndary restraint for flexion
+		Most taut with flexion or extension combined with rotation
+--------------------------------------------
+Cervical Spine
+	Side flexion & rotations equally limited, extension
+--------------------------------------------
+Glenohumeral
+	Lateral rotation, abduction, medial rotation
+Sternoclavicular
+	Pain at extreme range of movement
+Acromioclavicular
+	Pain at extreme range of movement
+--------------------------------------------
+Humeroulnar (Elbow)
+	Flexion, extension
+Radiohumeral
+	Flexion, extension, supination, pronation
+Radioulnar (Proximal)
+	Supination, pronation
+--------------------------------------------
+Radioulnar (Distal) (Wrist)
+	Pain at extremes of rotation
+	Flexion & extension equally limited
+Radiocarpal (Wrist)
+	Flexion & extension equally limited
+Trapeziometacarpal
+	Abduction, extension
+MCP and IP (Fingers)
+	Flexion, extension
+--------------------------------------------
+Thoracic Spine
+	Side flexion & rotation equally limited, extension
+Thoracic Spine
+	Side flexion & rotation equally limited, extension
+Lumbar Spine
+	Side flexion & rotation equally limited, extension
+--------------------------------------------
+S1, Symphysis Pubis, & Sacrococcygeal
+	Pain when joints stressed
+Hip
+	MSK1:
+		Limitation:
+			IR > Abduction > Flexion (mainly this one) or (¦Kazuya Colp de Peu Lateral Ganxo)
+			IR > Flexion > Abduction
+				MOST sources agree that the greatest amount of limitation is in IR
+					With degenerative changes ("degenerative changes Hip.png")
+						IR is the earliest movement to become measurably restricted
+						A difference of greater than 15° between legs has been correlated with the presence of osteoarthritis
+				Variation b/w Abduction & Flexion, they can be switched but more consense ad it is showed above
+				Indicative of entire capsular involvement
+--------------------------------------------
+Knee
+	Flexion, extension
+	Kines: Felxion > Extension > Hyperextension
+Tibiofibular
+	Pain when joint stressed
+--------------------------------------------
+Talocrural - Ankle
+	Plantar flexion, dorsiflexion
+Subtalar (Talocalcaneal) - Ankle
+	Limitation of varus range of movement
+Midtarsal - Ankle
+	Dorsiflexion, plantar flexion, adduction, medial rotation
+First MTP
+	Extension, flexion
+Second to Fifth MTP
+	Variable
+IP (Interphalangeal)
+	Flexion, extension
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Restrictions (Passive/Active Restraints) - UQ
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+Shoulder - Glenohumeral Joint (GH)
+	-Passive restraints including the capsule, ligaments, and intra-articular pressure 
+	-Active restraints – rotator cuff 
+	-And the interaction of the two restraints
+	------------------------------------------
+	Passive Restraints
+		Bony geometry
+		Glenoid labrum
+			Deepens joint concavity by approximately 50%
+		Negative intra-articular pressure - 3 mechanisms
+			1.It is a normal negative pressure in the joint. 
+			2.Perforation of the joint breaks that pressure and leads to a slight excess in mobility 
+				A slight pressure exists in a normal shoulder aids in centering the humeral head 
+				It takes less force to translate when the pressure is released
+			3.A suction effect where the glenoid labrum acts on the humeral head like a plunger. 
+				Adhesion cohesion bond from two wet bony surfaces (provides some stability).
+		Capsuloligamentous (Capsule + GH ligaments)
+			Coracohumeral (CH) ligament
+				*Not a glenohumeral ligament, but working in conjunction with them.
+				Limits ER with arm at the side
+					Anterior band
+					Posterior band 
+				Acting as a significant restraint to inferior translation of the humeral head, similarly to the SGHL 
+				Also limits flexion (when the band to the greater tubercle gets taut)
+				And limits extension (when the band to the lesser tubercle gets taut)
+				Taut with Adduction
+		Joint capsule or GH Capsule
+			*Stability dependent on joint orientation (on puc ficar este ¿?)
+			Glenohumeral ligaments
+				Superior glenohumeral ligament (SGHL)
+					Taut with
+						Arm at side
+						ER 
+					Restraint to (when arm is at side)
+						Inferior distraction
+						ER 
+				Middle glenohumeral ligament (MGHL)
+					Substantial anterior restraint (especially in 45°–60° abduction)
+					Limits ER 
+				Inferior glenohumeral ligament (IGHL) Complex
+					Taut in about 90° abduction
+					---------------------------
+					2 bands 
+						Anterior – the thicker of the two 
+							Restrains external rotation at 90° 
+						Posterior band 
+							Restrains IR at 90° and with arm at side 
+					Axillary pouch
+						Acts like a sling between the anterior and posterior bands
+						Restraint to inferior translation with the arm abducted
+	Active Restraints
+		 Rotator Cuff Muscles (RTC) (m1, m2, m3, & m4)
+		 	Covers and helps support the capsule/ Approximates the humerus to the glenoid in order to function
+		 	 	anteriorly
+		 	 	posteriorly
+		 	 	superiorly 
+		 	 	*Inferiorly, there is no dynamic support, only capsule.
+		 	-----------------------------------------------------------
+	 		m1.Supraspinatus: 
+	 			"Initiates abduction”, until deltoid takes over
+	 			Provides a compressive force to the glenoid fossa/Stabilizes humeral head firmly against fossa
+	 		Depress humeral head (inferiorly directed force) during elevation of the arm
+				m2.Infraspinatus
+					Provides force into external rotation
+				m3.Teres minor
+					Provides force at the glenohumeral joint, mainly assisting with ER at 90
+				m4.Subscapularis
+					Limits ER at the side
+					responsible for internal rotation
+	State the restriction/restrains provided by which ligament and/or muscle for each shoulder joint motion: (from Pre_Sync Module 8.docx)
+		Abduction Restrains
+			0° of Abduction
+				CH ligament
+				SGHL
+				Subscapularis
+			45° of Abduction
+				MGHL
+			90° of Abduction
+				Anterior band IGHL
+		Adduction Restrains
+			Coracohumeral (CH) Ligament
+				Gets taut.
+		External rotation Restrains
+			0° of Abduction (limits at the side):
+				Coraco-Humeral ligament (CH-L)
+				Superior Glenohumeral Ligament (SGHL)
+				Subscapularis
+			45° of Abduction:
+				Middle Glenohumeral Ligament (MGHL)
+			90° of Abduction:
+				Anterior band Inferior Glenohumeral Ligament (IGHL) (Anterior part = 1 of 3 parts) (Thicker)
+				NO→Subscapularis (Ineffective restraint to ER with arm abducted to 90°)
+		Internal rotation Restrains
+			0° of Abduction
+				Posterior band Inferior Glenohumeral Ligament (IGHL)
+			45° of Abduction
+				Anterior & Posterior band Inferior Glenohumeral Ligament (IGHL)
+			90° of Abduction
+				Anterior & Posterior band Inferior Glenohumeral Ligament (IGHL)
+				Inferior Glenohumeral Ligament (IGHL) (Posterior part = 2 of 3 parts)
+				@ about 90° Abduction
+		Inferior translation Restrains
+			Humeral Head - No Shoulder Complex
+				Restraints to Inferior Translation  (Inferior)
+					Dependent on arm position:
+						0° of Abduction = When arm at side:
+							Superior Glenohumeral Ligament (SGHL) 
+							Coracohumeral (CH) Ligament
+						90° of Abduction:
+							Inferior Glenohumeral Ligament (IGHL)
+							Axillary Pouch of Glenohumeral Ligament (GHL) (Medial¿? part of Inferior Glenohumeral Ligament (IGHL) = 3 of 3 parts)
+
+Elbow (humeroulnar joint)
+	Limitation of flexion is significantly > Extension
+	--------------------------------------------------
+	Proximal Radioulnar (RU) Joint Ligaments (No sabia si incloure-los ací ¿?)
+		Formed by the Medial Collateral Ligament (MCL) or ulnar collateral ligament (UCL)
+			-Maintains medial joint stability to valgus stress. 
+			-Though not a ligament, the proximal tendons of the flexor and pronator muscles near the medial epicondyle also provide some dynamic support to the medial aspect of the elbow. 
+	Distal Radioulnar (RU) Joint Capsule
+		-The elbow joint flexes and extends in the sagittal plane. So it makes sense that our primary stabilizing ligaments are going to be in the medial and lateral areas of the joint to prohibit frontal plane movement. 
+		-Most instability in the elbow joint is associated with excess valgus stress, which is resisted by the stronger medial ligament complex (when compared to the lateral ligament complex).
+
+Wrist (radiocarpal/ulnar joints)
+	Limitation of flexion is approximately the same as limitation of extension
+	More flexion and extension than deviation
+
+Metacarpophalangeal Joints (MCP)
+	Limitation of flexion is > Extension (same for IP Joint)
+	More flexion and extension range of motion than abduction and adduction
+	No rotation.
+	The joint capsule is relatively relaxed in extension and tighter in flexion.
+
+Finger (MCP/IP joints)
+		Limitation of flexion is > Extension (REPE!!)	
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Restrictions - LQ
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+Tibiofemoral Joint (Knee)
+	limitation of Flexion > Extension
+
+	-If a limitation of active knee extension is noted, the physical therapist may perform an assessment of extensor lag to determine possible sources of this limitation.
+
+	*it is always Hyperextension-Extension-Felxion.
+	-Measurement 1: 0°-170° From fully extended (0°) to fully flexed (170°).
+	-Measurement 2: 15°-0°-170° From hyperextension (15°) to fully extended (0°) to fully flexed (170°).
+	-Measurement 3: 15°-170° From flexed (start at 15° from 0°) to fully flexed (170°).
+		15°(Hyper-Extension)-170°(Flexion)
+
+Hip Joint Ligaments
+	Ligamentous reinforcements of the hip joint & Primary function:
+		Iliofemoral ligament
+			Limits extension & external rotation
+		Pubofemoral ligament
+			Limits abduction
+		Ischiofemoral ligament
+			Limits internal rotation
+
+Ligaments of the Ankle and Foot (Ací hi ha molta info que sobra que no es només restrició; es por refinar ¿?)
+	Medial Ligaments
+		-Deltoid ligament (TibioNaviular) (medial collateral ligament of the ankle: anterior & posterior Tibiotalar + Tibionavicular ligament AKA Deltoid ligament x se.)
+			Anterior (Tibiotalar) portion running from the tibia to the talus
+				Eversion
+				Planarflexion
+			Medial (Tibionavicular) portion running from the tibia to the navicular bone
+				Dorsiflexion
+				Planarflexion
+			Posterior (Tibiotalar) portion running from the tibia to the posterior talus
+				Dorsiflexion
+				Eversion
+			---------------------------------------------
+			The fan-like distribution allows stabilization at various angles of ankle
+				Planterflexion
+				Dorsiflexion.
+				Plays a primary role in preventing excessive ankle eversion.
+		-Spring ligament (CalcaneoNavicular) (plantar calcaneonavicular ligament)
+			Runs from the calcaneus to the navicular
+			Helps to support the medial longitudinal arch.
+		-Long plantar ligament
+			Connects the calcaneus to the cuboid bone
+			Supports the longitudinal arch of the foot
+			Acts a site of attachment for some of the smaller foot muscles 
+			Longest and strongest ligament of the tarsus
+	Posterior Ligaments
+		Posterior tibiofibular ligament
+			Helps reinforce the posterior aspect of the distal tibiofibular joint.
+			Restriction? ¿?
+		Posterior talofibular ligament
+			Helps resist
+				Inversion
+				Dorsiflexion
+		Posterior tibiotalar ligament 
+			Was discussed with the deltoid ligament complex
+				Resists
+					Eversion
+					Dorsiflexion
+	Lateral Ligaments
+		Anterior tibiofibular ligament
+			Located at the distal tibiofibular joint
+			Restriction
+				Injured during “high ankle sprain” injuries
+					Eversion
+					Dorsiflexion
+		Anterior talofibular ligament
+			Runs from the lateral malleolus to the neck of talus
+			injured with
+				Inversion
+				Plantarflexion
+		Posterior talofibular ligament
+			Runs from the fibula to the posterior talus
+			Resists
+				Inversion
+				Dorsiflexion
+			Least often injured with inversion ankle injury
+		Calcaneofibular ligament
+			Runs from the tip of the lateral malleolus to the lateral surface of the calcaneus
+			Resists straight inversion
+			Second most often injured in inversion ankle sprain.
+			Requires forceful inversion to injure ligament.
+			*With increasing degrees of severity and force, avulsion and regular fractures can occur at the lateral malleolus origin.
+
+
+//////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+Other measurements
+//////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Other measurements - UQ
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+Shoulder can maintain glenohumeral joint arthrokinematics when only the supraspinatus has a tear. A global tear (involving the supraspinatus, infraspinatus, and teres minor) resulted in excessive superior translation of the humeral head, with overall arm elevation limited to 10°-20°.
+
+Glenoid of scapula:  
+	Pear-shaped surface with average upward lift of 5°
+
+The peripheral rim of the radial head has 240° of articular surface.
+
+Glenohumeral ligaments
+	Middle glenohumeral ligament (MGHL)
+		Anterior restraint to the GHJ (especially in 45°–60° abduction)
+	Inferior glenohumeral ligament (IGHL)
+		Taut in about 90° abduction 
+			Anterior band
+				Restrains external rotation at 90° 
+			Posterior band 
+				Restrains internal rotation at 90° and with arm at side.
+
+The average carrying angle is 14°, but it is typically larger in women. 
+
+Distal ulna and radius
+	On average, the distal radius is inclined 23° from perpendicular. 
+	And on average, the radial styloid process extends 12 millimeters further 
+than the ulnar head. 
+	This relationship limits the radial deviation range of motion available. 
+
+Ulnar variance: The difference in length between the ulnar head and the distal 
+radius is called ulnar variance. 
+	Ulna positive is when the ulna extends further toward the carpals. 
+	Ulna neutral is when they are approximately even. 
+	Ulna negative is when the radius extends further toward the carpals.
+
+Radial Notch
+	It has 60°-80° of articular surface for the radial head, but 160°-180° of pronation/supination are allowed.
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Other measurements - LQ
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+Femoral Neck
+	Angle of Inclination:
+		Around 150° at birth
+		Progressing to normal values (120°-125°) by adulthood
+		Coxa Valga: Angle of Inclination > 125°
+		Coxa Vara: Angle of Inclination < 120°
+		-----------------------------------------------------
+	Torsion angle:
+		At birth normally ranges from 30°-60°
+		Progresses to normal (8°-14°) after puberty
+		Anteversion: Increased torsion angle
+		Retroversion: Decreased torsion angle
+
+ Hip Joint Stability
+ 	Center Edge of Angle: ≤20°
+
+The abductor group is most efficient in slight adduction to neutral; power is reduced by up to 80% when the leg is in 25° of abduction
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Other measurements - UQ & LQ
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+Reliability
+	-Inter-rater reliability:  ~5˚ for UE, 6 ˚ for LE Pensa en l'hme groset dels vieos (panxeta-dits mesuraors)
+	-Intra-rater reliability : much variation but ~ 3-4 ˚ for both UE & LE
+
+	INTRA-rater = average of 4.65° difference 
+	INTER-rater = average of 2.96° difference
+
+Isometric training only builds strength within about 10° of the angle at which they are performed.
+
+//////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+Other Non-Related
+//////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Non-Related - UQ
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+Ribs
+	What are the motions that occur at each rib area?
+		Ribs 1 & 2
+			Minimal with quiet resp. Move upward & laterally.
+		Ribs 3 – 6
+			The axis of rotation approximates frontal plane. "Pump Handle" movement increasing anterior/posterior diameter of the thorax.
+		Ribs 7-10
+			The axis of rotation approximates sagittal plane. "Bucket Handle" movement increasing transverse diameter of thorax with increase in infrasternal angle.
+		Ribs 11 & 12 
+			It can move slightly in all directions. Depressed by quadratus lumborum to form a fixed point of action for diaphragm.
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Non-Related - LQ
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+

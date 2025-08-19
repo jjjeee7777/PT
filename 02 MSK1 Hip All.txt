@@ -1,0 +1,3006 @@
+[☠.MSK1] [☠.2H] 2231 Musculoskeletal PT I
+
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+Index
+	(este document no està classificat acorde a l'index!!)
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+
+.Hip Joint Comprehensive
+
+UNIT 1: Musculoskeletal Evaluation Review; Introduction to Musculoskeletal Examination
+	Module 1: MSK Exam Tests & Measures
+			1.0. Introduction to Module 1
+			1.1. Resources
+			1.2. Live Session
+		Lesson 1A: Patient History and Patient Evaluation
+			1.3. Purpose and Overview of Patient History
+			1.4. Patient Observation
+		Lesson 1B: Review of Physical Therapy Assessments
+			1.5. Range of Motion Assessment
+			1.6. Physical Therapy Assessments
+		Lesson 1C: Screening Procedures within the Musculoskeletal Examination
+			1.7. Screening Procedures for the MSK Exam
+			1.8. Quiz 1
+			1.9. Module 1 Summary
+	Module 2: Introduction to Diagnostic Imaging & Joint Mobilization
+			2.0. Introduction to Module 2
+			2.1. Resources
+			2.2. Live Session
+		Lesson 2A: Diagnostic Imaging
+			2.3. Review of Anatomical Concepts: Bone
+			2.4. Basics of Imaging Part 1: Overview of Radiography & X-rays
+				2.4.1. Basics of Imaging Part 2: MRI, CT, Bone Scan, Bone Density Scan, & Ultrasound
+			2.5. Lower Quarter Diagnostic Imaging
+		Lesson 2B: Joint Mobilization
+			2.6. Introduction and Performing Joint Mobilization
+			2.7. Quiz 2
+			2.8. Module 2 Summary
+UNIT 2: Musculoskeletal Evaluation and Treatment of the Hip
+	Module 3: Evaluation and Examination of the Hip Joint
+			3.0. Introduction to Module 3
+			3.1. Resources
+			3.2. Live Session Information
+		Lesson 3A: Introduction to Hip Evaluation and Examination
+			3.3. Introduction to the Hip Region
+			3.4. History and Screening Considerations for the Hip
+				3.4.1. Red Flag Considerations of the Hip
+		Lesson 3B: Assessments for the Hip
+			3.5. Assessing the Hip
+			3.6. Special Tests for the Hip
+			3.7. Exam 1 (Remotely Proctored)
+			3.8. Module 3 Summary
+		Module 4: Diagnosis and Management of Common Conditions Affecting the Hip Joint
+			4.0. Introduction to Module 4
+			4.1. Resources
+			4.2. Live Session
+		Lesson 4A: Overview of Hip Conditions
+			4.3. The Treatment-Based Classification Approach
+		Lesson 4B: Intra-Articular Conditions of the Hip Joint
+			4.4. Intra-Articular Conditions of the Hip Joint Commonly Managed by Physical Therapists
+			4.5. Wrap Up
+			4.6. Overview of Extra-Articular Hip Conditions
+			4.7. Extra-Articular Hip Conditions Video Lecture & Knowledge Check
+			4.8. Flip Assignment 1: Record Hip Exam Skills
+			4.9. Quiz 3
+			4.10. Module 4 Summary
+		Module 5: On-site Lab Immersion 2A
+			5.1. Practical Exam 2A
+UNIT 3: Examination and Treatment of the Knee
+	Overview of Unit 3
+	Module 6: Knee Exam
+			6.0. Introduction to Module 6
+			6.1. Resources
+			6.2. Live Session
+			6.3. Knowledge Check: Anatomy of the Knee: A Brief Review
+		Lesson 6A: History Implications Specific to Examination of the Knee Joint
+			6.4. History Implications Specific to Examination of the Knee Joint
+		Lesson 6B: Physical Examination of the Knee
+			6.5. Examining the Knee
+		Lesson 6C: Special Tests for the Knee
+			6.6. Special Tests for the Knee
+			6.6.1. Assessment/Quantification of Knee Swelling
+			6.6.2. Special Tests for the Knee Used to Rule In/Out Specific Pathologies
+			6.6.3. Palpation
+		Lesson 6D: Wrap Up
+			6.7. Wrap Up
+			6.8. Quiz 4
+			6.9 Module 6 Summary
+	Module 7: Common Conditions Affecting the Knee Joint
+			7.0. Introduction to Module 7
+			7.1. Resources
+			7.2. Live Session
+		Lesson 7A: Knee Joint Pathologies
+			7.3. Knee Joint Pathologies
+		Lesson 7B: Wrap Up
+			7.4. Wrap Up
+			7.5. Flip Assignment 2: Record Knee Exam Skills
+			7.6. Exam 2 (Remotely Proctored)
+			7.7. Module 7 Summary
+UNIT 4: Examination and Treatment of the Foot & Ankle
+	Module 8: Foot and Ankle Part I (Exam & Treatment)
+			8.0 Introduction to Module 8
+			8.1. Resources
+			8.2 Live Session Information
+		Lesson 8A: Anatomy and Biomechanics of the Foot & Ankle
+		Lesson 8B: Evaluation of the Foot & Ankle
+			8.3 Review of the Anatomy of the Foot and Ankle
+			8.4 Examination of the Foot & Ankle
+			8.4.1 Ottawa Ankle Rules
+			8.5 Review of the Biomechanics of the Foot and Ankle
+			8.6 Foot Posture and Biomechanical Considerations of the Foot & Ankle
+			8.7 Functional & Therapeutic Interventions
+			8.8 Manual Therapy
+			8.9 Orthotics
+			8.10 Quiz 5
+			8.11 Flip Assignment 3: Record Foot/Ankle Exam Skills
+			8.12 Module 8 Summary
+	Module 9: On-site Lab Immersion 2B
+	Module 10: Foot & Ankle Part II (Conditions)
+			10.0. Introduction to Module 10
+			10.1 Resources
+			10.2 Live Session Information
+		Lesson 10A: Pathologies
+			10.3 Pathologies Of The Foot And Ankle Managed By Physical Therapists
+			10.5 Module 10 Summary
+	Module 11: Final Exam
+		Final Exam (Remotely Proctored)
+
+
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+.Hip Joint Comprehensive
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+
+⇅Overlap with the Knee (*See "Hip and Knee Flexibility Tests") REPE
+	-Muscles crossing the hip joint provide significant stability and control for the knee REPE
+	-Lack of flexibility in soft tissues around the hip may influence knee mechanics and tight knee structures may in turn influence hip movements REPE
+	-Assess the flexibility of structures crossing the hip and/or knee joint when evaluating a hip
+Unique
+	-Must be extremely strong in order to sustain the weight of the entire body while remaining exceedingly flexible to permit multi-planar movement
+		Loss of either or both greatly impairs function
+	-Sustains impact loads up to 8x body weight during jogging
+		With vigorous athletic activity the loads on the hip are significantly higher.
+	-Who's the strongest
+		The illiofemoral ligament is the strongest ligament in the body
+		Gluteus maximus
+			largest muscle in the body, however ounce for ounce it is not the strongest
+		The masseter, the heart, and the soleus are all stronger
+Testing Hip "Steak Muscles" is almost always a priority for Lower Extremity OR Lower Quarter issues
+	What are they?
+		The ones that influence the biomechanics the most are (high prioroty):
+			Gluteteus maximus muscle
+			Gluteus medius muscle
+			Abductors ¿?
+			External Rotators
+				Provide support
+	Why are they weak on many people?
+Introduction to the Hip Region [MSK1_C3.3]
+	3 degrees of freedom (moves in 3 planes)
+		flexion
+		extension
+		internal rotation
+		external rotation
+		abduction
+		adduction
+	("03_01 Mod 3_lntroduction to Hip Region.mp4")
+		Differential diagnosis at the hip is a challenge - Why?
+			LOTS of convergence of lower extremity nerves
+			Many adjacent structures that refer to the hip region
+				Spine, pelvis, sacro-iliac joint, viscera
+			Structures are DEEP
+				Palpation less reliable
+			Varied possibilities directly related to the hip joint
+History and Screening Considerations for the Hip [MSK1_C3.4]
+	Location *See [MSK1_L05_ReferredPainLoc]
+		-As mentioned earlier, the location of symptoms around the hip may vary greatly due to the
+			high degree of converging nerve fibers and
+			depth of anatomical structures.
+		-Although, a diagnosis should never be based solely on location,
+			symptoms in certain locations are more commonly associated with specific conditions. 
+		-See the types of conditions that commonly present in that location ("Hip Conditions By Location.png")
+			Anterior
+				Symptoms presenting here tend to be associated with pathology affecting the
+					joint surfaces
+					hip flexors
+					iliopsoas bursa
+			Lateral
+				Symptoms presenting here tend to be associated with
+					gluteal pain syndrome
+						greater trochanteric bursitis
+						gluteus medius pain syndrome
+			Posterior (REFERRED)
+				This is the least common referral pattern of the hip but when present more likely associated with pathology of the pathology of
+					hip extensors, or
+					hip external rotators
+			Groin (REFERRED)
+				Refers from multiple hip anatomy structures; No clear pattern.
+	Exacerbating Factors
+		As with any region, the patient should be questioned about specific exacerbating activities. 
+		Those of most interest for the hip include:
+			Is there pain with weight-bearing? If so, does this come on with: 
+				Stairs, walking, running, squatting? 
+			Is there pain at rest? 
+				Pain at rest can be associated with higher levels of
+					inflammation,
+					severity or
+					irritability 
+				If not altered by position or activity, may also be indicative of a systemic condition
+	----------------------------------------------------------------
+	Medical and Developmental History
+		A patient’s medical and developmental history is often relevant to the onset of hip pathology. 
+		Specifically, the PT should ask about: 
+			Previous injuries of the
+				hip
+				back or
+				other portions of the lower extremities 
+			Breach position during childbirth, as this can cause issues during growth and development 
+			Childhood disorders such as:
+				Developmental dysplasia of the hip ("Developmental Hip Dysplasia.png")
+				Legg-Calve-Perthes disease 
+				Slipped capital femoral epiphysis
+	-----------------------------------------------------------------
+	Screening Considerations for the Hip and Pelvic Region
+		-Because differential diagnosis of the hip region can be less straight-forward than other regions in the lower extremity, screening for ...↓ is an important component.
+			red flag conditions and [MSK1_C3.4.1]
+				As in other regions, the report of certain symptoms require the red flag conditions be ruled out. 
+					Examples include:
+						Acute hip pain with fever
+						Night sweats
+						Night pain
+						Symptoms unchanged by position or movement
+						Symptoms related to the onset of the menstrual cycle
+				Red flag conditions that can present as a typical hip pathology are listed below.
+				Identification of these necessitates a timely referral/consultation.
+					----------------------------------------------
+					Systemic Conditions
+						Cancer/neoplasm
+						Septic conditions/infection
+						Crohn’s disease
+						Urinary tract infection
+						Appendix rupture
+						Osteomyelitis
+						Endometrioses
+					Serious Musculoskeletal Conditions
+						Fracture (femoral or pelvic)
+						Avascular necrosis
+						Legg-Calve-Perthes disease
+						Slipped capital femoral epiphysis
+				------------------------------------------
+				Pelvic Floor Pathologies
+					Lastly, physical therapists should be aware that pathology of the pelvic floor may present as hip pathology.
+						-Indicators of pelvic floor dysfunction may include:
+							Urinary difficulties
+							Evacuation difficulties
+							Sexual dysfunction
+							Symptoms fluctuating with the menstrual cycle
+							These often accompany musculoskeletal symptoms such as hip and lumbopelvic pain
+						-It is important to remember that urinary incontinence, pelvic pain, and girdle dysfunction are not exclusive to females.
+							-However, the unique anatomy and specific life events such as pregnancy, delivery, and menopause predispose the female population to pelvic floor concerns.
+			involvement of surrounding structures or regions
+		--------------------------------------------
+		Goals of the screening process for patients with hip and pelvic issues include: 
+			Identify patients in need of immediate referral
+				i.e.: those with red flag conditions
+			Identify patients of "concern"
+				Is additional diagnostic testing necessary to rule out red flag conditions?
+				Is future referral to another provider necessary?
+			Determine single vs. multiple regions of involvement
+				Is there involvement of one or multiple hip structures?
+			Prioritize further examination approach for adjacent regions
+				Symptoms in the hip region may originate from the following regions that should be ruled out
+					(See [MSK1_HipTriage])
+					----------------------
+					Pelvic girdle
+					Lumbosacral complex
+					Possibly the knee
+Assessing the Hip - Physical Examination & Assessment of the Hip [MSK1_C3.5]/[MSK1_C3.5_AssessTypesHip] [MSK1_L05]
+	Static Observation = While not moving
+		Gate is important, it is just that we start static without moving or touching the pt.
+		-----------------------------------------------------
+		Static Observation/Inspection Specific to the Hip Region
+			("03_02 Mod 3_Observation_lnspection of Hip.mp4")
+			--------------------------------------------------
+			Integumentary Considerations:
+				Scars - Past surgeries
+				Incisions - Present surgeries
+					Are they healing well?
+			Atrophy
+				Single buttock - gluteal nerve palsy
+				Quadriceps - unequal use/weightbearing
+			Lateral visible groove running longitudinally
+				Adaptive shortening of ITB/TFL
+			Swelling in the Buttock Region:
+				"Sign of the Buttock" (it is a denomination)
+					1. Buttock large and swollen and tender to touch
+					2. Straight Leg Raise (SLR) limited and painful
+					3. Limited trunk flexion
+					4. Hip flexion with knee flexion limited and painful
+					5. Empty end feel on hip flexion
+					6. Non capsular pattern of restriction at hip (flex, abd, IR)
+					7. Resisted hip movements painful and weak especially hip extension
+			Swelling near the Greater Trochanter
+				Trochanteric Bursitis/Gluteal Pain Syndrome
+		Static Observation Alignment Considerations
+			Lower Extremity Alignment:
+				Potential compensation for biomechanical faults/abnormalities:
+					I.e.:
+						Foot/ankle alignment: Toe In/Toe Out
+						Squinting (Bizca) Patella
+			Lumbar Spine Position (posture)
+				Excessive lordosis: possible hip flexor tightness
+				Decreased/flattened lordosis: possible hamstring shortening
+		Static Observation and Palpation of Pelvic Landmarks [MSK1_ObserveBonyLandHip]
+			(See [MSK1_Imm1A_LumbosacralPath])
+			*In this case "palpation" is part of our initial examination and not the palpation that we do at the end
+			Palpate Pelvic Landmarks to assess symmetry right vs. left
+			Compare the hights side to side
+				If you find differences, they could mean
+					Leg discrepancies
+					Muscular discrepancies
+						compensating for something
+						due to tightness
+				------------------------------------------------
+				Front
+					ASIS
+					Greater Trochanters
+						Make them move side to side if necessary
+				Back
+					Iliac Crests
+						This could be in front too
+						Higher in men that in women
+					PSIS
+						Lots of people have temples tha you can see
+							-Drop down from Iliac Crests with your thumbs, then go up presing to find the bumps for alignemt
+			Useful for implicating:
+				Leg length discrepancy
+				Muscle imbalances
+				Sacroiliac joint involvement?
+	Range of Motion (ROM) Assessment procedures for the Hip [MSK1_HipROMAss]
+		*Assess passive end feel (EF), and also, side to side (See [KIN_JointEndFeel])
+		Flexion
+		Abduction
+		Adduction
+		IR
+		ER
+		Extension
+		--------------------------------------------------------------------
+		What might it mean if you find:
+			Differences in flexibility/EF side to side?``
+			Decreased flexibility/EF on both sides?``
+			Increased flexibility/EF on both sides?``
+			(See [PROC_HipFlex])
+			(See [MSK1_SpecialTestHip])
+		-------------------------------------------------------------------- (!!Q)
+		Which of the following hip motions is probably LEAST important to assess in isolation during a standard hip exam? 
+			hip flexion
+			hip extension
+			hip abduction
+			hip adduction
+			hip IR/ER
+
+			✓hip adduction
+		What motion is most limited in a capsular pattern of the hip?
+			Internal rotation
+			Abduction
+			Flexion
+			Extension
+
+			✓Internal rotation
+		-------------------------------------------------------------
+		("03_03 Mod 3_ROM Considerations of Hip.mp4")
+			See: "Hip - Femur on Acetabula" ← "Kin Normal Ranges.txt" & [MSK1_C3.5_ROM&CapsPat]
+	Accessory Motion Testing [MSK1_AccessMotTestHip]
+		Γ AKA Hip Symptom Modification Tests (seen in Immersion2A [MSK1_HipJointMob])
+		----------------------------------------------------------------------------
+		("03_04 Mod 3_Accessory Motion Testing.mp4")
+			If we see a limitation ROM, the next step is find out what is the cause
+				Changes in
+					accessory motion
+						Accessory Motion Testing
+							-Difficult to accurately assess because of the size of the joint surfaces
+								More commonly used as provocative or treatment
+							-While there's some capacity to perform these procedures to assess joint mobility, it is probably more commonly done by determining the
+								end feel of passive range of motion, and
+								Possible "stresses or directions" in which we can perform this include:
+									Lateral distraction
+									Anterior glide
+									Longitudinal distraction
+									Compression
+							--------------------------------
+							Long Axis Distraction
+								Procedure: ("03_05 LowerExtremity_TEST_Accessory_HlP.mp4")
+									-Patient in supine
+									-Hip placed in loose packed position (30 degrees of flexion, abduction, and slight external rotation; do not put foot in Plantarflexion by mistake when stearing)
+									-Traction force is applied through distal tibia or anterior thigh.
+								Interpretation:
+									1.Diminished motion - inability of the joint surfaces to separate
+									2.Decreased symptoms? - Treatment direction
+										-Also, this is a treatment direction test in that, if the patient experiences decreased symptoms during this procedure, it can be a possible good intervention to perform with that individual to manage symptoms
+					flexibility of soft tissues around the hip (*See below)
+	Flexibility/"Muscle Length" Assessment/Testing of Structures Surrounding the Hip Joint rrr
+		("03_06 Mod 3_Flexibility_Muscle Length Testing at Hip Joint.mp4")
+		Purpose for Flexibility Testing
+			1.Assess possible asymmetries left vs. right
+			
+			2.Assess for lack of flexibility on BOTH sides
+			3.Determine if absence of flexibility may be related to or cause "biomechanical faults"
+				-If present may cause uneven stresses on tissues throughout the lower extremity or on the spine that are ultimately the source of a patient's problem. And, if bio-mechanical faults are present, that could be something that can lead to their ultimate pathology or problems
+			4.Guide treatment
+				-If we see a lack of flexibility and that lack of flexibility is associated with the patient's problems, we probably want to provide interventions or prescribe interventions that restore length of these tissues.
+		----------------------------------------
+		Flexibility Testing for the Hip [Kin]
+			Specific tissues that may adaptively shorten, affecting movement
+				Joint capsules and ligaments  
+				Fascia  
+				Muscles and tendons (musculotendinous unit)
+			-------------------------------------
+			Grose Changes in Tissue Flexibility
+				Decreased flexibility
+					In certain muscle or muscle group
+					In certain plane of motion or specific action
+			Subtle Changes in Tissue Flexibility
+				Altered biomechanics  
+				Increased chance of injury  
+				Overuse
+			------------------------------------
+			⇅Hip and Knee Flexibility Tests [PROC_HipFlex]
+				2-Joint-Muscles
+					ITB & TFL Γ('TFL ITB.png')
+						Ober’s Test & Modified Ober’s Test
+								("Ober’s Test.png")
+								Test is positive for lateral (ITB) structural tightness if
+									A.the results are different side to side or
+									B.if both sides are unable to come to at least the level of a table (tightness bilaterally)
+									-------------------------------------------
+									Tight ITB if the leg remains in the air
+						Thomas Test (Iliopsoas & Rectus Femoris) REPE
+							("Thomas Test Interpretation.png")
+								Normal
+									Femur in contact with the table + Not a lot of knee extension
+								Tight Iliopsoas('')
+									Leg that is straight has an angle with the table (femur does not rest on the table)
+								Tight Rectus Femris
+									Femur in contact with the table + A lot of knee extension
+								Tight ITB
+									Abduction of the femur + External rotation of the hip
+										-------------------------------------------------------------------------------
+										From an Email. The question reads:
+											-Based on the image, the physical therapist can conclude with certainty that the patient lacks flexibility in the:
+											-The Thomas test is capable of assessing flexibility of the rectus femoris an the illiopsoas muscles. Both of these cross the hip joint and therefore if one or both are shortened it/they can prevent the hip from resting on the table. BUT seeing the hip off the table without taking any other action does not allow you to conclude anything about the illopsoas yet. In addition to showing the hip off the table, the image also shows the knee being extended some. Because the Rectus crosses the knee but the illiopsoas does not, you can conclude with certainty that the Rectus is shortened. But until you place the rectus slack by fully extending the knee, you cannot conclude anything about the illiopsoas.
+											-The second question asks what to do next - which of course is to extend the knee. If when you extend the knee, the hip falls to the table then you know it was the Rectus that was holding it up in the air. But if you extend the knee and the hip stays up in the air somewhat, then you can ALSO conclude that the illopsoas is shortened.
+											-Therefore the correct answer to Q1 is Rectus Femoris only.
+					Hip Flexors Test
+						Ely’s Test (Rectus Femoris Length) ("Ely’s Test.png")
+							Pelvis tilt
+						Thomas Test (Iliopsoas & Rectus Femoris) REPE
+					Hamstring Length Test / Hamstring Test
+						90/90 or 90-90 Test AKA Popliteal Angle ("Hamstring Popliteal Angle 90 90 Test.png")
+							-That's the reason why this test can measure hamstring length more effectively because it will not implicate neural tension because of the position it's performed in by starting with the knee in flexion.
+						Straight Leg Raise Test (SLR) ("Hamstring- Straight Leg Raise.png")
+							-One complication with this approach is that if the patient has any neural tension that is a restriction associated with the sciatic nerve, limitations may be due to sciatic nerve issues as opposed to hamstring length
+				1-Joint-Muscles
+					Piriformis Test/Flexibility (Piriformis Length) ("Piriformis Test.png")
+					Adductors Test ("Adductors Test.png")
+						Can be accomplished in two ways
+							-A.passively abduct the hip side to side and see if there's any differences in range
+							-B.in a hook lying position by letting the legs fall bilaterally into abduction from this position and seeing how far they go down on each side.
+	Strength/Muscle Performance [MSK1_HipMMTAss]
+		How much hip MMT is enough? (!!Q)
+			-A therapist suspects that a patient is experiencing hip pathology due to overuse because of weakness of hip musculature. She tests Hip Flexion, IR, ER, Abduction, Adduction, Gluteus Medius and Tensor Fascia Latta
+				-Which of the following statements do you think best describes her approach to testing hip strength in this patient?
+					She is testing fewer muscles than necessary
+					She is testing more muscles than probably necessary
+					She is testing the appropriate number of muscles
+					Some muscles being tested are unnecessary and others that should be tested are not included
+
+					✓She is testing more muscles than probably necessary
+						ΓAbduction, ER, & Extension
+		("03_07 Mod 3_Muscle Performance Testing of Hip.mp4")
+		---------------------------------------------------------------------------------------------
+		Selective Tissue Tension Testing (STT)
+		Strength Testing / Manual Muscle Testing (MMT) for the Hip [Kin]
+			Muscles
+				General hip abduction strength
+				General hip extension strength
+				Gluteus maximus (prone)
+				Gluteus maximus (modified)
+				Gluteus medius
+				Adductors
+				Hip external rotators
+				Hip internal rotators
+				Hip flexors iliopsoas
+				Tensor fascia latae
+			Commonly Tested Muscles (Muscle Performance Testing Priorities) [MSK1_HipCommTestMM] (See [MSK1_TriageHSmm])
+				-Some muscles play a more prominent role in function or provide more diagnostic information than other muscles/muscle groups
+				-------------------------------
+				Muscle Performance Testing Priorities
+					Higher Priority
+						General Hip Abduction (Gluteus Medius) ("03_09 General Hip Abduction MMT.mp4")
+						General Hip Extension ("03_08 General Hip Extension MMT.mp4")
+						Gluteus Maximus
+						External/Internal Rotators
+					Lower Priority
+						IR
+						Hip Flexors
+						Isolation of Gluteus Medius & Minimus
+					Rarely a Priority
+						*When performing selective tissue tension testing (AKA Selective Tissue Testing or Resistive Testing) of muscle to assess for muscle/tendon injuries, these muscles may be a higher priority test
+						-------------------
+						Adductors (provocative only)
+							-Although, we may test this for selective tissue tension testing to see if there is an adductor strain.
+						Tensor Fascia Latta
+						Sartorius
+				-------------------------------
+				Range of Motion (ROM) Assessment Priorities ("03_03 Mod 3_ROM Considerations of Hip.mp4") & [MSK1_C3.5_ROM&CapsPat]
+					This is based on the tests and measures that are most likely to provide valuable information
+						Most likely to be limited, most functional, and more likely to be painful during motion
+							Flexion
+							Extension
+							ABD
+							ER
+							IR
+						Least important to routinely assess during a PT exam (based on daily function)
+						To be efficient, it is one that you might be able to leave out. Not suggesting never to measure it
+							--------------------
+							ADD (Less Important)
+				--------------------------------
+				Hip Capsular Pattern (*See "Kin Normal Ranges.txt - Capsular Pattern & Restrictions - Hip - MSK1")
+	Palpation [MSK1_PalpHip]
+		*See also [KIN_PalpGeneral]
+		-------------------------------------------------
+		Where might we palpate during a hip evaluation?
+		What might we be palpating for during a hip exam?
+			---------------------------------------------
+			A typical examination of the hip joint may include palpation of the following structures AKA "Assessment of Hip/spine alignment & asymmetries"
+				Anterior side - hip region
+					Iliopsoas tendon
+					ASIS
+					Abdominals may be of value to palpate
+				Lateral side - hip region
+					Greater trochanter
+					Gluteus medius
+					Bursae region (if irritated)
+					ITB
+				Posterior side - hip region
+					PSIS/sacral sulcus
+					Ischial tuberosity
+					Sciatic nerve
+					Piriformis & gluteus maximus
+					--------------------------------------
+					From Immersion2A
+						Palpation & Bilateral Comparison of:
+							ASIS
+							Illiac Crest Height
+							PSIS
+							Greater Trochanters
+		Of the following choices, which is NOT a valid reason to palpate structures in the hip region: (!!Q)
+			Detecting muscle spasm
+			Orienting one’s self to landmarks used for goniometry
+			Looking for side to side asymmetries
+			Assessing tenderness of underlying structures
+			All of these are valid reasons for palpating in this area
+
+			✓All of these are valid reasons for palpating in this area
+
+		Reasons to Palpate Structures in the Hip Region
+			Valid reasons for palpating include all of these described in the previous question
+				-Pain and tenderness can be used to determine the presence of inflammation and if the underlying structures are involved
+				-Spasm of surrounding muscles may need to be determined as this problem may need to be addressed before other treatments are possible. This may be true for:
+					Abdominals
+					Gluteus maximus & medius
+					Lumbar paraspinals
+					Iliopsoas
+				Asymmetry
+					Especially true for pelvic landmarks
+		Important Clinical Note
+			-Note that these regions are in sensitive areas. Always receive appropriate permission and be especially careful across gender.
+		("03_10 Hip Palpation.mp4")
+	Functional Testing [MSK1_HipFunctTest]
+		("03_11 Mod 3 Functional Testing.mp4")
+		Standard functional tests include:
+			Single Leg Stance ("Trendelenburg Test.png")
+				Procedure:
+					Subject assumes unilateral stance without upper extremity assistance
+					Examiner observes patient from behind
+				Interpretation:
+					Normal:
+						Hip on opposite side should rise slightly
+					Abnormal:
+						Dropping of pelvis on the opposite side (Trendelenburg)
+						Shifting center of gravity over stance leg
+				-These findings indicate abductor weakness of stand leg or inability/unwillingness to contract the abductors of the stance leg possibly due to pain
+			Double Leg Squat ("Squat Test.png")
+				We should look for symmetry of motion and compensations
+			Single Leg Squat ("Single Leg Squat Test.png")
+				Common sought compensations include
+					internal rotation of the femur
+					dropping of the hip on one side
+					additional hip flexion on one side versus the other
+			Step Down/Stepdown Test ("Stepdown Task.png") [MSK1_StepDownTest] [MSK1_Imm2B_Knee]
+				-During a stepdown, we are looking for what we might call a collapse of the lower extremity in multiple planes
+				-This can include
+					a valgus position of the stance leg,
+						which includes abduction of the femur as well as possible
+						IR
+				-This test is also been notable if it reproduces the patient's familiar symptoms
+				-Do the test x3 times
+				-----------------------------------------------------------------
+				This can be a test for the knee (See [MSK1_SpecTestKnee]::at the end)
+					Look for symptoms while stepping down
+
+When summing up evaluation of the hip, we should know that:
+	A thorough history is very important
+	Performing a structured examination involves
+	Screening for red flags
+	Ruling out adjacent area involvement
+	ROM, MMT, and Flexibility Testing which provide focus for treatment
+	Special tests that MAY help with differential diagnosis
+	Functional testing that may reveal additional areas of focus
+Special Tests for the Hip [MSK1_C3.6] [MSK1_SpecialTestHip]
+	-The following special tests are performed to determine the presence of certain conditions associated with the hip joint
+	-There is no need to do them bilaterally unless the patient is uncertain of the symptoms and we need to have a reference then
+		------------------------------------------- 
+		Intra-Articular Tests - Tests to Assess the Condition for Intra-Articular Pathology [MSK1_ExamImm2A]
+			Intra-articular compression Progression - From less agressive to more agressive test
+				FADIR’s Test
+				Axial Loading Various Positions
+				Scour Test
+			---------------------------------------
+			Resisted Straight Leg Raise (SLR)
+				N/A ¿?
+			1st.Log Roll Test ("Log Roll Test.png")
+				PROCEDURE:
+					-Patient lies in supine and is fully relaxed. Attention is paid to the subject's foot position. The examiner passively "rolls" the femur externally and internally
+						externally for:
+							This one tests for the laxity of the capsule
+						internally for:
+							This one tests for inside of the labrum
+				INTERPRETATION: (Intra-Articular Test)
+					1. Notable greater external rotation of the femur may indicate laxity of the anterior capsule of the hip joint.
+					2. Reproduction of familiar pain with IR indicates pathology of the labrum.
+				Mechanics - Why do evoke symptoms?
+					-The target is to compress the inside of the labrum by rolling internally
+					-If we have a postive in this test this is a more severe intra-articular problem b/c with a less agressive test we evoke the symptoms earlier
+			2st.FADIR Test (Flexion, Adduction, & IR) ("FADIR Test_.png")
+				PROCEDURE:
+					-Patient is in supine position. The hip is passively flexed to 90°, then internally rotated to end-range combined with horizontal adduction
+					-We want to see if during the the positioning we evoke the symtoms (follow the order). Then, we can go further and add compression. When we add the compression, we start at Abduction & ER and compress. Then we move a little bit more into Flexion, Adduction, & IR following the arc of the labrum and press, then rotate it more on this line and press, this way we try different points. 
+				INTERPRETATION: (Intra-Articular Test)
+					-Reproduction of symptoms is indicative of
+						intra-articular pathology of the hip, such as
+							femoral acetabular impingement/labral tear (articular cartilage), or
+							osteoarthritis
+					Mechanics - Why do evoke symptoms?
+						For those structures, this test, puts them on maximal congruency
+							*Remember: "Quadruped" ← "Kin Normal Ranges.txt"
+						The same as the "Scour Test" without the adding of compresive force
+							-Try this test first before Scour and if they feel pain, do not proceed w/t Scour b/c of the compresion adition
+								FADIR Test is for moderate/severe pain
+									If pain not evoked try Scour Test to rule out intraarticular issues
+			3nd.Scour Test ("Scour Test.png")
+				*Read Mechanics of FADIR Test first
+				-You will probably get the results before trying this test. That is why this tool is use more to rule out that in 
+				PROCEDURE:
+					-Subject is supine. The patient's hip is placed in flexion, abduction, and external rotation to start and press
+						Then, the examiner then moves the patient's hip into ...↓ and press
+							adduction and
+							internal rotation
+				INTERPRETATION: (Intra-Articular Test)
+					Reproduction of symptoms is indicative of
+						intra-articular pathology of the hip, such as
+							femoral acetabular impingement/labral tear, or 
+							osteoarthritis.
+				Mechanics - Why do evoke symptoms?
+					The same as the "FADIR Test" with the adding of compresive force
+				Scour Progression
+					Axial Loading Various Points
+						-Move the leg in the postion indicated (keeping the compression) but around the arc of the acetabula
+					Full Scour
+		Chronic Groin Pain
+			Squeeze Test
+				N/A
+		Femoral Retro/Anteversion Γ('Femoral Retro-Anteversion.png')
+			(Γ)
+				Femoral retroversion and femoral anteversion are both conditions that affect the rotation of the thigh bone, or femur, in relation to the knee and hip: 
+					Femoral retroversion
+						The femur rotates outward, causing the knee and toes to turn outward as well. This condition is also known as hip retroversion or external femoral torsion. 
+					Femoral anteversion
+						The femur rotates inward, causing the knee and toes to turn inward as well. This condition can affect one or both legs.
+			------------------------------------------------------------------------------
+			Craig’s Test AKA Ryder Method ("Craigs Test Ryder Method.png")
+				Dr. Lebec does not see too much utility on this test
+					To find out abnormal mechanics apparent while walking
+					When we see that one leg is more externally rotated than the other we do this test to see if
+						It is do to the bony formation or
+						It is do to tightness, weakness
+				PROCEDURE:
+					-Patient prone with knee flexed 90°. The examiner palpates the posterior aspect of the greater trochanter. The patient's hip is rotated internally and externally until the greater trochanter is most prominent (pops up). The amount of internal rotation is then measured.
+				INTERPRETATION:
+					Normal: approximately 10° to 16° of internal rotation
+					Abnormal:
+						-Greater than 16° of internal rotation indicates femoral anteversion
+						-Less than 10° of internal rotation indicates femoral retroversion
+		Capsular Hypermobility/Instability
+			Log Roll (anterior hypermobility)
+				There are two versions of this test:
+					Log Roll ER
+					Log Roll IR
+				Procedure:
+					-Patient lies in supine and is fully relaxed. Attention is paid to the subject’s foot position. The examiner passively “rolls” the femur externally and internally (Γfrom the Quads, like making pasta)
+				Interpretation:  
+					-Notable greater ER of the femur may indicate laxity of the anterior capsule of the hip joint
+					-Reproduction of familiar pain in IR indicates pathology of the labrum
+			Anterior Apprehension Test AKA HEER Test (¿?, Extension, External Rotation) ("Anterior Apprehension Test AKA HEER Test.png")
+				For this test is important to see pt. face for disconfort
+				PROCEDURE:
+					-Patient lies in supine and pulls one leg to chest. The examiner places the hip in a position of extension and external rotation
+				INTERPRETATION:
+					-Patient exhibits apprehension (compresión) with application of test. This may indicate anterior hypermobility of the hip joint
+		True Leg Length Discrepancy
+			Leg length measurement
+				MEASURE:
+					Measuring (in cm) from the ASIS (the very bottom of it) to the medial malleolus (inferior point of it)
+						-Take at least two times the measure to make sure.
+							I you see a different measure, take it again until you get the right one
+					Differences of ~ 1.5 cm side to side can be clinically significant
+				PROCEDURE:
+					We want the patient straight on the table, so reposition the patient in supine
+						Make the pt. bend the knees up and bottom in the air, then back down and pull the legs
+		Proximal ITB Syndrome/Snapping Hip Syndrome (Lateral)
+			Noble Compression Test
+				N/A
+		General Hip Pathology or Spine/SI Joint (Not intra-, not extra-articular but GENERAL!)
+			Flexion-Abduction External Rotation FABER’s Test AKA Patrick's Test ("FABERs Test.png")
+				PROCEDURE:
+					-As the name suggests, the patient's lower extremity is placed in flexion, abduction, and external rotation. This is the position that resembles a "figure 4" created with the two lower extremities
+				INTERPRETATION:
+					-Evidence for this test is highly variable and it can be positive for many conditions affecting the hip, as well as the spine and SI joint. Reproduction of pain simply suggests pathology affecting one of these regions
+		Gluteal Pain Syndrome
+			Gluteal De-Rotation Test ("Gluteal De-RotationaI Test.png")
+				PROCEDURE:
+					✗-Patient's hip is flexed to 90° and placed into end-range external rotation, then the PT pushen into IR and the patient de-rotates into ER (de-rotates= pt. try to go into ER against out IR).
+					✗-We put the patient in ER and we push them out of it to IR, so the pt. tries to hold in ER, this way they contract the ER.  
+						-So, PT pushes in (from the outside) and pt. pushes out
+					-✓Patient’s hip is flexed to 90° and placed into end-range external rotation. The patient “de-rotates/internally rotates” back to neutral against resistance. 
+					✓From Email:-1st.Patient in supine,
+								-2nd.Place the hip in max ER,
+								-3rd.Patient Internally rotates the hip against the resistance of the therapist (ER) (PT only uses enough resistance to get good muscle contraction but still allows the patient to move from ER to IR.
+						("03_12 Resisted External Derotation Test _ Gluteal Tendinopathy_GTPS.mp4")
+					-It is like an MMT in which you let them overcome, you do not break them but let them complete the movement
+				INTERPRETATION: (Entonces, després de l'email a partir d'ací cap a vall no te molt de sentit ¿?)
+					-Reproduction of lateral hip pain indicates potential involvement of the gluteal tendon structures (inflamed structures over the Greater Trochanter).
+						Bursa
+						Gluteus medius tendon
+				Mechanics
+					The group muscles that we are activating for the patient to mantain (or push into) ER action are ...↓, so they compress down those structures (Bursa & Gluteus medius tendon)
+						✗External Rotators ("External Rotators.png")
+							Sartorius
+							Obturator Externus
+							Gluteal Muscle - Maximus/Gluteus Maximus
+							Gluteal Muscle - Medius/Gluteus Medius (posterior fibers)
+							Gluteal Muscle - Minimus/Gluteus Minimus (posterior fibers)
+							Quadratus Femoris
+						✓Internal Rotators
+							Tensor Fasciae Latae
+							Pectineus
+							Gluteal Muscle - Medius/Gluteus Medius (anterior fibers)
+							Gluteal Muscle - Minimus/Gluteus Minimus (anterior fibers)
+					The important part for this, however, is to know
+						1) For what you are testing (Gluteal Pain Syndrome)
+						2) How to do the test (see above) and
+						3) What a positive finding is (reproduction of lateral hip pain)
+		Piriformis Syndrome
+			Piriformis Test (it is a flexibility test too; *see this test)
+				PROCEDURE:
+					-Patient is side-lying with test side facing up. The tested leg is flexed at the knee and the hip is flexed approximately 60°. The examiner stabilizes the pelvis with one hand and presses the test leg into horizontal adduction.
+				INTERPRETATION:
+					Normal:
+						symmetrical motion without symptoms
+					Abnormal:
+						-Pain in buttock or radicular (pinching of the Sciatic nerve) symptoms may indicate compression of the sciatic nerve by the piriformis muscle
+						-Restriction of motion or production of uncomfortable stretch sensation may indicate unilateral tightness of the piriformis
+						-The pain can irradiate down. Why? How?
+							B/c of the pinching of the Sciatic nerve
+	Q_FABER.1.A physical therapist is able to reproduce a patient's pain by placing his femur in flexion, abduction, and external rotation. This finding is indicative of: (!!Q)
+		Intra-articular pathology
+		Extra-articular pathology
+		Piriformis syndrome
+		Hypermobility
+		No specific diagnosis
+
+		✓No specific diagnosis
+			The FABER's test, described here, when positive does not indicate any specific pathology. Mostly, it can be used to determine if the problem is coming from the hip region, although symptoms may also be elicited when there are conditions affecting the SI joint or in rare cases the lumbar spine.
+
+("MSK05.mp4") [MSK1_L05] ("CNVS SS#5 - Hip Exam 1.23.24.pptx")
+	*See:
+		Kin Normal Ranges.txt
+			-"Arthrokinematics (Open Chain vs. Close Chain/Concave-Convex Rule/Roll & Glide) - (Biomechanics) - LQ" → "Hip" → "Close-Package Position"
+			-"Capsular Pattern & Restrictions" → "Hip"
+			-"O/C-PP LQ" → "Hip"
+	--------------------------------------------------
+	Location of hip symptoms - What do they mean?
+		When we do orthopedic or musculosqueletal exam, when sombody tells you that have pain in the hip?
+			How much do you think about what that means, for what the structure that is implicated can be?
+		----------------------------------------
+		-How much does patient report of symptom location, correlate with the involved anatomical structure(s)? How about in the hip?
+			As with many things, it depends; but on what?
+				Deep or superficial structures
+					The structures in the hip are mainly supeficial
+				(Γ)------------------------------
+					Brainstorm - Not excatly these ones
+						The types of sensation of pain
+						Duration/timing of pain
+						Depends on the plane in which motion provokes pain
+						The vanous structures in the area
+						The ROM limitations
+						Convergence of nerves
+						Nerve fibers in that area
+						Nature of injury - traumatic vs. Insidious
+						when IS there relief of pain
+			Convergence (of nerves) & Referred Pain
+				What is it?
+					-When the patient perceives pain in one area but that area is not directy realated to the area in which the invoved structure lies
+						-I.e.:
+							-Pain in the shoulder at the deltoid tuberosity. This is not what it seems but from a deep shoulder structure like RC, capsule, or labrum
+							-Lots of massage clients with tension headaches due to referred pain from trapezius
+							-Pain in the hip not just in the groin but down the thigh; anterior knee, medial knee, etc., but due to the hip.
+				Why does it happen? ¿?
+				How does it affect our diagnosis?
+					Depending on where it is; superficial or deep
+						Is it at the finger? superficial; is it at the shoulder? maybe deep 
+				----------------------------------------------
+				Convergence of nerves
+					The body can get confuse due to this and is not able to trak directly where the pain is coming from
+						Think on plexuses: we have more convergence proximaly than distaly
+				Referred Pain Considerations for the Hip (General Rules)
+					*See [MSK1_L05_ReferredPainLoc]
+
+	Hip Exam Cases: What and Why are you testing? *See "Cases Examination Hip Joint.txt" [MSK1_HipExamCases]
+
+	Mechanics of Special Tests
+		Why these may provoke pain based on the structure that is involved?
+			-I you understand how that test provokes pain in certain structure, it helps you to remember how to do the test
+				What is happening mechanically with the anatomy
+
+Lesson 4A: Overview of Hip Conditions [MSK1_C4A]
+	The Treatment-Based Classification (TBC) Approach
+		-Prior to discussing specific pathologies affecting the hip joint, it is important to consider the evidence-based strategy for diagnosing and managing hip conditions. This includes: 
+			1HipOver.A review of the Treatment-Based Classification (TBC) Approach.
+				-Contemporary research suggests that most conditions affecting the "musculoskeletal system" are best managed using this approach.
+				-Treatment-Based Classification (TBC) is a model whereby the clinician makes treatment decisions based on the patient's clinical presentation. The primary purpose of the TBC approach is to identify baseline patient characteristics that predict responsiveness to varying treatment strategies
+				-------------------------------------------
+				-Treatment-Based Classification Approach (Γ TBCA) vs. Treatment-Based on Patho-Anatomical Diagnosis AKA Classification-Based Treatment (Γ TBP-AD)
+					The TBC approach exists in contrast to the patho-anatomical model
+						Patho-Anatomical Model (Γ Quina és la estructura que causa els efectes que vejem)
+							-which focuses on the specific anatomical structures that are thought to be injured, damaged, or otherwise affected. 
+								I.e.:
+									herniated lumbar disc,
+									a tear of the medial meniscus,or
+									trochanteric bursitis
+							-Advocates of this approach commonly select treatments based on protocols or regimens perceived as effective for patients with the associated diagnosis
+						-TBC Approach (Γ Quins són els efectes que vejem, el resultat que dona la estructura danyà + la estructura danyà)
+							-It focuses on matching interventions with the patient’s signs, symptoms, and impaired body structures identified during the history and physical exam
+								Examples of findings that might guide a TBC-focused plan of care could include:
+									joint hypermobility
+									pain that radiates into an extremity
+									impairments of muscle coordination
+							------------------------------------------------
+							Treatment-Based Classification for the Hip Region / Classification-Based Treatment for the Hip:
+								-A TBC for conditions affecting the hip region is well-established.   
+								-Determining the which classification upon which to base a patient’s treatment plan includes answering the following questions: 
+									--------------------------------------- [PROC_MSK1_TBCHip] [MSK1_L06]
+									("Classification-Based Treatment for the Hip.png") (!!D).Hip
+									-1stQuestion.Hip vs. Lumbosacral Spine? Can the lumbosacral spine be ruled out as a source of the patient’s problems?
+										2ndQuestion.Extra-Articular vs. Intra-Articular [MSK1_IntraExtraHipCond]
+											-2HipOver.Differentiation between INTRA- & EXTRA-articular hip conditions
+											-If so, does the patient’s condition presents as affecting intra-articular or extra-articular hip structures?
+											------------------------------
+											-INTRA-Articular (See [MSK1_IntraHipCond])
+												("04_01 Mod4_Treatment-based Hip Joint Classifications.mp4")
+												3rdQuestion.If the patient may be classified as having an intra-articular hip problem, into which of the following sub-groups do they fit?
+													("Intra-articular Hip Joint Conditions.png")
+													Labral Injury
+														Traumatic injury
+														Impingement REPE↓
+														Hypermobility/Osteoarthritis (OA) REPE↓
+															-Γ It means that they have OA due to the Hypermobility (bad biomechanics ¿?) REPE↓
+													Osteoarthritis (OA)
+														Impingement REPE↑
+														Hypermobility/Osteoarthritis (OA) REPE↑
+															-Focus on a stability approach
+																-Γ It means that they have OA due to the Hypermobility (bad biomechanics ¿?) REPE↑
+														Hypomobility/Osteoarthritis (OA)
+															This classification often overlaps with arthritis of the hip
+															Focus greatly on interventions that increase joint motion
+													-------------------------------
+													Select group of intervention accordingly
+											EXTRA-Articular
+												Evaluate and Treat Extra-Articular pathology
+												4.6. Overview of Extra-Articular Hip Conditions [MSK1_C4.6]
+													("04_05 Mod 4_Hip Extra-Articular Conditions Part 01.mp4")
+													("04_05 Mod 4_Hip Extra-Articular Conditions Part 02.mp4")
+													("04_05 Mod 4_Hip Extra-Articular Conditions Part 03.mp4")
+													-The anatomical structures involved in these conditions exist outside of the hip joint capsule.
+													----------------------------------------------------------
+													Greater trochanteric pain syndrome (GTPS) (Most accepted name) Γ(LATERAL) ¦PROTA_MNEMO_Jackie Chen's DB GT Condition 
+														AKA Greater trochanteric Bursitis/Gluteus Medius Syndrome
+															-Each one of the names suggest an involved structure that was believed to be the cause in the past
+														("Greater Trochanteric Pain Syndrome GTPS.png")
+														-Which anatomical structures are typically MOST affected/inflamed in patients with GTPS? (!!Q)
+															The gluteus medius tendon
+															The greater trochanter
+															The greater trochanteric bursa
+																Main source of the pain
+															The IT Band
+
+															✓The gluteus medius tendon
+																-While all of these structures may be involved, research suggests that over 60% of patients with GTPS have gluteus medius tendon('') involvement
+														-A patient’s history suggests she has GTPS. Which of the following tests or measures would MOST help the PT to identify a likely impaired body structure that would be the focus of treatment? (!!Q)
+															Joint mobility testing of the hip joint
+															Manual muscle test for the gluteal muscles
+															Palpation of the lateral hip structures
+															Range of motion testing of hip flexion
+															Gluteal De-Rotation test
+
+															✗Joint mobility testing of the hip joint
+																-Joint mobility testing would likely be of lesser value since the pathology is extra articular.
+															✓Manual muscle test for the gluteal muscles
+																-Because the gluteal muscles provide significant stability for the hip joint structures, identifying possible weaknesses in these would help determine the extent to which training here is needed
+																	-(Γ)MMT [MSK1_GTPSMeuInvest] (See [MSK1_HipCommTestMM])
+																		gluteus medius tendon
+																			Gluteus Medius participates in the next actions:
+																				-Why do we test this m. on those 3 different actions. Because of the different fiber recruitment? If yes, why posterior fibers in two different tests and anterior fiber not at all? Why not only abduction where all m. fibers are recruited?
+																				--------------------------------------------
+																				Hip
+																					Flexion
+																						B/c anterior fibers
+																					Extension¹
+																						B/c posterior fibers
+																					Abduction¹
+																						B/c all the muscle recruited ¿?
+																							Two variants:
+																								In prone
+																									leg flexed 90° (prefered method)
+																									Leg straight
+																					IR
+																						B/c anterior fibers
+																					ER¹
+																						B/c posterior fibers ¿?
+																					Estabilization (Pelvis)
+																						B/c no manual test for this one ¿?
+																			-----------------------------
+																			Try this MMT ¿? (See [MSK1_HipGTPSHypothActTest])
+																				1st.Hip Abduction Test
+																					Abduction (Action)
+																						-See: "Hip Joint - Acetabulum (Hip bone = x3 more bones) + Femoral head" ← "FastTXT Pro Actions.rtf"
+																							-Encara que te molts mm., com este sindrom no inclou ningun d'ells només que Gluteus Medius, docs podem estar segurs de que és éste m. 
+																				2nd.Hip Extension Test
+																				3rd.Hip ER Test
+																				---------------------------------------------------
+																				Si Glut Max and Med/Min share these actions
+																					ABD, Ext (from flexed position), & ER
+																						-Lo que no compartixen es lo que queda de Glut Med/Min
+																							-IR, Flex ← testetja estos per a eliminar Glut Max de l'equació
+																		greater trochanter
+																			No MMT known
+																		greater trochanteric bursa
+																			No MMT known
+																		Iliotibial Band (IT)
+																			Knee Flexion (Action/Test) or Ely’s Test ¿?
+																				-See: "Knee Extensor Mechanism – Quadriceps Femoris (alternative version from CoreInfo)" ← "FastTXT Pro Actions.rtf"
+															✗Palpation of the lateral hip structures
+																-Palpation of lateral hip structures would simply indicate the presence of pain in the area.
+															✗Range of motion testing of hip flexion
+																-Range of motion would not likely provide any additional detail about treatment.
+																	Γ Yes, about the ITB (Knee Extensor Mechanism) ¿?
+															✗Gluteal De-Rotation test
+																-Although the De-Rotation Test is a test to help diagnose GTPS, it would not be of any help in identifying treatment focus.
+																	Es a dir, quína estructura epecíficament, ja que les estira totes.
+														-Based on the description of the pathology, hypothesized findings and common interventions. ¿?
+															-Hypothesized Subjective Findings
+																Insidious onset
+																Recent change in activity
+																Pain mainly over GT
+																	But can radiate to groin and buttock
+																Pain with activities causing pressure over lateral hip
+																	Side-lying
+																	Sitting
+																Worse after moving from sustained positions
+																Better after a few steps
+																Worse after extended activity
+															-Hypothesized Objective Findings [MSK1_HipGTPSHypothActTest] (See [MSK1_PositTest])
+																-Pain with resisted (See [MSK1_GTPSMeuInvest])
+																	abduction,
+																	extension, or
+																	external rotation
+																	¦Colp de peu Palmito (creuan el cos per inici, de dins cap a fora)
+																-Decreased flexibility in soft tissues surrounding hip (See PROC_HipFlex)
+																	Adductors
+																		Γ Adductors Test
+																	Flexors
+																		Γ Ely’s Test & Thomas Test
+																	IT Band
+																		Γ Ober’s Test & Modified Ober’s Test
+																	HS
+																		Γ 90-90 Test
+																	etc.
+																-Pain with palpation directly over GT
+																-(+) Gluteal De-Rotation Test
+																	Γ Remember: this one does not say what structure specifically
+															-Based on the findings you listed, what do you think would be commonly provided interventions?
+																See queastions above
+														---------------------------------------------
+														Impaired Body Structures and Focus of Interventions
+														Stretches to maximize flexibility of (research stretching exercises (!!))
+															ITB
+															Hip Flexors
+															HS
+															Adductors
+															Quadriceps (xq este ¿?)
+															------------------------------------
+															(Γ)Why stretches to maximize flexibility help on the treatment of Greater trochanteric pain syndrome?
+																Flexibility exercises can help address muscle tightness and imbalance, which are common contributors to GTPS. By improving flexibility, the tension and stress on the affected muscles and tendons, such as the hip abductors and extensors, can be reduced, potentially alleviating pain and discomfort associated with GTPS. Additionally, stretches can help enhance the overall range of motion in the hip joint, promoting better movement patterns and reducing the risk of abnormal stress on the greater trochanteric region. This can be particularly important for individuals with GTPS, as studies have suggested that abnormal control of lower limb movements and deficient neuromuscular parameters may contribute to the development of GTPS. Therefore, incorporating stretches to maximize flexibility as part of a comprehensive treatment plan for GTPS can help address underlying musculoskeletal issues and promote improved hip function and comfort.
+														Strengthening of Abductors and Extensors
+															Eccentric exercises?
+															(Γ)-Why strengthening of Abductors and Extensors help on the treatment of Greater trochanteric pain syndrome?
+																-Due to their role in hip stability and function. Research has indicated that GTPS may be related to poor hip and pelvic control, and strengthening the abductor and extensor muscles, especially in positions of unilateral support such as gait, can help address this issue. The hip abductors, including the gluteus medius and minimus, play a crucial role in stabilizing the pelvis during activities like walking and running. Weakness in these muscles can lead to increased pelvic drop on the opposite side during gait, potentially contributing to GTPS. Similarly, the hip extensors, such as the gluteus maximus, are important for activities like standing from a seated position and walking uphill. Strengthening these muscles can help improve overall hip stability and function, which may alleviate symptoms associated with GTPS. Therefore, targeted strengthening of the abductors and extensors is a key component of the comprehensive management of GTPS.
+																	Pelvis (keeps contralateral pelvis level when in ipsilateral weightbearing)
+																		Gluteal Muscle - Medius/Gluteus Medius
+																			-Es a dir, que estos musculs, desde el costat que està aguatant la força, tirent de la cadera en ixe costat per a alçar o nivellar la línea de la cintura del altre costat; es com una palanca
+														Limit/Alter exacerbating activities/positions
+														Orthotics? ``
+															If biomechanical fault in kinetic chain involving foot/ankle
+													Piriformis involvement (Γ LATERAL-POSTERIOR) ¦PROTA_MNEMO_TioVictor
+														("Piriformis involvement.png")
+														("Piriformis involvement - Anatomical Anomalies.png")
+															Variation that cause presure in a different way
+														Irritation of the sciatic nerve by the piriformis muscle due to:
+															Piriformis Hypertrophy
+															Piriformis spasm/inflammation
+															Anatomical anomalies
+													Pubalgia – Osteitis Pubis (Γ MEDIAL-FRONTAL) ¦PROTA_MNEMO_ForesGump
+														-``Collective term for disorders of chronic pain due to involvement of anatomical structures in region of pubic tubercle which can include:
+															Structures attaching to pubic bone
+																(Γ)From out to in
+																	Pectineus muscle
+																	Adductor longus muscle
+																	Adductor brevis muscle 
+																	Obturator externus muscle 
+																	-------------------------
+																	Above of it ¿?
+																		External abdominal oblique muscle
+																		Internal abdominal oblique muscle 
+																		Transversus Abdominis muscle
+																		Pyramidalis/Pyramidal muscle
+																		Rectus abdominis muscle
+																		Psoas minor muscle 
+																		----------------
+																		Inguinal ligament 
+																		Linea alba
+															Pubic Symphysis
+															Soft tissue around pubic rami
+																(Γ)From out to in ¿?
+																	Iliacus muscle
+																	Psoas major muscle
+																	Iliopsoas (iliopectineal) bursa
+																	Pubofemoral ligament
+																	Iliofemoral ligament
+														-------------------------------------------------------
+														SUBJECTIVE FINDINGS
+															Complaints of lower abdominal pain with exertion
+															Minimal pain at rest
+															Etiology
+																-Repetitive athletic activity
+																-Degenerative or rheumatic causes``
+																-Urological/gynecological procedures or pregnancy (non-infectious)
+															Increased pain with activities involving resisted hip adduction
+																Gait: swing phase
+																	("Gait Cycle.png")
+																	("Gate Cycle Concentric Excentric Muscles.jpg")
+																		Γ 1st.Iliopsoas in Concentric
+																		Γ 2nd.HS in Eccentric
+																Pivoting
+																Sport specific: cutting jumping kicking, sit ups
+														OBJECTIVE FINDINGS
+															Pain with
+																Passive ABDuction
+																Passive hip flexion when combined with hip ADDuction
+																	-Γ Este es pot confundir amb intra-articular per les accions. Es la localització del dolor suficient per a distinguir-ho? ¿?
+															Point tenderness at any of these areas:
+																Pubic tubercles
+																Rectus Abdominis insertion
+																Adductor origin
+																Inferior pubic rami
+																Muscle Imbalances
+																	Tightness
+																		Rectus abdominus*
+																		Adductor
+																		Iliopsoas
+																		Rectus Femoris
+																	Strength Asymmetries - weakness
+																		Adductors*
+														-------------------------------------------
+														(+) SPECIAL TESTS
+															-Single resisted ADD test
+															-Active Straight Leg Raise (SLR) painful 
+															-Pubic Symphysis Gap Test ("Pubic Symphysis Gap Test.png")
+														-------------------------------------------
+														Interventions
+															Rest and anti-inflammatories
+																Corticosteroid injection in more severe cases
+															Transvers friction massage to involved tendons
+																-Might help realign fibers that are maybe not laid down correctly
+																-Be careful: performing any palpation or touching in the area of the groin
+															Stretching of any shortening hip structures
+															Activity modification
+															Core and Hip Stabilizer Strengthening
+															Proprioceptive training
+													Proximal tendinopathies (Γ POSTERIOR)
+														Proximal hamstring injuries
+															Hamstring strain ¦PROTA_MNEMO_JoYoKung-FuSplash Center
+																Hamstrings
+																	Biceps Femoris
+																	Semitendinosus
+																	Semimembranosus
+																--------------------------------------
+																Most commonly strained muscles in body
+																	Biceps femoris most commonly injured HS muscle
+																Anywhere from strain to rupture
+																Occurs during eccentric use
+																Grades: (!!E.Grade & Doc)
+																	(I)- Mild strain (1-3 wks)
+																	(II) - Partial tear (4-8 wks)
+																	(III) - Complete tear or avulsion (3-6 months)
+															----------------------------------------------------
+															Subjective Findings
+																Distinct mechanism of injury with immediate pain
+																Reports "pop" or tearing sensation
+																Posterior thigh pain near buttock
+																Typically, during quick acceleration
+															Objective Findings
+																Typical contractile pattern of provocation
+																	AROM/MMT: pain with active/resisted knee flexion
+																	ROM/Elasticity: pain with passive knee extension and hip flexion
+																PALPATION: HS origin tender to palpation
+															----------------------------------------------------
+															-Acute Muscle Strain Interventions PLANTILLA [MSK1_L07_m.StrainIntrv]
+																(Γ)Elements that appear in this rehab phases
+																	1st.ROM (not exactly 2nd.Stretching, but in the family, for early stages)
+																	"Strenght (2nd.concentric, 3rd.excentric)"/1st.Isometrics
+																	2nd.Stretching
+																		---------------------------------------------------------
+																		-In other words (progression by letters first, by number inside each category too)
+																			I.ROM
+																				(a) 1.PROM as tolerated
+																				(b) 2.AROM as tolerated
+																			II.Strengtening
+																				(b) 3.Isometrics
+																				(c) 4.Concentric
+																				(d) 6.Excentric
+																				(e) 7.Pliometrics
+																			III.Flexibility
+																				(b) 8.Light
+																				(c) 9.Agressive
+																Early Recovery
+																	Maintain mobility as tolerated
+																	Strengthen mm. around injury (Isometrics)
+																		(Γ)All but no HS [MSK1_TriageHSmm] (See [MSK1_TriageHSmm2], [MSK1_HipCommTestMM])
+																			List of mm. and actions in which HS participates
+																				Knee Flexion
+																					Quadriceps Femoris - Rectus Femoris
+																					Quadriceps Femoris - Vastus Lateralis
+																					Quadriceps Femoris - Vastus Medialis
+																					Quadriceps Femoris - Vastus Intermedius
+																					Hamstrings
+																						Biceps femoris
+																						Semitendinosus
+																						Semimembranosus
+																					Gastrocnemius
+																				Knee IR
+																					Sartorius
+																					Gracilis
+																					Hamstrings
+																						Semitendinosus
+																						Semimembranosus
+																			-From the anterior list, select actions in which these mm. participate & HS are not included
+																				For Quadriceps Femoris
+																					Hip Joint Stabilization
+																					Hip Flexion¹
+																					Hip Extension
+																					Knee Extensor
+																				For Gastrocnemius
+																					Knee PF
+																				For Sartorius
+																					Hip Flexion¹
+																					Hip Abduction¹
+																					Hip ER
+																					✗Knee IR¹
+																				For Gracilis
+																					Hip Adduction¹
+																					✗Knee IR¹
+																	LIGHT stretching of healing muscle
+																Mid-Recovery (activities that recruit more the m.)
+																	-Tipically, in this stage pt. can walk into the clinic with weightbearing as tolerated
+																	-Isometrics & light concentric strengthening for of healing muscle
+																	-More aggressive stretching "AKA resistance" of healing muscle (manually & with no pain yet)
+																Later Recovery
+																	-Heavy concentric & eccentric loading of healing muscle
+																	-Impact, sports specific training, multi-planar movements
+														Adductor-related groin injuries/Adductor Tendinopathy ¦PROTA_MNEMO_Miret
+															Pathology affecting proximal hip adductor tendon(s)
+															Typical mechanism:
+																Repetitive loading of hip involving twisting/turning
+															Predisposing Factor: imbalance of stabilizing hip muscles
+															---------------------------------------------------------
+															Subjective Findings
+																-Stabbing pain in the groin with quick movements
+																-Edema or ecchymosis`` several days past traumatic injury
+																-Increase in symptoms with running, cutting, kicking, and exercises that load one leg at a time
+															Objective Findings
+																-Pain with passive abduction Γ(due to tendon stretching) and resisted adduction
+																	Test in varying degrees of hip flexion
+																-Muscle guarding near groin
+																-Severe ruptures > palpable defect
+															---------------------------------------------------------
+															Interventions
+																Early recovery
+																	PRICE-MEM``
+																	Isometrics for Adductors
+																	Strengthen other hip muscles [MSK1_TriageADDmm]
+																		(Research which ones; see as an example [MSK1_TriageHSmm]) (!!)
+																	Flexibility of all hip structures
+																Later stages
+																	-Progress strengthening exercises (eccentric, plyometric, multiple plane movements)
+														-------------------------------------------------------------
+														Tendinitis vs. Tendonosus AKA Tendinosous AKA Tendonosous [MSK1_L07] [MSK1_L07_TendVSTend]
+															What does "itis" mean?
+																inflammation, and usually more than acute
+															Tendonosus (more for the elbow)
+																-Development of fibrotic unhealthy layers of tissue within tendon
+																	-Usually seen in the patellar and achilles tendon
+																	-If it is going for more than a week or so
+																	-There is inflamation, pain, and tissue damage
+																	-Γ But it is not really a tendonitis (acute inflamation but chronic irritation)
+																-Occurs due to repetitive trauma that heals partially and is reinjured over and over
+																-Results in
+																	-Disorganized layers of tissue (fibrotic unhealthy layer tissue)
+																	-Decreased blood flow
+																	-Hypersensitized nerve endings
+															General Approach to Treatment of Tendinosus
+																-Perform activities that induce slight micro-trauma in tissue. Why?
+																	-Re-kickstarts the healing process
+																	-Allows realignment of new tissue growth in healthy and organized fashion
+																	-Interventions that accomplish this?
+																		Cross Friction Massage``
+																		Eccentric Exercises
+																	Remove/Correct activities causing repeated trauma
+																		Correct faulty movement patterns
+																		Stabilize weak/under-recruited muscles
+																		Lengthen shortened tissues
+															-Acute Muscle Strain Interventions PLANTILLA (See: [MSK1_L07_m.StrainIntrv])
+																---------------------------------------------------
+																Case 1 ¦PROTA_MNEMO_Nyjha_la_Ninja
+																	23 y.o. male Olympic Sprinter
+																		-Injured his right Hamstring coming off the starting block
+																		-Comes to PT 3 days later using crutches
+																		-Still has constant pain at 3/10 that increases to 6-7 with HS activation
+																		------------------------------------------- RESEARCH (See also: [MSK1_TriageHSmm])
+																		1st.What are the involed mm.?
+																			Hamstrings (HS)
+																		    	Semitendinosus
+																		    	Semimembranosus
+																		    	Biceps Femoris (only Long Head)
+																	    2nd.Actions (A) performed by those mm. (I guess we find out this during the physical exam) [MSK1_Case1_StrainIntrv_AcuteHS]
+																	    	Hip Extension
+																		    	Semitendinosus
+																		    	Semimembranosus
+																		    	Biceps Femoris (only Long Head)
+																		    Knee
+																		    	(Tibiofemoral Joint) (iniciated from straight position - knee extended)
+																					Flexion
+																						Semitendinosus
+																		    			Semimembranosus
+																		    			Biceps Femoris
+																		    	(Tibiofemoral Joint) (iniciated from flexed position - knee flexed)
+																		    		IR
+																		    			Semitendinosus
+																		    			Semimembranosus
+																		    		ER
+																		    			Biceps femoris
+																		-------------------------------------------
+																		-Design a program with at least one specific example of an intervention in each phase of recovery that addresses each purpose/goal within each phase
+																			Hamstring Strain Intervention Recovery Goals (See/Based on PATTERN: [MSK1_L07_m.StrainIntrv]/[MSK1_TriageHSmm]) (!!P)
+																				.Early Recovery Activities?
+																					3rd.Maintain mobility as tolerated (tolerated = consider how far they can go and no beyond)
+																						*being this a two-joint m., we want to be extra-mindful
+																						ROM on the (Γ the contray movement since PROM/Elasticity)
+																							Γ Ací són les accions del m. HS lessionat. Fem el moviment hasta antes del dolor xa mantindre ROM
+																							Hip Extension → Flexion
+																							Knee
+																								(from extended position)
+																									Flexion → Extension
+																								(from flexed position)
+																									IR → ER
+																									ER → IR
+																					4th.Strengthen mm. around injury (HS in this case)
+																						-Isometrics
+																							One way to do it is [MSK1_TriageHSmm2]
+																								4.1st.look at the actions he cannot perform,
+																								4.2nd.find out the muscles of those actions, and
+																									--------------------------------------------
+																									Since (See [MSK1_Case1_StrainIntrv_AcuteHS]) Action restrictions are: (another research on HS like [MSK1_TriageHSmm])
+																										Hip Extension
+																											✗Adductor Magnus (hamstring part)
+																											Gluteal Muscle - Maximus/Gluteus Maximus (weaker)
+																											Gluteal Muscle - Medius/Gluteus Medius (posterior fibers)
+																											Gluteal Muscle - Minimus/Gluteus Minimus (posterior fibers)
+																											✗Biceps femoris
+																											✗Semitendinosus
+																											✗Semimembranosus
+																										Knee
+																											(from extended position)
+																												Flexion
+																													Quadriceps Femoris - Rectus Femoris
+																													Quadriceps Femoris - Vastus Lateralis
+																													Quadriceps Femoris - Vastus Medialis
+																													Quadriceps Femoris - Vastus Intermedius
+																													✗Hamstrings
+																														✗Biceps femoris
+																														✗Semitendinosus
+																														✗Semimembranosus
+																											(from flexed position)
+																												IR (Knee ¿?)
+																													Sartorius
+																													Gracilis
+																													✗Hamstrings
+																														✗Semitendinosus
+																														✗Semimembranosus
+																												ER (Knee ¿?)
+																													✗Biceps femoris
+																								4.3rd.find actions where those muscles participate that are not the actions cannot be preformed
+																									Gluteal Muscle - Maximus/Gluteus Maximus (weaker)
+																										Flexion
+																										Adduction - Secondary Adductors
+																										ER
+																									Gluteal Muscle - Medius/Gluteus Medius (posterior fibers)
+																										Pelvis (keeps contralateral pelvis level when in ipsilateral weightbearing)
+																										Pelvis Level Maintenance
+																										Flexion
+																										Abduction
+																										IR
+																										ER (posterior fibers)
+																									Gluteal Muscle - Minimus/Gluteus Minimus (posterior fibers)
+																										Pelvis (keeps contralateral pelvis level when in ipsilateral weightbearing)
+																										Flexion
+																										Abduction
+																										IR
+																										ER (posterior fibers)
+																									Quadriceps Femoris - Rectus Femoris
+																										Hip Stabilization
+																										Hip Flexion
+																										Knee Extension
+																									Quadriceps Femoris - Vastus Lateralis
+																									Quadriceps Femoris - Vastus Medialis
+																									Quadriceps Femoris - Vastus Intermedius
+																										-----------------------------------
+																										Knee Extension
+																									Sartorius
+																										Knee IR ¿?
+																										Knee Extensor
+																										Hip Flexion
+																										Hip Abduction
+																										Hip ER
+																									Gracilis
+																										Hip Adduction
+																										Hip IR
+																										Knee Extension
+																									-------------------------------------- Not in the reseatch, why? Hi han més? ¿?
+																									TFL
+																										Pelvis Level Maintenance
+																									--------------------------------------
+																									Abductors (Research more Adductors (!!))
+																						Muscle activation awareness education
+																							-This is a great time to educate the patient on activations of Gluteus Maximus since these athletes normally only activate the immediate big muscles like HS on these fast, powerfull thrusts
+																					.LIGHT stretching of healing muscle
+																						We want to make sure he stays in the confortable range, that he does not report any pain
+																						What kind of stretchings?
+																							PENDENT Research (!!)
+																				.Mid-Recovery Activities?
+																					*Tipically, in this stage pt. can walk into the clinic with weightbearing as tolerated
+																					.Isometrics & light concentric strengthening for of healing muscle (HS in this case) PENDENT Research (!!)
+																						Hamstrings curls
+																							Teraband
+																							resistance assited by the PT
+																								better option since we can control the resistance
+																							by his own
+																					.More aggressive stretching "AKA resistance" of healing muscle (manually & with no pain yet) PENDENT Research (!!)
+																						Contract-Relax, etc.
+																				.Later Recovery Activities? (He wants to return to sports again, in this case)
+																					.Heavy concentric & eccentric loading of healing muscle PENDENT Research (!!)
+																						Concentric loading
+																							Squats
+																								Clueing the patient on activating the HS & Gluts, and not only the toes
+																								Dead Lifts
+																									And this gives us an idea on how his HS are (con la fase del resorte = pliometric)
+																								Whatching his form
+																						Eccentric loading
+																							Romanian Dead Lifts
+																							Nordic Hamstring Curls (a more difficult one)
+																					.Impact, sports specific training, multi-planar movements PENDENT Research (!!)
+																						Active stretching
+																						Explosive movements
+																							Sprints
+																								The take off phase since this where they were injured in
+																							Leg pulls
+																							Leg Pushed
+																						How do we educate the pt. on preventing for this to happen again?
+																							A better warm up
+											-------------------------------
+											Case [MSK1_L06] ["CNVS SS#7 - Hip Conditions-A-1.30.24.pptx"]
+												-Carlos is a 44 year-old male who reports left hip and buttock pain that radiates half-way to the knee when severe
+													While evaluating Carlos’ condition:
+														1-What approaches will help the physical therapist determine if the pain is truly coming from the hip vs. the lumbosacral spine?
+															(See [MSK1_HipTriage])
+															----------------------
+															Do not go straight into special tests and be very methodical
+																1st.Low back examination (See [MSK1_Imm1A_LumbosacralPath])
+																	Γ ROM
+																		PENDENT Research
+																	Palpation
+																		PENDENT Research (!!)
+																	Flexibility Testing
+																		PENDENT Research (!!)
+																	MMT
+																		PENDENT Research (!!)
+																2nd.Hip examination
+																	Γ ROM
+																		PENDENT Research (!!)
+																	Palpation
+																		PENDENT Research (!!)
+																	Flexibility Testing
+																		PENDENT Research (!!)
+																	MMT
+																		PENDENT Research (!!)
+																---------------------------------------------------------
+																-Before jumping right of the hip with some tests to rule out the low back, it is better to test first for the low back to rule out it directly.
+																-We want "subjectively" interrogate the pt. first
+																	-Does anything make your symptoms go away or cause your symptoms to be worse?/I always ask what positions, activities or times of the day change their symptoms.
+																		-This way the PT. starts to narrow the objectivity of the exam
+																			-So if they say it's bending over toward my toes that bothers me or it's crossing my legs when I'm sitting into a chair. That's going to give you more information of what you might want to rule out first before you try to rule something in.
+																				-This way, if the pain is, i.e. bending fordware and no crossing the leg, the issue is be more backdriven.
+																					-Then, what can we do objectively to see whether it is actually the spine?
+																						-Then, test for back ROM and ask about PAIN. You want to see if any of the positions or activities you're taking them through, change any of their symptoms. (See [MSK1_Imm1A_LumbosacralPath])
+																						-Do not bias them by saying, does this cause you pain? just asking if it changes it.
+																							-Let's say ROM (bending fordware) does increase the pain. Since bending fordware is still flexing the hip, we have to dig deeper on our investigation. What are other ways (besides ROM) to see if it's spine related (reproduction of familiar symptoms)?
+																								-Palpation
+																								-The spine is kind of hard to passively stretch so you may want to avoid this one
+																								-Myotomes & Dermatomes
+																									PENDENT Research (!!)
+																								-Joint mobility along the spine or just applying pressure to "Posterior Anterior (PA) direction"
+																								------------------------
+																								-What if all of these things have fail?
+																									-you want to go from basic to specific
+																										-It's hard to do hip ROM without getting the pt. into positions that then lead into a special test
+																										- So the first thing may be just looking at purely ROM: does flexion, extension, IR, etc. cause any change?
+																											-If they do, then go to special tests that are going to help to rule in or out intraarticular vs. extraarticular (FABER, Scour, etc.)
+																												-Are they positive? Let's say yes, both. Would it be intra- or extra-articular?
+																													Intra- because the compression on the hip joint is causing pain
+																												-Are they negative? If yes:
+																													What would be some ways that we can prove it is extra-articular?
+																														What are the things outside of the joint that can cause hip pain?
+																															Muscle
+																															Joint capsule
+																															Sorrounding soft tissue
+																														---------------------------
+																														Palpation
+																															Does not help with intra-articular structures at the hip; may at the RC
+																																So, if palpation provoke symptoms, it is going to be extra-
+																														Stretches (flexibility testing)
+																														MMT
+																															Shotening the tissue changes the pain?
+																-We may want to observe them walking
+														2-If not coming from the spine, what hip tests and measures will help determine if his condition is intra-articular or extra-articular?
+															*See question above
+														------------------------------------------------------
+												-The PT thinks that Carlos either is experiencing hip osteoarthritis or femoral acetabular impingement
+													1.Describe the mechanics of these pathologies
+														What causes each and why do patients with them have pain?
+															hip osteoarthritis
+																The fact that he is 44 makes more unlikely for this condition
+																One with this condition cannot stand that well in the involved side since the cartlage is deteriorated
+																End feel:
+																	As we age mobility decreases, the articulations are not crushy¿? & spongy anymore
+																		So we won't go too far on them (stifness). With OA you can even take them where the pain is
+																Tell about distraction vs. compression
+																	Distraction is going to feel better that compression
+															Femoral Acetabular Impingement``
+																Provoked and intra-articular
+																Position, activity, & time
+																	Worse in the morning, better during the day (lubrication of the joint), & after too much compression during the day, pain again
+																End feel:
+																	More hypermobile since probable younger
+																		Therefore, more muscular guarding getting there
+																Tell about distraction vs. compression: ¿?
+														-If we're talking about to be intra-articular, what information will help the PT distinguish between the classification of if it is traumatic, hypermobility, or hypomobility?
+															Ask the patient (subjective history); may be they tell you about if it was an accident and the prior status of mobility.
+																How can we determine (wha kind of test) then if it's hypomobility or hypermobility? (informaion about the joint mobility)
+																	1st.ROM
+																	2nd.Flexibility
+																What is another way we can test for hypermobility?
+																	Beighton Index (See [MSK1_BeightonInx])
+																		Some people have that nervous habit to hypermobilize their joints during activity
+																			This should be avoid it since the ligaments are taken beyond the end point, then the only think is going to hold the articulation is the muscles
+																				This can cause irritability of soft tissues and change biomechanics. Doing to much on one side changes another one 
+																					Strenght exercises for joint stabilizaton
+																		People that has a high score on this index has a medical condition Ehlers-Danlos syndrome (EDS) caused by entire body joint hypermobility disorder
+																			They must stregth everything to be able to hold on position and avoid to put the body in positions that are not meand to be.
+																				-With athletic people that are good at it because of this, when they get older or stop training the muscles are not enough powerful anymore and it is very problematic and can lead to surgeries to repair the damage they cause to themselves 
+													2.What is your initial hypothesis? *See above
+													3.What questions during the history might help make this determination? *See above
+													4.What findings from tests and measures would help distinguish between these? *See above
+										-Lumbosacral Spine 
+											Evaluate and Treat Lumbosacral Pathology
+												Lumbar Spine Screen/Lumbar Motion Screen
+													("CNVS-IMMERSION 2A - SPRING 2024.pptx")
+													[MSK1_Imm1A_LumbosacralPath]
+													(See [MSK1_ObserveBonyLandHip])
+													-------------------------------------------------
+													-AROM followed by (if no sx reproduction) SLIGHT overpressure to ensure full range
+													-Observe the patient’s CHOSEN pattern of movement
+													-Observe spinal curves.
+														-They should be round and consistent
+															-If you find a discrepancy (i.e.: straight line from lumbosacral joint and then a nice curve all the way to the thorax) the point in which you see the change is where the force is mainly concentrated and is a source of problems; it could be already damaged or it will eventually be.
+														-Look for asymetries if you have two contraposed postures like sidebending. 
+															-Asymetries can be do to
+																Bony structures
+																Muscle
+															-Look for big issues; no need to zoom in for little details
+															-Asymetries can follow back if they are in front or vice versa. Also, the can mean anterior or poserior rotation of the hip, etc.
+														-Some movements are meant only to activate symptoms (marked as *asterisk), not to find asymetries, but overall all the movements can activate symptoms, so always ask for feedback from the pt.
+														-In this positions, symptoms can be either activated or aliviated; take note of that
+													-------------------------------------------------
+													Patient performs:
+														Flexion (bending forward)
+															Look for the round curve
+																If you find a flat segment, that is an inconsistency
+																	-Swayback could appear as a flat sengment in the lower back when flexing. This means that all the curve is concentrated on the thorax 
+														Extension (bending backward)
+															-Look at the curve and find is there is a point in which the curve breaks and this point is overload; it is or it will eventually cause problems like pain 
+														Sidebend Left
+														Sidebend Right
+														*Rotation
+															Arms in hug position, sitting, and turn both sides. 
+														Combined Motions
+															Extension w/L SB/Rotation
+															Extension w/R SB/Rotation
+															Optional
+																Flexion with L and R SB/Rotation
+			2Over.Differentiation between INTRA & EXTRA articular hip conditions. (See [MSK1_IntraExtraHipCond])
+				EXTRA-Articular Hip Sub-Groups include: [MSK1_ExtraHipCond] 
+				-----------------------------------------------------------
+				2Over.1. Determining Intra-ArticuIar vs. Extra-Articular Source of Hip Pain
+					Findings Indicative of INTRA-Articular Hip Pain (those that cause compresion on hip)
+						1.Pain with Internal ROM Overpressure
+						2.(+) FABER's Test (Even if it is a general test, it could indicate also intra-articular)
+						3.(+) Scour Test (same as FABER's Test + torsional stresses between them)
+						If none of these findings present, pathology is more like to be extra-articular
+					Findings Indicative of EXTRA-Articular Hip Pain
+						Pain or symptom provocation with:
+							1.Palpation
+							2.Passive, selective stretch of muscle, tendon, fascia
+							3.Resistive/Selective tissue tension testing (STT) of specific muscles
+
+	Intra-Articular Conditions of the Hip Joint Commonly Managed by Physical Therapists
+		[MSK1_C4A] [MSK1_C4.4] (See [MSK1_IntraHipCond])
+		------------------------------------
+		-As mentioned in an early portion of the course, for each condition affecting the hip region will we presented using a pattern recognition approach.
+			-Pattern recognition is an informal process used by clinicians to hypothesize a potential diagnosis based on identification of a combination of signs and symptoms associated with a certain condition, disease, or injury.
+			-------------------------------------------
+			Common Subjective Findings
+				-What do most patients presenting with this condition tell the physical therapist during a thorough history? 
+					Radiating pain, numbness and tingling, etc.
+			Common Objective Findings
+				-What are the significant findings from a physical examination performed on the typical patient with this condition?
+					Patterns of ROM limitations, hypermobile or hypomobile structures, positive Special Tests
+			Common Impaired Body Structures/Impairment
+				-Based on the exam findings, what impaired body structures are often the focus of treatment for these patients? 
+					Limited ROM, specific muscles that are weak, swelling, decreased proprioception, etc. 
+		--------------------------------------------------------
+		1.Hip Fractures & Dislocations
+			Hip Fractures & Dislocations
+				-The most common intra-articular hip pathologies that are categorized in the TRAUMA sub-category are
+					Fractures
+						-If imaging reveals fractures or significant damage to soft tissues, blood vessels or nerves, surgery may be required
+						-------------------------
+						-9/10 Hip fractures occur in patients older than 65 years.
+							-Hip fractures in this population are considered very serious because they have up to a 24% mortality rate at two year follow-up!
+							-80% of these occur in females due to a drop in estrogen levels that accelerates bone loss
+					Hip Dislocations
+						-Dislocations may be addressed via non-surgical reduction on which an orthopedist can simply push the head of the femur back in place while the patient is under anesthesia. ("Hip Dislocations.png")
+						-If imaging reveals fractures or significant damage to soft tissues, blood vessels or nerves, surgery may be required.
+				-As the name suggests these are associated with a singular traumatic event such as a fall or motor vehicle accident
+				----------------------------------------
+				Subjective/Objective Findings
+					Severe pain post traumatic incident
+				Common Objective Findings
+					-Shortening and external rotation of the affected limb
+					-Significant loss of mobility
+					-Ambulatory status is NOT a reliable indicator of fracture as some patients without fracture are non-ambulatory and some WITH fracture are surprisingly still able to walk
+				Physical Therapy Focus for Hip Fractures and Dislocations
+					The physical therapist’s role post fracture or dislocation is typically focused on:
+						-Maintaining muscular and cardiovascular function during recovery and healing
+						-Gradual return to functional mobility and ambulation
+						-Upon full healing treatment to improve ROM, strength and balance to minimize the risk of falls
+		2.Osteoarthritis (OA) ("Osteoarthritis (OA).png")
+			It is the most common cause of hip pain in older adults
+			--------------------------------------------------------
+			Osteoarthritis in the hip joint involves: ("Osteoarthritis (OA) Imaging.png")
+				A progressive loss of articular cartilage
+				A shortening of capsular tissue
+				Formation of osteophytes, spurs, and subchondral cysts
+				-------------------------------------
+				-As a result of these structural changes, weight bearing characteristics of the joint are disrupted and lead to focal overload of the articular surfaces.
+				-------------------------------------
+				Findings
+					Common Subjective Findings in individuals with Osteoarthritis of the hip include:
+						-An age of >50 years of age
+						-An insidious (non-traumatic) onset that typically progresses over time
+						-Progressively worsening pain with activity
+							Lasts for hours
+						-Difficulty with actions requiring hip flexion (stairs, putting on socks, etc.)
+						-Pain pattern of
+							Morning stiffness of >1 hr
+							Pain gets better w/movement
+							Then worsens towards later stages of the day
+						-A history of overuse, trauma, developmental disorder, or other pathology at or surrounding the hip joint
+						-Possibly a high body mass index
+					Common Objective Findings in individuals with Osteoarthritis of the hip include:
+						Observation
+							Disuse atrophy in involved LE
+						ROM
+							Pain and restriction with hip IR, Flex, ADD, and ABD
+						Decreased soft tissue/muscle length
+							Especially in hip flexors, hamstrings, and possibly the IT Band
+						Muscle performance
+							Weakness in hip musculature
+							Pain w/resisted flexion and adduction
+				-Q_FABER.2.Special Tests: Which special tests presented in the hip evaluation lesson do you think will be positive and/or painful for patients with hip osteoarthritis. Select all that apply: (!!Q)
+					a.FABER Test
+					b.FADIR Test
+					c.Long Axis Distraction
+					d.Scour Test
+
+					✓a.FABER Test
+						painful due to joint compression
+					✓b.FADIR Test
+						painful due to joint compression
+					✓c.Long Axis Distraction
+						relief of pain due to decompression of joint surfaces
+					✓d.Scour Test
+						painful due to joint compression
+			---------------------------------------------- [MSK_Hip_CompletePictureTreatment_2.Osteoarthritis]
+			Common Impaired Body Structures ("04_02 Mod 4_Hip Osteoarthritis.mp4")
+				Any of these limitations found during the physical exam should be addressed in the treatment plan
+				------------------------------------------------------------------
+				Pain and stiffness
+					Stiffness that eventually becomes painfull
+				Decreased ROM and joint mobility
+					-Due to degeneration of the joint catilage
+					-Additional motion is lost when patients avoid movement into certain ranges due to the presence of pain
+				Loss of muscle and soft tissue flexibility
+					-Avoiding in range movement also causes muscles and other soft tissues around the joint to adaptively shorten
+				Weakness and decreased endurance of proximal musculature
+					Decreased levels of function, especially in weight-bearing, will lead to muscle weakness
+						This is especially true in the larger muscles surrounding the hip joint and the core
+				Decreased balance and proprioception
+					-Due to the decreased levels of function as is any joint
+					-Furthermore, due to wearingly of joint surfaces, nerve endings that provide proprioceptive feedback are actually lost
+			General Approach to Treatment (steps)
+				1st.Reduce pain
+					Reduce pain & maximaize function to allow tolerance of more advanced interventions
+				2nd.Address Impairments
+					The point is that interventions are chosen to address the impairments that have been identified
+				3rd.Address Functional Limitations
+					All treatment plans should also focus on improving specific function that has been impacted
+				4th.Slow Progression of Disease
+					-Because osteoarthritis is a progressive condition that can never truly be reversed, the focus is often more on slowing its progression and maintaining overall function
+			Common Interventions
+				Modalities as needed for Pain Control
+					-The focus would typically be on teaching the patient when and how to self-administer modalities like cryotherapy or heat
+				Regain Mobility: (the philosophy: "Move it or lose it")
+					ROM and stretching exercises to maintain and improve mobility
+						On regular basis by the pt.
+					Manual therapy for joint mobility
+				Strengthen
+					-Increasing the strength of muscles that provide proximal stability is important because enhancing their ability to contract will help limit the amount of stress that is absorbed in the joint
+					-The focus here should be on the larger muscles that we sometimes call the "steak muscles" that are larger and capable of providing more support
+					-Gluteus medius and Gluteus max are essential but the rotation of the hip, especially the external rotators, can also provide stability and control motion
+					---------------------------------
+					Gluts
+					Hip Rotators
+					Core
+						The abdominals, may also benefit from training.
+					Quads
+					OKC or CKC?
+						-It's important, when we're thinking about strengthening, to consider the degree to which we implement open or closed chain exercises. Both are important. We don't want to avoid closed chain exercises altogether, but the amount of overloading and weight-bearing positions should be limited to avoid further wearing away of joint surfaces.
+						-Typical focus will be initially on open chain, progressing to some closed chain activities.
+				Balance and Proprioception Activities
+				Education
+					Activity modification
+					Weight Loss?
+						To avoid extra-stress in the joint
+					Assistive Device?
+						Eventually may be adequate
+					Medical consult for medications and/or surgery if/when appropriate
+						Eventually may be necessary
+			--------------------------------------
+			Hip Pain and Mobility Deficits.pdf
+		3.Pathology affecting the Acetabular Labrum/Labral pathologies
+			("04_03 Mod 4_Labral Pathologies.mp4")
+			-This portion of the lesson will describe a category of related conditions associated with injuries that affect the labrum and acetabulum of the hip joint
+			-In terms of treatment-based classification, acetabular labral tears are commonly associated with:
+				Femoral Acetabular Impingement (FAI)
+					-Occurs when there are abnormal mechanics resulting in some form of compression between the head of the femur and proximal hip structures.
+					----------------------------------------------------------
+					Cam FAI ("Cam FAI.png")
+						*Cam = the cam on a pulley
+						Femoral head has abnormally large radius
+						Results in abnormal contact between femur & acetabulum
+					Pincer FAI ("Femoral Acetabular Impingement FAI.png")
+						Abnormally shaped labrum
+						Leads to persistent abutment (punto de contacto/contrafuerte) of femoral head on labrum
+				Hypermobility/capsular laxity
+					Acetabular labral tears due to Hypermobility and Capsular Laxity
+					With excess laxity, more mechanical stress transferred to joint surfaces
+					------------------------------------------------------------------------
+					Global Laxity (genetics)
+						Individuals with connective tissue disorders (Down's, Marfan's, Ehlers-Danlos)
+					Focal Laxity
+						Results from excessive and forceful external rotation of the hip
+						Common in certain athletes
+					--------------------------------------------------
+					Congenital Hip Dysplasia ("Congenital Hip Dysplasia.png")
+						Occurs due to a Shallow Acetabulum
+							Predisposes hip to subluxation & abnormal contact stresses on femoral head
+							May load labrum up to 5x > normal
+							Cannot treat underlying bony pathology arthroscopically
+			----------------------------------------------------------
+			Acetabular labral tears
+				Subjective Findings
+					Common patient complaints include:
+						Pain
+							Mostly near groin but possible in other places as well
+						Clicking
+						Locking
+						Catching
+						Instability
+						Giving way
+						And/or Stiffness
+						Anterior pinching pain with extended sitting
+				Objective Findings
+					Younger Population
+						With instability - more commonly females
+					Pain with both AROM and PROM
+						B/c labrum is a non-contractile structure
+					End range pain with flexion, IR, and/or ADD
+						-B/c this is a closed packed joint position that compresses the labrum and other inter articular structures like cartilage
+					Weakness in surrounding muscles
+						Especially ABD-ers and Rotators
+							Weaknesses, of course, is going to occur due to disuse
+					Tests for General Laxity/hypermobility? It will be (+) with:
+						Beighton Index (See [MSK1_BeightonInx])
+							("General Body Laxity - Beighton Index.png")
+							A maximum possible score is nine
+							hypermobility is present if we have a score greater than or equal to four
+							---------------------------- [MSK1_L06]
+							General Body Laxity - Beighton Index
+								Why do we care if the patient is globally hypermobile?
+									-If the pt. is, we can asume that is an anatomical feature, but if they only have it in one joint is because they havean issue there
+										-It could be an environmental situation that lead there and we have to investigate that
+						Increased ER
+						Excess motion with long-axis distraction
+					(+) Special Tests
+						Scour
+						FABER/Patrick's
+						Resisted SLR
+					If the tear is due to FAI:
+						FADIR Test
+							Combined Flex/ADD/IR
+						Log Roll Test (IR)
+						Relief with long axis distraction
+					Special Tests — Instability/Hypermobility
+						Log Roll Test (into ER)
+							-Procedure: Patient lies in supine and is fully relaxed. Attention is paid to the subject's foot position. The examiner passively "rolls" the femur externally
+							-Interpretation: Notable greater external rotation of the femur may indicate laxity of the anterior capsule of the hip joint
+							-Note: minimal literature on test characteristic
+					Special Tests — Anterior Instability
+						Apprehension/HEER Test ("HEER Test.png")
+							-Procedure: Patient lies in supine and pulls one leg to chest. The examiner places the hip in a position of extension and external rotation.
+							-Interpretation: Patient exhibits apprehension (aprensión/comprensión) with application of test. This may indicate anterior hypermobility of the hip joint.
+							-Sidelying alternative: AB-HEER Test ("04_06 AB-HEER Test _ Hip Microinstability.mp4")
+				-------------------------------------------
+				("Acetabular labral tears and chondral.png")
+					-So damage to the labral surface, of course, may ultimately result in degeneration of the cartilage on the femoral head in the labral surface, thus, the connection between labral tears and arthritis
+			-----------------------------------------------
+			How does Osteoarthritis Present Differently than FAI?
+				-Patients with osteoarthritis and FAI can often present in a similar fashion. This is because both involve changing relationships between articular surfaces. Therefore, describing common ways in which these two diagnoses present differently can be of value.
+			Common differences in the presentation of OA and FAI include
+				The age of the patient
+					Patients with OA tend to be >50 years age
+					Patients experiencing impingement tend to be younger
+				The presence of morning stiffness is more typical in the presentation of OA.
+				Range motion findings?
+					-While both conditions will produce a loss of motion in a capsular pattern, there tends to be a more pronounced loss of internal rotation (with a capsular end-feel) with OA.
+				Distraction symptom modulation
+					-Patients with OA will experience a more pronounced decrease of symptoms when the physical therapist performs long-axis distraction in a degenerated joint
+				Lastly, does it really matter?
+					-The impaired body structures are typically going to be similar and the focus of treatment regardless of the specific pathology
+					-In addition, the presence of FAI may give way to the onset of OA due to consistent stresses over time
+			---------------------------------------------------------- [MSK1_L06]
+			FAI/Acetabular labral tears - What do you think are common Interventions?
+				What are the imparements of these diagnosis?
+					Subjective
+						Pain is #1 
+							Location?
+								Front of the tigh, hip
+								Sometimes more groing or hip adductor
+							-The more chronic the case or diffuse the pain, is from the diagnosis but also from the compensatory patterns
+								The primary area is not as stable as it shoud be
+					Objective (measurable, quantifiable)
+						Weakness
+							Two reasons we can have weakness are
+								-Neurological - Connexion between the the area and the brain is not strong (neuromuscular control)
+								-Pain
+								-Muscular atrophy
+						Propioception
+							Why could be this one disrupted? (related to neuromuscular control)
+							What happen with a paient that has hypermobility on a bearing joint?
+								Poor core musculature among oters
+								Poor control of the joint (stability, weakness of the muscle, & pain at end-range)
+									-The connection between the brain and the area is disrupted because of the pain response, to much mobility response, por postural control
+										Result: i.e.: inhabilty to do walk and other ones 
+						Hypermobility (but no Hypomobility [01:16:16sec]) ¿?
+						Decreased ROM (active mobility)
+				What interventions would address these imparements?
+					Pain?
+						Joint movements
+							Also, joint movements are helpful for
+								increasing range of motion
+								improving hypomobile joints in the things we can control
+									To help the capsular flexibility
+									Improving lubrications
+					Weakness?
+						Strenght exercises for stability
+							I.e.:
+								sit & stands (a functional position too)
+								Core stability training, specially transversus abdominis
+									Gluts, hip rotators, pelvic floor, etc., are core muscles
+						What is the role of strenghtening exercises?
+							If they are hypomobile, why to work on that?
+								-To deflect better the strenght that is coming though, in an area that does not move well (less joint stress): In an area o stiffnes they protect it at the same time
+					ROM (how do we change this one) [MSK1_L06 "01:26:10sec" Molt liat, escoltar]
+						I.e.: if they have poor hip extension
+							First, do they need hip ext? Yes, they shoul be able to achieve at least 10°-20°
+								If they do not have it, from where it comes from? from the lumbar spine
+							What are some reasons they would not have this action?
+								Lack of the strenght of the hip ext
+								Lack of flexibility on the anterior structures
+					----------------------------------------------------------
+					-Let's suppose we have an athlete that is recovering from a labral tear, how do we put him back to sports again?
+						Functional-task-specific exercises like the sport they do, etc.
+					-What if a therapy is not effective? Let's say for six weeks (a good amunt of time to think about it) of really good interventions
+						Referral to a surgeon (imaging)
+					-[MSK1_L06 "01:35:16sec" escoltar desde ací]
+
+		4.Avascular Necrosis
+			-Avascular necrosis of the hip is a degenerative condition that results in decreased blood flow to proximal femur. Over time, this leads to structural failure and/or collapse of the bony surfaces that articulate within the hip
+			-While genetics may predispose and individual to avascular necrosis, various direct and indirect factors place individuals at greater risk. These include:
+				Direct Risk Factors
+					History of fracture or dislocation
+					History of a slipped capital femoral epiphysis
+						("Slipped Capital Femoral Epiphysis (SCFE).pdf")
+					Radiation treatment
+					Sickle cell disease
+				Indirect Risk Factors
+					Long term corticosteroid utilization
+					Chronic alcohol abuse
+					Autoimmune disease
+					Smoking history
+			Avascular Necrosis Radiologic Findings
+				("Avascular Necrosis Radiologic Findings.png")
+				1.Decreased Joint Space
+					Decreased joint space in the right hip
+				2.Space between femur and acetabulum
+					Note the additional space between the femur and acetabulum on the left hand side
+				3.Dense Coloration
+					-More dense coloration in the head of the femur on the right as compared to the left. The increased signal indicates more densely packed bone created by structural failure
+				4.Femoral Head
+					-A more pronounced increased signal at the femoral head can be seen in this view showing only the involved hip
+			Subjective Complaints
+				Primary pain distribution: groin > buttock > lateral thigh
+				Secondary/Referred pain: knee > anterior thigh > lower leg
+			Objective Findings
+				ROM painful/limited in capsular pattern
+				<15° hip extension (specificity = 92)
+				<60° hip ER (specificity = 0.73)
+				Pain with IR (specificity = 0.86)
+				(+) for special tests that compress intra-articular structures
+				FADIR, Scour, FABER’s, etc.
+		Knowledge Check (!!Q)
+			Femoral Acetabular Impingement (FAI) may occur due to: Check all that apply
+				An abnormally large femoral head
+				An abnormally shaped acetabulum
+				Laxity of the hip joint
+				A connective tissue order that affects the entire body
+
+				✓All od them
+			A patient with Femoral Acetabular Impingement would NOT be likely to report:
+				Pain focused in the groin that radiates when severe
+				Popping, clicking, and locking in the hip joint
+				Stiffness in the morning and giving way of the joint during activity
+				Pain with short periods of standing and relief with sitting
+
+				✓Pain with short periods of standing and relief with sitting
+					Sitting is typically more painful as this compresses joint surfaces; all others are expected
+			 -A patient reports pain with a Log Roll test into external hip rotation. Which of the following findings would also be expected in this patient?
+				Overly developed gluteus medius muscles
+				Limited long-axis distraction on the involved side
+				High Beighton Index   
+				Capsular pattern of the hip
+
+				✗Overly developed gluteus medius muscles
+					Abductors, like gluteus medius are typically weaker, not overly developed.
+				✗Limited long-axis distraction on the involved side
+					-Due to hypermobility, long-axis distraction would be more on the involved side, not less. If there is hypermobility at the hip, there is a greater chance of this in other areas as well – as would be shown by a High Beighton Index
+				✓High Beighton Index
+					-This finding suggests that there is an issue with hypermobility or joint laxity    
+				✗Capsular pattern of the hip
+					A capsular pattern would show limited motion instead of excess motion
+			-A 67-year-old female reports pain in the groin area that began six months ago. It is worse with hip internal rotation, flexion, and adduction. Pain is stiff in the morning and worse with activity. Based on this information, the most likely pathology affecting her hip would be:
+				Labral tear
+				Femoral acetabular impingement due to hypomobility
+				Femoral Acetabular Impingement due to hypermobility
+				Osteoarthritis
+
+				Osteoarthritis
+					-Overall this presentation could be consistent with FAI, due to hypomobility or OA. But due to the patient’s age and the fact that she did not have hip pain in the past, OA is the most likely source
+			Which of the following findings would be consistent with an intra-articular hip pathology?
+				Pain with palpation of the hip joint capsule      
+				Reproduction of symptoms with stretching of the IT Band
+				Resistive/Selective tissue tension testing of the hip abductors
+				Relief with overpressure into internal rotation
+				None of these findings are consistent with intra-articular hip pathology
+
+				✗Pain with palpation of the hip joint capsule
+					-Intra-articular structures are typically too deep to be palpated. This is especially true for the joint capsule.      
+				✗Reproduction of symptoms with stretching of the IT Band
+					-Stretching of the IT band would not typically cause symptoms because it is an extra-articular structure.
+				✗Resistive/Selective tissue tension testing of the hip abductors
+					-Resistance applied to the abductors may cause pain in someone with an intra-articular issue, but in and of itself is not an indicator of an inner-joint problem.
+				✗Relief with overpressure into internal rotation
+					Internal rotation would cause not relieve pain.
+				✓None of these findings are consistent with intra-articular hip pathology
+
+		Summary ("04_04 Mod 4_Wrap-up_lntra-articular Hip Conditions.mp4")
+			1.There is a structured treatment-based classification system for conditions affecting the hip region
+			2.Screening of the lumbopelvic spine is essential before focusing on hip pathologies
+			3.Intra-ArticuIar Conditions affecting the hip region include:
+				Dislocations and fractures
+				Osteoarthritis
+				Labral pathologies
+					Femoral Acetabular Impingement
+					Hypermobility/Instability
+				Avascular necrosis
+
+Impairment of Hip Muscle Weakness - General Hip Strengthening Exercises [MSK1_L06] [MSK1_HipStrengthExc]
+	PENDENT d'averiguar tots estos exercisis mmm.HipStrengthExerc (!!)
+	Hip Abductors
+		SL hip abduction
+		Hooklying T-Band ABD
+		Hooklying Isometrics into wall
+		Clamshells
+		Standing Hip ABD
+	Hip Extensors
+		Glut Sets
+		Standing Hip Ext
+		Prone hip ext
+		Bridging
+	Hip ERS
+		Clamshells
+		Seated T-Band ER
+
+Case "Γ Hip pain Research" (Γ This case has not a clear answer ¿?) ("MSK07.mp4") [MSK1_L07]
+	Video PART 1 - ROM Exam
+		PT asks:
+			-Where your main symptoms are?-
+			-What do you feel?-
+			-When do you feel them?-
+		pt. reports (Subjective)
+			a.32 y.o male
+			b.Right hip pain
+				c.icky (asqueroso, gross) & sharp
+				d.came on insidiously
+				e.specially after sitting for a long time
+				f.get worse after getting further into his runs
+		PT starts with (procedure) (Objective)
+			-Let's see how do you move, etc.-
+			-----------------------------------
+			Seated
+				*PT seems to help with the AROM + pushed at end range + and asks for symptoms
+				AROM uninvolved side (to compare bilaerally)
+					IR → Full + No pain
+					ER → Full + No pain
+				AROM involved side
+					✓(II).IR → Full + Uncomfortable
+						Same range of motion - So, no need to measure
+					✓ER → Full + Uncomfortable but not as bad as IR
+						Same range of motion - So, no need to measure
+			Supine
+				AROM uninvolved side (to compare bilaterally)
+					Flex → Full + No pain
+				AROM involved side
+					✓Flex → Almost Full + Uncomfortable
+						measure
+						then pushes leg futher toward chest but with precaution but desists because of the pain
+				------------------
+				Part A.AROM uninvolved side (to compare bilaerally?)
+					ABD → Full + No pain
+					ADD → Full + No pain
+				-----------------
+				✓Flexibility Test involved side (ER:90°) [07:00sec]
+					-PT says that he knows that ABD & ADD will hurt and that the leg moves in a certain patter when sitting, so skips ABD & ADD and do the next:
+					-----------------------------------
+					-Kind of FADIR Test (special tests) → Full + Uncomfortable
+						Full = no need to measure
+				-----------------
+				Part B.AROM involved side
+					✓ABD → Full + Uncomfortable
+						Full = no need to measure
+					✓(I).Hip ADD → Full + Uncomfortable and worse than ABD
+						Full = no need to measure
+		---------------------------------------------------------
+		Big Picure - Narrowing the pain
+			AROM
+				Seated
+					✓✓(II).IR → Full + Uncomfortable
+						Medial side involved
+					✓ER → Full + Uncomfortable but not as bad as IR
+						Effect due to medial side involvement
+				Supine
+					✓Flex → Almost Full + Uncomfortable
+						Front side involved
+							Should be due to contraction of medial side
+					✓ABD → Full + Uncomfortable
+						Lateral side involved
+							Since not as bad as ADD, it should be due to contraction of medial side
+					✓✓(I).Hip ADD → Full + Uncomfortable and worse than ABD
+						Medial side involved
+				✓Elasticity test involved side (ER:90°)
+				---------------------------------------
+				CONCLUSION AROM
+					Full ROM with pain at end ranges
+					ADD was more painfull than ABD
+					Seated, IR was worse than ER
+					(Γ)Since "✓✓" it is Medial side
+		---------------------------------------------------------
+		After watching these tests and measures:
+			.What are your top 3 initial hypotheses for diagnosis?
+				b.
+					Structures that can be implicated
+						Lateral hip region
+							Greater trochanter
+							Gluteus medius
+							Bursae region (if irritated)
+							ITB
+					Syndromes
+						gluteal pain syndrome (GTPS) (Lateral) (*See [MSK1_L05_ReferredPainLoc])
+							greater trochanteric bursitis
+							gluteus medius pain syndrome
+			.At this point, what diagnoses are less likely? (not a clear conclusion ¿?)
+				a.No OA → Hypomobility & no capsular pattern
+					Arthritis
+						Osteoarthritis
+						Rheumatoid Arthritis
+				c.No nerve damage
+					No Electrical, tingly, nervi pain
+					No numbness
+					No irradiating down
+					MMT no tested though, we do not know about strenght
+				According to ROM
+					Strength
+						He was at least 3/5 since full ROM against gravity
+						No PROM was performed so we do not know if contractile or non-contractile
+							-pt. complained only at the end of ROM so probably non-contractile, but it could be also contractile b/c of this complain at the end of ROM (tendon involved being stretched)
+					Since (I).
+						(Γ)Structures on the medial side
+							Gracilis m.
+							Adductor Magnus m.
+							Deep transverse perineal m.
+							Obturator externus m.
+							------------------
+							These are more frontal than medial
+								Adductor longus m.
+								Pubic symphysis
+						(Γ)Syndromes related to the Medial side ¿?
+						(Γ)EXTRA-Articular
+							Piriformis involvement
+								B/c
+									c.
+									it does not irradiate (Scaitic in meddle part of piriformis muscle)
+									It is lateral at (I) at Greaer Trochanter
+							Pubalgia – Osteitis Pubis
+								B/c more anterior & medial
+							Proximal tendinopathies
+								B/c more posterior
+			.Which related tests need to be done in other positions? What muscles specially?
+				MMT
+					Specifically:
+						ABDuctors & ADDuctors
+						Extensors
+						Glut Max
+			.What ROM was not done that should have been that is really helpfull for the hip?
+				IR (specially IR) & ER in Supine
+	Video PART 2 - Seated MMT (Supine, Sidelying, & Prone) [☠.2H]
+		"PT asks" & "pt. reports (Subjective)"
+			Same as in "Video PART 1"
+		PT starts with (procedure) (Objective)
+			Seated 
+				MMT uninvolved side (to compare bilaerally)
+					IR → 5/5 + No pain
+					ER → 5/5 + No pain
+				MMT involved side
+					✓✓IR → 4/5 + Uncomfortable
+					✓ER → 5/5 + Uncomfortable but less than ER
+			Sidelying
+				MMT uninvolved side (to compare bilaerally)
+					ABD → 5/5 + No pain, but pt. felt pain in the involved side as a consequence of this exercise
+				MMT involved side
+					✓*pt. felt inconfortable while lying in this side 
+					✓ABD → 4/5 + Uncomfortable in the lateral side
+			Prone
+				MMT uninvolved side (to compare bilaerally)
+					Ext (leg straight = HS) → 5/5 + No pain
+					Ext (leg flexed = Glut Max) → 5/5 + No pain
+				MMT involved side
+					✓Ext (leg straight = HS) → 4/5 + slightly Uncomfortable
+					✓Ext (leg flexed = Glut Max) → 4/5 + slightly Uncomfortable¿?
+		--------------------------------------
+		.Now what is your top hypothesis?
+			.Do you suspect an intra- or extra-articular problem? What findings support that diagnosis?
+				MMT
+					Seated
+						✓✓IR → 4/5 + Uncomfortable
+							Medial side involved
+						✓ER → 5/5 + Uncomfortable but less than ER
+							Should be due to contraction of medial side
+					Sidelying
+						✓*pt. felt inconfortable while lying in this side
+							Lateral side involved or due to presure on internal structures
+								This through off the hypotesis that is medial ¿? 
+						✓ABD → 4/5 + Uncomfortable in the lateral side
+							Lateral side involved
+					Prone
+						✓Ext (leg straight = HS) → 4/5 + slightly Uncomfortable
+							Should be due to contraction of medial side
+						✓Ext (leg flexed = Glut Max) → 4/5 + slightly Uncomfortable¿?
+							Should be due to contraction of medial side
+						-----------------------------------------------------------
+						CONCLUSION MMT
+							-Because of the fact that it hurted when lying in one side
+								(Γ)Could this position be compresing the internal structures due to the weight of the body? ¿?
+							-(Γ)Doing AROM & MMT does not help since we do not have PROM to confirm that the pain is contractile or non-contractile
+							--------------------------------
+							(Γ)Since "✓✓" it is Medial side
+				Intra- or Extra-articular?
+					CONCLUSION MMT
+						-Because of the fact that it hurted when lying in one side
+							(Γ)Could this position be compresing the internal structures due to the weight of the body? ¿?
+						-Since he says that it hurts when palpating himself
+							Extra-articular
+				FINAL CONCLUSION
+					Medial + Extra-articular
+						But, what about lateral side hurting in sidelying and the Flexibility ER hurting? → Greater Trochanter Pain Synfrome (GTPS)
+		.What other general types of tests and measures would you still want to do?
+			What choices I have?
+				PROM
+				✗AROM - Ja fet
+				Flexibility/Elasticity (See Folder: "Elasticity Tests") - Ja fet (ER)
+					If we think Lateral side
+						*See: (Γ)Structures on the medial side
+							Find Flex Tests for this mm. FALTA x completar/comprvar¿?
+								Piriformis Test ¿? → If yes, add this infor in Flex Test section
+								Adductors Test
+					If we think Medial side
+						*See Lateral side - hip region
+							Find Flex Tests for this mm. FALTA completar/comprvar¿?
+								ITB & TFL → Ober’s Test & Modified Ober’s Test
+								Iliopsoas & Rectus Femori ¿? → Thomas Test
+				✗MMT - Ja fet
+				✗STT - No cal xq MMT aplica
+				✗Myotomes & Dermatomes - No aplica
+				✗Palpation - Already stated
+				Functional Activities
+				Walking Test
+				✗Special Tests (See [MSK1_C3.6])- Not yet, first confirm what we think until here FALTA completar/comprvar¿?
+					If we think Lateral side
+						Gluteal De-Rotation Test - Bursitis & Gluteus medius
+						Piriformis Test
+					If we think Medial side
+					To rule out other structures
+						Log Roll Test (laxity of the capsule vs. labrum)
+						FADIR Test
+						Scour Test
+		.What would be your rationale for performing these? ¿?
+		.What outcomes might you suspect? ¿?
+			-How do you anticipate/suspect the pt. will do with the additional test you will do on them? ¿?
+			-This is the pt. outcome. When you write an statement evaluation (documentation) you have a section about the prognosis in which you write also why you think of this)
+				I.e.: This patient will have a good prognosis to make a full recovery because heis young and motivated and has no other comorbidities.
+			-For outcomes in general: did the patient meet all of their goals?
+				I.e.: this patient had a good outcome based on bla, bla, bla. Or did poor because he did not meet this score, and the other one, etc.
+		.Which special tests would support your present hypothesis? ¿?
+		.Which special tests might you do to rule out other pathologies? ¿?
+
+THER EX for the hip [KIN_THEREX_Hip]
+	Basic Hip Strengthening for ABDuctors, External Rotators, and Extensors
+		Hip Abductors
+			SL hip abduction
+			Hooklying T-Band ABD
+			Hooklying Isometrics into wall
+			Clamshells
+			Standing Hip ABD
+		Hip External Rotators
+			Clamshells
+			Seated T-Band ER
+		Hip Extensors
+			Glut Sets
+			Standing Hip Ext
+			Prone hip ext
+			Bridging
+	Advanced Hip Strengthening Exercises
+		("Advanced Hip strengthening exercises.png")
+	Core Based Stabilization
+		("Core Based Stabilization.png")
+	Static & Dynamic Standing Balance
+		(See [MSK1_Imm2A_BalanceProg])
+
+Cases Exam Imm2A
+	Case 1 (!!)
+		65 y.o male with gradual onset of symptoms 6yrs ago, consisting of right hip/thigh pain that terminates near knee that is intermittent and has worsened over the years and has now become almost constant. Now complains of difficulty and pain when bending to reach right foot for dressing, awakening with increased pain and stiffness, difficulty climbing stairs or walking/standing more than 15 minutes.  He had discussed symptoms with his PCP and was referred to neurosurgeon due to suspected lumbar radiculopathy.  Neurosurgeon did MRI and was referred to PT with diagnosis of "Right leg pain".  MRI report not available, but pt was told there was nothing serious or that required surgery found.  Current pain level 4/10.  History of diabetes, HTN, BMI of 34.6.
+			-------------------------------------------------------------------------------------
+			a.65 y.o male
+			b.gradual onset of symptoms 6yrs ago,
+			c.consisting of
+				c1.right hip/thigh pain
+				c2.that terminates near knee
+				c3.that is intermittent and
+				c4.has worsened over the years and
+				c5.has now become almost constant.
+			d.Now complains of
+				d1.difficulty and pain when bending to reach right foot for dressing,
+				d2.awakening with increased pain and stiffness,
+				d3.difficulty climbing stairs or
+				d4.walking/standing more than 15 minutes.  
+			e.PCP suspected lumbar radiculopathy.
+			f.Neurosurgeon did MRI and was referred to PT with diagnosis off
+				f1."Right leg pain".
+				f2.MRI report not available,
+					f2.2.but pt was told there was nothing serious or that required surgery found.
+			g.Current pain level 4/10.
+			h.History of
+				h1.diabetes,
+				h2.HTN,
+				h3.BMI of 34.6
+			-------------------------------------------------------------------------------------
+			f.No OA
+			-------------------------------------------------------------------------------------
+
+	Case 2 (!!)
+		35 y.o male presents with right hip and low back pain x5yrs. Thinks it began when he had multiple car accidents in a short amount of time; began as low back/SI pain that was treated by a chiropractor. This improved, but right hip pain lingered. This is most bothersome when trying to lift his leg in/out of bed or in and out of his car; especially challenging after he’s been sitting or laying for a long time. Symptoms are also provoked when landing from a jump, deep squats; and symptoms are on the anterior and medial thigh near groin. 
+		Recently received imaging and was told severe OA and potential labral tear; physician recommended THA in the near future… Pt works out 5-6x per week at an F45 studio and CrossFit gym.
+
+JOINT MOBILITY RUBRIC mmm.HipRubric
+	A.Performs Joint Mobility Assessment of Shoulder (POST)/Wrist (Dorsal/Volar)
+		A.1.States appropriate rationale for joint mobility assessment
+			What findings should motivate performance of mobility assessment?
+				When a range of motion restriction is detected
+			Rationale?
+				-Joint Mobility Assessment is used to identify the source of the limitation. In other words, to know if the source of limitation is due to Arthrokinematics/Accesory motion.
+				-Also, Whenever movement at the joint being assessed is nor moving properly
+					Aberrant
+					Limited ROM (hypomobility)
+					Exessive ROM (hypermobility)
+					Painful
+					Normal → No need to assess
+				-This will guide the intervention
+		A.2.Hand Placements
+			Uses Appropriate Hand Placements
+		A.3.Accurate Application/Direction of Force
+		A.4.Compares Mobility Bilaterally 
+	B.Demonstrates ONE of the following Hip Joint Mobilization/Mobility Skills
+		Lateral Glide
+		Posterior (Inferior Γwhen prone) Glide
+		Anterior Glide (Γsupine)
+		Long Axis Distraction
+		--------------------------------------
+		Proper/Effective Patient/Therapist Set up
+		Proper Application/Direction of Force
+	C.Sensation/Dermatome Testing
+		C.1.Assesses dermatomes L1–S2
+			Proper Performance during testing
+			Able to identify 2-3 dermatome levels when asked
+			Compares bilaterally immediately following opposite side
+			Describes Rationale for Testing and Presentation of Abnormal Findings
+				-A dermatome is the sensory innervation of spinal nerve roots and it is used to identify Nerve Root pathology and not peripheral nerve lesions (for DTRs is the same).
+				-Dermatomes are areas of the skin that are innervated by the sensory fibers of a single spinal nerve. They are used to determine whether the sensory loss on a limb corresponds to a specific nerve root, which can help diagnose conditions such as radiculopathy. Diseases affecting dermatomes include radiculopathies, which can result from conditions such as disc herniation or trauma to the back. Symptoms that follow a dermatome, such as pain, tingling, numbness or a rash, may indicate a pathology involving the related nerve root.
+	D.Myotome Testing
+		Assesses each myotome L1–S2
+		Proper Performance during testing
+		Able to identify 2-3 myotome levels when asked
+		Compares bilaterally immediately following opposite side
+		Describes Rationale for Testing and Presentation of Abnormal Findings
+			A gross strenght test to evaluate the integrity of the nerve roots
+			The motor innervation of spinal nerve roots contrary to the sensory innervation of spinal nerve roots
+	E.Deep Tendon Reflex Testing (DTR)
+		Able to effectively assess Patellar Tendon and Achilles Reflexes with proper performance
+		Able to identify DTR levels when asked
+			Patellar Tendon Reflex - L2 L3 L4
+			Medial Hamstring Tendon Reflex - L5 S1
+			Achilles Tendon Reflex - S1 S2
+			Posterior Tibialis Tendon Reflex - L5 S1
+		Compares bilaterally immediately following opposite side
+		Describes Rationale for Testing and Presentation of Abnormal Findings
+			-Assessment of the involuntary reflex loop between musculotendinous structures and the spinal cord (pathology of a nerve root, LMN)
+			-These forms of testing mainly focus on determining if there is impairment of a lower motor neuron structure
+			-Another way of saying this would be identifying a lesion that affects peripheral nervous system structure
+			-Gr.0 to Gr.3+
+			-(See [MSK1_InterretDTR01])
+	F.Special Tests
+		Test Performance
+		Articulates accurate rationale for performing the test - (why test is performed?)
+		Describes a positive or meaningful outcome for the test
+		-----------------------------------
+		FADIR’s
+			why test is performed?
+				-This is the first (1 of 3) and less agressive test to asssess a condition for intra-articular Pathology (compression progression). The 2nd one is Axial Loading Various Positions
+			Describe the outcome
+				-Reproduction of symptoms is indicative of femoral acetabular impingement/labral tear (articular cartilage), or osteoarthritis
+		Scour
+			why test is performed?
+				-This is the last (3 of 3) and more agressive test to asssess a condition for intra-articular Pathology (compression progression)
+			Describe the outcome
+				Same as FADIR's
+		Log Roll Test
+			why test is performed?
+				There are two of these:
+					-Log Roll IR: we pursue the reproduction of familiar pain that indicates pathology of the labrum
+					-Log Roll ER: notable greater external rotation of the femur may indicate laxity of the anterior capsule of the hip joint
+			Describe the outcome
+				See above
+		Anterior Apprehension Test
+			why test is performed?
+				To assess for anterior hypermobility of the hip joint
+			Describe the outcome
+				-Patient exhibits apprehension with application of test. This may indicate anterior hypermobility of the hip joint
+		Leg Length Discrepancy Measurement
+			why test is performed?
+				To see discrepancies on leg measurements side to side 
+			Describe the outcome
+				Differences of ~ 1.5 cm are clinically significant
+		FABER’s
+			why test is performed?
+				-To assess the spine and SI joint and to guide the treatment towards these instructures instead of hip pathology
+			Describe the outcome
+				Reproduction of pain suggests pathology affecting the spine and SI joint.
+		Gluteal De-Rotation Test
+			why test is performed?
+				-To assess for gluteal tendon structures and to guide the treatment towards these instructures instead of the spine and SI joint
+			Describe the outcome
+				Reproduction of lateral hip pain indicates GTPS
+		Piriformis Test
+			why test is performed?
+				-To assess for this structure and to guide the treatment
+			Describe the outcome
+				(*See "Piriformis Syndrome"::INTERPRETATION)
+
+Immersion2A - Structuring your Physical Examination [MSK1_Im2A_01_StructPhysExam]
+When to do what and why (!!)
+	*This section is the same for all regions of the body, but here the Hip is the theme
+
+	MSK1 - Hip - Comprehensive Skills List [MSK1_Imm2A_SkillList] mmm.HipExamFlow
+			1.General Flow of an MSK Exam
+				[PROC_MSK1_TBCHip]
+				[MSK1_Imm1A_LumbosacralPath]
+				Lumbar Motion Screen
+			2.Joint Mobility Assessment - General
+				[MSK_C01_06] [MSK1_L4]
+			3.Joint Mobility Assessment – Hip
+				[MSK1_AccessMotTestHip]
+				Hip Joint Long Axis Distraction ← Accessory Motion Testing
+			4.Lower Quarter Screen [MSK1_LQS]
+				Dermatomes - Sensation
+				Myotomes
+				DTRs
+			5.Pathologic Reflexes [MSK1_PatholReflex]
+				Babinski
+				Hoffman’s
+			6.Palpation of Hip Bony Landmarks
+				[KIN_PalpGeneral]
+			7.Hip Range of Motion Assessment
+				[MSK1_HipROMAss]
+			8.Hip MMT/Strength Testing
+				[MSK1_HipMMTAss]
+			9.Special Tests [MSK1_C3.6] [MSK1_SpecTextsList]
+				FADIR’s
+				Scour
+				Squeeze (groin)
+				Log Roll Test
+				Anterior Apprehension Test
+				Leg Length Discrepancy Measurement
+				Dynamic Ober’s (NEW)
+				FABER’s
+				Gluteal De-Rotation Test
+				Piriformis Test
+				ΓCraig’s Test
+				ΓResisted SLR
+			10.Functional Testing [MSK1_HipFunctTest]
+				Single Leg Stance
+				Squat
+				Single Leg Squat
+				Lateral Step Down
+			11.Basic Hip Strengthening Exercises [MSK1_HipStrengthExc]
+				Clamshells
+				Sidelying Hip Abduction
+				Gluteal Setting
+				Prone Hip Extension
+					General
+					Glut Max
+				T-Band Hip ABD/ER in Hooklying
+				Standing
+					Hip ABD
+					Hip Ext
+					Marching
+			12.Advanced Hip Strengthening Exercises
+				Quadruped ER/ABD
+				Isometric ER on Wall
+				Single Leg Stance T-Band Trunk Rotation
+				Lunge w/ABD T-Band Moment
+			13.Balance Exercise Progression [MSK1_Imm2A_BalanceProg]
+			14.Gait Training for Hip Impairments
+				Wt Shifting
+				Repeated Stepping
+			(Γ)15.Elasticity Tests
+				90/90 Test
+				Thomas Test
+				Ely’s Test
+				Modified Ober’s Test
+			--------------------------------------------
+			TOPICS
+				MSK Exam Structure/Efficiency 
+				Practice Hx
+				Practice Exam
+				Joint Mobility Assessment Hip Joint Mobility/Mobilization LQS
+					Sensation
+					Myotomes
+					DTRs
+					Path Reflexes
+					LQS Cases
+				Lumbar Screen/SI SCREEN
+				Palpation of Hip Bony Landmarks
+				Hip ROM Review/Practice
+				Hip Special Tests
+				Hip Ther Ex
+					Stretching
+					P/AAROM
+					Basic Stren Ex
+					Hip Cases Practice
+					Review of Needed Areas
+
+	Case (you can use this case for the next sections)
+		Taking A History
+			63 y.o. M/F - 8 weeks s/p proximal fracture of the femur (now healed)
+			Given ROM exercises at D/C from hospital and now cleared to begin light resistance exercises
+				Questions you will ask and a strategy for gathering the relevant information
+				Gather information from your patient (each other)
+				Debrief with the instructor about what history was most important and what information is still needed
+		Performing the exam
+			get through as much of the physical exam as possible
+				(See [MSK1_ExamComp])
+
+	Common PT Exam Components [MSK1_ExamComp] [MSK1_Imm2B_Knee] [MSK1_Imm2B_Ankle]
+		*This applies in general, like for the Knee and Foot & Ankle
+		What influences how you structure your physical examination? (See: "2nd_Q" & [MSK1_PositElementsClassif])
+			High priority
+				Age
+					How much we can move them
+				Severity of the issue/pain
+					Not move them at all
+					What can I do? What should not be doing now with this pt.?
+			Less priority
+				Special tests
+			Go from GENERAL to SPECIFIC ¿?
+			Continue here if you want: [MSK1_PositElementsClassif]"
+		------------------------------------------------------------- [MSK1_Test&Measur]
+		1.Global Observation (Γ It would correspond to the step "0st_Hist" more properly, in this section)
+			----------------------------------------Este em pareix a mi que va ací
+			Immersion2A - Hip – Patient History Activity [MSK1_Imm2A_CaseHip]
+				-Prior to taking the history with your patient, work with your group to formulate a general “strategy” that, for this patient, considers:
+				    .Which of the following categories/types of questions will be most important?
+				    .Which are less important but still relevant?
+				    .Which are not relevant or important?
+				Demographics
+				    .Gender:
+				    .Age:
+				    .Race, culture, religion (if relevant):
+				    	Arabic (he needs to heal for postrations)
+				    .Patient’s occupation/job:
+				Chief complaint/Current condition/History of Present Illness (HPI)
+				    .Chief Complaint: 
+				    .Mechanism of injury:
+				    .Sudden vs. insidious (gradual) onset of condition?
+				    .Present symptoms/problems:
+				    .Symptoms at the initial onset?
+				    .What makes symptoms worse/better?
+				    .How long has problem existed?
+				    .Ever had this problem before?
+				    .Descriptions about pain:
+				    .Quality of pain?
+				    .Location 
+				    .Timing?
+				    .Severity?
+				    .Factors which change pain?
+				    .Associated symptoms
+				Functional limitations & activity level
+				    .Social history/living environment
+				    .Where living? 
+				    .Who else is there?  
+				    .Available support?
+				    .Relevant descriptions of abode
+				General health status & social habits
+				    .Risk-Factor Assessment 
+				    .What is the patient’s perception of their own health?
+				Patient’s goals
+				Medical tests or imaging
+				    .Medical History
+				    .Family medical history (as relevant):
+				    .Present or past medical problems/conditions :
+				    .Previous surgeries:
+				    .Medications:
+				    ---------------------------------------------- With this I will have almost all answers
+					(See: [MSK1_L07::Video PART 1 - ROM Exam])	
+					    Where are your main symptoms are?
+						What do you feel?
+						When do you feel them?
+						(Γ)------------------------------------------ Hypothetical Ideal Conversation/Interview
+						0st_Hist.Observe the patient as he/she walks to you
+							Early, Gate Cycle analysis
+						-------------------------------- the course of the intervention
+						1st_Q.What brings you here today?
+								This way you know what is the CC
+									Where the pain is
+						2nd_Q.How are you now?
+								You want to know
+									the level of pain now
+										What & when makes it better?
+										What & when makes it worse?
+									weakness ← Atropy or neurological?
+									stiffnes ← Elasticity level
+									-Are you taking any medication for this or other type of medication that can affect this thay you are aware of?
+								-You want to know if they are in so much pain that they are not ready to talk calmly or willing to.
+						........................................
+						3nd_Q.Tell me what happened?
+								-Let them talk (I could ask this one first and continue from 1st. if I do not get the things I need)
+								-You need to know the timeline (collect everything that has to be with times from this document) (!!)
+								Develop an hypothesis already if possible
+						4nd_Q.Tell me about the challenges your are facing in you job, your daily life, etc., due to this issue.
+						5th_Q.Do you have any hobby or sport you like?
+						6th_Q.What are your goals with the theapy I can provide?
+							This way you adapt the therapy to their liking and goals
+						7th_Q.Do you have any past surgery or traumatic episode that could be affecting the current status of the issue or that could affect our treatment that you are aware of?
+		2.Functional Assessment
+			ΓGate Cycle assessment ¿?
+			ΓTheir functional tasks in job or every day to see the deficits ¿?
+		3.Cardiopulmonary Assessment*
+		4.Integumentary Integrity*
+		5.Basic Neurological Screening*
+			What is the difference between this one and Neuromuscular Assessment (see below) ¿?
+		6.Musculoskeletal Assessment*** (common order) (Γ follow the order here in every element)
+			When following positional approach to exam structure, ask yourself: 
+				-*Firt consider the age of the pt. (19 vs. 80) & the level of pain; this will dictate how & how much of the next things exposed here you can do with them
+					-If they are in pain and/or old, you can adapt all of this for them. I.e.: things that we do in supine, in sitting, etc.
+				-Which position(s) make sense to start with? [MSK1_PositTest]
+					Standing or sitting; if pt. is sitting, if it also easy to stand up
+					Supine is the most logic position later on
+				-In this position, what all tests can I perform?
+				-Which tests/procedures does it make sense to postpone until later even though you already have them in the relevant position?
+					Palpation
+					Special tests
+					---------------------------------
+					*"→" Means performed during examination; the rest are interventions, etc.
+					*"✓" Acabat pero convendria repasarlo
+					*Recorda que l'ordre es: AROM-PROM-Joint mobility-Elasticity Test-MMT-Special Test-Palpation-Neuromuscular
+					*Integrated elements FALTA x Completar(!!): qué patologia/que test li correspon/classifica en posició
+						UP
+							(!!)
+						LQ
+							ROM
+							Elasticity tests
+							MMT
+							---------------------------------------------
+							Lumbosacral pathology and their tests
+							Hip Intra-articular pathology and their tests
+								✓Special Tests (*see [MSK1_SpecTextsList])
+							Hip Extra-articular pathology and their tests
+								✓GTPS
+								✓Piriformis
+								✓Pubalgia
+									Gate Cycle test
+								✓Proximal Tendinopaties
+									✓HS
+									✓ADD
+					----------------------------- All mixed but ordered according to position convenience
+					Standing
+						→¿?Pubalgia, Functional Test, *see Pubalgia section
+							Gate Cycle test ¿?
+						----------------------------------------------------------------
+		                -GTPS, Strenghtening of Abd & Ext
+		                -Pubalgia, Strengthening + Stabilization Excersises Interventions
+		                -Pubalgia, Propioceptive Training Excersises Interventions
+		                -Proximal Tendinopaties HS, Strenghthening Interventions, Later Recovery Phase, conc. eccentr. loading
+		                ---------------------------------------------------------------- From MSK1
+		                Observation
+		                	atrophy
+		                	posture
+		                	integumentary issues
+		                	etc.
+		                Sit to stand transfer
+	                Sitting
+		                →GTPS, ITB, MMT, Knee Flexion
+		                →GTPS, Adductor Test, Adductors, Elast Test, Sorround Structure
+		                →Proximal Tendinopaties HS, AROM/MMT, knee flexion
+		                →Proximal Tendinopaties HS, PROM/Elast Test, knee ext & hip flex
+		                ---------------------------------------------------------------- From MSK1
+		                *Same (some of them) as "Standing"
+		                *Remember to ask for symptoms/feedback from patient while doing these
+		                Observation
+		                	atrophy
+		                	posture
+		                	integumentary issues
+		                	etc.
+		                AROM: IR/ER
+		                	Γ Also, ROM & Elasticity
+		                (Γ) AROM: knee flexion & Extension
+		                	Also, ROM & Elasticity
+		                MMT: hip flexion, IR/ER
+		                Γ MMT: knee flexion & extension
+		                Sit to stand transfer
+		                	Γ Kind of AROM & MMT for knee flexion & Extension but functional
+					Supine
+		                →GTPS, m?, MMT, Hip ER & ITB
+		                →GTPS, Thomas, ITB & Hip Flexors, Elast Test, Sorrounding Structure
+		                →GTPS, 90/90, Elast Test, Hamstrings, Sorrounding Structure
+		               	→GTPS, Add Test, Elast Test (to the side) & also hook lying, Sorrounding Structure
+		                →GTPS, Gluteal De-Rotation Test, Elast Test
+		                →¿?, Straight leg Rise, Elast Test, Hamstrings
+		                →Piriformis, Elast Test, Piriformis
+		                →Pubalgia, Special Tests
+		                 	-Single resisted ADD test
+							-Active Straight Leg Raise (SLR) painful 
+							-Pubic Symphysis Gap Test ("Pubic Symphysis Gap Test.png")
+		                →Proximal Tendinopaties HS, PROM/Elast Test, knee ext? & hip flex
+		                →Proximal Tendinopaties ADD, PROM, hip abd
+		                →Proximal Tendinopaties ADD, MMT, hip add
+		                →Proximal Tendinopaties ADD, MMT, hip flex
+		                →Intra-articular, Special Tests
+		                	FADIR’s
+							Scour
+							Squeeze (groin) ¿?
+							Log Roll Test
+							Anterior Apprehension Test
+							Leg Length Discrepancy Measurement
+							FABER’s
+							Gluteal De-Rotation Test
+		                -------------------------------------------------------------------------------
+		                GTPS, Flex Interventions, All mm. that I can (even hip ext in leg out of table)
+		                GTPS, Strenghtening of Abd & Ext
+		                Pubalgia, Flex Interventions, *see mm. in Pubalgia section for mm. to stretch
+		               	Pubalgia, Massage Interventions, Transverse Friction AKA Cross Friction Intervention
+		                Pubalgia, Strengthening + Stabilization Excersises Interventions
+		                Proximal Tendinopaties ADD, Strenghtening (conc. exccentr) + Isometrics Interventions
+		                Proximal Tendinopaties ADD, Fex Interventions
+		                Proximal Tendinopaties, Massage Interventions, Transverse Friction AKA Cross Friction Intervention
+		                ---------------------------------------------------------------- From MSK1
+		                Observation
+		                A/P hip ROM
+		                GH jt mobility?
+		                	Lateral glide
+		                	Inf glide
+		                Flexibility testing
+		                	Thomas
+		                	Piriformis
+		                	90/90
+		                Supine Functional Exercise Testing
+		                	Glut set
+		                	Bridging
+		                	Quad Set
+		                	SLR
+		                	HS setting
+		                	Etc.
+		                Palpation (same)
+	  				Sidelying
+		                →GTPS, Glut Med, MMT, Hip Abduction Test
+		                →STPS, ITB, Elast Test, Ober's, Sorrounding Structure
+		                →Pubalgia, MMT, *see mm. on Pubalgia section
+		                →Intra-articular, Special Tests, (*see [MSK1_SpecTextsList])
+							Dynamic Ober’s (NEW) ¿?
+							Piriformis Test
+						---------------------------------------------------------------- From MSK1
+						MMT: Hip ABD
+						Mod Ober's
+					Prone
+			            →GTPS, m.?, MMT, Hip Extension Test & ER & & ITB
+			            →GTPS, Ely's Test, Flex Test, Rectus Femoris/Iliopsoas (hip flexors), Sorrounding Structure
+			            →Proximal Tendinopaties HS, AROM/MMT, knee flexion
+			            →Proximal Tendinopaties HS, PROM/Elast Text, knee ext
+			            →Intra-articular, Special Tests, (*see [MSK1_SpecTextsList])
+							Craig’s Test
+			            -----------------------------------------------------
+			            Flex Interventions, Quads
+			            ---------------------------------------------------------------- From MSK1
+			            MMT hip ext
+			            Ely's
+			            Palpation (muscle guarding/spasm)
+			------------------------------------- [MSK1_CoreStepsHowTo]
+			6.1st.Joint Screening ¿?
+			6.2nd.Range of Motion (ROM)
+				Observe AROM in relevant planes
+					Bilaterally and simultaneously if possible
+						For the hip not so much but yes for ankles, legs, and UQ 
+					ASK about sx’s during/immediately after AROM performed
+						Γ Not only from the involved side but in general
+							-I.e.: They could seem weak in one leg but because the other one in which they are stabilizing hurts or is weak
+				Measure AROM if:
+					AROM incomplete
+					  Be ready to measure as soon as deficit is noted
+				Perform PROM if:
+					AROM incomplete or…
+					AROM painful
+					Ask about sx’s during/immediately after PROM performed
+				Measure PROM if…
+					PROM incomplete
+					Be ready to measure as soon as deficit is noted
+				---------------------------------------------------
+				(See [MSK1_HipROMAss])
+			6.3rd.Joint mobility assessment/joint mobilization
+				WHEN do we assess joint mobility?
+				Why do we assess joint mobility?
+				How do we assess joint mobility?
+				--------------------------------
+				Joint Mobility Assessment vs. Joint Mobilization - what is the difference?
+					Mobility Assessment  - Identifies restrictions in accessory motion [MSK1_Imm2A_JointMobAss]
+						*Joint Mobility Assessment should always be performed prior to performing Joint Mobilization
+							WHY? ¿?
+						-*These are not the grades associated with treatments ("REF_MaitlandGrades") or joint mobilization techniques, just a tool to know what to feel for. When we assess mobility we go all the way through R2 if you can get there. The point is comparing with the non-involved side, when differences not subtle, to know !!
+							where it starts to develop &
+							how far can we go &
+							how abrupt is the end feel
+						“Feeling” joint restrictions by moving it ("joint restrictions.png")
+							This is Assessment
+								-1st Plane of Restriction (R1)
+									Passively flex partner’s knee (all the way) to first point of tissue tension (R1)
+										-Tissue tension will develop before we reach the end point and will spring back a little bit
+								-2st Plane of Restriction (R2)
+									Flex further to full end feel without going back; just continuos to R1: (R2)
+										There will be not more motion from there; varies on different joints
+										Hard, bony end feel
+							This is Treatment (now, we can add traction) (From "Joint MOBILIZATION imm 2A handout.doc")
+								("Joint Mobilization Techniques - Grades.png")
+								-1.Perform large amplitude oscillatory movement to midway point and back (Grade III technique)
+								-2.Then try to generate a grade IV technique (small amplitude, same end point). Try other grades (I, II), move further into and out of resistance
+								-3.Repeat with knee extension
+						(See next: "[MSK1_MobilProc]")
+					Joint Mobilization - Is an intervention to restore limited accessory motion
+						(See "[MSK_C01_06] [MSK1_L4]" & "REF_MaitlandGrades")
+						Hip joint mobility AKA Hip joint mobilization AKA Hip joint decompression
+							(See [MSK1_HipJointMob])
+			6.4rt.Flexibility/Muscle Length
+			6.5th.Gross Strength/Muscle Performance
+			6.6th.Special tests
+			6.7th.Palpation
+				See:
+					[KIN_PalpGeneral]
+					[MSK1_PalpHip]
+		7.Neuromuscular Assessment*
+			7.1.Somatosensory Testing (See [MSK1_LQS])
+				We should be able to do:
+					1st.Dermatome testing bilaterally (all of them)
+						(See [MSK1_DermatomeTest])
+					2nd.Myotome testing bilaterally (all of them)
+						(See [MSK1_MyotTest])
+						Know what actions to perform
+					3rd.Reflex testing bilaterally (all of them)
+						(See [MSK1_ReflexTest])
+				-------------------------------------	
+				1st.Dermatome testing
+					Asia Key Point vs. Broader Strokes
+					Broader Dermatome Testing
+						*See: "ASIA KEY Points vs Strokes"
+				2nd.Myotome testing (See [MSK1_MyotTest])
+				3rd.Testing of Deep Tendon Reflexes AKA Lower Motor Neuron Reflexes (See [MSK1_ReflexTest])
+			7.2.Coordination
+			7.3.Balance - Balance Progression [MSK1_Imm2A_BalanceProg]
+				Balance Activities Sample Progressions - Therapeutic Exercise
+					-Listed below are sample activities which could potentially be included in a balance exercise program. In most cases, the activities are listed in order of progression from less to more difficult but the list is not absolute and will vary depending upon the patient’s specific impairments. Also, note that many other variations and progressions of these activities exist and that this is merely one sample approach.
+
+				Static Sitting or Standing Balance
+					*Do Each With Eyes Open Then Closed
+					Wide BoS
+					Narrow BoS
+					Rhomberg stance
+					Tandem stance (heel – toe position)
+					Single leg stance with opposite extremity supported
+						on a step, ball, or other surface
+					Single leg stance
+						With/without pillow
+
+					Any of the above situations on unstable surfaces including:
+						mat
+						foam (pillow/wedge)
+						rocker board
+						foam roller
+						wobble board
+						physioball (sitting only!)
+
+				Dynamic Standing Balance
+					-Using any of the appropriate positions listed under static standing balance superimpose supper extremity movements as follows:
+						*add cognitive involvement
+						*count by 2s, 3s, backwards alphabet, name presidents, etc.
+						*add head turns
+						UE movements in straight planes
+						UE movements in diagonal planes
+						UE movements against resistance
+						Reaching out of BoS for cones/other items
+							in anterior, posterior, and lateral, and combined directions
+						Passing (handing) a ball in varying directions
+						Ball toss
+						Trunk rotation (with or without UE movements)
+						Trunk flex/ext (with or without UE movements)
+
+				Dynamic Sitting or Standing Balance  - (w/LE movement)
+					Using any of the appropriate positions listed under Static Standing Balance:
+						*add cognitive involvement
+						*count by 2s, 3s, backwards alphabet, name presidents, etc.
+						*add head turns
+						Ankle rocker
+						Marching in place
+						SLS while rolling ball using opposite LE
+						SLS w/straight plane movements of LE’s
+						SLS w/ diagonal movements of LE’s
+						SLS w/ LE movements against resistance
+						SLS with multi-planar toe touch using opposite LE (STAR DRILL)
+						SLS squats
+
+				Dynamic Sitting or Standing Balance - (w/LE movement)
+					Using any of the appropriate positions listed under Static Standing Balance:
+						(Transitional movements)
+						Mini-squats
+						Sit to stand (using UE’s → w/o UE’s)
+						Sit to stand from unstable surface (ball)
+						Sit to stand weight bearing on unstable surface (mat)
+
+				Dynamic balance during gait
+					*add cognitive involvement
+					*count by 2s, 3s, backwards alphabet, name presidents, etc.
+					*add ball toss
+					*add head turns
+					Walking
+					Sidestepping
+					Backward walking
+					½ braiding (front cross over or back cross over only)
+					Full braiding (alternating front and back cross over)
+					Tandem gait
+					Backwards tandem gait
+
+					Perform any of the above across an unstable or uneven surface (mat, sand, grass, etc.)
+
+				Dynamic balance during gait while multi-tasking
+					While performing any of the above activities listed under dynamic balance during gait:
+
+					Recite words, phrases, or lists requiring thought or concentration
+					(The alphabet, count by two’s, presidents, etc.)
+					Superimpose UE movements
+					Perform ball toss
+					Move the head in alternate directions
+						Look left & right
+						Look up & down
+
+				Gait Training For Hip Impairments
+					What might gait look like with:
+						impaired hip abductors
+						impaired hip extensors
+						decreased hip extension
+						decreased hip rotation
+					Perform gait training using verbal cues, tactile cues, and part-practice for:
+						Wt shift side to side
+						Wt shift forward and back
+							Early stance
+							Mid stance
+							Late stance
+						Repeated stepping
+
+			7.4.Cranial Nerve Testing
+			7.5.Upper Motor Neuron (UMN) Testing
+		----------------------------------------
+		*Don’t need to do items in red today
+		***	May not need to perform every category
+
+	(Γ)Treatments
+		Joint mobility treatment
+			(See [MSK1_JointMobAss])
+		Impairment of Hip Muscle/Tissue Flexibility
+			(See [KIN&MSK1_TissueFlexAssGeneral])
+			(See "PROC_HipFlex")
+			Teach Self-Stretching Exercises 
+				(See [KIN_SelfStretch01] & [KIN_SelfStretch02])
+		THER EX for the hip
+			(See [KIN_THEREX_Hip])
+
+	BACKBONE/SUMMARY mmm.HipExamFlowSummary
+		0st_Hist.
+		    Consideration to derive the treatment 1 - Age
+		    How they walk & general state
+		Stablish relaationship & SUBJECTIVE
+		    1st_Q. to 3th_Q.
+		        What I want to get primarily, If can, from  is:
+		            Consideration to derive the treatment 2 - Severity of the issue/pain
+		                Is it one of those: (¦ROMNoP) REPE
+		                    Pain
+		                    Neurological
+		                        Numbness
+		                        Tingling
+		                    ROM deficit (¦SWaP)
+		                        Stiffnes
+		                        Weakness (¦PAN)
+		                            Atrophy
+		                            Neurological
+		                            Pain
+		                        Pain
+		            Early Hypothesis
+		                Can we treat or refer?
+		                Lumbosacral or Hip? REPE
+		                    If Hip, Intra- (Non-Contractile) or Extra- (Contractile)? REPE
+		OBJECTIVE
+		    PHYSICAL EXAM - Confirmation of Hypothesis from Subjective
+		        General Flow of the MSK Exam
+		            -Lumbosacral or Hip? (See [PROC_MSK1_TBCHip]) Treatment-Based Classification Approach (Γ TBCA) vs. Treatment-Based on Patho-Anatomical Diagnosis AKA Classification-Based Treatment
+		                Initial Considerations (See [MSK1_CoreStepsHowTo])
+		                Positioning optimization considerations in mind already (See: [MSK1_PositElementsClassif]::"From MSK1")
+		                    Then we find out
+		                        If Hip, Intra- (Non-Contractile) or Extra- (Contractile)? REPE
+		                            If Extra-:
+		                                Is it one of those: REPE
+		                                    Pain
+		                                    Neurological
+		                                        Numbness
+		                                        Tingling
+		                                    ROM deficit
+		                                        Stiffnes
+		                                        	Due to Joint
+			                                        	Decreased accessory joint motion
+														Restrictions between joint surfaces
+														Hypomobile joint capsule
+													Due to m.
+														Atrophy
+		                                        Weakness
+		                                            Atrophy
+		                                            Neurological
+		                                                LQS
+		                                            Pain
+		                                        Pain
+		                            If Intra-:
+		                                Where to fit: ¿?
+		                                    Symptom Mdification?
+		                                    Joint mobility assessment?
+		                        Special Test
+		                        Palpation
+		Final
+		    4st_Q. to 7th_Q.
+		        We could save those for when we decide that
+		            1st.We can treat them
+		            2nd.After physical exam and confirmed hypothesis
+		Treatment plan
+		    Regain full ROM first
+		        Joint mobility treatment
+		        Stretching
+		    Strenghtening
+
+From an Email:
+	Q3 & Q6 - Because these focused on sign of the buttock which in the video lecture stated that you would not need to know these (I don't know why I said that but I did so)
+
+	Q29 - Multiple answer asking about tests that could identify the source of a ROM limitation was written a little vaguely and most of the responses could be feasible, so again full credit for all on that one.
+
+	On the first written question, the first part asked about how the "area of the fracture" would look different. My intent was for you to describe how the area would look different on the XRay, but many of you described what the surrounding tissue would look like on the patient. Since I did not specifically state "on the X-Ray" I gave everyone credit as long as you attempted to answer it.
+
+	The other two things to clarify in this question is 1) When answering the question about the benefit of Joint mobs, some said they would make muscles stronger or longer. Moblizations are not capable of creating any direct changes in muscle tissue. They are also are not capable of reducing inflammation (also there was no reason to think this patient was experiencing acute inflammation) so these answers were marked incorrect.

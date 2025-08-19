@@ -1,0 +1,3133 @@
+[☠.MSK1] [☠.2K] 2231 Musculoskeletal PT I
+
+//////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+INDEX
+//////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
+
+	UNIT 3: Examination and Treatment of the Knee REPE
+		MSK08.mp4 [MSK1_Live08Knee]
+		MSK09.mp4 [MSK1_Live09Knee] (Arreglar perque havia ficat 8 i era 9 (!!))
+		MSK10.mp4 [MSK1_Live10Knee]
+		-------------------------------------------------------------------------
+		6.3. Knowledge Check: Anatomy of the Knee: A Brief Review [MSK1_KneeAnat]
+		6.4. History Implications Specific to Examination of the Knee Joint [MSK1_KneeHistExam]
+		6.5. Examining the Knee [MSK1_KneeExam]
+			("06_01 Assessment of Knee ROM.mp4") PROC_KneeFlexROM
+		6.6. Special Tests for the Knee
+			6.6.1. Assessment/Quantification of Knee Swelling
+			6.6.2. Special Tests for the Knee Used to Rule In/Out Specific Pathologies
+			6.6.3. Knee Palpation [MSK1_KneePalp]
+
+		7.3. Knee Joint Pathologies
+		↑4.9. Quiz 4 & Exam Midterm2 (Chs 4,6, & 7)
+
+
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+Knee Joint Comprehensive
+*Overlap with the Hip (*See "Hip and Knee Flexibility Tests")
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+
+ΓFollow this numeration [KRP.#] (KP from Knee Rela Practice) to know the steps to perform in ral practice
+	[KRP.0] → "0" are initial considerations to keep in mind
+	[KRP.-#] → Means that you shold start the esteps from the greatest negative number
+	[KRP.-#b,c,...] →
+		There is no "a" since the "a" is the step
+		Means that this step goes along the # step as an consideration to have in mind. In other words, pertaining to this step but not a step per se but a condideration
+	[KRP.Go#] → Means that "if" something happens, go to that step
+
+Knowledge Check: Anatomy of the Knee: A Brief Review [MSK1_KneeAnat]
+	During knee flexion and extension, the patella articulates with the: (See "Knee Flexion Extension Gif.gif")
+		Intercondylar fossa
+		✓Trochlear groove
+			-The trochlear groove is the name where the patella glides in between the medial and lateral femoral condyles during knee motions
+		Tibial tuberosity
+		Medial facet
+		Lateral facet
+
+	Of the following structures, the one that is located INSIDE the synovial capsule of the knee is the:
+		(See Folder: "Knee_DetailsGen")
+		Medial collateral ligament 
+		Plica
+		✓Posterior cruciate ligament 
+		Infra-patellar bursa 
+		Supra-patellar fat pad 
+		None of these
+
+	The cruciate ligaments are named for: ("Anatomy of the knee - Fibers of the medial meniscus_02.png")
+		✓Their attachment on the tibia
+		Their attachment on the femur 
+		The direction in which they become torn 
+		Their very crucial function in stabilizing the knee
+
+	Which of the following structures does not cross the knee joint? (See Folder: 'Knee_DetailsGenNetter Secundaries')
+		Illiotibial band 
+		✓Medial meniscus 
+		Semimembranosus muscle 
+		Lateral retinaculum (See 'Lateral retinaculum Knee.png')
+		All of these structures cross the knee joint
+
+	During terminal knee extension, the tibia will: 
+		Abduct
+		Circumduct
+		Internally rotate
+		✓Externally rotate
+			-The screw-home mechanism occurs during terminal knee extension and involves the tibia externally rotating on the femur as the joint locks in place
+
+⇅Overlap with the Hip (*See "Hip and Knee Flexibility Tests") REPE
+	-Muscles crossing the hip joint provide significant stability and control for the knee REPE
+	-Lack of flexibility in soft tissues around the hip may influence knee mechanics and tight knee structures may in turn influence hip movements. REPE
+	-Assess the flexibility of structures crossing the hip and/or knee joint when evaluating a knee
+
+Stability vs. Mobility
+	-The knee joint is quite stable but much less mobile than most other joints
+	-Sometimes it is described as having six degrees of freedom, including movements in the following directions [KRP.0.1] 
+		but only two of these are related to physiologic movements
+			Flexion/Extension (physiological) 
+			Internal/External Rotation (physiological) Γ(screw-home mechanism)
+		The rest are more closely related to accessory movements or planes in which only very minimal functional movement occurs
+			Varus/Valgus (Slight movement, minimally functional) 
+			Anterior/Posterior (Accessory) 
+			Medial/Lateral (Accessory) 
+			Proximal/Distal (Distraction/Compression) 
+	-Therefore, the knee is generally thought to have only "two degrees" of freedom
+
+Considerations for action (AROM) and (PROM) assessments of the knee - PROC_KneeROM [KRP.1]
+	AROM [KRP.1.1]
+		Place the patient in a supine position
+		Ask the patient to:
+			move the heel toward buttock as far as possible (flexion)
+			press the back of knee into table as far as possible (extension)
+				-If hyperextension is possible, the PT may need to prop a towel or bolster under heel to observe this
+				-If a limitation of active knee extension is noted, perform an ``assessment of extensor lag (Γcaused by tight hamstrings → Hamstring Length Test ¿?) to determine possible sources of this limitation. [KRP.Go-1]
+	PROM [KRP.1.2]
+		The therapist will perform the above for the patient while the patient attempts to relax.  
+		As with all joints, the PT should consider
+			if ROM Restraints/Restrictions/Limitations occur in a capsular pattern (¦Kazuya Colp de Peu Lateral Ganxo).
+				(See 'Kin Normal Ranges.txt::Capsular Pattern & Restrictions::Hip::MSK1') [KRP.3]
+
+⇅[PROC_KneeExt] [KRP.-1]
+	1st.You are performing a ROM exam on a patient with knee pain. In a seated position, the patient is unable to fully extend her knee. (See [MSK1_QuadLag])
+		What is the first thing you should do next?
+			-Attempt to passively extend the knee - Si pots estirar-la hasta extensió completa es perque no hi ha ningún problema 1ºd'elasticitat en els HS o 2ºla càpsula; són els quads que estan dèbils (un problema neurologic). Es a dir, per a descartar m. cuadriceps weakness mitjansant el end feel (que es la inelasticitat que notarem dels HS/capsula al extendre la cama)
+	2nd.you find you are not able to do so due to a somewhat firm end feel and pain in the back of the knee 
+		What should you do next?
+			-Have the patient lean back on her elbows - La part de darrere del genoll pot fer mal degut a un problema capsular, però testejem els hamstrings acurtant-los ja que desde sentat estan estirats i poden confundir-se amb tightness (tensió muscular/inelastic?)
+	3rd.the patient still is unable to actively or passively achieve full knee extension
+		What is the most likely source of the limitation?
+			-Pathology affecting the joint capsule. Leaning backwards places the hamstrings in a shortened position, therefore if tight hamstrings are the source of the limitation this should now allow full extension (if you have tight hamstrings try this)
+
+.PROC_KneeFlexROM ("06_01 Assessment of Knee ROM.mp4")
+	Flexion AROM Assessment [KRP.1.1]
+		Patient instructed to maximally pull "heel to buttock" (supine) (AROM)
+			Capsular Pattern Limitation of Flex>Ext
+		Flexion PROM Assessment Γ(no need to go back to extension, just push from there)
+			Same with patient relaxed
+			Perform Knee Extension in this position as well to assess end feel [KRP.Go-1]
+	``Knee Extension Measurements [KRP.2]
+		Recommended positions when taking goniometric measurements of Extension
+			1st.Resting Knee Extension (for hyperextension) [KRP.2.1]
+				Prop the heel on a bolster
+				Relax the leg
+				--------------------------
+				This posotion provides a starting point for extension
+			2nd.Knee Extension with a Quad Set [KRP.2.2]
+				Keep the heel on the bolster
+				Contract the quadriceps
+				--------------------------
+				-Known for measuring pasive extension. However, the pt. is not truly being passive since the m. is contracting. Nonetheless, this position does allow the therapist to measure the limits of extension when posterior structures are being placed on passive stretch. (No veig la ff amb el primer ¿?)
+			3rd.Knee Extension During Straight Leg Raise [KRP.2.3¿?] (See [MSK1_QuadLag])
+				Perform a Quad Set, then lift about 6" (15 cm)
+				Visually estimate ROM
+				Measure if knee flexes
+				---------------------------
+				-It can provide some perspective on whether or not the extensors are able to hold the knee in full possible extension and therefore, this is often considered to be active extension range of motion
+			------------------------------- [MSK1_Imm2B_Knee]
+			Active vs. Passive
+				TRUE AROM is ext agains gravity in seated
+				TRUE PROM is overpressure into ext by PT.
+				Other PROM assesments
+					Resting knee extension w/t heel propped
+					Knee extension with quads contraction
+				*For the purpose of PROM on practical exam focus on measuring
+				*RESTING EXTENSION WITH HEEL PROPPED 
+	Knee Extension ROM Considerations
+		(See also [MSK1_Imm2B_Knee_ManuTherp] ¿?)
+		Resting Knee Extension [KRP.2.1b]
+			-Determining patient tolerance for resting positions in full extension on the table or with the bolster under the heel can provide information about symptom irritability based on whether or not or how well they can tolerate these positions. And if the discomfort is felt in these positions, the location of the pain can tell us things such as if it is posterior[MSK1_KneePainAreas::posterior], then we might be thinking about a source of capsule or hamstring tendons or gastrocnemius tendons. If pain is felt anteriorly[MSK1_KneePainAreas::anterior], we would think more about pinching of sub or peripatellar structures.
+			-----------------------------
+			-Can the individual rest with their limb on the table and no posterior support? (Γfent una V en la taula cuan la cama està estirà, necesita algo baix del genoll per a aguatar la cama o li farà mal)
+			-Can the individual rest their limb with the heel supported and nothing under the knee?
+			-Where is discomfort felt? [MSK1_KneePainAreas::]
+				Posterior (capsule vs. hamstring tendons vs. gastroc)
+				Anterior ("pinching" of sub-patellar or peri-patellar structures)
+		Knee Extension with Quad Set [KRP.2.2.b]
+			-The therapist should consider if the quad is capable of contracting and if so, to what degree?
+			-Also, we want to think about what is happening to the patella when the quadricep contracts
+				Does it produce a superior patellar glide mainly?
+					Can you see this, or can you palpate it happening? 
+				or perhaps: does the patellar glide laterally?
+			-And of course, think about:
+				-does this cause pain?
+				-also thinking about anterior structures, such as [MSK1_KneePainAreas::anterior]
+				-Retropatellar, so maybe under the kneecap or again posterior, which would be the same as [MSK1_KneePainAreas::posterior]
+			-----------------------------
+			Does the quad visibly contract?
+			Does contraction produce a superior patellar glide?
+				Visually? Palpation?
+				Lateral deviation?
+			Does this cause pain?
+				Anterior
+					patellar tendon vs. quad tendon vs. quad muscle
+				Retro-patellar
+				Posterior
+		Quadriceps Lag [MSK1_QuadLag]
+			Lag Sign
+				-A clinical finding that indicates a muscle is not capable of holding an end range position
+					The ability of the muscle to maintain the position lags behind the total ROM
+					Typically no external resistance is used (i.e. body weight only)
+				-A Quadriceps Lag indicates that the quadriceps is not able to maintain full knee joint extension when there is no support to the tibia
+					Maximum Extension - Extension during SLR
+			Positions in which Lag Sign may be assessed
+				Seated (long arc quad)
+				Straight Leg Raise (SLR)
+				Short arc quad
+				---------------------------------------------
+				1. Lag during AROM but not PROM = Quad weakness
+				2. Lag with AROM and PROM
+					1. Posterior capsule tightness and/or
+					2. Hamstring tightness
+				--------------------------------------------
+				Differentiate comparing hamstrings on slack (supine) vs. lengtnened (long-sit)
+			------------------------------------------------
+			Addressing Extension Lag
+				For quadriceps lag (MMT < 3)
+					-Individual likely not strong enough to achieve ACTIVE terminal (Γ*teminal swing) knee extension in gait ("Kin Gate Descriptors.rtf")
+						(Γ)("Gait Cycle.png") says:
+							quadriceps in concentric
+								Stance
+									Loading Response
+								Swing
+									*Terminal Swing
+						(Γ)("Gate Cycle Concentric Excentric Muscles.jpg") says: (és contradictori ¿?)
+							quadriceps in eccentric (no concentric exists for quads)
+								Stance
+									Initial Contact
+									Loading Response
+								Swing
+									Pre-Swing
+									Initial Swing
+					-Restore muscle activation toward end range
+						Superior patellar mobilizations
+						≡Quadriceps sets
+							Can provide a superior glide to facilitate quad contraction
+						≡Short Arc Quadriceps Exercises
+						Terminal Knee Extension (Prone vs. Standing vs. Dorsiflexed) (no ho entenc ¿?)
+						Γ OAH-PATELLAR-INSTABILITY-EXERCISES.pdf
+				For tight posterior capsule/hamstrings?
+					Stretching in positions to target appropriate structures
+				*Watch these videos to view extension/extensor lag in two different positions
+					("06_01 Assessment of Knee ROM.mp4" [03:20sec])
+						Γ SRL
+						Γ With a big bolster under knee
+
+Strength Testing for the Knee [KRP.4¿? ☢M´he quedat ací numerant]
+	General hip abduction strength Γ(side-lying)
+	General hip extension strength Γ(prone)
+	Gluteus maximus Γ(prone, exrtension w/t leg flexed 90°)
+	Hip ER/IR Γ(seated)
+	---------------------------------
+	Muscles crossing the "hip & knee" are of interest because of the significant stability provided by the hip joint
+		(See 'Hip & Knee::FastTXT Pro Actions.rtf')
+
+History Implications Specific to Examination of the Knee Joint
+	[MSK1_KneeHistExam]
+	(See [MSK1_KneePainCase01Aks])
+	[KRP.-3]
+	Step.1_Hist.Knee
+	------------------------------------------------------------------------------
+	-As with other regions of the human body, there are certain types of questions to ask and information to gather that are/is specific to injuries affecting the knee
+	-History considerations may go a long way towards narrowing down a diagnosis in the knee - What diagnoses might be more/less likely if the patient reports pain:
+		PLANTILLA Preguntes (See: "Knee Pain Areas.png")
+			(Podria fer una investigació de tots els casos (!!))
+			1st.Location of Symptoms
+				Deep in the knee?
+				Directly anteriorly?
+				Medially?
+				Laterally?
+				Γ Posteriorly?
+			2nd.Nature & Frequency of Symptoms
+				Along with joint sounds deep in the knee?
+				Locking of the joint?
+				In addition to frequent giving away of the joint?
+			3rd.Exacerbating Activities
+				Walking? 
+				Prolonged sitting? 
+				Squatting? 
+				Impact?
+			4th.Traumatic or insidious onset?
+				As a result of a traumatic onset?
+				That came on insidiously (gradually & non-mechanism onset)?
+		-----------------------------------------------------------------------
+		1st.Location of Symptoms Step.10_DD.Knee
+			-Because the anatomical structures of the knee are located more superficially than those in the hip and spine, the location of symptoms can be more directly correlated with the underlying structures that may be involved
+			-Review the image to see areas of pain associated with the knee
+				("Knee Pain Areas.png"), [MSK1_KneePainAreas]
+				OBJECTIVE
+					Γ Anterior Structures [MSK1_KneePainAreas::anterior] (See [MSK1_KneeAntPainFind])
+						Γ Above the patella
+							Quadriceps Tendon
+								Quadriceps Tendonitis (See [MSK1_KneeQuadTendFind], [MSK1_KneeQuadTend2Find])
+								Quadriceps contusion/tear
+						Peri-patellar & Patellar Pain (See [MSK1_KneePatComprSyndrFind])
+							Patellofemoral pain (See [MSK1_PFPS], [MSK1_PFPS2])
+							pre-patellar bursitis [MSK1_KneeSoftTissLessFind]
+							patellar injury
+						Γ Sub-patellar
+							Patellar Tendon
+								Patellar tendonitis/tear (Jumper's knee)
+									(See [MSK1_KneePatTendFind], [MSK1_KneePatTend2Find])
+								Hoffa's impingement ("Γ Hoffa's impingement.png", "Infrapatellar Fat Pad.png")
+							Apophysitis
+								Sinding-Larsen-Johansson syndrome (top)
+								Osgood-Schlatter's disease (bottom) (See [MSK1_KneeOsgoodFind], [MSK1_KneeOsgood2Find])
+					Γ Internal Structures
+						Joint Lines
+							ACL/PCL
+							meniscal tears
+							joint injury (qué és exactament açò? ¿?)
+							osteoarthritis (OA) (Med Mainly, Lat, & Front) (See [MSK1_KneeOAFind])
+					Medial Knee
+						MCL injury (See [MSK1_KneeColLigFind])
+						medial meniscus (See [MSK1_KneeMeniscFind])
+						medial plica syndrome
+						pes anserine bursitis
+					Lateral Knee
+						LCL injury (See [MSK1_KneeColLigFind])
+						lateral meniscus, iliotibial band syndrome (See [MSK1_KneeITBFind], [MSK1_KneeMeniscFind])
+					Posterior Knee [MSK1_KneePainAreas::posterior] (See [MSK1_KneeGastrocFind])
+						Baker's cyst
+						hamstring tendon injury
+			--------------------------------- [MSK1_Live08Knee], [MSK1_Live08Knee], [MSK1_KneeAssessLocat]
+			SUBJECTIVE
+				.Deep in the knee?/Is it "deep" in the knee?
+					More probable structures and the biggest three
+						-Meniscus Tear
+						-Cruciate Ligaments ACL & PCL Tear/Rupture
+						-Osteoarthritis (OA) (this is a deep feeling diagnosys in the knee; the structure is not in the name)
+						Etc.
+					Less common structures
+						Fat pad (not necessarily deep structures)
+						Retinacula (not necessarily deep structures)
+						Etc.
+				.Directly anteriorly?/Is it "in front" of the knee?
+					*To begin with, it is not going to be intra-articular
+					First thing to think is the patella (patellofemoral issues)
+						(See [MSK1_PFPS])
+						-In general, the patella is not tracking properly
+							Could be
+								a lot of motion
+								not enough motion
+								no strength to control the femur
+								etc.
+						-It is not the patella that has the problem (moving in its horitzontal and vertical planes) but the femur
+							Not having enough strong external or internal rotators
+							Oher strength issues like Glut Med, etc.
+							----------------------------------------
+							-This is why when thinking about this syndrome we have to figure out what is the cause, not just an issue with the patella; there is something that is changing how the patella moves above the femur or the femur underneath the patella
+					Patellar Tendon (Patellar Tendonitis)
+					Quad tendon (Quad Tendonitis)
+					Osgood Schlatter's Disease
+					Etc.
+				.Medially?/Is it "medial" at the knee?
+					MCL Tear/Rupture (most common)
+					Bursitis
+					Pelvic floor issues (tight adductors) = medially knee pain
+						Tipically post-partum women
+					Etc.
+				.laterally?/Is it "lateral" at the knee?
+					LCL Tear/Rupture (most common)
+					ITB
+					Etc.
+		2nd.Nature & Frequency of Symptoms
+			Is there locking or popping of the joint?
+				This often occurs with a meniscal tear 
+			Does the joint feel as if it wants to give way? 
+				Most commonly occurs in the absence of ligamentous stability but also
+				may be due to muscle inhibition and pain 
+			Swelling/effusion? 
+				To be discussed later (!!)
+			--------------------------------- [MSK1_Live08Knee], [MSK1_Live08Knee], [MSK1_KneeAssessNatFreq]
+			SUBJECTIVE
+				.Along with joint sounds deep in the knee?
+				.Locking of the joint?
+					---------------------------------------------------------------
+					-What is more deep medially & Laterally that can cause pain?
+						The medial and lateral meniscus
+							-Can be one side and deep
+							-If they have medial pain and you try to defferenciate between MCL and Meniscus, what joint sounds would you ask about to differenciate?
+								Popping, clicking, and locking
+				.In addition to frequent giving away of the joint? (we ask to know if it is more towards ligamentous)
+					What does it mean this?
+						-Meniscal Tear or Cruciate Ligaments (mainly this last one) issues can cause knee pain → and manly ACL (function: anterior translation of femur on tibia)
+							Then, inhibiting the Quad
+								Then, provoking "giving away of the joint" (regareless of the diagnosis)
+									-When used it, the Quad pulls anteriorly the tibia (excessivelly) because the ACL is ruptured (is it not the PCL that holds the tibia in this case¿?)
+		3rd.Exacerbating Activities
+			The physical therapist should specifically ask if symptoms are further aggravated by: 
+				.Walking? 
+				.Prolonged sitting? 
+				.Squatting? 
+				.Impact?
+				--------------------------------- [MSK1_Live08Knee], [MSK1_Live08Knee], [MSK1_KneeAssessExacerb]
+				SUBJECTIVE
+					N/A
+		4th.Traumatic or insidious onset?
+			If traumatic, what was the position of knee during injury? 
+			Also, was an audible “pop” heard at the time of injury?
+			--------------------------------- [MSK1_Live08Knee], [MSK1_Live08Knee], [MSK1_KneeAssessOnset]
+			SUBJECTIVE
+				.As a result of a traumatic onset?
+				.That came on insidiously (gradually & non-mechanism onset)?
+					--------------------------------------------------------
+					Someone with an onset/"traumatic injury"?
+						Not OA or PFPS but torned ligaments
+						Are meniscal tears always traumatic?
+							No, they can be related to wear and tear
+								Age can be a cause (degenerative issues)
+					Someone with an insidiously onset?
+						OA (if the pt. was not active and them he does something, OA can be trigered though)
+						All the tendonitis
+						PFPS
+
+Examining the Knee / Patellar Assessment [MSK1_KneeExam] [KRP.-2]
+	Observation/Inspection of the Knee [KRP.-2.1] Step.2_Ov.Knee
+	    Much can be learned by formally observing the knee from multiple angles
+		    Specifically, the patient’s knees should be viewed:
+		        1.In weight-bearing and supine positions
+		        2.In the frontal and sagittal planes
+			        ----------------------------------------------
+					From these vantage points, things the therapist should specifically look for include the following
+						From a Lateral View
+							Hyperextension of one or both knees 
+							Arch height of the foot (as this may be related to the pathology)
+								("Arch height of the foot.png")
+						From an Anterior View
+							Patellar position 
+							Presence of anterior swelling 
+							Atrophy/hypertrophy of the quadriceps
+						From an Posterior View
+							Swelling in the popliteal fossa 
+							Gastrocnemius atrophy 
+							Calcaneal Position
+		Other notable items for which to observe might include ("Other notable items for which to observe Knee.png")
+			Scars from Past surgeries
+			Inspection of incisions due to Present surgeries
+			Atrophy or Swelling in other areas peripheral to the knee
+	Screening Examination for the Knee [KRP.-2.2] Step.3_CT.Knee
+		.History Implications Specific to Examination of the Knee Joint
+			-As with all regions of the body, physical therapists should attempt to rule out the ...↓ that produce symptoms around the knee
+				presence of red flag and/or
+				non-musculoskeletal conditions  
+			-The next portion of this lesson will focus on screening for
+				1.Vascular Conditions / Vascular Screening - Concerning Issues Affecting Circulation in the Area of the Knee - Injuries to Vascular [KRP.-2.2.1]
+					-The primary concern associated with vascular injuries occurs when an arterial injury interrupts blood flow to distal tissues
+						-Arteries are especially susceptible at
+							joints and when
+							making sharp turns around bony prominences
+								--------------------------------------
+								Examples include:
+									-A "posterior knee joint dislocation" can impact the
+										"popliteal artery".
+											In this instance, the PT should check the
+												"posterior tibial artery pulse"
+												("posterior tibial artery pulse.png")
+													-To check the pulse of the "posterior tibial artery", palpation occurs
+														just posterior to the medial malleolus
+									-A "posterolateral knee joint" injury can impact supply to the
+										"anterior tibial artery". ("anterior tibial artery.png")
+											In this instance, the PT should check the
+												"dorsalis pedis pulse"
+													-To check the "dorsalis pedis pulse" the therapist should palpate: ("dorsalis pedis pulse.png")
+														the top of the foot,
+														lateral to the EHL tendon,
+														just distal to the navicular bone
+					Deep Vein Thrombosis (DVT) ("Veins LQ") [MSK1_DVTScreenKnee]
+						A deep vein thrombosis (DVT) is Clotting/Blockage of a distal vein:
+							-Clots can dislodge and move through circulatory system to central aspects of the circulatory system (heart & lungs) or even the brain – causing a stroke or even death
+							-Clots are more common after surgery – especially to the ...↓ regions
+								hip
+								knee
+								leg/calf
+								abdominal
+								chest
+						Some of the reasons why surgery increases DVT risk include: Step.3_CT.Knee (!!E.Grade & Doc).Knee
+							-Tissue debris, protein, and fats may move into veins following surgery
+							-Vein walls can become damaged, which may also release substances that promote blood clotting
+							-Prolonged bed which is common following surgery results in less blood flow and greater accumulation of these substances in distal vessels
+							---------------------------------------------------
+							-The gold standard and most evidence-based tool for DVT screening of the lower extremity is the use of the "Well’s Criteria Clinical Prediction Rule". [MSK1_WellCritPredRule]
+								-----------------------------------------------------------------------------
+								("Well’s Criteria Clinical Prediction Rule.png")
+								Clinical Feature + Points Allotted for Criterium being Present
+									Active cancer (treatment within 6 months, or palliation)                 1
+									Paralysis, paresis, or immobilization of lower extremity                 1
+									Bedridden for more than 3c days because of surgery (Within 4 weeks)      1
+									Localized tenderness along distribution of deep veins                    1
+									Entire leg swollen                                                       1 
+									Unilateral calf swelling of greater than 3 cm (below tibial tuberosity) -2
+									Unilateral pitting edema                                                 1 
+									Collateral superficial veins                                             1
+									Alternative diagnosis as likely as or more likely than DVT              -2
+								------------------------------------------------------------------------------
+								-While the Well’s Criteria are required for the most accurate identification of DVT, general warning signs include:
+									-Swelling in one or both legs ("Swelling DVT.png")
+									-Pain or tenderness in one or both legs, which may occur only while standing or walking
+									-Warmth in the skin of the affected leg
+									-Red or discolored skin in the affected leg
+									-Visible surface veins
+									-Leg fatigue
+						Other Lifestyle Factors that Contribute to Deep Vein Thrombosis formation include:
+							Age > 60
+							Sitting or inactivity for long periods
+								Long plane flights or long car trips
+							Extra weight
+							Current use of birth control pills or patches
+							Smoking
+				2.Neurological Conditions/Neurological Screening [MSK1_LQSKnee] [KRP.-2.2.2] [MSK1_Imm2B_Knee] Step.4_UQS+NE.Knee
+					-In addition to that done during lower-quarter screening, the physical therapist can assess motor function and sensation of areas innervated by peripheral nerves
+						-Compare bilaterally at the same time while the pt. closes eyes; little strokes
+						-The common peroneal and tibial nerves are commonly involved neural structures. Motor and sensory function of these nerves that may be assessed include the following:
+							("Neuro Screening for the Knee - Lower Leg.jpg")
+								Common Peroneal / Common Fibular n.
+													    L4 S2
+													   		  ¦Common Lazy! (Va, alçat!) S=Fulla de Perene=Tardor=2º temporà de l'any
+									Motor Function
+										Ankle dorsiflexion ☢
+										Great toe extension ☢
+										Toe extension ☢
+									Sensory Function (See Folder: 'MSK Fibular Nerve')
+										1st Web Space (deep branch)
+										Dorsal surface of toes 3-4 (superficial branch)
+								Superficial Peroneal n. L4 S1 ¦La cadira i una botella amb un suro, El Pensador bufat
+								Deep Peroneal n.        L4 L5 ¦Un home gros sentat en una cadira tipo El Pensador (Deep)
+								Sural n.                S1 S2 ¦"S" de suro en aigüa tibia (Tibial), peus Llatina
+								Saphenous n.            L3 L4 ¦En la safa un cervell amb una bandera de Texas
+							("Neuro Screening for the Knee - Plant Foot.jpg")
+								Tibial n.               S1 S2 ¦"S" de suro en aigüa tibia (Tibial), peus Llatina sexy
+									Motor Function
+										Plantarflexion
+										Toe Flexion
+										~Inversion
+									Sensory Function
+										Plantar aspect of calcaneuous
+										Plantar aspect of 5th toe
+								Saphenous n.            L3 L4 REPE
+								Medial Plantar n.       L4 L5 ΓSame Deep Peroneal
+								Sural n.                S1 S2 REPE
+								Lateral Plantar  n.     S1 S2 ¦"S" de suro en aigüa tibia (Tibial), peus Llatina
+								*Γ Els unics "S" són els del suro, l'agüa tibia, per a les plantes del peus de la Llatina
+								(Γ)----------------------------------------------------- Meua Llista Ordenà
+									-Common Fibular n. L4 S2
+										Superficial Fibular n. L4 S1
+											Fibularis Longus/Peroneus Longus (L4) L5 S1
+											Fibularis Brevis/Peroneus Brevis (L4) L5 S1
+												------------
+												PF
+												Ev
+										Deep Fibular n. L4 L5
+											Tibialis Anterior L4 L5 (S1)
+												DF
+												Inv
+											Extensor Digitorum Longus L4 L5 S1
+												PF
+												MTP Extension
+												PIP Extension
+												DIP Extension
+											Extensor Hallucis Longus (L4) L5 S1
+												MTP Extension
+											Fibularis Tertius L4 L5 S1
+												DF
+												Ev
+											Extensor Digitorum Brevis (L4) L5 S1
+												MTP Extension (.as)
+												PIP Extension (.as)
+												DIP Extension (.as)
+											Extensor Hallucis Brevis (L4) L5 S1
+												DF
+												Extensor Hallucis Brevis
+										----------------------------
+										Sural n. S1 S2 ('Sural nerve - Cadaver.png')
+									-Tibial n. S1 S2
+										Gastrocnemius
+											Medial Head S1 S2
+											Lateral Head S1 S2
+												----------------------
+												knee felxed/extended - PF
+										Popliteus (L4) L5 S1
+											Deep Knee Flexors (weak)
+											WB & NWB - Unlocks Knee
+										Plantaris (L4) L5 S1 S2
+											Deep Knee Flexors
+											PF (weak)
+										Soleus (L5) S1 S2
+											PF
+										Tibialis Posterior (L4) L5 S1
+											PF
+											Inv
+										Flexor Digitorum Longus L5 S1 S2
+											MTP Flexion
+											PIP Flexion
+											DIP Flexion
+											Arc Support (Foot) - Longitudinal Arches
+										Flexor Hallucis Longus L5 S1 S2
+											PF (weak)
+											Flexion - Cuboid with Metatarsal (CMT)
+											MTP Flexion
+										--------------------------------
+										Medial Plantar n. L4 L5
+											Abductor Hallucis (L4) L5 S1
+												Abduction - Cuboid with Metatarsal (CMT)
+												Flexion - (at 1st MTP joint)
+											Flexor Digitorum Brevis (L4) L5 S1
+												MTP Flexion
+												PIP Flexion
+											(..)Lumbricals - I (L4) L5 S1
+												MTP Flexion
+												PIP Extension
+												DIP Extension
+												MCP Flexion
+											Flexor Hallucis Brevis (L4) L5 S1
+												MTP Flexion
+										Lateral Plantar n. S1 S2
+											(..)Lumbricals - II III IV (L4) (L5) S1 S2
+												(See above)
+											Flexor Digiti Minimi Brevis L4 L5 S1 S2 S3
+												MTP Flexion
+											Adductor Hallucis S1 S2
+												Cuboid with Metatarsal - Adduction
+												Transverse Arch ¿?
+											Abductor Digiti Minimi S1 S2
+												PIP Flexion
+												PIP Abduction
+												MTP Flexion
+											Interossei S1 S2 (Plantar or Dorsal? Needs review ¿?)
+												PIP Extension
+												DIP Extension
+												2nd, 3th, 4th (toes)
+													Adduction
+													MTP Flexion (.as)
+											Quadratus Plantae S1 S2
+												MTP Flexion
+												PIP Flexion
+												DIP Flexion
+									-Saphenous n. L3 L4 (See Folder: 'Question 65 Sural Fibular Obturator Saphenous n')
+										(from Femoral n.)
+										(Γ)--------------------------------
+										Antero-inferior and medial aspects of the knee
+										skin of the
+											medial knee
+											leg
+											foot
+											anteromedial leg
+				3.Fractures surrounding the knee joint / Screening for Fractures [MSK1_FractScreenKnee] [KRP.-2.2.3 ☢]
+					-Screening to determine if radiographs are needed. A final screening consideration for the knee involves using validated clinical prediction rules to rule out fracture and/or determine if referral for a radiograph is recommended
+					-Note: These types of prediction rules cannot confidently detect the presence of a fracture, but instead are performed to determine if a fracture may be ruled out – in which case a radiograph should be performed
+					---------------------------------------------------------
+					Ottawa Knee Rules
+						-A fracture in the area of the knee may not be ruled out if ANY of these variables are present in the patient:
+							Knee x-ray indications: Ottawa knee rules (acute)
+								Age ≥ 55 years
+								Isolated patella tenderness
+								Tenderness at head of fibula
+								Inability to flex knee 90°
+								Inability to bear weight (4 steps) immediately after injury and in emergency department
+								----------------------------------------------
+								-If none of these variables are present, a fracture may be ruled out and no radiograph is needed (Sensitivity of 1.0).  
+								-Otherwise, a radiograph should be ordered to determine if the patient has experienced a fracture in the area of the knee.
+					Pittsburgh Knee Rules ("Pittsburgh Knee Rules.png" or "Mod 6_pittsburgh knee rules chart.pdf") [MSK1_PittKneeRules]
+						-When making determinations regarding the need for an X-ray in a patient with knee pain, the clinician should use the answers to the below questions to guide this process.
+						-(Sensitivity of 0.9)
+							--------------------------------------------------------------------- PLANTILLA
+							Fall or blunt trauma mechanism
+								Yes
+									Age < 12 or age > 50 years
+										Yes
+											✓Knee radiography
+										No
+											Able to walk 4 weight-bearing steps in emergency department
+												Yes
+													✗No radiography
+												No
+													✓Knee radiography
+								No
+									✗No knee radiography
+		.[MSK1_Imm2B_Knee]
+			WHAT?
+				-Assessing the areas above and/or below the area of the patient’s complaints to determine if the source of the primary problem might actually be from that area instead (is there a referred pain?)
+					-This is like we did in the hip when we assessed first the lumbar spine, etc.
+			WHO/WHEN?
+				-It is important to know when do we screen something or not; to be time efficient. Do not screen everything always
+				---------------------------------------------------------------
+				Patient A: Got whacked (colp/cop) on side of the knee with a crowbar
+				Patient B: Woke up one morning with diffuse posterior knee pain
+					If the knee is not the source:
+						MORE likely sources:
+							Lumbar Spine
+							Hip
+						LESS likely source
+							Foot & Ankle
+					Joint Screen Procedure (to see if we provoke the symptoms)
+						1.Patient performs AROM in primary planes
+						2.PT performs OVERPRESSURE at end ranges
+							UNLESS… AROM is painful
+								If the pt. feels something but not convinced, then also, apply overpressure to make sure
+								If there is pain here, then we switch gears and the focus (the evaluation) will be the hip, etc.
+									Remember that this is not an evaluation !! but an screening to rule out structures
+										-This means that we have a suspicion for performing a screening. We just do not screen something systematically if we do not have the suspicion first !!
+										-Also, screening is performed only on one side, not bilaterally !!
+											-I.e.: If somebody comes with pain in the right knee, it is not probable that the left hip is the cause 
+						3.GOAL: Rule out that joint as possible source of patient’s symptoms
+						*Unlike typical ROM assessment joint screening is done unilaterally 
+			WHERE? Only one side !!
+			MORE COMMON SOURCE:  Above or Below?
+			-------------------------------------------------------------------------------
+			Screening for the hip & Ankle mmm.Screening_hip&Ankle
+				*Screen these when screening the knee to rule out before focusing in the knee.
+				*We do not perform everything on these ones but the most probable ones that can provoke the symptoms
+					If we do not find anything with these ones, most probably, the ones that we did not performed are good
+				With the patient in supine
+					Hip Screen 
+						1.Flexion
+						2.ABDduction
+						3.ER
+						4.IR
+					Foot/Ankle Screen
+						1.Dorsiflexion
+						2.Plantarflexion
+						3.INV
+						4.EVER
+					*AROM followed by overpressure in each plane/direction
+					------------------------------------------------------
+					[MSK_ScreenHip&Ankle] (Almost REPE)
+						-Screen these when screening the knee to rule out before focusing in the knee
+						-Screening above and below NOT being done here to determine the source of the problem but rahter to ensure these areas are moving normally
+							ROM screen
+								Hip Screen (can do in supine)
+									1.Flexion
+									2.ABDduction
+									3.ER
+									4.IR
+									----------------
+									MMTs - Most important?
+								Foot/Ankle Screen
+									1.Dorsiflexion
+									2.Plantarflexion
+									3.INV
+									4.EVER
+						*AROM followed by overpressure in each plane/direction
+			ROM Measurement of the Knee
+				Be ready just in case you have to measure ROM for the knee
+					Then, if during the "screening" we find something wrong, do we measure it like in an evaluation? ¿?
+
+	See: ("06_01 Assessment of Knee ROM.mp4") PROC_KneeFlexROM
+
+	Joint Mobility Assessment at the Knee [KRP.3¿?]
+		Knee Accessory Motion Testing 1
+			Concave-Convex Rule -Introduction [MSK1_Live08Knee]
+				-While the concave-Convex Rule is often used as a basis for assessing and addressing movement between joint surfaces, limitations at the Tibio-Femoral Joint is not influenced much by arthrokinematics between these surfaces
+					-Functional for the knee is normally closed-chain: convex (femur) on concave (tibia); except some gate pahses in which we use opened-packed concave on convex (Put the gate phases (!!))
+					-----------------------------------------------------------
+					What does influence motion on the knee?
+						So, we better stretch the capsule than perform traditional Glides & Slides at the knee
+							You still can but it is not as common as other joints
+						Capsular shortening
+							But it does not affect in the same way
+							And we will stretch it differently because of the structure of the knee
+								To stretch anterior part of the capsule, where they are limited
+									Stretch the leg on flexion
+								To stretch posterior part of the capsule, where they are limited
+									Stretch the leg on extension
+							"Patellar mobility" will be assessed in a more traditional way though
+						Muscle length
+						Length of fascia and other tissues
+						-------------------------------------------------------------------------
+						-Assessing the knee is different than the hip since there is more going on on the hip
+						-What structures could be affected? What diagnoses are implicated with these pt. descriptions? (See [MSK1_KneePainCase01Aks]) [MSK1_KneeAssessLiveAskStructResearch]
+							-If the patient says (SUBJECTIVE): (See [MSK1_KneeAssessLocat], [MSK1_KneeAssessNatFreq], [MSK1_KneeAssessOnset]) [KRP.Go-3]
+				-Movement between the tibia and femur ARE affected by:
+					1.Anterior and posterior capsular shortening
+					2.Muscle length (especially of the hamstrings)
+					3.Length of fascia and other tissues surrounding the knee joint
+		Knee Accessory Motion Testing 2 
+			But also, patellar mobility - Assessment of Patellofemoral Joint Mobility Limitations
+				-Assessment of patellofemoral joint mobility limitations of patellar mobility can affect overall knee bio-mechanics
+				-Mobility of the patella within the trochlear groove should be assessed when (Objective and Subjective):
+					1.There is a limitation of flexion and extension ROM
+					2.The patient reports pain near the patellofemoral joint
+					3.The knee has been immobilized for some time
+					---------------------------------------------------------From [MSK1_Live08Knee]
+					4.Hypermobiliy
+						When hear from subjective that there is:
+							Lack of stability (stumbeling and trip a lot)
+								Knee giving out
+								Poor coordination 
+								Poor balance
+						-----------------------------------------------------
+						What is the point of assessing these things? What it would direct?
+							The treatment since we have to treat the patella to move the way it is supose to move
+				How do you go from your objective to your objective on this? [MSK1_KneePainCase01Aks]
+					(Γ)L'objectiu ací es fer-se una idéa desde el subjectiu amb la entrevista Step.1_Hist.
+						---------------------------------------------------------------------
+						PLANTILLA Preguntes Aplicació Práctica (See also: [MSK1_KneePainAreas])
+							1st.[MSK1_KneeAssessLocat]
+								Is it "deep" in the knee?
+									Yes
+										Meniscus Tear
+										Cruciate Ligaments ACL & PCL Tear/Rupture
+										Osteoarthritis (OA)
+										------------------------------------------
+										Joint Lines
+											ACL/PCL
+											meniscal tears
+											joint injury
+											osteoarthritis
+										------------------------------------------
+										Medial Knee
+											MCL injury
+											medial meniscus
+											medial plica syndrome
+											pes anserine bursitis
+									No, it is superficial
+										Can you point where it hurts?/Do you know where it hurts on the outside?
+											___
+							2nd.[MSK1_KneeAssessNatFreq]
+								Is there locking or popping of the joint?
+									___
+								Does the joint feel as if it wants to give way?
+									___
+							3rd.[MSK1_KneeAssessExacerb]
+								Where is the pain more acute, morning or night? (Cóm m'ajuda esta pregunta? ¿?)
+									___
+							4rt.[MSK1_KneeAssessOnset]
+								Did it came gradually or suddently (due to a trauma)?
+									___
+							5th.Other questions
+								Any injury before that? (Cóm m'ajuda esta pregunta? ¿?)
+									___
+							CONCLUSION
+								Since ___, the common denominator is:
+									___
+								Other supporting details
+									___
+						---------------------------------------------------------------------
+						Case: 55 y.o F, marathon runner, 19 miles (31 km) a week, all the time (Platja Gandía 3 km 1.85 milles). Pain started at the knee. It comes and goes. It is not that bad but always is there. What questions do you want to ask?
+							PATTERN Preguntes Aplicació Práctica (See also: [MSK1_KneePainAreas])
+								1st.[MSK1_KneeAssessLocat]
+									Is it "deep" in the knee?
+										✓Yes
+											Meniscus Tear?
+											Cruciate Ligaments ACL & PCL Tear/Rupture?
+											Osteoarthritis (OA)?
+											Etc?
+										No, it is superficial
+											Can you point where it hurts?/Do you know where it hurts on the outside?
+												No pain when I touch it ← Deep
+								2nd.[MSK1_KneeAssessNatFreq]
+									Is there locking or popping of the joint?
+										It clicks all the time when going upstairs ← Meniscal Tear
+											This often occurs with a meniscal tear
+								3rd.[MSK1_KneeAssessExacerb]
+									Where is the pain more acute, morning or night? (Cóm m'ajuda esta pregunta? ¿?)
+										First in the morinig, I run everyday and I work in a desktop, then the pain comes
+								4rt.[MSK1_KneeAssessOnset]
+									No questions asked
+								5th.Other questions
+									Any injury before that? (Cóm m'ajuda esta pregunta? ¿?)
+										I had "Runners Knee" before but this is different
+								--------------------------------------------------------
+								CONCLUSION
+									Since deep and clicks, the common denominator is:
+										Medial Meniscus
+									Degenerative (Γdegut al sobreús)
+					Case: 11 y.o soccer player that has pain when playing, it is so bad that I cannot play
+						No need for Plantilla here, it is pretty straight
+							CONCLUSION
+								Since 11 y.o & really painfull, the common denominator is:
+									Osgood Schlatter
+		Knee Accessory Motion Testing 3
+			Types of Glide ("06_02 Patella-Femoral Assessment PatellarGlide.mp4" & Folder: "MSK1 Types of Glide")
+				-See a visual depiction of medial, lateral, superior, and inferior patellar glide
+		
+	Flexibility & Muscle Length ("06_03 Flexibility_Assessment_Gastrocnemius_and_Soleus.mp4") [KRP.-1¿?]
+		-As with all joints, flexibility of muscles and other soft tissues crossing the joint of interest should be assessed. Flexibility tests relevant to the knee joint were covered in PT 2229 but you will be expected to perform and interpret these tests in this course as well
+
+	Muscle Performance Testing ("02 Alternate approach to Manual Muscle Test for Knee Extension.mkv", "02 Knee_ManualMuscle Quadriceps.mkv") [KRP.4]
+		Strength testing for the following muscles can be relevant to the knee joint
+
+	(No sabia molt be on ficar estos)
+	Case: 39 y.o. male who injured his R knee while playing soccer one week ago
+		-The injury occurred when another player attempted to tackle the ball but instead slid right into the patient’s shin. This resulted in his knee getting twisted and then impacting with the ground. He cannot recall the exact position his knee was in when this occurred. Immediately, the knee became swollen and painful and it still appears swollen now, both around the entire knee and the patella. Pain is present mostly deep in the knee and along the anterior-medial joint line. It is still quite painful when he attempts to bend or straighten the knee and he is ambulating with crutches. He used crutches to ambulate into your clinic and in the community but is able to hobble around his home without them.
+		---------------------------------------------------------------------------Breaking up
+		¯a.39 y.o.
+		¯b.R knee
+		c.one week ago
+		¯d0.his knee getting twisted and then impacting with the ground
+			ΓThe "impact on the ground" could no be a problem since is not that high
+			¯d1.another player slid right into the patient’s shin
+			Ød2.He cannot recall the exact position his knee was in when this occurred
+		¯e0.knee became swollen and painful and it still appears swollen now
+			¯e1.both around the entire knee and the patella
+		¯f0.Pain (where)
+			¯f1.mostly deep in the knee and
+			¯f2.along the anterior-medial joint line
+		¯g0.quite painful (when)
+			¯g1.bend or straighten the knee
+		h0.He is ambulating with crutches
+			h1.to ambulate into your clinic and
+			h2.in the community
+			h3.able to hobble (cojear) around his home without them
+				ΓNo fracture since he is able of more than 4 steps
+			---------------------------------------------------------------------------
+			-What additional questions would you like to ask this patient and what information do you hope to gain by asking these? (*look at ___; those are questions we need to ask. For the "why" see tags)
+				PATTERN Preguntes Aplicació Práctica (See also: [MSK1_KneePainAreas])
+					1st.[MSK1_KneeAssessLocat]
+						Is it "deep" in the knee?
+							✓Yes ← f1.
+								✓Meniscus Tear? ← d0., d1.
+								✓Cruciate Ligaments ACL & PCL Tear/Rupture? ← d0., d1., g1.
+								✗Osteoarthritis (OA) ← a.
+								------------------------------------------
+								✓Joint Lines ← f2.
+									✓ACL/PCL → ACL ← d1, g1.
+									✓meniscal tears? ← d0., d1.
+									joint injury?
+									✗osteoarthritis
+								------------------------------------------
+								Medial Knee
+									MCL injury ← f2.
+									medial meniscus
+									medial plica syndrome
+									pes anserine bursitis
+							✗No, it is superficial
+								✗Can you point where it hurts?/Do you know where it hurts on the utside?
+									___
+					2nd.[MSK1_KneeAssessNatFreq]
+						Is there locking or popping of the joint?
+							___
+						Does the joint feel as if it wants to give way?
+							___
+					3rd.[MSK1_KneeAssessExacerb]
+						Where is the pain more acute, morning or night?
+							___
+					4rt.[MSK1_KneeAssessOnset]
+						✓Did it came gradually or suddently (due to a trauma)?
+							✓Trauma ← d1.
+					5th.Other questions
+						Any injury before that?
+							___
+					CONCLUSION
+						Since ___, the common denominator is:
+							Cruciate Ligament ACL
+							Meniscus Tear
+						Other supporting details
+							___
+			-What type of screening/red flag screening should you perform?
+				-A fracture screening to see if the Tibial Plateau is damaged
+					-(See [MSK1_FractScreenKnee], [MSK1_PittKneeRules]) → "Able to walk 4 weight-bearing steps in emergency department = No radiography needed"
+				-Possible Neurological Screen (See ✗[MSK1_LQS], [MSK1_LQSKnee]) ← No indications that we need this one but to take in account that we may needed
+				-Screen to rule out possible DVT (See [MSK1_DVTScreenKnee], [MSK1_WellCritPredRule]) ← e0., e1.
+			-What are your top 3 hypotheses regarding structures that may be injured?
+				From research
+					"The Unhappy Triad"
+						Cruciate Ligaments ACL
+						Meniscus Tear
+						MCL
+			-Which of the following T&M do you think would/"would not" be necessary to perform? If yes, why and what variations of this test and measure would you perform?  If no, why not?
+				ROM
+					(Γ)No, since we know is going to be flexion & Extension, and also it is painfull
+						← f0., e0, e1., g0., g1. 
+				Joint Mobility Testing
+					No
+					However, there is one joint mobility test we can do: patellar mobility
+						← g0., g1.
+							It is necessary to have good patellar mobility to straight or bend the knee
+								And he cannot do it because of the swelling
+				Muscle Performance Testing MMT
+					No ← f0., g0.
+					If you decided to do it, what mm. you would do?
+						Not to any mm. that cross the knee joint
+							(See '2-Joint::FastTXT Pro Actions.rtf')
+								Quadriceps Femoris: Rectus Femoris
+							    Sartorius
+							    Gracilis (the only two-joint adductor)
+							    TFL
+							    Hamstrings (HS)
+							    	Semitendinosus & Semimembranosus
+							    	Biceps Femoris (only Long Head)
+							    Plantais
+    							Gastrocnemius
+    					Perhaps to any mm. of the hip that not cross the knee joint
+    						Because they impact the femur that directly impact the Knee
+								Adduction - Hip Adductors
+									Primary Adductors
+										✗Gracilis
+										Adductor Longus
+										Pectineus
+										Adductor brevis
+										Adductor Magnus (adductor/hamstring)
+									Secondary Adductors
+										Lower fibers of Gluteus Maximus
+										Obturator Externus
+										Obturator Internus
+	    						External Rotators
+	    							✗Sartorius
+									Obturator Externus
+									Gluteal Muscle - Maximus / Gluteus Maximus
+									Gluteal Muscle - Medius / Gluteus Medius (posterior fibers)
+									Gluteal Muscle - Minimus / Gluteus Minimus (posterior fibers)
+									Quadratus Femoris
+									-----------------------------------
+									Hip (from extended position)
+											Piriformis
+											Obturator internus
+											Superior Gemellus
+											Inferior Gemellus
+				Flexibility Testing
+					No ← f., e., g.
+						It would not change the treatment anyway
+				Palpation
+					Yes to confirm our hypothesis (find the structues we think are damaged and not damaged)
+				Functional Testing
+					Yes
+						How can we test how well he can weightbearing in this case?
+							Weight shifts as tolerated
+							Toe touches
+						More on the observation side test how well he walks (with and without crutches if possible)
+							Also, educate him on how to use the cutches
+			-Which Special Tests would be of Value for differentiating (rule out or in things) between your top Hypotheses?
+				For that test, what does a positive for that test look like?
+				If positive, what does that mean?
+				What special tests do you definitely NOT need to do?
+				------------------------------------------------------------
+				Cruciate Ligaments ACL
+					Lachman’s Test
+						What is a (+) for this test?
+							(See [MSK1_LachmanQ])
+								Excess movement/laxity of the involved side
+					Anterior Drawer test ¿?
+						What is a (+) for this test?
+							Excess movement/laxity of the involved side
+				Meniscus Tear
+					Appley's Compression Test
+					Appley's Distraction Test
+					McMurray’s test ('McMurray Test _ Meniscus Damage.mp4')
+						What is a (+) for this test?
+							Clicking or popping, or any reproduction of symptoms
+				MCL
+					Valgus Stress Test
+						Depending on the pain I would do it extension and knee flexion or not if he as pain in extension
+						What is a (+) for this test?
+							Mainly Laxity or excess of movement
+							Posibly, reproduction of symptoms
+			-Which Special Tests you would not need to do?
+				Posterior Sag Test
+				Any test for any structure we think is not implicated
+					I.e.: 
+						Any patellofemoral test
+						ITB
+						Etc.
+
+	[MSK1_Imm2B_Knee] [MSK1_Imm2B_PatelAssess]
+		Patellar Assessment - Patellar Orientation, Vertical alignment, Mobility
+			Patellar Orientation
+				Performed with the patient positioned on the treatment table so that only their heels are off the table
+					Medial/Lateral Tilt
+					Rotation
+			Patellar Mobility (heels on table)
+				Self-Patellar Mobilization ¿?
+			Palpate for tenderness of:
+				Medial and lateral retinaculum
+				Medial and lateral patellar facets 
+					While holding glide to expose
+		Patella Alta & Patella Baja ('Patella Alta & Patella Baja.png')
+			-An abnormally high sitting patella (patella alta) or an abnormally low sitting patella (patella baja) may predispose a patient to pathology at the	patella-femoral joint and thus should be assessed
+			-To quickly assess patellar position, compare the length of the patella to the length of the patellar tendon
+				Normal: Patellar tendon and patella should be roughly equal in length
+				Patella Alta: Patellar tendon is longer than the patella
+				Patella Baja: Patellar tendon is shorter than the patella
+			---------------------------------------------------------------------
+			-To do this, place two fingers on the inferior and superior borders of the patella and a third one on the tibial tuberosity, then compare segments
+			-It is possible to measure it too
+		Practice
+			Patellar orientation in resting position (slight flexion) 
+				Rotation (Left/Right)
+					-*If we draw an imaginary line between the upper and lower poles of the patella: what orientation the patella has?
+				Medial/Lateral Tilt
+					Is the patella facing more laterally or medially?
+				-----------------------------------------------------
+				-Then, as the patella moves, it will need to correct itself to have good biomechanics. This does not mean something to worry always but it is a starting point
+			Patellar Mobility / PT displaces the patella
+				This is 1st.assessing patellar mobility to do later 2nd.patellar mobilization treatments
+					-I.e.: After surgery, we do this bilaterally to check diferences side to side and know if this is someting to work on the pt.
+				Compare bilaterally
+				----------------------------------------
+				Up & down
+				Side to side
+				Rotation
+			Patella Alta/Baja
+			Palpate peri/sub patellar structures for tenderness
+				Peri patellar tenderness
+					Palpare medial and lateral retinaculum for this
+				Sub patellar tenderness
+					Move the patella at one side and the other hold it and palpate (press) to feel the tenderness on both sides
+
+6.6.2. Special Tests for the Knee [KRP.5¿?] [MSK1_Imm2B_Knee] Step.9_SP.Knee
+	-While special tests should not be the primary focus of a musculoskeletal exam, some are valuable for ruling in/out anatomical structures that may be the source of a patient’s pain. Others are beneficial for assessing or quantifying swelling
+	-This section of the module will focus on:
+		Assessment/quantification of knee swelling 
+		Special tests for the knee used to rule in/out specific pathologies 
+		Palpation
+	------------------------------------------------------------------------------------
+	Not really Special Test (do them bilaterally to check if it is swell or not; if obvious, not need)
+		-If the knee is visible sweelling, you do not need to perform these tests, only if we are not sure if any liquid is there which we should get rid of it before doing any treatment
+	------------------------------------------------------------------------------------
+	Assessment/Quantification of Knee Swelling [MSK1_Imm2B_Knee] [MSK1_Imm2B_Knee_Swell]
+		Joint Edema/Joint Effusion
+			-The manner in which swelling presents in a knee may provide information about the underlying problem(s)
+			-Joint Edema is a general term for swelling
+			-Edema may occur both inside and outside of the confines of a joint
+				All effusions are edemas, but not all edemas are effusions (investigar més Edemes ¿?)
+					Γ All effusions provoke swelling but not all the swellings are due to effusions
+					A "joint effusion" is fluid contained WITHIN a body cavity
+						Effusion commonly can accumulate inside synovial joint capsules
+						The knee joint is the largest synovial cavity in the body
+			-Fluid accumulation of this nature will present in global fashion all around the joint as shown here:
+				("Fluid accumulation.png")
+				The implications of the location of the swelling/fluid include:
+					An intra-articular injury may cause intra-articular swelling
+					However, an extra-articular injury likely won’t cause intra-articular swelling 
+				-These special tests help gather additional information about the presence of fluid inside or surrounding the knee joint
+		Stroke Test – AKA The Brush and Sweep Test (to Assess Joint Effusion) ("Brush & Sweep Test assessment.png")
+			[MSK1_BrushTest]
+			-The Brush & Sweep Test assesses for effusion that exists outside the knee capsule that is mostly situated in peri-patellar spaces. As this test is used to detect the presence of “minimal effusion” performed when the presence of effusion is suspected but not immediately obvious
+			-To perform the Brush & Sweep Test, the therapist Attempts to sweep the effusion out of the medial sulcus of the knee and grades the amount that returns during a downward lateral stroke
+			-Specifically, the therapist should
+				1.Perform three upward strokes on the medial side of the knee
+				2.Followed by one swift downward stroke on the lateral side
+			Table 1: Effusion Grading Scale of the knee joint based on the Stroke Test ("Effusion Grading Scale.png")
+				Grade + Test Result (!!E.Grade & Doc)
+					Zero  - No wave produced on downstroke
+					Trace - Small wave on medical side with downstroke
+					1+    - Larger bulge on medial side with downstroke
+					2+    - Effusion spontaneously returns to medial side after upstroke (no downstroke necessary)
+					3+    - So much fluid that it is not possible to move the effusion out of the medical aspect of the knee
+			The following video demonstrates performance of the Brush and Sweep Test.
+				(See: "06_04 Brush and Sweep Test.mp4")
+			This video shows what is observed in a positive BRUSH AND SWEEP Test.
+				("06_05 Brush and Sweep Test Positive Result.mp4") (Tornar a gravar el video ¿?)
+			------------------------------------------------------------------------------------
+			-This test is performed with the patient in a supine position with the knee in full extension
+			-First "brush" superiorly 3 times on the medial side of the knee joint (beginning just below the joint line and ending as far as the suprapatellar pouch) in attempt to push fluid laterally
+			-Next "sweep" inferiorly the lateral side of the knee capsule
+			-The test is positive if there is a bulging or movement of the fluid.
+			-This test is used to detect subtle or minimal effusion (as little as 4-8 mm) around the knee joint.
+		Circumferential/Girth Measurements [MSK1_GirthMeasur]
+			-When edema or effusion is observable with the naked eye, it is not typically necessary to perform tests for minimal effusion like the Brush and Sweep
+			-Girth measurements can be used to quantify the amount of edema present as well as to assess the amount of muscle atrophy in the thigh or calf
+			-----------------------------------------------------
+			-Watch the following video to learn how to perform girth measurements for the knee
+				("06_06 Girth Measurements of Knee.mp4")
+					For swelling & atrophy
+					Above and below the articulation
+					Compare bilaterally
+			-----------------------------------------------------
+			Girth measures may be used to assess larger amounts of joint effusion (swelling) OR muscle atrophy
+			Using a CONSISTENT approach is the most important thing to remember when taking lower extremity girth measurements
+			First choose an initial point of reference using the knee joint line (intra-rater ICC=0.82-1.0; inter-rater ICC=0.72-0.97)
+				Using patella less reliable
+			Measure circumference in cm on BOTH sides
+				At joint line
+				15 cm below joint line
+				5, 10, & 15 cm above joint line
+				OR
+				based on individual patient build/findings
+			Take average of 2-3 measures
+			Repeat using IDENTICAL process when measuring progress
+			------------------------------------------------------- [MSK1_Imm2B_Knee]
+			-For the swelling of the knee, use the joint line to take the measurement
+				Do not use the patella since it moves with the sweeling
+			-For the atrophy, take the measurement where you see the athroly. Do not use reference measurements since everybodu has differences on structures
+		Ballotable Patella Test or Tap Test [MSK1_BallotableTest]
+			Γ('Ballottement Test for Effusion in the Knee.mp4', 'Patellar Tap Test _ Ballottement Test⎟Knee Swelling.mp4') 
+			-This test is performed with the patient in a supine position with the knee in full extension
+			-The therapist uses a massaging, milking motion over the anterior thigh from proximal to distal starting approximately 4 to 5 inches above the patella and pushes any fluid toward the knee
+			-At the conclusion of 4-5 strokes, maintain firm pressure just proximal to the superior pole of the patella
+			-After performing the milking action, the therapist gently pushes down on the patella and releases it
+			-The test is positive if the patella rebounds as if it is floating or if a lack of a hard end-feel is noted
+			-This test is used to detect gross effusion around the knee joint
+			-----------------------------------------------------------------------
+			Milk or sweep down from the quads down to the patella to gather any fluid that can be spread out on the area
+				Then, push down on the patella to see the feeling
+					If healthy, the end feel is going to be springy
+					If liquid is present, the end feel is like bloby¿?; not getting the end range
+
+	Other Common Tests (But Not Strongly Recommended)
+		Clarke’s Test/Sign Γ('Clarke's Sign.mp4')
+			-With the patient in long-sitting, the patella is compressed against the femur. An isometric contraction may be added during compression
+			-Poor diagnostic values in assessing chondromalacia patella
+			-Sensitivity (0.39), specificity (0.67), positive LR (1.18), negative (LR 0.91)
+		Q-Angle Measurement ('Q-Angle Measurement.png')
+			-The Q-angle is a static measurement of the angle formed by the patellar tendon and rectus femoris muscle.
+			-For this measurement, the patient stands in their angle and base of gait.
+			-The therapist places the axis of the goniometer over the midpoint of the patella with the proximal arm positioned over the thigh aligned to the ASIS and the distal arm aligned to the mid-point of the tibial tubercle.
+				The angle ranges from 100-150 in men and 100-20° in women.
+				Higher angle measurements have been associated with shin pain.
+			-Q-Angle not related to patellar position in PFPS patients
+			-Poor levels of intra-rater & inter-rater reliability
+
+	Special Tests for the Knee Used to Rule In/Out Specific Pathologies [MSK1_SpecTestKnee] [MSK1_Imm2B_Knee]
+		-Other Special Tests may be performed to identify or rule out the presence of specific pathologies. Tests that you will be expected to perform and the conditions for which they test are listed below along with videos illustrating their performance
+		---------------------------------------------------------------
+		Collateral Ligaments - LCL & MCL ("06_07 Varus and Valgus Stress Tests.mp4")
+			Valgus stress test - medial collateral ligament
+			Varus stress test - lateral collateral ligament
+				-----------------
+	        	Put the hand on the joint line to fell the gaping (is it a lot or normal?)
+	        		Go to the other side to compare
+	        		But, if the pain is reproduced before feeling the gap, no sense to go to the other side
+	        		-------------
+		        	CONCLUSION:
+		        		For pain, do not assess bilaterally
+		        		For laxity, assess bilaterally
+		        Look the face of the pt.
+		        Wach out your position when going inside the legs of the pt. for respect
+	        	-----------------
+	        	1st.In full knee extension
+	        		-The stretch is not that big but more structures are implicated (due to the knee being locked). If you find something here, there is not need to go to the 2nd.
+	        	2nd.Slight Knee flexion of about 10°-15°
+	        		Will stretch purely the ligament 
+		Cruciate Ligaments - ACL & PCL (See folder: "Cruciate Ligaments Tests")
+			*The tests for ACL & PCL are more specific (to rule in) than sensitive (to rule out)
+			-------------------------------------------------------
+			Anterior Instability / ACL Rupture
+				Lachman’s test performed in supine - ACL integrity
+					('06_08 Lachman’s test performed in supine - ACL integrity.mp4')
+					Sensitivity = 0.78, Specificity=0.90
+				Lachman’s test performed in prone – ACL integrity ('06_09 Lachman’s test performed in prone – ACL integrity.mp4')
+					1.Place the patient in prone
+					2.Place a small towel roll under the distal end of the thigh to further increase the firmness of the plinth surface 
+					3.Place one hand on the anterior proximal tibia, with the index and long finger positioned on each side of the patellar tendon, resting on the anterior joint line 
+					4.The examiner’s thigh is then placed under the patient’s shin to support the knee in 10° to 30° of flexion
+					5.Place the heel of the other hand over the postero-central aspect of the proximal tibia
+					6.Use the posteriorly placed hand to direct an anterior force on the posterior tibia
+					7.Use the fingers of the anteriorly placed hand to palpate the amount of anterior tibial translation relative to the femur
+					----------------------------------------------
+					Sensitivity=0.70, Specificity=0.97
+					---------------------------------------------- Generalities from immersion; could be repeated
+					Flex knee 20° to 30°; use your knee to achieve this in supine and prone
+			        	Conclude anything from pain here, only laxity is pursued here !!
+			        	Take some of the slack off first !!
+			        	Compare side to side
+			        	-------------------------------------------------------
+			            Supine
+			            Prone
+			            	One hand undernith to feel how far the tibial plateaus go in relation to the femoral condyles
+			            	Palpate the tibial plateaus and push the tibia anteriorly
+				Anterior drawer test ('06_12 Anterior drawer test.mp4')
+					Flex knee 90°
+			        	-Palpate the tibial plateaus to feel the difference from the femoral condyles when pulling / Use femoral condyles as reference point for tibial plateau movement
+			        		Also, feel for excursion and end feel
+			        	-Start on the uninvolved side, and then the involved one
+			        Read about the false negative on the Posterior drawer test below
+		        	-------------------------------------------------------
+		            Straight Plane
+		            w/ER & IR Γ to assess anterior-medial and anterior-lateral instability
+				Anterior-Lateral Instability but used for Anterior Instability
+					Valgus & IR at the same time for both
+						*Stabilize in this position on do not let the femur go all over the place
+						The differences (see mnemonics)
+							From extension to flexion ← Pivot shift test ('06_14 Pivot shift test.mp4')
+							From flexion to extension ← Jerk ('06_15 Jerk test.mp4')
+								Γ Both assess the same but in different way
+					We want to feel the clunck on the knee; or the pt. will feel it
+						-This is b/c we rotate the tibia more than it should (due to lack of ACL) and as we come to extension, the posterior capsule becomes tight, teh HS too; the Screw Mechanism. So, we will have a subluxed tibia that will put back in the place when these other tight structures pull for the knee to be back in place
+						-It is not painful, only a weard feeling
+						-You will only get one chance to get this test
+					-------------------------------------
+					Pivot shift test (¦Pi"V"ot) ¦V=Valgus
+						Hip 30° flex & ABD; Knee 5° from full ext
+						Flex (V) and apply valgus & IR stress
+							*Some sources describe ER & valgus
+					Jerk test (¦J"E"rk) ¦the Varus Push to get rid of the jerk
+						Hip 45° flex; Knee 90° flex
+						Extend and apply valgus & IR stress
+							*Some sources describe ER & valgus
+			Posterior Instability / PCL Rupture
+				Posterior drawer test – PCL integrity
+					-Center tibia before applying posterior force
+					-Make sure the tibia is not already sitting posterioly because you will feel no movement when doing the test and you will get a false negative. So push the tibia anteriorly first and then place the tibia in between and push to see the giving. Same for Anterior Drawer Test
+				Posterior sag test – PCL integrity ('posterior sag test sign.png')
+					Rise both legs (use a ball or dimilar to hold the legs)
+					Observe for the tibial drop (or an angle) when PCL is ruptures in comparison with the other leg
+				External rotation recurvatum test
+					('External Rotation Recurvatum Test.png') ('06_13 Ext rotation recurvatum test.mp4')
+					-The PCL is goint to prevent the hyperextension. If there is a posterior instability we will also see ER of the tibia (role out)
+		Meniscal special tests (for Meniscal Tear) (See folder: "Meniscal special tests")
+			McMurray’s test [MSK1_Live08Knee], [MSK1_SpecTestMcMurr] 
+				('McMurray’s test.png')
+				ER + Valgus ¦Tot cap endins Bill Murray (Pivot & Jerk is Valgus & IR ¦ forçes contraries)
+				Why do we do it? Why these differences?
+					PENDENT ¿?
+						It does not really matter which one is performed as long as we reproduce the symptoms
+				How do we do it? (See "06_16 McMurray’s test.mp4")
+				Avoid a lot of femoral movement, isolate the movement
+				Test unilaterally most of the time
+					If pt. is not sure of the feeling, the go to the other side to check
+					Variation 1. Medial Meniscus (from full flexion, as much as the pt. can tolerate, to extension)
+						1.Hip flexion
+						2.Knee flexion
+						3.ER at tibia, Γhand on mortis
+						4.Other hand palpate knee joint line
+						5.Induce a Valgus Stress
+							ER + Valgus Stress together
+						6.From full flexion
+							Extend knee with ER & Valgus
+							------------------------------
+							extend the knee back and forth
+							Look for
+								reproductions of symptoms
+								Pooping, cracking, etc.
+					Variation 2. Lateral Meniscus (from full flexion, as much as the pt. can tolerate, to extension ¿?)
+						Difference
+							3.IR
+							5.Varus Stress
+							6.From full flexion
+								Extend knee with IR & Varus
+					If you do not find the symptoms, try other variations:
+						Are there multiple ways to do it?
+							McMurray 1928
+								IR Knee
+								ER knee
+								(Note no extension)
+							→ McMurray 1934, Gillis 1969, Hoppenfeld 1976, Salter 1983
+								*The most extended version and the one described above
+								From full flexion
+									Extend knee with ER & Valgus
+									Extend knee with IR & Varus
+							McMurray 1942 & 1948
+								Extend knee with ER
+								Extend knee with IR
+							Insall 1984
+								Perform valgus and ER / varus and IR at various aglens between full and 90 degrees knee flexion
+							Karachalios 2005
+								-Compress knee while extending, and applying varus/valgus and IR/ER (But implies that varus / valgus creates compression?)
+							Sae-Jung 2007
+								Compress tibia into femur while rotating ER/IR
+								Repeat at various angles of flexion (120°, 90°, 60°, 30°, & 0°)
+				Variation #1
+					Tibial ER with valgus force (applied to R knee to stress "medial" meniscus)
+				Variation #2
+					Tibial IR with varus force (applied to L knee to stress "lateral" meniscus)
+			Thessaly's test ("Thessaly's Test.png", "Thesally Test.png")
+				Teach the pt. the movement on the uninvolved side first (x3 times)
+				The hip is what is turning
+				We are not assessing balance, support them
+				If we get popping, clicking or pain, we are done
+				--------------------------------------------------------
+				Rotation with the knee slightly flexed 5°
+					Less aggressive version
+				Rotation with the knee flexed to 20° (more agressive just in case in 5° we did not reproduced the symptoms)
+					Some sources suggest only performing in 20° due to greater accuracy
+			Ege's test ('Ege's test.png')
+			Apley’s compression test
+				You can grab the tibia and rotate, or the foot
+				You can also stabilize putting the knee on pt. HS ¿?
+					If this hurts you can go to Apley’s distraction and then if this does not hurts, you have more evidence ¿? 
+			Apley’s distraction test
+				Test for end feel and total amount
+				Do it bilaterally
+				Not very reliable; just be familiar with this test
+			Bounce home test
+				You should feel a rebounce (in a healthy knee)
+			 		If you do not, and it is more like a hard end feel, go to the other side to check
+			 	You should also look for reproduction of symptoms
+			-*PLEASE NOTE: If the patient has pain with the knee in slight flexion, the PT may terminate testing. But if the patient does not have pain in this position, the PT should repeat the test with the knee in 20° of flexion
+			---------------------------------------------------------------------------
+			Test cluster for meniscal tear
+				Hx of catching or locking
+				Pain with forced hyperextension
+				Pain with maximum passive knee flexion
+				Joint line tenderness
+				(+) McMurray’s
+				5 positives 99% specific
+				3 positives 90.2% specific
+		PFPS
+			Step Down / Stepdown Test (See [MSK1_StepDownTest])
+				Special Test for Patellofemoral pain besides being a General Functional Test
+			Eccentric Step Test ('Eccentric Step Test.png')
+				``(Γ)What is the difference between Stepdown Test and Eccentric Step Test?
+		Proximal Tib-Fib Provocation
+			Proximal Fibular Translation ('Proximal Fibular Translation.png')
+				('proximal_tibia_fibula_translation.mp4')
+				For pt. with a direct blow in that area or due to a torsional force (ligamentous syndesmotic structures damaged)
+				We want to glide the fibula on the tibia in the saggital plane
+					Look for provokations of symptoms and this means instability of this join 
+			You can also do this test with the pt. on supine and knee flexed on the table 90° 
+		Special Test for ITB Syndrome (Distal)
+			Noble compression test ("06_22 Noble compression test .mp4")
+				(See [MSK1_KneeITBFind]::[MSK1_SP_NobleCompreTest])
+		
+	6.6.3. Knee Palpation [MSK1_KneePalp] [MSK1_Imm2B_Knee] Step.8_Palp.Knee
+		-What is of relevance to be palpating during a knee exam? -Review the location and palpation of the following knee structures from Anatomy
+			(See 'Anki::ANATOMY::Ana Suplement::Lab Real Practice::Surface Ana::Surface Anatomy Videos')
+			(See Folder: '03 Ch03 Knee\Lesson 06\02 Anatomy Lab Real Practice Videos\Surface Anatomy\Part 01')
+			(See Folder: '02 Ch02 Pelvis & Hip\01 Anatomy Lab Real Practice Videos\Surface Anatomy\Part 01')
+			(See Folder: '02 Ch02 Pelvis & Hip\01 Anatomy Lab Real Practice Videos\Surface Anatomy\Part 02')
+			(See 'Knee MSK1 01.png', 'Knee MSK1 02.png')
+			Medial Structures
+				Γ Repasar OINA
+				Joint line/meniscus ('2022-09-12 19-21-18 knee joint line.mkv')
+					Medial Joint Line
+				Femoral condyle ('2022-09-12 19-24-15 femoral condyles.mkv')
+					Medial Femoral Condyle
+				Medial Collateral Ligament (MCL) ('2022-09-12 19-19-36 mcl.mkv')
+				Hamstring tendons
+					('2022-09-06 20-57-48 biceps femoris.mkv')
+					('2022-09-06 21-01-44 semitendinosus.mkv')
+					('2022-09-06 21-02-40 semimembranosus.mkv')
+					(Γ)Biceps femoris 
+						.Proximal Attachment
+							Long Head: ischial tuberosity Femoral
+							Short Head: linea aspera and lateral supracondylar line of femur
+						.Distal Attachment
+							Fibular head (tendon is split at this site by lateral collateral ligament of knee)
+						.Peripheral Innervation
+							Long Head: tibial
+							Short Head: common fibular/peroneal
+						.Segmental Innervation (Innervation Mandatory Memorization) L5, S1, S2
+						.Action: Hip extension, knee flexion, also knee ER (when knee is flexed) 
+					(Γ)Semitendinosus
+						Semitendinosus
+						.Proximal Attachment:
+							-Ischial tuberosity Tendinosus = fora com l'astenedor Membranosus = dins com les membranes del peix Lateral = biceps
+						.Distal Attachment: Pes anserine (superior part of medial surface of tibia)
+						.Peripheral Innervation: Tibial division of Sciatic
+						.Segmental Innervation: (Innervation Mandatory Memorization) L5, S1, S2
+						.Action: Hip extension, knee flexion, also knee IR (when knee is flexed).
+					(Γ)Semimembranosus
+						.Proximal Attachment: Ischial tuberosity
+						.Distal Attachment:
+							-Posterior part of medial condyle of tibia; (reflected attachment forms oblique popliteal ligament (to lateral femoral condyle))
+						.Peripheral Innervation: tibial division of sciatic
+						.Segmental Innervation: (Innervation Mandatory Memorization) L5, S1, S2
+						.Action: Hip extension, knee flexion, also knee IR (when knee is flexed)
+				Pes anserine bursa ('2022-09-12 19-15-18 pes anserine.mkv')
+				Tibial Plateau
+					Medial Tibial Plateau
+				Plica
+					Medial Plica (lat ot med? ¿?)
+						-An extension (thickening) of the synovial capsule. 
+						-We palpate it on the lateral side (lat ot med? ¿?), displacing medially the patella and pressing on the the lateral side of the patella in; that groove
+						-Could be a very tender structure
+			Lateral Structures
+				Joint line/meniscus (see above)
+					Lateral Joint Line ← Lateral Meniscus
+					Medial Joint Line ← Medial Meniscus
+						-If you rotate the tibia internally and you have your finger in the joint line, you can palpate it for a meniscal tear (is it this for medial or lateral joint line? ¿?)
+				Femoral condyle ('see above')
+					Lateral Femoral Condyle
+				Lateral Collateral Ligament (LCL) ('2022-09-12 19-20-33 lcl.mkv')
+				Fibular head/Head of the Fibula ('2022-09-12 19-22-07 fibular head.mkv') 
+				ITB ('2022-09-06 21-07-14 iliotibial band itb.mkv')
+					(Γ)Tensor Fasciae Latae (tensor, superficial de la fascia, lateral)
+					.Proximal Attachment: Anterior superior iliac spine (ASIS [Axis]); iliac crest
+					.Distal Attachment: iliotibial tract, which attaches to Gerdy's tubercle
+					.Peripheral Innervation: superior gluteal
+					.Segmental Innervation: L4, L5, S1
+					.Action: Hip abduction and IR (internal rotation); assist gluteus medius in maintaining level pelvis	
+				Peroneal nerve ('2022-09-12 19-24-52 common peroneal.mkv')
+				Tibial Plateau
+					Lateral Tibial Plateau
+			Anterior Structures
+				Patella ('2022-09-12 19-18-43 patella.mkv')
+					Anterior 
+					Borders
+						Medial and lateral borders of the patella
+					Inferior Pole of the patella
+					Undersurface
+				Trochlear groove ('Knee Trochlear groove.png')
+					Lateral border of the trochlear (patellar) groove on the femur
+				Pre-Patellar bursa ('Knee Bursas.png')
+				Quadriceps tendon ('2022-09-06 21-05-34 quadriceps.mkv')
+				Patellar tendon ('2022-09-12 19-18-11 patellar ligament.mkv')
+				Tibial tubercle ('2022-09-12 19-14-35 tibial tuberosity.mkv')
+				Plica (Folder: 'MSK Knee Plica')
+			Posterior Structures
+				Heads of gastrocnemius ('2022-09-13 21-08-38 gastrocnemius.mkv')
+					(Γ)Gastrocnemius
+						.Proximal Attachment
+							Lateral Head: lateral aspect of lateral condyle of femur 
+							Medial head: popliteal surface ↓ of femur superior to medial condyle 
+						.Distal Attachment
+							Calcaneus via calcaneal (Achilles) tendon
+						.Peripheral Innervation Tibial nerve
+						.Segmental Innervation (Innervation Mandatory Memorization) S1, S2
+						.Action Ankle PF (especially when knee is extended), knee flexion
+				Posterior joint capsule (Folder: 'HS Providing Anterior Stability with ACL on Knee')
+				Hamstring tendons (see above)
+		("06_23 _Knee_Palpation.mp4")
+
+Manual Therapy for the Knee	[MSK1_Imm2B_Knee_ManuTherp] Step.MaTh.Knee
+	For "major limitation of flex/ext"
+		Most of the time we will use techniques as "≡chair slides", "≡Prone Hangs", etc.
+		But we can also add manual pressure with that
+		In supine: (no recorde quin era l'exercici ¿?)
+			For flexion, help them get there and apply presure, also IR
+			For extension, help them get there and apply presure, also ER
+		---------------------------------------------- Estos no se si van ací
+		Technique 1.Patient in supine, knee flexed 90°, sit down on pt. foot to stabilize
+			With one hand grab the tibia and stabilize around tibial plateaus, and push in that plane (like posterior glide)
+			With the other hand, with your palm, push the patella down (massage style)
+		Technique 2.Same setting as before. Grab tibial plateaus with both hands and roll the tibia in and out  
+	To recover "end range limitation of ext" (hypoextension) (normaly after knee surgery to recover the last 5° to 10°)
+		For these therapies
+			think on the lock mechanism and its directions
+			instead of using a strap we can lock the extremity with our hand
+		Patient in supine
+		-----------------------------------------------------------------
+		Tibia ER spin on Femur
+			Strap the femur around the table (tight), above the patella
+			Stabilize the femur and roll the tibia repeatedly
+		Femur IR spin on Tibia
+			Strap the tibia around the table (tight), below the patella
+			Stabilize the patella and roll the femur repeatedly
+		Distraction
+			-This technique is used for OA patients between and others
+			-With the patient siting on the table and the leg hanging out, use the strap to make Xs around the tibia. Leave a fold for your foot and puch down/pedal
+			-Also, push the tibia posteriorly at tibial plateaus with one hand, and push the patella down (vertical glides) as a massage kind of way with the other hand
+			-We do this to distract the tibiofemoral joint for the pt. to tolerate flexion better
+			-An alternative to this exercise is to do Apple's distraction and move the leg into flexion and extension 
+	Cross Friction Massage for patellar tendinosis on the patellar thendon (many ways to do it)
+		To decrease sensitivity of the patellar tendon
+			This is not only exclusive of this tendon but any tendon
+		We normally use lotion for this, so the fingers slide better on the skin
+		Go deep into the tendon, press
+			You can help yoursel putting one finger above the other
+		More useful for chronic issues like tendinopathy, etc.
+		----------------------------------------------
+		Way 1.Slide the thumbs in different directions in an
+			Use as much surface of your thumb aas you can
+			up and down direction
+			Left to right direction
+			In cercles in both directions
+		Way 2.Do patellar moves instead of the massage to avoid soft tissue restrictions (after surgery)
+			Grab it at edges and glide it
+		Γ Way 3.Maybe combine both methods with post op pts.
+
+Knee Joint Pathologies Step.Pathos.Knee
+	Injuries of the Cruciate Ligaments
+		Rupture of the "Anterior/Posterior" Cruciate Ligaments//"ACL/PCL Rupture" (Exam Findings) 
+			The following video will describe common exam findings and management following ACL and/or PCL rupture
+			("07_01 ACL_PCL Ruptures.mp4")
+				------------------------------------------------
+ 				Most common in ages 14-29 (!!yo)
+ 					This is likely because this group is more commonly engaging in at risk activities at a higher rate
+				Commonly may accompany injury of MCL and medial meniscus
+				------------------------------------------------
+				Intrinsic risk factors / Internal risk factors
+					Those that are associated with the patient's anatomy
+					----------------------------------------------------
+					Narrow inter-condylar notch
+					Larger Q-angle ("Q-angle.png")
+					General joint laxity
+					LE malalignment
+					Gender
+						2-8x higher in females (x = 2-8 times higher)
+				Extrinsic risk factors/External risk factors
+						Considered "External Circumstances" because they can be controlled or changed
+							1.HS/Quad imbalances
+							2.Altered NM control
+						Considered "Environmental"
+							3.Shoe-to-Surface interface (footwear traction)
+							4.Playing surface
+				------------------------------------------------
+				SUBJECTIVE FINDINGS
+					Common subjective findings after these types of injuries include
+						-It's very seldom that we would not have a traumatic type of injury with this. Ligaments tend to not just rupture on their own. Patient commonly reports pop and severe pain, they get immediate swelling and usually some immediate instability, feeling that the knee is going to give way when they put weight on it.
+						----------------------------------------
+						Traumatic mechanism
+						"Pop" and severe pain during injury
+						Immediate swelling
+						Immediate instability
+				OBJECTIVE FINDINGS
+					-are commonly the precedence of significant edema and impairments that occur secondary to pain, inflammation, and disuse like weakness and decreased motion
+					-------------------------------------------
+					Significant edema
+					Impairments secondary to pain, inflammation, and disuse
+						Weakness, decreased motion, etc.
+					Positive stability tests (ACL)
+						Anterior Drawer
+						Lachman's
+						Jerk
+						Pivot Shift
+				------------------------------------------------
+				Signs and Symptoms more specific to PCL Injury
+					PCL ruptures can often present differently than ACL ruptures
+					-------------------------------------------
+					Posterior knee pain
+					Not as much effusion as ACL
+					Flexion beyond 90° in open chain may increase pain
+					Difficulty descending stairs, squatting, running
+					Less quadriceps inhibition vs. ACL rupture
+					-----------------------------------------
+					Special Tests (PCL rupture):
+						(+) Sag Sign
+						(+) Posterior Drawer
+				------------------------------------------------
+				Common Mechanisms of Injury ACL vs. PCL Rupture
+					the mechanism of injury between the two ligaments is often different
+					--------------------------------------------
+					ACL 
+						With Contact
+							May result from impact or contact with another athlete or person
+						Common Non-contact
+							These also occur under the ideal or perhaps least ideal circumstances
+							----------------------------------------
+							Cutting combined with deceleration
+							Landing from a jump in or near full extension
+							Pivoting with knee near full extension
+							Deceleration with knee internal rotation
+							"Dynamic Valgus" ("Dynamic Valgus.png") - Hewett, et al. AJSM, 2005
+								-refers to the orientation of the hip and knee during cutting or impact that results in inward movement in the knee joint
+								-------------------------------------
+								Femoral adduction
+									adduction of the femur across mid-line
+								"Knee" abduction
+									refers to outward movement of the tibia relative to the femur
+								Ankle eversion
+									-This position places the ACL in a precarious position that makes it more easy to injure.
+					PCL
+						-PCL ruptures on the other hand are more likely to occur in positions of hyper knee flexion and perhaps also with the foot in a plantar flexed position.
+						--------------------------------------------------------
+						Hyper-flexion (like ACL)
+						Fall on a flexed knee with foot in plantar-flexion
+						Mechanisms that result in knee hyperextension
+							i.e.; Step in a hole
+						Posteriorly directed force on the anterior tibia
+							Dashboard injury
+								-So the dashboard injury is one such example that can occur if a person is thrown forward in a moving car and the tibia rams into the dashboard, forcing it posteriorly.
+							Ski boot becomes fixed while body continues forward
+								-Think about a really high velocity posterior draw test. The ski boot injury is another possibility where the boot becomes fixed, say if the ski become stuck in the snow, well, the femur and upper body continue in a forward direction, again creating a relative posterior force on the tibia. 
+				Grafts used for ACL Reconstruction (surgery)
+					AUTOGRAFTS
+						is when a section of the patient's own tissue is used to replace the ACL
+						Commonly used grafts for this purpose include section of the patients:
+							Patellar tendon
+							Hamstring
+							Quadriceps tendon
+					ALLOGRAFTS 
+						-Autografts are advantageous because they reduce the risk of the body rejecting internalization of the tissue and it recognizes it as its own so we don't get an infection. New surgical techniques have reduced this effect or the risk for infection or rejection for a patient who's predisposed to it. Due to other co-morbidities, however, this is still likely a good option. The use of autograft tissue, however, involves healing that must occur within the area from which the graft is taken. So for example, if a piece of a patellar tendon is taken away and used to replace the ACL, not only do we have to have healing inside the joint where the ACL is now grafted, but also the patellar tendon itself has to heal. For this reason, it's much more common that allografts or the use of an ACL harvested from a cadaver are implemented. Again, this is more common lately due to enhanced methods of graft fixation and decreased tissue rejection. It removes the need for the body to heal where a hamstring or patellar tendon has been removed as occurs in an autograft.
+					XENOGRAFTS
+						-It is when a ligament or other tissue from an animal such as a pig is used to replace the ACL. These are not common but if we have a patient which for some reason an allograft or an autograft is not an option, that might be something they would consider
+				Prior knowledge check
+					In general, post-cruciate ligament injury should be more focused on:
+						-in general, post-cruciate ligament injury, do you think there should be more focus on open chain training or closed chain training?
+						----------------------------------------------------------------
+						✗A. Open Kinetic Chain Training
+						✓B. Closed Kinetic Chain Training
+							-closed kinetic training is thought to be more effective and appropriate after an ACL or PCL rupture regardless of whether or not the patient has surgery.
+								-First of all, of course, closed chain exercise is more functional for the lower extremities.
+								-But it's generally thought of as safer for early rehabilitation because it reduces anterior shear force, because it increases compression at the joints. So we don't get as much sliding back and forth, which can eat up cartilage or pull on the graft.
+								-And it also increases co-contraction of the hamstrings with the quadriceps. These always have a strong influence on proprioception.
+									And it also doesn't isolate the quadriceps which can be bad for the healing graft.
+				Closed Kinetic Chain (CKC) Strengthening in Cruciate Rupture Rehab
+					"More functional" for the Γ Lower Extremity Strength (LES)
+					Generally thought as safer for early rehabilitation
+						1.Reduces anterior shear force
+						2.Increases tibiofemoral compression
+						3.Increases co-contraction of the hamstrings
+					Strong influence on proprioception
+					Example: ≡ squats, lunges, step-ups, step-downs, deadlifts, wall sits
+					Doesn't isolate the quadriceps
+				ACL/PCL Rupture General Interventions
+					-General intervention types may differ based on whether or not the patient has reconstructive surgery, and not all patients need to have surgery to be sufficiently functional. But if the patient is willing to accept a lower level of function, he or she may be able to perform the needed activities without reconstructive surgery.
+					--------------------------------------------------------------------
+					ACL/PCL Deficient
+						-if the patient opts not to have surgery, the primary goals are to
+							strengthen and stabilize the surrounding and supporting musculature,
+								especially,
+									quads,
+									hamstrings,
+									glutes, and
+									calf muscles.
+							Also, we would want to maximize
+								proprioception neuromuscular control
+									-to help make up for the absence of static stability that was previously provided by the ligament.
+						----------------------------------------------------------------
+						1.Strengthen/Stabilize
+							Quads
+							Gluts
+							Calf muscles
+						2.Proprioception and NM control
+					s/p ACL/PCL Reconstruction
+						-If the patient does have surgery
+							early rehab is focused on addressing the impairments that results such as
+								pain
+								swelling
+								lack of range of motion
+								weakness
+							Later in the rehab process ...↓ become the focus.
+								advanced strengthening
+								neuromuscular control
+								sports specific activities 
+						-----------------------------------------------------------------
+						Early Goals
+							1.Control pain and swelling
+							2.Regain ROM
+							3.Strengthen LE muscles without inflammation
+						Later rehab
+							1.Advanced Strengthening
+							2.NM Control
+							3.Proprioception
+							4.Sports specific activities
+				Specific Considerations for Early Anterior Cruciate ligament Reconstruction (ACLR) Treatment
+					Regain/Maintain Patella mobility
+					ROM and strengthening exercises that are flexion based
+						PROM/heelslides
+						CKC strengthening
+						OKC isometrics and extensions
+						Bike
+					Stretching and manual mobilization into knee extension
+						≡ Quad sets, SLRs, coffee table stretch, prone hang stretching
+					NMES (neuromuscular stimulation)
+						Also, to regain quad function
+					Interventions to control inflammation
+						-anything that's going to control the inflammation due to the massive trauma induced by surgery is going to be beneficial
+						------------------------------------------------------------
+						Cryotherapy
+						Compression
+						Elevation
+						Etc.
+					----------------------------------------------------------------
+					Outcomes post ACL rupture (ACLR) [MSK1_Live10Knee]
+						Case:
+							-Amos is a 34 year-old male who experienced a rupture of his left ACL while playing club hockey. He comes to you for PT in an attempt to avoid surgery
+								-1.After a few weeks, his rehabilitation is going well but he begins to ask your perspective about whether or not he should have surgery and if he does not, will he still be able to play hockey?
+								-2.He also wants to know if there are possible long-term negative implications associated with not having surgery
+									-----------------------------------------------------------
+									Pursuing surgery vs. conservative treatment
+										-*PTs do not make a call if having a surery of not but pts. ask these question and we have to be able to give some logical and evidence based answers
+										-------------------------------------------------------
+										-What Tests and Measures might help answer this question?
+											-Look at the ROM. First, we want to regain full ROM
+											-Look at the strenght of 1st Quads (very important to stand up, etc.), 2nd HS (attach to the tibia posteriorly and along ACL, when knee bent, provide anterior stability) (See Folder: 'HS Providing Anterior Stability with ACL on Knee')
+											-Look at functional movements:
+												*pt. is young and he eventually should be able to do these things well
+												--------------------------
+												-Early on, the pt. will have "antalgic gate" b/c of the pain and/or lack of ROM, so we want to look at gate
+												-Squats
+												-Step ups & downs
+												-Etc.
+											-Look at the ACL stability (is it too elastic? compare bilaterally) with the proper tests
+												Lachman’s Test performed in prone
+												Lachman’s Test performed in supine
+												Anterior Drawer Test
+												Pivot Shift Test
+											-Knee and Lower Extremity Outcome Source
+												An assessment tool (questionaire) to assess outcomes for knees
+													taken every 5 visits
+														If results are 80% or above, this is a good outcome
+												Self-limitation and fear result on lower scores
+										-What other patient characteristics would be important to consider?
+											*If they are (+) on these they will probably won't need surgery
+											-Compliants and motivation
+											-Compare actual level with prior level of function
+											-Expectations to move forware
+											-Other health issues that could affect tissue healing (i.e.: diabetes, high blood pressure, smooking). This does no mean that it is impossible but they will have a better chance
+											-Level of confidence and fear as commented earlier
+										-What do you think are possible long term negative consequences of having or not having surgery?
+											Negative consequences of having surgery
+												-Bad surgeons
+													Know your surgeons and expand your contacts
+											Negative consequences of not having surgery
+												-Not being able to resturn to their previous level of function that will end in functional activity changes
+												-Ligaments help to maintain the correct joint arthrokinematics (roll & glide), if there is laxity, there is an increase of "joint play", and in a long term they can develop OA (wear & tear OA)
+													-Meniscus degeneration is like a baby step into later OA
+													-ACL & PCL not only function as anerior and posterior stabilizers but also provide some medial and lateral stability. Therefore, at high levels of performance (varus & valus forces), there is always a chance for reinjury 
+													-Orthpedic Doctors always advocate for a surgery to avoid early knee replacement
+														Some of them will get it anyway for much as we try
+													-A knee without ligamentous stability has a lot of muscle guarding. But when muscles relax, it is very floppy/clunky and the cartilage is worn very fast
+				Early Quad Strengthening Considerations
+					-Performing extension against gravity and early ACL rehab is a controversial topic as this range is thought to place the new graft under increased stress. For that reason, some folks stay away from this type of training altogether.
+					-Improved surgical methods of fixating the new ACL graph, however, have lessened this concern, but some surgeons and PTs still recommend taking great care with full extension against gravity early on. This leaves us with a bit of a discrepancy, with it is generally accepted that early resisted open chain extension with a cuff weight from 90°-45° is okay, and extension from 90°-0° in along our quad with no weight is okay.
+					----------------------------------------------------------------
+					Early, resisted OKC extension?
+						Cuff wt extension (EXT) from 90°-45° - OK
+						Ext from 90°-0° LAQ with no weight - OK
+							Light cuff weights before 12 weeks?
+								-Again, that's a little bit of a fog controversial area. Also after 12 weeks, full range extension against higher intensities seems to be just fine.
+					*After 12 weeks, full range EXT against higher intensities
+				Additional Lower Extremity Strengthening as tolerated
+					Closed Chain
+						-It is more dependent upon patient tolerance and presentation
+						------------------------------------------------------------
+						Terminal Knee Extensions (TKE)
+							-When it appears that they are able to tolerate closed chain activities, they can begin things like ≡ terminal knee extensions where the patient is in a weight-bearing position standing and tries to fully extend the knee against the resistance of say, a thera band, wall sits, squats, and step-ups.
+						≡ Wall Sits
+						≡ Squats
+						≡ Step-Ups
+					Gait
+						-For gait, we'll often have them try to achieve extension and quadriceps and glute activation during weight shifting and repeated stepping to try to normalize their gait pattern
+						-----------------------------------------------
+						Weight-shifting
+						Repeated Stepping
+				Progression of Strengthening
+					Balance
+						-Additional progression of strengthening may include balance activities, varying the surface with perturbations and any other external factors like having them reach out of base of support or etc.
+						-----------------------------------------------
+						Surface
+						Perturbation training
+						External factors
+					Gastroc and soleus strengthening
+						This is going to be beneficial because these mm. surround the knee
+					Hamstring strengthening
+						beneficial because it's going to take stress off of the new graft
+						-----------------------------------------------
+						≡ RDLs, curls
+							≡ Romanian deadlift and curls
+					Hip/Core strengthening
+						always a benefit
+						---------------------------------------------
+						≡ Bridges, planks, 4-way SLRs, miniband walking
+					CKC exercises that now include eccentric component
+						≡ Step-downs, SL squats, lunges
+				Return to Sport Specific Activities
+					("Return to Sport Specific Activities.png")
+					-The type of graft utilized will influence the progression for return to sport specific activities. You can see here that we have an autograft type of approach that the return to sport specific activities is a little sooner and so that might be a consideration for some individuals, whereas an allograft takes perhaps a little bit longer for the fixation of the new graft to occur. But also, you have to consider all the previously discussed advantages and disadvantages of each of these approaches.
+
+	Tears of the Collateral Ligaments [MSK1_KneeColLigFind]
+		-Management for patients with a rupture of the medial collateral ligament (MCL) or lateral collateral ligament (LCL)
+		-In general, tears of the MCL are more common than those of the LCL. It should also be noted, that tears of either ligament, but especially the MCL, commonly accompany tears of the cruciate ligaments and/or the menisci.
+		-----------------------------------------------
+		Exam Findings Associated with MCL/LCL Tears
+			Subjective Findings
+				Collateral ligaments are almost exclusively damaged via traumatic onset 
+				Patient reports pain directly over medial or lateral knee [MSK1_KneePainAreas::]
+			Objective Findings
+				-Swelling and ecchymosis are often present acutely 
+				-Joint effusion may occur with concurrent meniscal involvement 
+				-Varus or valgus tests painful and with severe or poorly healed ruptures may show laxity 
+				-Pain with palpation directly over MCL/LCL 
+				-Less acute but as yet undiagnosed patients may report difficulty with pivoting, cutting, etc. A common complaint is that “I can run in a straight line but my knee feels like it’s going to fall apart if I turn quickly”
+			Common Interventions post Collateral Ligament Tear
+				Collateral ligament injuries typically do not require surgery and heal with conservative treatment 
+					-Initial interventions should address the priority impaired body structures with which the individual patient presents
+					-I.e.: 
+						Restore lost ROM 
+						Quad and HS strengthening as appropriate in pain-free ranges 
+						As with most knee injuries training of proximal hip musculature is vital 
+						Proprioception and perturbation training should be implemented when able 
+
+	Strain of the Gastrocnemius [MSK1_KneeGastrocFind]
+		While any portion of the gastrocnemius may be injured, the most commonly affected is the medial head
+		Other diagnoses to rule out when the patient reports pain in this area include: 
+			Achilles tendonitis
+			Achilles rupture
+			Baker’s cyst
+			Posterior compartment syndrome
+			Deep vein thrombosis
+		-These injuries are most common in athletes >30 years of age and are VERY easy to re-injure. Therefore, a slow and calculated progression towards normal activity is vital.
+			Subjective Findings
+				-Mechanism of Injury: Forceful push-off with the foot as may occur with running uphill, jumping, or cutting 
+				-Report of a “Pulling or tearing” sensation during the injury 
+				-The patient describes decreased pain in a position of relaxed plantar flexion 
+			Objective Findings
+				Tenderness & swelling over the medial head of the gastrocnemius 
+				Pain with passive DF and active/resisted PF 
+			Medial Gastoc Strain Interventions
+				Rehabilitation after this injury will follow guidelines associated with any typical muscle strain.
+					Acute Stage
+						ROM and light stretch of the muscle as tolerated
+						Strengthening/Stabilization of surrounding lower extremity muscles
+						Isometric plantar flexion at tolerated intensity 
+					Sub-Acute
+						Begin light concentric gastroc strengthening 
+						Progress stretching as able 
+					Remodeling stage 
+						Advanced strengthening exercises for the plantar flexors 
+						Implement and progress impact and sport-specific activity 
+
+	Iliotibial Band Syndrome ("Iliotibial Band Syndrome.png") [MSK1_KneeITBFind]
+		-Iliotibial band syndrome (ITBS) is a repetitive stress injury that results from friction of the IT band as it slides over lateral femoral condyle at ~30° of knee flexion.
+		-It is the 2nd leading cause of knee pain in runners; PFPS patellofemoral pain syndrome (PFPS) is the 1st one cause
+			Prevent this by strengthening the hips first before rinning intensely
+		-Management of ITBS ("07_02 llliotibial (IT) Band Syndrome.mp4")
+			Subjective Findings
+				Reports of lateral knee pain
+					usually very directly lateral
+				Hx of repetitive knee flexion activity
+					-because the pathology is created by friction on the lateral knee. When we have the distal IT band rubbing over the femoral condyle
+				Rarely Hx of trauma
+				Up/Down Stairs increases pain
+				Recent increase in training dosage or intensity
+					if the person does some training or sports activity
+			Additional Contributing factors:
+				Running in one direction around a track
+				Excessive downhill running
+				Poor cycling mechanics
+					the most common mechanism is when somebody has their seat too low
+						this causes that repetitive flexion and friction in the area of the distal IT band
+				Reduced eccentric strength for absorbing GRF's
+				Weak hip abductors
+			Objective Findings and Special Tests
+				Tenderness directly over lateral femoral condyle
+					-tenderness with palpation directly over the lateral femoral condyle. This is usually a dead giveaway
+				------------------------------------------------
+				(+) Noble's Compression Test [MSK1_SP_NobleCompreTest]
+					-Patient is sidelying with the hip flexed to 90°
+					-Put something between the pt. knees so the medial femoral condyles togeter; it is inconfortable
+					-Apply pressure over the lateral femoral condyle and passively flex and extend the knee from the tibia (not rapidly but not smootly eiter) around 20° to 50°, like simulating the action of running 
+					-Positive test is lateral knee pain, usually around 30°
+				(+) Creak Test
+					SLS on involved leg
+					Patient flexes knee to aprox. 30°
+					Report of "creaking" feeling over femoral condyle
+			ITB Treatment
+				Treatment approaches, as always, will depend upon the identified individual patient deficits.
+				-----------------------------------------------------
+				Patella mobility
+					 If we see a deficit of mobility, the patella, we want to maximize those mechanics
+				Stretching of inflexible lower extremity tissues
+					can be helpful as they can throw off mechanics as well
+				Motor control including treatment above and below the knee
+					Especially ERs & gluts
+				Core stabilization
+				Soft Tissue Mobilization STM
+					I consider this to be a secondary approach
+					------------------------------------------
+					Foam roller
+					IASTM and other aggressive STM approaches
+				Running evaluation
+				Cycling evaluation
+					-If we have biomechanics associated with running or cycling, then a thorough evaluation of form for these activities can be important
+
+	Meniscal Tears of the Knee ("Meniscal Tears of the Knee.png") [MSK1_KneeMeniscFind]
+		Tears of the medial or lateral menisci may be degenerative in nature or as a result of trauma.
+			Types of Meniscal Tears
+				longitudinal tear
+				radial tear
+				horizontal tear
+				bucket handle tear
+				oblique (parrot beak) tear
+				flap tear
+			Subjective Findings
+				With a traumatic onset:
+					The mechanism of injury if often due to a “twisting” movement at the knee
+					Often the patient will hear a “pop”
+				For a degenerative tear:
+					There will typically be a history of previous trauma or older age
+				Patient complaints will commonly include:
+					Locking, catching, clicking of the joint
+					Pain along the joint line
+					Pain with Weight-Bearing, impact, and/or planting/twisting motions
+			Objective Findings
+				For acute meniscal injuries, there may be tenderness along the joint line
+				Presence of effusion
+				(+) Meniscal special tests
+			Interventions
+				In general, less severe tears typically have same outcome with conservative treatment as surgery
+				The primary rehabilitation goals will be to:
+					Maximize/Normalize ROM
+					Stabilize all surrounding musculature - especially proximal musculature (gluts, ERs of the hip)
+					Increase neuromuscular control mechanisms, including proprioception
+			-Many patients do undergo surgery for meniscal tears when the injury is severe enough or when conservation rehab fails.
+		JOSPT CPG Recommendations Post-Surgery Summary
+			-Summary of Clinical Practice Guidline Recommendations published in the Journal of Orthopedic and Sports Physical Therapy (JOSPT) for MENISCAL TEARS after surgery.
+			----------------------------------------------------------
+			1.ROM: Early progressive AROM and PROM is appropriate.
+			2.Early progressive Weight-Bearing as tolerated.
+			3.Strength and neuromuscular training of knee and hip musculature.
+			4.Use of NMES to regain muscle function as necessary.
+
+	Patellofemoral Pain Syndrome (PFPS) AKA Patellofemoral Disorders (Extensor Mechanism Disorders) [MSK1_PFPS]
+		-Examination and management for patients presenting with anterior knee pain that is classified as Patellofemoral Pain Syndrome.
+		-It is a "umbrella" term that refers to all disorders affecting structures under and around the kneecap.
+			Each of these individual pathologies has some unique aspects of management
+		("07_03 Patellofemoral Pain Syndrome.mp4")
+		---------------------------------------------------------
+		Patellofemoral Pain Syndrome Classifications
+			Classifications based on (that describe) the mechanical source of a problem
+			You'll see named pathologies that are also sometimes associated with these types of classifications
+			-------------------------------------------------------------------------
+			1.Patellar Instability
+				-This refers to a situation where the patella displaces laterally from the trochlear groove in which it sits. It's a gross deformity. Most often this occurs acutely during high level activity, but it may also re-occur after an initial injury as a chronic condition.
+				-If the patella becomes locked in this position, it is referred to as a dislocation and may need to be manually relocated, AKA reduced. But if it re-locates on its own, this is sometimes described as a subluxation``.
+				-The common mechanism of injury for patellar instability or dislocation or subluxation is a
+				valgus force direct to the knee with the knee in about 20°-30° of flexion.
+					-The patient would commonly report that they felt a pop and their knee instantly gave out. And of course, they often can report that the kneecap was out of place.
+				-Dislocations can result in damage to other tissues like as
+					osteochondral cartilage,
+					bone bruises, or
+					osteochondritis dessicans.
+				-Looking at patellar instability from a treatment perspective we want to
+					-reduce pain and inflammation and
+					-stabilize with the quadriceps and hamstrings
+					-muscle balance
+						later on to be able to really minimize the abnormal forces on the knee
+					-And as with anything else at the knee, we're always going to focus on strengthening of hip musculature
+					-Neuromuscular control and proprioception because
+						-we really want the muscles to be recruited in a way that stabilizes the patella and minimizes its ability to move out of position
+				-------------------------------------------------------
+				Patellar instability
+					Acute Patellar Dislocation
+					Chronic Patellar Dislocation
+					Dislocation vs. Subluxation
+						Common mechanism of injury
+							Valgus force with knee in 20°-30° of flexion
+						Common patient reports of:
+							"Felt a pop"
+							"My knee gave out"
+						Dislocations can result in osteochondral damage, bone bruises, or osteochondritis dessicans
+					RX Goals/lnterventions?
+						Acute: Reduce pain and inflammation
+						Stabilize w/quadriceps & hamstrings muscle balance
+						Strengthening of hip musculature
+						NM control and proprioception
+					``Knowledge Check
+						-The recommended focus of hip muscle training has been mentioned multiple times in this an other lessons and is very similar to. Answer the following question to test your recall of which specific muscles/muscle groups have been mentioned for this purpose.
+							-Select ALL "hip muscles"/"muscle groups" that have been previously mentioned as MOST important to train for providing proximal stability and neuromuscular control (!!)
+								External Rotators
+								Internal Rotators
+								Abductors
+								Adductors
+								Tensor Fascia Lata
+								Rectus Femoris
+								Sartorius
+								Extensors
+								Flexors
+			2.Patellar Overuse Syndromes - Similar but different
+				-These represent conditions that are similar in morphology and the effect that they have on the involved tissue, but affects somewhat different anatomical structures
+				------------------------------------------------------------
+				Patellar Tendonitis (Jumper's Knee) ("Jumper's Knee.png") [MSK1_KneePatTendFind]
+					-tends to affect the portion of the patellar tendon at the inferior pole of the patella and/or its insertion point on the tibial tuberosity
+				Osgood Schlatter's Disease ("Osgood Schlatter.png") [MSK1_KneeOsgoodFind]
+					-also affects the area where the patella tendon attaches at the tibial tuberosity. It may present in a similar fashion as patellar tendonitis, but it also involves inflammation of the periosteum surrounding the bony tissue in this area, as well as a partial avulsion of the tibial tuberosity and necrosis of the fragmented bone. It happens when the bone cannot keep up with the patellar growth and pulls it. Can protrude it. Also, this can happen with the achiles tendon.
+				Quadriceps Tendonitis ("Quadriceps Tendonitis.png") [MSK1_KneeQuadTendFind]
+					-It is an acute to chronic inflammation of the tendinous tissue just proximal to the patella and of course on the distal end of the quadriceps
+				---------------------------------------------------
+				Common Aspects of Patellar Overuse Syndromes [MSK1_KneeAntPainFind]
+					-These overuse syndromes have some subjective and objective findings in common. Patients with any of these conditions may present with
+					-----------------------------------------------
+					Anterior knee pain
+						like most of these
+					History of activities involving running, jumping, squatting, etc.
+					Swelling and other signs of inflammation
+					Point tenderness in affected areas
+					Pain with resisted knee extension
+				Unique Aspects of Patellar Overuse Syndromes
+					Adversely, some aspects of each of these conditions are individual to that condition
+					----------------------------------------
+					Patellar Tendonitis (Jumper's Knee) [MSK1_KneePatTend2Find]
+						Active motion often normal
+						Stiffness before activity that fades after a short time
+						Sharp pain that comes on during and after extended activity
+					Quadriceps Tendonitis [MSK1_KneeQuadTend2Find]
+						Pain focused ABOVE the patella
+							-because of the location of the involved tissue, the patient will have pain focused above the patella
+					Osgood Schlatter Disease [MSK1_KneeOsgood2Find]
+						Active motion often painful
+						May be a passive limitation of knee flexion
+						Pain with activity more immediate
+				Patellar Overuse Syndromes Common Interventions
+					-Each patient may present with a unique set of impaired body structures that the therapist, of course, should address accordingly for the individual patient
+					-------------------------------------------
+					But - common interventions for this purpose include:
+						Treatments to control/reduce acute inflammation
+						Strengthening of proximal hip structures
+						Cross-friction massage
+							-involved tendon tissue; to realign fibers that have grown in a fibrotic or unhealthy fashion
+						Eccentric training of quadriceps
+							-It will also help realign fibers
+						If dorsiflexion is lacking, mobilization of the talocrural joint
+							-this can cause some of the stresses that result in these types of conditions, therefore, mobilization of the talocrural joint might be indicated
+				Patellar Compression Syndrome ("Patellar compression syndrome.png") [MSK1_KneePatComprSyndrFind]
+					Global Patellar Pressure Syndrome
+						Inflammation due to abnormal pressure on all surfaces on underside of patella and in trochlear groove
+						----------------------------------------------------------
+						Summary
+							Patella likely hypomobile
+							Want increased mobility
+								Patella
+								Surrounding muscles and soft tissues
+							Dynamic stability and NM control at knee of benefit
+					Excess Lateral Pressure Syndrome
+						-Inflammation due to abnormal pressure on lateral joint surfaces of underside of patella and trochlear groove
+						-Somewhat the opposite to Global Patellar Pressure Syndrome in that the patella is likely hypermobile, and oftentimes the vastus lateralis is overdeveloped and it pulls the patella into a lateral position
+							-for this, we might consider McConnell taping``, note not Kinesio taping, to try to stabilize the patella in place while tissues heal, but we do want flexibility of the surrounding muscles and soft tissues, and of course, we also want dynamic stability here as well
+								Patrellar taping
+									is good if it reduces the pain from 7/10 to 3/10, for example
+									It is atemporary solution
+									----------------------------------------------
+									Consider these factors, if not, explore other solutions
+						----------------------------------------------------------
+						Summary
+							Patella likely hypermobile
+							Vastus lateralis possibly overdeveloped
+							Consider taping
+								McConnell not Kinesio``
+							Want flexibility
+								Surrounding muscles and soft tissues
+							Dynamic stability and NM control at knee of benefit
+				Soft tissue lesions [MSK1_KneeSoftTissLessFind]
+					Bursitis (pre-patellar Bursitis)
+					Inflamed patellar fat pad
+					Plica Syndrome
+					Medial patellofemoral ligament/retinaculum pain
+					-----------------------------------------------
+					RX Goals:
+						-General intervention for these pathologies focuses on reducing the inflammation, but also on minimizing impairments that have caused increased stress on these structures in the first place
+							Mainly this includes
+								stretching shortened lower extremity tissues
+								strengthening hip musculature that is weak or not being properly recruited
+						--------------------------------
+						Control pain and inflammation
+						Maximize soft tissue flexibility
+						Stability of hip musculature
+				Biomechanical dysfunction
+					-this category of patellofemoral pain syndrome considers specific biomechanical faults that result in pathology of any of the sub-patellar or pery-patellar structures discussed previously
+					------------------------------------
+					Hyper-pronation/Over-pronation
+					Leg Length Discrepancy
+					Decreased LE flexibility of tissues
+					Poor running, jumping, cutting mechanics (impact activities)
+					*Any of these may result in other classifications of patellofemoral pain syndrome [MSK1_PFPS2]
+						So we get a classification here that can cause other classifications
+							We do have some overlap amongst these
+				Direct trauma to patellar structures
+					Patellar contusion
+					Trauma to soft tissue surrounding patella
+					Isolated articular cartilage lesion
+					*Follow basic principles of tissue healing such as
+						protection
+						rest, ice, compression, & elevation
+						movement as tolerated
+						maintaining mobility of all of the patella itself and the surrounding tissues
+						strengthening of the muscles around the area
+			3.Global Patellar Compression AKA Global¿? Patellar Pressure Syndrome
+				-inflammation due to abnormal pressure on all surfaces on the underside of the patella and in the trochlear groove
+				-these occur when there's increased pressure on the structures located underneath the patella due to abnormal biomechanics
+				-The two primary categories of abnormal mechanics include
+					increased patella mobility
+					decreased patella mobility
+				-the patella is most likely hyper-mobile and doesn't move enough, so therefore, we want to increase mobility of the patella, and we also want to maximize mobility of the soft tissues surrounding the patella that attach to it
+				-dynamic and stability and neurocircuit control is a benefit so that we don't get abnormal compressive stresses on the knee
+			Soft Tissue Lesions
+			Biomechanical Dysfunction
+			Direct Trauma
+		--------------------------------------------------------
+		Knowledge Check [MSK1_Live10Knee]
+			Case: Sharon is a 17 year-old female high school volleyball player with anterior knee pain
+				-She began playing volleyball 3 months ago even though she had never played before. The coach recruited her because she is 5’11” although of slight build. After a couple of months she gradually began to experience pain that came on during more intense jumping and squatting workouts and drills and gets progressively worse as practice goes on. Pain is focused all around the patella as well as what seems to be “underneath” it
+					-------------------------------------------------------
+					Patellofemoral Pain Syndrome Classifications
+						-*In his area, there are things that we will do very similar and others that we will do differently
+						Patellar Instability
+						Overuse Syndromes
+						Patellar Compression Syndrome
+						Soft Tissue Lesions
+						Biomechanical Dysfunction
+						Direct Trauma
+					-------------------------------------------------------
+					-Based on the initial history, how likely do you think each PFPS Classification is for Sharon?
+						Patellar compressive syndrome
+						Patellar instability
+						Direct patellar trauma
+						Soft tissue lesions
+						Overuse syndromes
+						Biomechanical Dysfunction
+							----------------------------------------------- Answer this questions below
+							Very likely
+							Somewhat likely
+							Not likely
+					-From the case (see above), what do you think how probable he has: (See "CNVSSS#10 - Knee Conditions 2.20.24.pptx") *There could be an overlap among this answers since they fall into ff categories
+						.Patellar Compressive Syndrome
+						a.Very likely 
+						b.Somewhat likely
+						c.Not likely
+
+						a.Very likely
+
+						.Patellar instability
+						a.Very likely 
+						b.Somewhat likely
+						c.Not likely
+
+						c.Not likely
+							It can be very painful, so not much in this case
+
+						.Direct patellar trauma
+						a.Very likely 
+						b.Somewhat likely
+						c.Not likely
+
+						c.Not likely
+							In this case, it came gradually over time
+
+						.Soft tissue lesions
+						a.Very likely 
+						b.Somewhat likely
+						c.Not likely
+
+						a.Very likely
+							It could be in and arround the joint, due to an overuse syindrome
+
+						.Overuse syndromes
+						a.Very likely 
+						b.Somewhat likely
+						c.Not likely
+
+						a.Very likely
+
+						.Biomechanical dysfunction
+						a.Very likely 
+						b.Somewhat likely
+						c.Not likely
+
+						a.Very likely
+							-Because the individual is not fully muscular developed (hip and overall too) and this can cause issues down along the chain respect to poor biomechanics
+						---------------------------------------------
+						.During treatment, which of the following muscles/muscle groups would you be least likely to train in isolation for this patient? (Answer this questions below)
+						a.Quadriceps
+						b.Hamstrings
+						c.Hip Abductors
+						d.Hip Extensors
+						e.Hip Rotators
+
+						a.Quadriceps
+							-Γthe quads could be overtrained already like an imbalance. most people have stronger quads than hamstrings especially new athletes
+
+						.Eccentrc squats
+	                    a.Patellar Tendonopathy
+	                    b.Inflammation of sub-patellar structures
+	                    c.Equally Both
+
+	                    a.Patellar Tendonopathy
+	                    or
+	                    c.Equally Both
+	                    
+	                    .Cross Friction Massage
+	                    a.Patellar Tendonopathy
+	                    b.Inflammation of sub-patellar structures
+	                    	Iontophoresis do not penetrate very deep at all (only about 1cm); patellar tendon maybe
+	                    c.Equally Both
+
+	                    a.Patellar Tendonopathy
+	                    	Only applicable when a very acute Patellar Tendonopathy  
+	                    
+	                    .Iontophoresis
+						a.Patellar Tendonopathy
+						b.Inflammation of sub-patellar structures
+						c.Equally Both
+
+						a.Patellar Tendonopathy
+
+						.Patellar Mobilization
+						a.Patellar Tendonopathy
+						b.Inflammation of sub-patellar structures
+						c.Equally Both
+
+						c.Equally Both
+
+						.Strengthening of Hip Musculature
+						a.Patellar Tendonopathy
+						b.Inflammation of sub-patellar structures
+						c.Equally Both
+
+						c.Equally Both
+							It is hard to go wrong with proximall strengthening of hip
+					------------------------------------------------------
+					Vastus Medialis Oblique (VMO) vs. Vastus Lateralis
+						If they had a fight, which would you put your money on?
+							Vastus Lateralis since longer and stronger
+						How could you (as a PT) even the fight out?
+							Try to bias the VMO
+						What types of exercises do you think accomplish this?
+							-The adductors have an attachment that goes into he VMO, so it is though that they will recruit the VMO better during a squating activity with that
+							-----------------------------------------------------------
+							Feet placement
+							NMES
+							squeeze a foam roller
+							Squats a ball between the knees
+						Evidence for these?
+							There is no enough evidence that all the exercersices commented will increase the recruitment of the VMO sufficiently enough to make a difference (even of lots of referrals coming from MDs for VMO strengthening) 
+								Takes away from this:
+									So, you connot selectively recruit the VMO effectively
+									and even if you could, it would no make a difference
+										What makes a difference then
+										 Hip strengthenining and all the ohter stuff commented since here.
+						------------------------------------------------------------------
+						Clearing Up the VMO Issue ('vastus lateralis and vmo.png') [MSK1_Live11FootAnkle]
+							This DOES happen
+								-What does happen is we have the vastus lateralis and the VMO exerting a pool in the kneecap from different directions, and if we have somebody who has over trained quads, that tends to flow into overactivity and strength of the vastus lateralis. So the force is applied laterally on	the knee cap. Can cause lateral tracking. It's not the only	thing that can cause lateral tracking. We can have hip alignment ¿?.
+							These DO NOT happen (At least not to a significant extent)
+								1. Prescription of exercises that will selectively recruit and train the VMO
+									-Research studies do not support that ANY exerctse will do this to a significant extent
+										To an extent, it is going to make it contract more significantly more than it did before
+								2. Superior outcomes in patients with PFPS when prescribed exercises
+									-Studies in which patients are prescribed exercises thought to recruit the VMO do not improve more than those given other exercises
+										-It is also not true that when even these types of exercises are prescribed that patients with the patellofemral pain syndrome have superior outcomes.
+										-But, patients prescribed exercises to strengthen/recruit hip musculature (glut max/med, not hip flexors.) DO have significantly better outcomes.
+											Not so much hip flexors
+												-Remember, we're looking at those steak muscles that are going to have a greater influence on stability. And the iliopsoas is not one of those.
+					----------------------------------------------------------------------
+					Sharon’s father wants to know if you think that taping of her kneecap would be beneficial
+						What tests or measures would most help you make this determination?  
+							Mobility assessment & postural assessment
+						What findings on these tests would make you lean in this direction?
+					----------------------------------------------------------------------
+					Since the patella is not moving away, we can think on:
+						Patellar Compression Syndromes
+							-For which of the following subclassifications would taping be/"not be" beneficial?
+							-What intervention WOULD be beneficial for the compression syndrome for which taping would NOT be beneficial?
+							-Which do you think Sharon probably has?
+								Global Patellar Pressure Syndrome
+									More compressive forces all arround the patella
+										This means a more hypomobile patella
+											So, do not taped it and traped it
+									You want to mobilized and maximaze the mechanics
+									------------------------------------------------
+									Patella likely hypomobile
+									Want increased mobility
+										Patella
+										Surrounding muscles and soft tissues
+									Dynamic stability and neuromuscular control at knee of benefit
+								Excess Lateral Pressure Syndrome
+									When it seem to be directed more laterally from the trochlear groove
+									We want to use taping here
+									------------------------------------------------
+									Patella likely hypermobile
+									Vastus lateralis possibly overdeveloped
+									Consider taping !!!
+										McConnell not Kinesio
+											('Falta video ¿?')
+											Kinesio is more for a propioceptice feedback (somatic imput)
+												For short periods for physical activity type of function
+											McConnell is for holding in place (pain control)
+									Want flexibility
+										Surrounding muscles and soft tissues
+									Dynamic stability and NM control at knee of benefit
+
+	Osteoarthritis (OA) of the Knee
+		-This degenerative joint disease that involves breakdown of articular cartilage in the three compartments of knee (medial, lateral, patellofemoral). Of these, degenerative joint disease (DJD) of the medial compartment is most common
+		-The stages of osteoarthritis of the knee joint based on severity of degradation ("Stages of Knee Osteoarthritis.png") (!!E.Grade & Doc)
+			I Doubtful - Minimum disruption
+				There is already 10% cartilage loss
+			II Mild - Joint-space narrowing
+				The cartilage to begin breaking down
+				Occurrence of osteophytes
+			III Moderate - Moderate joint-space reduction
+				Gaps in the cartilage can expand until they reach the bone
+			IV Severe - Joint-space greatly reduced
+				60% of the cartilage is already lost
+				Large osteophytes``
+		Risk Factors of Osteoarthritis of the Knee ("Risk Factors of Osteoarthritis of the Knee.jpg") (!!E.Grade & Doc)
+			Kellgren-Lawrence (KL) grading scale
+				Grade 1
+				Grade 2
+				Grade 3
+				Grade 4
+		Risk factors for OA of the Knee include: ("Osteoarthritis animation.gif")
+			Age
+			History of knee trauma and/or surgery
+			Obesity
+			Physically demanding occupations
+			Female gender
+			Genetics
+			Joint laxity
+		OA Findings [MSK1_KneeOAFind]
+			Common subjective findings for knee OA
+				Stiffness in the morning that resolves “after moving around a bit”
+				Stiffness after prolonged sitting
+				Crepitus
+				Occasional pain at night
+				Pain with weight-bearing activities
+				Complaints of the knee buckling, locking, and giving way
+				Difficulty with: stairs, kneeling, squatting, transfers, and pivoting
+			Gaining Insight
+				Angular deformity
+				Effusion
+				Joint line tenderness
+				Capsular Pattern ROM loss
+					Flex>Ext
+				Quadriceps inhibition
+				Pain with any special tests for the menisci (Meniscal Tear)
+					Appley’s
+					McMurray’s (See [MSK1_SpecTestMcMurr])
+					Thessaly’s
+					Ege’s
+			Altman’s Criteria [MSK1_Altman]
+				-It is a system used for clinical diagnosis of knee osteoarthritis
+				-It consist of evidence-based factors that aid with the clinical diagnosis of osteoarthritis in the knee
+				------------------------------------------------------------------- PLANTILLA
+				If radiographs of the knee are available for consideration, then the criteria are as follows: 
+					The patient must have complaints of Knee Pain AND at least 1 of the following:
+						Age >50 years
+						Morning Stiffness that lasts <30 minutes
+						Crepitus with active motion AND osteophytes on radiograph
+				-------------------------------------------------------------------
+				Sensitivity and Specificity for these criteria are:
+					Sensitivity	+ Specificity for Criteria
+						Sensitivity = 0.91 →
+							-If the patient does not meet these criteria, the physical therapist can likely rule out the presence of OA.
+						Specificity = 0.86 →
+							-If the patient does meet these criteria, the physical therapist can likely rule in the presence of OA.
+				-------------------------------------------------------------------- PLANTILLA [MSK1_AltmanPL]
+				In the absence of radiographic evidence, Altman’s Criteria include consideration of these findings:
+				The patient must have complaints of knee pain AND at least 3 of the following 6 findings:
+					1.Age > 50 years
+					2.Morning Stiffness that lasts < 30 minutes
+					3.Crepitus
+					4.Bony tenderness
+					5.Bony enlargement
+					6.No palpable warmth
+				These criteria have a:
+					0.95 Sensitivity
+					0.69 Specificity
+				If the patient has knee pain and 4/6 criteria then:
+					Sensitivity = .84
+					Specificity = .89
+			knowledge check
+				-Case: A 65-year old patient has complaints of knee pain that has come on gradually over the past three months. His knee is stiff and somewhat painful for at least an hour in the morning. Often, he can hear and feel “creaking” and other joint noises when squatting. He does not seem to have enlargement of bony landmarks or protuberances but does have tenderness when the physical therapist palpates along the lateral and medial portions of the tibia that form the joint line. The therapist does not notice palpable warmth when palpating the knee. The patient has not had radiographs taken of his knee.
+				------------------------------------------------------ Breaking Down
+				a.knee pain
+				b.gradually over the past three months
+				c.stiff and somewhat painful for at least an hour in the morning
+				d.Often, he can hear and feel “creaking” and other joint noises when squatting
+				e.not seem to have enlargement of bony landmarks or protuberances
+				f.does have tenderness when the physical therapist palpates
+					along the lateral and medial portions of the tibia that form the joint line
+				g.No palpable warmth when palpating the knee
+				h.not had radiographs available
+				------------------------------------------------------ Altman’s Criteria 1-6 (See [MSK1_AltmanPL])
+				a. ✓ (not Altman’s but could be whatever)
+				b. ✓ (not Altman’s but suspicious of OA)
+				c. ✓ (not Altman’s but could be whatever)
+				d. ✓ ← 3. (YES Altman’s)
+				e. ✗ (not Altman’s & not OA)
+				f. ✓ (not Altman’s but suspicious of OA)
+				g. ✓ ← 6. (YES Altman’s)
+				h. N/A
+					--------------------------------------------------
+					CONCLUSION: Only 2 of 6, not enugh evidence
+				------------------------------------------------------
+					Based on Altman’s criteria, the physical therapist should conclude that the patient:
+						Is likely in the early stages of osteoarthritis
+						Does have osteoarthritis
+						Will benefit from knee surgery
+						✓Does not have osteoarthritis
+							-The patient only has two of the six possible Altman’s criteria. Because sensitivity for these criteria are very good (0.95) the therapist can confidently rule out arthritis as a source of the knee pain. This is because a highly sensitive test, when negative, allows one to rule out the condition in question.
+		Additional Considerations for Radiographic Findings 
+			Specific findings on radiograph that are consistent with OA of the knee include: 
+				Osteophyte formation
+				Sclerotic (hardening) subchondral bone
+				Narrowing of Joint space (loss of articular cartilage)
+			Compare findings in the radiograph on the left of a normal knee and the arthritic knee on the right.
+				("normal knee and the arthritic knee.png")
+					-*Note the "normal" amount of space in the X-ray image on the left, and the narrowed joint space in the X-ray image on the right
+		Interventions for patients with osteoarthritis of the knee ("07_04 Osteoarthritis of the knee.mp4")
+			Control Internal Factors
+				Strengthening
+					an important component of training for a patient with osteoarthritis of the knee
+					-----------------------------------------
+					Larger focus on OKC
+						-Because weight-bearing and activities that increase joint compression may cause additional damage to the joint, aggressive strengthening is performed more in an open than a closed chain
+						-------------------------------------
+						Hips, HS, Quads
+							Be careful with heavy resisted leg extension
+								-heavy resisted knee extension should be avoided as these exercises can create shear forces that further erode articular cartilage
+					But don't ignore CKC activity
+						If tolerated, perform CKC exercises with limited ranges and intensities
+						Walking at correct dosages is ideal
+							-This is done just so that we still do get maintenance of those tissues in situations and under loads that don't further damage the tissue
+				Maintain range and patellar mobility
+				CV endurance and weight control
+					These are huge because that's going to decrease compressive forces on the joints
+				Balance and proprioception
+					important to maintain at anytime somebody is not using the areas much
+				Aquatic Therapy
+					great way to decrease weight bearing overall
+			Control Environmental Factors
+				Minimize impact loading
+				Avoid prolonged compressive activities (Squatting, Kneeling)
+				Assistive devices
+					beneficial in unloading tissues
+				Proper footwear and orthotics
+					beneficial for maximizing biomechanics
+				Modification of activity surface
+					perform activities on softer surfaces like dirt or grass can be beneficial
+			-------------------------------------
+			To review more leg/knee cases, visit the Northwestern Medicine Feinberg School of Medicine Orthopedic Teaching website using the following link:
+				https://www.ortho-teaching.feinberg.northwestern.edu/cases/leg-knee/index.html
+
+	Total Knee Arthroplasty (TKA) Rehab [MSK1_Live10Knee] ΓΓ(try to whatch a video on Yt aboyt it)
+		Rehabilitation After Knee Joint Arthroplasty ("07_05 Rehabilitation after Joint Arthroplasty.mp4")
+			Commonly imp body structures after TKA - What do we need to measure & assess when they come for eval?
+				1. Decreased knee ROM (possible contracture)
+					Measure it very often since it is the main purpose for the first two weeks
+					1a.Patellar mobility (this is big one)
+						Also, assess it very often
+						--------------------------------------
+						Has a huge direct impact on ROM
+						Has a huge indirect impact on strenght 
+					1b.Swelling - Girth measurements
+						Since it increases pain and decreases range of motion
+				2. Knee/Hip muscle weakness
+				3. Impaired transfers & gait
+				4. Balance deficits
+				Γ 5.Level of pain
+					Sometimes they do not have pain
+				Γ 6.Look at the incision when the bandage is removed (after 7 days) and make sure that if any drainage, it is red (blood is normal) or clear, but not green, yellow, or mixed colors. Also, look for incision integrity 
+		Rehab Goals
+			Overall Goals?
+				Prevent hazards of bedrest (DVT, pressure ulcers, pneumonia, etc.)
+					Γ Why pneumonia can be a significant concern following total knee arthroplasty? ¿?
+				Gain/Re-gain adequate range of motion
+					ROM IS TOP PRIORITY!!!
+				Strengthen hip/knee musculature
+				Independence with ADL's, gait, and transfers
+			Common inpatient benchmarks
+				-While in the hospital, common benchmarks (puntos de referencia) that we want the patient to achieve before the discharge
+					ROM: 0°-90°
+					Achieve activation of quadriceps
+					Safe ambulation with walker, up curbs, negotiate steps
+					Independent transfers
+				------------------------------------------------------
+				Priority Tests and Measures 4 days post-op outpatient setting based on those goals↑?
+					LET'S DISCUSS IN SYNC ¿?
+			Early Rehab
+				(Γ)Parameters in common on all the rehab stages (per order of  importance)
+					ROM: Atrophy/maintenance, healing (even if ROM is not that big deal of healing)
+					Iso: Isometrics/m. activation/strenght
+					Func: Functional/Gait
+				--------------------------------------------------------------------------
+				*There are not HIP precautions for the KNEE
+				*This is pretty individualized and we can apply a lot of stuff from Paient Management course
+				Day 1-7
+					ROM: Early knee ROM
+						Use of Continuous Passive Motion (CPM) unit
+							They are seen less and less these days
+						Low level ROM exercises
+							Heel slides
+								Assistes by strap/belt/sheet if they cannot y themselves
+							-Quads sets (are more than a strenghthening exercise) since it is active extension of the knee
+								Flexion is as important as extension when it comes to the knee for gate
+									(see Iso below)
+						ΓΓ ------------------------------------------------
+						ROM as tolerated
+						Simply laying flat or long sitting for stretching exercises
+						Ideal Stretcher Device
+					Iso: Isometric contraction of hip and knee musculature
+						Sitting (hanging from the table) or lying down (squizz)
+							Quads sets
+							HS sets
+							Gluts sets
+								----------------------------------------
+								You want to build up sets and reps pretty heavy
+									5 to 10 sec. holds
+										I.e.: 3x10 (good start for under-dosing people)
+											Progress to 3x20, 3x35, etc.
+					ROM¿?: Mobilization (movement) of distal LE segments to maximize blood flow and prevent DVT
+						Ankle pumps
+							Compression stalking are for the same purpose even not part of a ROM exercise
+								They should take them off during the exercise session
+					Func: Transfer, gait, stair training
+				Weeks 1-2
+					*Think that pain and swelling may be down a little
+					Iso: Continue isometrics as appropriate
+						Progress to concentric strengthening of hip/knee as appropriate
+							What about hip mm.? ≡
+								Sideline hip abduction
+								SLR
+								SAQs
+								LAQs
+								Prone Hip Ext
+								Hip abduction
+								Clam shells if hip abd is too heavy because of the straight rise leg
+								Glut max hip ext
+									Bridge
+					ROM: Progress ROM exercises
+						Add sustained hold (stretch) at end ranges of flex/ext
+						Bike: Going fordware, backwads, or full revolution
+							You can alernate direction for 2 min. with a total of 8 minuts
+								It helps get use to again with the flexion extension pattern
+									It is propioceptive
+							----------------------------------------------
+							Add sustained hold (stretch) at end ranges of flex/ext
+								Chair slides
+								Coffee table exercises
+								Prone Hangs
+					Self-mobilization of patella-femoral joints
+					Func: Progress gait training
+						-Walker → Cane → Nothing
+						-Minimize gait abnormalities via pre-gate activities - Make sure they are not limping before we go to the next less restrictive device
+							I.e.: if they lane a lot on a tripoed kane¿? do not progress yet to single cane
+						-Transfer activities
+					--------------------------------------------------------
+					ΓΓ CKC
+					ΓΓ (See [MSK1_Live10Knee] 01:56:14sec)
+					ΓΓ Knee flixion and extension kee ROM with ankle weights
+					ΓΓ Progress sets to 3x30 or 3x40
+					ΓΓ Get close to 90°
+				Mid - Later Rehab (weeks 2-6) (See [MSK1_Live10Knee] 02:05:50sec)
+					*Here, we can do a lot of progress
+					ROM: Continue with range of motion as before - progress as able
+						Longer holds
+						greater forces
+						further ranges
+							-------------------------------
+							Same activities performed more agressively (i.e.: more hangs with weight)
+							Emphasize extension:
+								Bkwd walking
+								TKEs (Wbing ext against resistance)
+								manual stretch by PT
+					Iso: Closed kinetic chain (CKC) strengthening of hip and knee musculature
+						*make sure that from and balance is good enough
+						Step ups/down/lateral, mini-squats, wall squats, full squats, lunges, stool walk 
+					Static proprioception training - progress to dynamic proprioception
+						SLS, tandem stance → side step, carioca/grapevine, tandem gait
+					Func: Further increase challenge with gait
+						Progress to less restrictive/absence of assistive device
+						Gait under varied conditions
+				---------------------------------------------------------------- Fi [MSK1_Live10Knee]↑
+				Activity: (!!)
+					Outline treatment progression (early rehab advanced progression) for TKA
+		Total Hip Arthroplasty ("07_06 Total Hip Arthroplasty.mp4")
+			What is it?
+			Contraindications & Precautions
+				Contraindications/Precautions after/post THA
+					Weight-Bearing Restrictions
+						No matter what type of procedure is performed
+						Usually these patients are weight-bearing as tolerated, but not always; depends on the procedure.
+					Activity Restrictions
+						certain predictable activities should not be permitted because they often break the precautions
+						(Γ)What are those?/What are the Activity Restrictions for Total Hip Arthroplasty?
+							The activity restrictions for total hip arthroplasty include:
+							1. No leg crossing
+							2. No sleeping on your stomach
+							3. Avoid low chairs
+							4. Avoid sitting cross-legged
+							5. Avoid bending the hip more than around 90 degrees (a right angle) for the first six weeks
+							6. Avoid lying on the side of your body affected by the surgery
+							7. Avoid high-impact activities such as running, jumping, rugby, football, and martial arts.
+							-These restrictions are important to prevent complications such as fractures, loosening of the implants, dislocations, and infections, and to protect the new hip joint during the recovery period.
+					Range of Motion Restrictions
+						built-in limits to these
+					Exercise restrictions
+						-In general, one exercise that should be avoided after total hip arthroplasty is Straight Leg Raises often should be avoided because they produce large load on joint
+				Precautions Post THA
+					This depends on from which direction the surgeon goes in to produce the incision
+					--------------------------------------------------------------------------------
+					Posterior Approach Contraindications
+						it's going to weaken that posterior surgical suture
+						---------------------------------------------------
+						Avoid:
+							Adduction past mid-line (crossing legs)
+							Hip Flexion past 90 degrees (up to about 90° is OK)
+							Hip IR past neutral (turning toes in)
+					Anterior Approach Contraindications
+						Allows for a little more flexibility and contraindications here vary a lot more by surgeon
+						Varies by surgeon but avoid:
+							Hip extension past neutral
+							External rotation of the hip
+							Crossing of the legs
+							Sleeping on the surgical side
+							Some protocols - avoid hip abduction to further ranges or against gravity
+							Some physicians require NO precautions after Anterior THA
+							It's always a question as to how long patients need to avoid these activities
+								this is something upon which there's no consensus eithen
+									I've heard some folks say six weeks to six months and some for life
+			Most Commonly Impaired Body Structures after THA
+				Hip muscle weakness
+				Abductors (TYPICALLY MOST LIMITING PROBLEM
+				Extensors
+				Limitation of Hip ROM
+				Quadriceps weakness
+				Functional deficits
+					Gait: Trendelenberg
+						-These individuals tend to have a major Trendelenburg gait due to the weakness of hip abductors and the extensors
+						-Also working on transfers
+					Transfers
+			Rehab Goals
+				Prevent dislocation
+				Prevent hazards of bed rest (DVT, pressure ulcers, pneumonia, etc.)
+				Increase Functional strength
+				Increase Hip/Knee strength
+				Independence in transfers and ambulation
+				Pain-free ROM within limits of precautions
+				--------------------------------------------------------------------
+				Early Rehab
+					1.Strengthening of significantly weak (often <3/5) hipkand knee musculature
+					2.Exercises for hip range of motion (w/in limits)
+					3.Flexibility of shortened structures (w/in limits)
+					4.Gait training
+				Rehab Progression THA later stages
+					5.Progress hip ABD strengthening
+					6.Progress hip EXT strengthening
+					7.CKC strengthening
+					8.Continue gait training to reduce abnormalities
+			-------------------------------------------------------------------------
+			Sync Session Breakout Activity: (!!)
+				Outline treatment progression of specific interventionskfor THA (post approach)
+					For early rehab
+					For advanced progression
+
+	ACL Deficient COPERS vs. NON-COPERS [MSK1_Live10Knee]
+		1st category: Copers
+			Less laxity with testing (which?)
+				-Sometimes we know that (we have the MRI), for example, the ACL is gone, but even that we want to know how much laxity exists
+			Fewer episodes of giving way
+				We are talking after the inflamation and pain if gone in this case
+			Higher baseline activity level after injury
+			Better Outcome Tool Scores
+				For higher functional level
+			Better quadriceps control
+				*For challenging functional tests, not MMT
+					I.e.: agility test, single leg quads, etc.
+				How to test?
+		2nd category: Non-Copers
+			Decreased quad strength
+				MMT won't help here, we need to use hand-held dinamomoter, isokinetic machines, etc.
+			Decrease quad control
+			Altered knee movement patterns
+				*For higher functional level activities too
+				During what?
+					Different side to side biomechanics?
+			Increased quadriceps to HS co-contraction
+				We will see here that the quads contract more forcefull than the HS
+		---------------------------------------------
+		Additional Thoughts
+			Good rehab can increase chance of being a Coper
+			3rd category: Adaptors
+				Avg decrease in activity level for ACL deficient = 20-30%
+					-Are you be ok being 20-30% less functional than now dong high level activities? They will have to accept that
+				Is the patient willing to accept a lower level of functional activity?
+			Who/Which would be more likely?
+			Profile of non-copers
+				Female, middle aged adults, non-contact injury (all of them together or like three categries? ¿?)
+	Possible Long Term Negative Consequences - ACL deficient knee at greater risk for:
+		PFPS
+		MENISCAL TEAR (for some)
+		Osteoarthritis?
+			Mixed findings:
+				Greater risk w/conservative RX?
+				Greater risk w/surgery?
+				No difference between surgery vs. conservative
+					As long as what structure is intact?
+			Some studies ~ 1/3 eventually have surgery
+		Wait and See Approach (5 yr RCT Early ACLR vs. Delayed ACLR)
+			No difference in OA or function after 5 years
+				5 years vs. having it right away; no difference found
+			Half in wait group opted for surgery within 1 year
+	Return to Sport After ACLR
+		-1/3 patients return to same level of competitive sports 12 months after surgery
+			Ardern CL. AJSM. 2011
+		-<50% of patients return to competitive sports 2-7 years after their surgery
+			Ardern CL. AJSM. 2012
+		-Young active patients are 6x more likely to sustain a 2nd ACL injury within 24 months after ACLR and RTS than healthy controls
+			20% contralateral; 9% ipsilateral
+			Paterno MV. AJSM. 2014
+	Ardern CL. BJSM. 2014 (*Read about this to have discussions with patients)
+		Updated systematic review assessing Return to Sport
+			81% (of 4837 patients) return to sport
+			65% return to pre-injury levels of sport
+			55% return to competitive sports
+			Men are 1.5x more likely than females to return to pre-injury or competitive levels of sport
+
+Forwards & Backwards - Cases ← "MSK09.mp4" [MSK1_Live08Knee]
+	Eventually, you should be able to analyze patient cases forward and backwards
+	-----------------------------------------------------------------------------
+	Case: Patient #1 (Forwards):
+		28 y.o female attorney ruptured her right ACL 1 week ago playing ultimate frisbee. She would like to avoid surgery if possible and her primary goal is to return to playing her sport at her pre-injury level.
+		--------------------------------------------------------- Breaking up
+		a.28 y.o
+		b.female
+		c.ruptured her right ACL
+		d.1 week ago
+		e.She would like to avoid surgery if possible
+		f.primary goal is to return to playing her sport
+		---------------------------------------------------------
+		g.Reports constant pain ~2/10
+		h0.Observation:
+			h1.Visible swelling surrounding the entire right knee
+			h2.Possible atrophy of right quad & gastroc
+		i0.ROM Assessment
+			i1.R Knee AROM/PROM = 21–105/12–115 (painful and somewhat firm end feel)
+			i2.L Knee AROM/PROM = 0–145/3-0-152
+				(Γ)-----------------------------------------------------------------
+				NR: 15°-0°-170°
+				firm end feel = Tissue, capsular, & ligamentous stretch
+				R worse
+		j.Patellar mobility:
+			Moderately limited on the right side; all directions (med/lat & sup/inf)
+		k0.Strength Testing MMT:
+			k1.Significant difficulty generating an isometric contraction of the right quadriceps
+			k2.Can perform a moderately effective hamstring set, and SLR on R
+			k3a.R Hip ABD and Ext = 4-/5;
+				Completes ROM against GRAVITY with nearly MOD resistance.
+			k3b.L Hip ABD and Ext = 4+/5
+				Completes full ROM against GRAVITY with nearly MAX Resistance.
+		l.Flexibility Testing:
+			HS length on R limited as compared to L
+				(Why? Due to pain, then no use ¿?)
+		m.Proprioception/Balance Testing
+			SLS on left >30 sec; on right <5 sec
+		n.Functional Testing
+			Ambulates with a noticeable antalgic gait (painful limp)
+				Γ[MSK1_PittKneeRules] - No need imaging since she deambualtes
+		---------------------------------------------------------
+		-What are the top 3-4 priority impairments the PT should address immediately?
+			(Γ)1st. g. Pain
+					Although the pain is not that bad, I would adress this one
+			2st. h1. Swelling
+					We need to adress the swelling before focus on ROM; swelling could affect how well she moves
+					The swelling is at the joint line and affecting it
+			3st. j. Patella
+					Since the leg movement depends on how well the patella functions
+					The Quads have a tendon on the patella
+					The patella needs to move either superior or inferior depending on the movement
+					All of this + the sweeling won't allow proper activation of the Quads
+			4st. i1. ROM
+					-At some clincs you may see a focus on gate pattern first before regaining full ROM because they prioritaze this functional activity. Also, after surgery, a focus on deambulation and proper management of assiting devices is important to begin with respecting precautions and weightbearing as tolerated.  
+			5st. k0. MMT
+					k1.Quads first
+					k3a.,h2.Not only Quads but all the mm. sorrounding the knee
+		-List 1-2 possible interventions to address each of the above impairments (a partir d'ací s'ha quedat mol rara la conversació i no ho entenc mmolt be ¿?)
+			.Pain N/A
+			.Swelling
+				Ice
+				Elevation
+				Squizing
+					Manual Lymphatic Drainage
+				Compression Sleeve
+				Ankle Pumps
+			.Patella
+				Manual Gliding of the Patella
+			.ROM
+				Heel Slides
+					Supine
+					With straps
+					Against the wall
+				Standing marches
+				For Extension
+					Manually PT pushing them on Extension
+					Supine on the edge of the table and let the leg go down (AROM)
+					Pron Hangs ¿?
+					Seated Heel Prop ¿?
+				Riding the bike
+				Depending on the precaution aducate the patient what to move more and what to move less
+				----------------------------------------
+				Quads recruitment
+					Quad sets
+						-If we do this and we see the Quads and HS firing like crazy, they think that they are using the quads but in relity they are using hip extensors to push down into the table
+							What do you do to redirect the Quads activation?
+								-Put a ball or a rolled towel underneath the knee (for feedback) and cue (from cuing) them to push the knee down onto there (tap the quad/tactile input to cue)
+						Combination of ISTEM¿? & Biofeedback
+							-Start with ISTEM so they have that stimulus and creating Quad activation and then transition them to have that activation on their own
+						Aid in superior glide to facilitate quad contraction
+						From short to long Quads (increase the motion) ¿?
+							Also, do this one in prone
+			.MMT N/A
+		-What additional but presently lower priority impairments are present?
+			Gate training
+				-First we need to regain ROM and strenght, deambulation, gate imparements or deficits, adressing balance, etc.
+			Flexibility
+				This also adressed ROM imparements
+			Strenght deficiences
+				These are very common to work on after a ACL reconstruction:
+					Hip abductors
+					Hip extensors (most people tend to be weak in this one) 
+					Hip flexors (if any deficit here)
+			Once the Quad recruitment (1st.neuromuscular imparement) is done, what do you do next?
+				Strengthening it (2nd.strenght imparement/deficit)
+		-If the patient progresses as expected, which of the priority impairments would no longer need to be addressed and which impairments would be the new priorities?
+			What things we want to switch to lower priority at this stage? ¿?
+				-Quad activation and patellar mobility should be priority. Then when they start to reinforce that motion (patella moves well, Quads are strong) but we still have ROM deficits, what might be the limiting factor?
+					Maybe scar mobiliztion (maybe adress scar tisue before; we did not talk about it)
+					The sweeling
+					Tight HS (a flexibility restriction)
+					Muscle guarding
+		-How might the PT know if the patient is being progressed to quickly or aggressively?
+			Increased
+				pain
+					along ROM deficits because of the pain
+					Muscle guarding
+					At some point it will happen to you in some treatment
+						We have to educate the pt. that after the treatment, soreness is expected. However, if to much soreness and pain, we have to respect the hraling process and slow a little bit
+				swelling
+
+	Case: Patient #2 (Backwards):
+		48 y.o. male high school teacher and track coach who runs over 20 miles per week. Developed right anterior knee pain while training for a 20K race;  was able to complete all workouts but had significant pain (6-7/10) after 1 hour of running.
+		--------------------------------------------------------- Breaking up
+		¯a.48 y.o.
+		b.male
+		¯c.runs over 20 miles (32 km) per week
+		¯d0.Developed right anterior knee pain
+			¯d1.while training for a 20K race
+		¯e0.was able to complete all workouts
+			¯e1.but had significant pain (6-7/10)
+			¯e2.after 1 hour of running
+		---------------------------------------------------------
+		Completed 6 weeks of physical therapy (2x/week)
+		Outcome:
+			Able to run previous mileage with only very minimal pain (~2/10) after runs of 5 miles or greater
+		Representative Interventions (Reverse Chronological Order)
+			Week 1-2:
+				1.Cross Friction Massage to patellar tendon
+				2.Concentric Partial-Range Wall Squats
+				3.Side-lying Hip Abduction & Clamshells
+				4.OKC hip Ext in prone w/flexed knee
+				5.Bridging
+				6.Patellar Taping prior to performing exercises
+				7.Education on reducing/limiting running volume
+			Week 3-4:
+				8.Single leg bridges
+				9.Eccentric step downs (right leg) and wall squats/squats
+				10.Various core stability exercises on physioball
+				11.Stretching exercises for hamstrings, rectus
+				12.Light jogging on treadmill focusing on running form
+			Week 5-6:
+				13.Single leg squats & wall squats (concentric and eccentric)
+				14.Hip ABDuction in sidelying plank position
+				15.Plyometric exercises
+				16.Fine tuning of running form, cadence, etc.
+		---------------------------------------------------------
+		.What do you think were the priority impairments in:/What imparements are we trying to address for each element on the list per weeks?
+			1st.Initial considerations from History & Physical Exam
+				a. ← OA not probable
+				c., d1., ← Overuse/Overload of the structure
+				d0. ← Location: Patellar tendon, Apophysitis, Peripatellar & Patellar Pain, Quadriceps Tendon?
+						Patellofemoral Pain Syndrome (PFPS)
+						Patellar hypermobility (instability & pain) ← 6.
+				e1. ← Inflamation or tear?
+				e0., e2. ← Not acute
+			Week 1-2?
+				1.,6.,7. + d0. Tendonosus::Treatment of Tendinosus::Patellar tendon::inflammation & pain (See [MSK1_L07_TendVSTend])
+					1.Might be a prior injury not properly addressed
+					6.For stabilization, maltracking
+						-For pain
+						-There could be general hypermobility of the patella and you try to provide stabilization
+						-Might be imbalance like moving or resting more laterally with limited medial glide; taping kind of reset it.
+						-If there is irritation of the infra-patellar fat pad this technique can take pressure on this area (off-loading technique) Γmassaging the sorrounding tissue
+						-For alterations on its mechanics (like a Quad dominant pattern)
+					7.Inflamation & Pain
+						Activity modifications
+						Work on pain management
+				2.,3.,4.,5., Weak hip & gluts
+					-Since the gluts are week, we use more the Quads (oveworking) and that is the reason for the irritation. We need to strenghten the gluts
+					2.Weak hip abductors - Same reason as before
+						-----------------------------------------
+						May be weakness or poor recruitment
+							Determine that through MMT
+								If strong = mm. are not well recruited = neuromuscular issue				
+			Week 3-4?
+				N/A
+			Week 5 & 6?
+				13.,14.Strenghtening
+				15.Power
+		.What exam findings do you think were present at the initial evaluation with respect to: (Γguessing game)
+			Observation
+				Swelling in anterior knee
+				Irritation arround the fat pad
+				MMT for Abd & Gluts & Extensors
+				Gate (Quad activation, position of patella and other abnormalities)
+			Knee ROM
+				Decreased AROM & PROM
+					on flexion at end range (extension normal) ← d0.
+					(or the contrary¿?)Extension weak and limited at end range (quads) ← Γ1.,6.,2.,
+						--------------------------------------------------
+						due to swelling
+						due to tension on the quads
+				Pain ← d0.
+			Strength Testing
+				Weakness of hip extensors & abductors
+				Depending on the pain level you may see a little bit of restriction on quads
+					More like pain induced than weakness, and based on the exercises we are seeing 
+			Joint mobility (taping in there)
+				Limited but more positive for pain b/c we are trying to off-loaded with the taping ¿?
+				Disconfort with different motions
+				taping for
+					off-loading
+					stabilization of the patella
+					hypermobile patella
+					Etc. (see above for taping & off-loading)
+			Flexibility Testing (stretches in interventions)
+				Limitation on HS lenght (common seen in Tendinopathy)
+					If pt. have tight HS, it will be (+) for 90/90
+			Proprioception/Balance
+				Limitations ¿?
+			Palpation?
+				Tenderness around the patella (tendon)
+			Functional Analysis (something about running form)
+				Gate pattern
+				Running
+					Decreased hip extension
+					Stabilization of the hip (pelvic drop)
+					Dynamic knee valgus (loos of hip external rotator control)
+		-.Based on your exam findings, in a very general sense, what are a couple of hypotheses for the patient’s diagnosis?
+			✓CORRECT ANSWER: Patellar Tendinopathy
+			A degenerative meniscal condition ← c.,a.,d0.¿?,d1.
+
+4.9. Quiz 4 & Exam Midterm2 (Chs 4,6, & 7) ('4.9. Quiz 4 & Exam Midterm2 feedback.docx')
+	-There were 3 questions for which additional credit was given
+	-All were given credit for this question.  While Resistance exercises are still the best choice for this individual, I felt it was a bit vaguely worded enough to cause possible confusion.
+		.A physical therapist finds the following in a 40 year-old female experiencing femoral acetabular impingement:
+			Active and passive hip range of motion are within normal limits
+			Manual muscle testings shows all hip motions to be —4/5
+			A positive Hip Scour test
+			A log roll test that is painflul in external rotation but negative in internal rotation.
+			Normal 90/90, Thomas, and Ely's tests
+			-------------------------------------
+			Based on this information, which of the following interventions would be MOST beneficial?
+				Grade 34 Mobilization of the hip joint
+				Stretching of musdes crossing the hipjoint
+				Strengthening exercises for the quadriceps
+				✓Resistance exercises for the gluteal muscles
+		.Tory is a 31 year-old triathlete with complaints of left anterior knee pain. You notice during functional evaluation that she experiences lateral tracking of the left patella during active knee extension and when running on the treadmill. Which of the following interventions should NOT be a primary focus of her treatment program?
+			Patellar taping
+			Open chain exercises for the hip extensors
+			✓Open chain exercises for the quadriceps
+			Closed chain exercises for the lower extremities
+		.A patient who has patello-femoral pain syndrome due to lateral tracking of the patella would most benefit from:
+			Exercises that selectively target the vasus medialis
+			Iontophoresis
+			✓Exercises that target hip abductors and extensors
+			Cross fiiction masage
+			All of these interventions
+		--------------------------------------------------------
+		-The statistics support that these were quality questions and there is no flaw in the wording that I can see.  However, I added 2 points on to everyone’s exam so that those who missed them would not have points deducted and those who got them correct received a bonus point for each.
+
+	-In addition, I noted the following patterns of misconceptions in the written questions about the patient post-TKA and the patient with PFPS
+		-Many students mentioned the use of heat or ice to treat swelling. While ice would not be inappropriate it does not do much to remove existing swelling (there was no deduction for that). Applying heat on a swollen or inflamed area, however, can be detrimental and further increase inflammation.
+		-Flexibility testing would be very low priority on the exam post-surgery as these would be difficult to perform on someone who lacks significant ROM. Also identifying tight muscles would be low priority as there are many other higher priority issues.
+		-Same with proprioception testing. When lacking significant motion and likely using an assistive device, assessing this is a low priority early on.
+		-Many mentioned strength testing of the hip flexors as a test to do at eval. As we have discussed, the hip flexors provide minimal stability in the lower extremity (i.e.; not steak muscles). Also they are used frequently due to the nature of human movement and less likely to become weak as compared to other hip muscles.
+		-MMTs for knee flexion and knee extension would not be well-tolerated in a patient post-surgery and therefore not the best choices to perform.
+		-Instability tests like varus, valgus, anterior drawer, etc. would not be appropriate for a patient post-TKA.  No reason to suspect instability in these patients as the ligaments they test are no longer present.  
+		-The Brush and Sweep test is not used when swelling is obvious. It is only a test for minimal effusion – which means you are not certain if it is present or not with the naked eye. If swelling is obvious there is no additional value in performing it.
+		-And finally, many students widely missed the point about selectively trying to strengthen the VMO and said that this is something that would be beneficial. As I mentioned in class 1) There is minimal evidence that any exercise can selectively target or recruit the VMO and 2) Even if you could, research where these exercises are compared to ones that target hip muscles shows that targeting hip muscles provides much superior outcomes. Take home message – Don’t try to selectively train the VMO!
+
+(See [MSK1_ExamComp])
+
+Knee cases for practice [MSK1_Imm2B_Knee] [MSK1_Imm2B_Knee_CaseJoe]
+	Case: 1``
+		-Joe/Jo is a 48 year-old male/female who is 4 weeks post meniscal repair on the left knee. He/She was non-weightbearing for the first two weeks after surgery but since then been ambulating using a knee immobilizer to protect the knee when walking in the community and removing it when at home to do range of motion exercises recommended by the surgeon. He/she is now cleared to begin physical therapy and strengthening activities at your discretion.
+		-Pain is of minimal severity and irritability levels are low and you therefore think he/she is capable of tolerating any type of test or measure.
+		-He/She ambulates into your clinic independently using the immobilizer
+		--------------------------------------------------------------------- Breaking down
+		a.48 year-old
+		b.male/female
+		c.left knee
+			c1.4 weeks post meniscal repair
+		d.He/She was non-weightbearing for the first two weeks after surgery
+			d1.but since then been ambulating using a knee immobilizer
+				d1A.to protect the knee when walking in the community and
+				d2B.removing it when at home
+					d2B1.to do range of motion exercises recommended by the surgeon
+		e.now cleared to begin (at your discretion)
+			e1.physical therapy and
+			e2.strengthening activities
+		f.Pain
+			f1.minimal severity and irritability levels are low and
+			f2.you therefore think he/she is capable of tolerating any type of test or measure
+		g.ambulates into your clinic independently using the immobilizer
+		---------------------------------------------------------------------
+		Which of these Components of Musculoskeletal Assessment do not likely need to be performed?
+			Range of Motion (ROM)
+			✓Joint Mobility
+				For sure: patellar mobility
+				Also, other joints besides the knee:
+					-Ankle screen to find out if the problem is comming above or below the knee is not needed since we already know. It is more to see how is the status of these joints since he is post op 48 y.o
+			✗Flexibility / Muscle Length
+				Not wrong to do it but we won't get lots of info from that
+				Also, they are just post op
+			✓Gross Strength / Muscle Performance
+				Hip: stake mm.
+						Abductors
+						Extensors
+						External Rotators
+						NOT as much hip flexors!
+			✗Diagnostic Special tests
+				Since we know what is happening
+			✓Palpation
+				Not really needed (it is more a priority) but if you do it, is going to be for:
+					since it was a surgery
+						For warmth
+						Check for muscle spasm around the area
+			✓Functional assessment
+				ΓTo check the current status of the pt.
+					Gait
+		What joint(s) other than the knee should be assessed in some way? (See [MSK_ScreenHip&Ankle])
+		With a partner, outline tests and measures (IF ANY) you would perform 
+			-Take in account that if we know that the problem is the knee, we want to make sure the status of the knee first before jumping to test other areas to rule them put since we can hurt the knee in this provess (MMT, etc.)
+			-How this activities help you to be more prepared for the clinicals?
+				Listen the audio in the phone (at the end of the audio)
+			-----------------------------------------------------------------
+			In Sitting:
+				ROM: Knee ext agains gravity
+				MMT:
+					Knee flex & ext
+					Hip IR & ER
+				Palpation
+			In supine:
+				ROM: 
+					Hip screen
+					Knee A/PROM
+					IR/ER not really needed
+				Joint Mobility: patellar mobility
+				Palpation
+				ΓGirth measurements and Brush Test
+			In Sidelying:
+				ROM: hip Abd against gravity?
+				MMT: hip Abd
+			In Prone:
+				ROM: hip ext against gravity?
+				MMT: hip ext/glut max
+			Standing: gait to see how it look like
+			Any functional testing is of value here
+				It does not matter if they do not have full range but that the pts. are able to put their paints, etc.
+Basic therapeutic exercises for conditions affecting the knee [MSK1_Imm2B_Knee]
+	General ROM
+		Heel Slides
+		Chair slides
+		Coffee table stretch
+	General strengthening (Quads/HS)
+		Quad sets
+		Hamstring Sets
+		Wall squats 
+	General Strengthening (Hip)
+		Sidelying Hip ABD
+		Prone Hip Ext
+			Straight knee
+			Bent knee
+
+Guess the pt. issue through [MSK1_Imm2B_Knee] (Gravar-se acò a foc per cada estructure; que hi ha uno pategut a este) ☢
+	Patient Case: 1
+		L knee AROM only slightly limited for both flexion & extension (PROM normal)
+		L patellar mobility normal
+		HS stenght, hip extension, and hip Abd all weak (3+/4- out of 5)
+		Gait shows very slightly limp due to weakness
+	patient Case: 2
+		Knee ROM limited for both flexion and extension (10°-100°)
+		Patellar mobility limited
+		L hip Abd slightly weak (3+/4 out of 5)
+		Gait abnormalities due to limited knee ROM
+		----------------------------------------------------------------
+		This is what you have to have in mind to find out from scratch what is happening to the patient
+			(See 1nd. [MSK1_C1.2,3]::[MSK_PTExamComp])
+				(see 1.1nd. [MSK_ScreenHip&Ankle])
+			(See 2nd. [MSK1_KneeHistExam])
+			(See [MSK1_Imm2B_Knee_CaseJoe])

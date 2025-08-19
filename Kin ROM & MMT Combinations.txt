@@ -1,0 +1,332 @@
+--------------------------------------------------------------------
+                    Reasons & RESULTS
+--------------------------------------------------------------------
+.Why PROM/AROM: To see if: 
+    -Muscular/Tendinous (Contractile)
+    -Capsular/Ligamentous/Joint (Non-Contractile).
+    AROM = Contractile
+    
+.Why MMT: to see if weakness.
+
+.Flexibility test: to see flexibility issues.
+
+------------------------------------
+
+.VERBALIZE:
+    -What type of impairement?
+        --Weakness of the (assign grade)...
+        --Decreased ROM into (based on measures)...
+        --Decreased flexibility of the...
+    -Contractile (what muscle group?) or Non-Contractile (what structure?)?
+
+--------------------------------------------------------------------
+                    Sources of ROM Limitation
+--------------------------------------------------------------------
+COLUMN 1
+    ROM Limitations Present
+COLUMN 2
+    Possible Source of ROM Limitation
+
+1. Pain and/or limitation of AROM only - 1. Muscle and tendon injury
+
+2. Pain and/or limitation of both AROM & PROM - 2. Injury to joint capsule, ligaments, articular cartilage; possibly also muscle/tendon injury
+
+2.b. Pain at end ranges of both R AROM and PROM. Ranges are normal - Contractile: Tendon stretching at end of motion (tendon injury).
+
+3. Pain and/or limitation of only PROM - 3. Not possible in theory
+
+4. Limitation of AROM only without pain - 4. Weak muscles
+    ==Un home centenary que alc'a el brac' i s'adorm a la mitat sense dolor - Està molt dèbil==
+
+--------------------------------------------------------------------
+                            HIP & KNEE
+--------------------------------------------------------------------
+.All possible elements:
+
+-ROM
+    --Knee
+    Knee Flexion (supine)/Knee Extension (supine)
+    --Hip
+    Hip Flexion (supine)/Hip Extension (prone)
+    Hip IR/ER (sitting) - Hip IR/ER (supine)
+    Hip ABD (supine)/Hip ADD (supine)
+    --Foot (PF: 30-50 DF: 15-20)
+    PF (supine) - PF (prone)
+    DF (knee straight, Gastroc length) (supine) - DF/True DF (knee bent, Soleus length) (prone) 
+    Inv Calcaneal (prone)
+    Ever Calcaneal (prone)
+    Adduction foot (sitting)
+    Abduction foot (sitting)
+    Inv whole foot (sitting)
+    Ever whole foot (sitting)
+    ---General Joint Mobility
+        Rear Foot (subtalar) (calcaneal Inversion/Eversion)
+        Midfoot (abd/add) (forefoot Abduction/Adduction)
+        Mid/forefoot (inv/ever) (forefoot Inversion/Eversion)
+
+-MMT
+    --Knee
+    Knee Flexion (prone)/Knee Extension (sitting)
+    --Hip
+    Hip Flexion (sitting)/Hip Extension (prone)
+    Hip IR/ER (sitting) - Hip IR/ER (supine)
+    Hip ABD (sidelying)/Hip ADD (sidelying)
+    --Foot
+    DF (sitting)
+    PF (sitting)
+    Inv (sitting)
+    Ever (sitting)
+    Tib. Ant. (sitting)
+    Tib. Post. (sitting)
+    Peroneals (sitting)
+    Gastroc (prone) - Gastroc (functional - tipy toes walking) 
+    Soleus (prone) - Soleus (functional - rise legs bend knee)
+    
+-Flexibility
+    Thomas Test (Ilipsoas - Rectus Femoris)
+    90/90 Test (Hamstrings)
+    Ober's/Modified Ober's Test (TFL - ITB)
+    Piriformis Test 
+    Ely's Test (Rectus Femoris)
+    Gastroc (supine) (DF)
+    Soleus (prone) (knee bent)
+    
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+.All possible in sitting:
+
+-ROM
+    --Knee
+        N/A
+    --Hip
+        Hip IR/ER (sitting)
+
+-MMT
+    --Knee
+        Knee Extension (sitting)
+    --Hip
+        Hip Flexion (sitting)
+        Hip IR/ER (sitting)
+        
+==Pendul i la forc,a de la creu==
+--------------------------------------------------------------------
+.All possible in supine:
+
+-ROM
+    --Knee
+        Knee Flexion (supine)/Knee Extension (supine)
+    --Hip
+        Hip Flexion (supine)
+        Hip ABD (supine)/Hip ADD (supine)
+-MMT
+    --Knee
+        N/A
+    --Hip
+        Hip IR/ER (supine) REPE
+        
+==Kick the ball up knee & hip, and sides. Pero no te forc,a per a xutar==
+--------------------------------------------------------------------
+.All possible in prone:
+-ROM
+    --Knee
+        N/A
+    --Hip
+        Hip Extension (prone)
+-MMT
+    --Knee
+        Knee Flexion (prone)
+    --Hip
+        Hip Extension (prone)
+        
+==El poder i la distancia del pet, i em cage pates avall (amb forc.a)==
+--------------------------------------------------------------------
+.All possible in sidelying:
+
+-MMT
+    --Hip
+        Hip ABD (sidelying)
+        Hip ADD (sidelying)
+        
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+                Reduced Note-Taking Exercises
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+.Sitting:
+-ROM --Hip
+        Hip IR/ER (sitting)
+-MMT
+    --Knee
+        Knee Extension (sitting)
+    --Hip
+        Hip Flexion (sitting)
+        Hip IR/ER (sitting)
+**********************************
+.Supine:
+-ROM
+    --Knee
+        Knee Flexion (supine)/Knee Extension (supine)
+    --Hip
+        Hip Flexion (supine)
+        Hip ABD (supine)/Hip ADD (supine)
+-MMT --Hip
+        Hip IR/ER (supine) REPE
+**********************************
+.Prone:
+-ROM --Hip
+        Hip Extension (prone)
+-MMT
+    --Knee
+        Knee Flexion (prone)
+    --Hip
+        Hip Extension (prone)
+**********************************
+.Sidelying:
+-MMT --Hip
+        Hip ABD (sidelying)
+        Hip ADD (sidelying)        
+
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+                    PROBLEM SOLVING ROM & MMT - Part 1
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+
+Patient #1
+
+62 year-old male with complaints of “deep” R hip pain
+Has gradually worsened over the past year
+Warehouse worker retiring in next 6 months
+---------------
+.TESTS
+.Sitting:
+-ROM --Hip
+        Hip IR/ER (sitting)
+-MMT
+    --Knee
+        NO! Knee Extension (sitting)
+    --Hip
+        NO! Hip Flexion (sitting)
+        Hip IR/ER (sitting)
+**********************************
+.Supine:
+-ROM
+    --Knee
+        NO! Knee Flexion (supine)/Knee Extension (supine)
+    --Hip
+        NO! Hip Flexion (supine)
+        Hip ABD (supine)/Hip ADD (supine)
+**********************************
+.Prone:
+-ROM --Hip
+        NO! Hip Extension (prone)
+-MMT
+    --Knee
+        NO! Knee Flexion (prone)
+    --Hip
+        NO! Hip Extension (prone)
+**********************************
+.Sidelying:
+-MMT --Hip
+        Hip ABD (sidelying)
+        Hip ADD (sidelying)
+---------------
+.Esta es la conclusió que trac después d'haver fet tots els tests:
+This patient shoild have pain and some limitations with Right (R) AROM and PROM in all directions to varying degrees. Limitations in AROM and PROM should be similar.
+---------------
+MMTs are very weak for all R hip muscles.
+---------------
+RESULT Mirar 'Sources of ROM Limitation': 
+    Non-Contractyle issue (Sources of ROM Limitation #2)
+
+---------------------------------------------------------------------
+
+Patient #2
+
+34 year-old female with complaints of proximal L hip pain
+Runs ~ 25 miles per week
+Comes on after 2-3 miles of running
+----------------
+.TESTS
+.Sitting:
+-ROM --Hip
+        Hip IR/ER (sitting)
+-MMT
+    --Knee
+        Knee Extension (sitting)
+    --Hip
+        Hip Flexion (sitting)
+        Hip IR/ER (sitting)
+**********************************
+.Supine:
+-ROM
+    --Knee
+        Knee Flexion (supine)/Knee Extension (supine)
+    --Hip
+        Hip Flexion (supine)
+        Hip ABD (supine)/Hip ADD (supine)
+**********************************
+.Prone:
+-ROM --Hip
+        Hip Extension (prone)
+-MMT
+    --Knee
+        Knee Flexion (prone)
+    --Hip
+        Hip Extension (prone)
+**********************************
+.Sidelying:
+-MMT --Hip
+        Hip ABD (sidelying)
+        Hip ADD (sidelying)
+---------------
+.Esta es la conclusió que trac después d'haver fet tots els tests:
+This patient will report 'slightly pain' only at the end ranges of both R AROM and PROM. Ranges are normal.
+----------------
+MMTs for the hip are all normal EXCEPT some weakness (4-/5) in R hip extension and abduction only
+----------------
+RESULT Mirar 'Sources of ROM Limitation': 
+    Contractile: Tendon stretching at end of motion (tendon injury).
+
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+                    PROBLEM SOLVING ROM & MMT - Part 2
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+
+Case #1  
+
+39 y.o. male with complaints of general foot/ankle weakness after being in an ankle boot for 6 weeks
+
+-MMT
+    --Foot
+    DF (sitting)
+    PF (sitting)
+    Inv (sitting)
+    Ever (sitting)
+    Tib. Ant. (sitting)
+    Tib. Post. (sitting)
+    Peroneals (sitting)
+    Gastroc (prone) - Gastroc (functional - tipy toes walking) 
+    Soleus (prone) - Soleus (functional - rise legs bend knee)
+
+---------------------------------------------------------------------
+
+Case #2  
+
+24 y.o. female still having lateral ankle pain with extended activity ankle sprain after 8 weeks
+
+-ROM ¿?
+    --Foot (PF: 30-50 DF: 15-20)
+    PF (supine) - PF (prone)
+    DF (knee straight, Gastroc length) (supine) - DF/True DF (knee bent, Soleus length) (prone) 
+    Inv Calcaneal (prone)
+    Ever Calcaneal (prone)
+    Adduction foot (sitting)
+    Abduction foot (sitting)
+    Inv whole foot (sitting)
+    Ever whole foot (sitting)
+    ---General Joint Mobility
+        Rear Foot (subtalar) (calcaneal Inversion/Eversion)
+        Midfoot (abd/add) (forefoot Abduction/Adduction)
+        Mid/forefoot (inv/ever) (forefoot Inversion/Eversion)

@@ -1,0 +1,97 @@
+
+.Considerations for action (AROM) and (PROM) assessments of the knee
+	assessment of extensor lag
+		To assess extensor lag, a clinician typically performs an "active lag test" where the patient is seated and asked to actively extend their knee as fully as possible, with the examiner comparing the affected knee to the unaffected side to see if there is a noticeable difference in the final extension position, indicating an inability to fully straighten the knee, which is considered an "extensor lag" or "muscle lag"; this is usually measured in degrees of flexion remaining at the knee joint when attempting full extension.
+
+.PROC_KneeFlexROM
+	Knee Extension Measurements [KRP.2]
+		-Why are there 1st.Resting Knee Extension (for hyperextension), 2nd.Knee Extension with a Quad Set, 3rd.Knee Extension During Straight Leg Raise. What is the philosophy behind having these 3 and when to use each one?
+			The three different knee extension measurements serve distinct purposes in assessing knee function and identifying potential issues:
+
+			1. Resting Knee Extension (for hyperextension) [KRP.2.1]:
+			This position provides a baseline measurement of the knee's natural resting position. It's useful for:
+			- Assessing passive hyperextension
+			- Determining the starting point for extension measurements
+			- Evaluating the patient's tolerance for full extension, which can provide information about symptom irritability
+
+			2. Knee Extension with a Quad Set [KRP.2.2]:
+			This measurement assesses active knee extension while eliminating the effect of gravity. It's valuable for:
+			- Evaluating quadriceps strength and activation
+			- Assessing patellar movement during contraction
+			- Identifying pain sources during active muscle engagement
+			- Measuring extension limits when posterior structures are under passive stretch
+
+			3. Knee Extension During Straight Leg Raise [KRP.2.3]:
+			This test evaluates active knee extension against gravity. It's important for:
+			- Assessing the extensors' ability to maintain full knee extension against gravity
+			- Providing perspective on functional knee extension during activities like gait
+			- Identifying potential quadriceps weakness or extensor lag
+
+			The philosophy behind using these three measurements is to provide a comprehensive assessment of knee extension under different conditions. This approach allows therapists to differentiate between various factors affecting knee extension, such as muscle weakness, joint restrictions, or pain limitations[1].
+
+			When to use each measurement:
+			- Use Resting Knee Extension to establish a baseline and assess passive structures.
+			- Employ Knee Extension with a Quad Set to evaluate active muscle function without gravity.
+			- Utilize Knee Extension During Straight Leg Raise to assess functional extension against gravity.
+
+			By using all three measurements, clinicians can gain a more complete understanding of the patient's knee extension capabilities and limitations, leading to more accurate diagnosis and targeted treatment planning.
+
+PFPS
+	Eccentric Step Test
+		(Γ)What is the difference between Stepdown Test and Eccentric Step Test?
+			The Step-down Test and Eccentric Step Test are similar assessments used to evaluate knee function, particularly for patellofemoral pain syndrome (PFPS), but they have some key differences:
+
+			## Step-down Test
+
+			- Performed from a platform 8 inches (20.32 cm) high[4].
+			- The patient steps forward and down, brushing the floor with the heel before returning to full knee extension[4].
+			- Typically timed for 30 seconds, counting the number of repetitions completed[4].
+			- Assesses hip and leg strength and endurance[7].
+
+			## Eccentric Step Test
+
+			- Uses a higher step, often 15 cm or 50% of tibia length[6].
+			- The patient steps down as slowly and smoothly as possible[2][6].
+			- Focuses on the eccentric (lowering) phase of the movement[2].
+			- Primarily used to provoke symptoms and assess patellofemoral joint integrity[3].
+
+			## Key Differences
+
+			1. **Height**: The Eccentric Step Test typically uses a higher step than the Step-down Test.
+
+			2. **Movement Speed**: The Eccentric Step Test emphasizes a slow, controlled descent, while the Step-down Test may be performed at a more natural pace[2][4].
+
+			3. **Assessment Focus**: 
+			   - Step-down Test: Evaluates strength, endurance, and repetitions in a set time[4].
+			   - Eccentric Step Test: Primarily assesses pain provocation and movement quality[2][3].
+
+			4. **Scoring**: The Step-down Test often counts repetitions, while the Eccentric Step Test may use qualitative criteria or pain reproduction as indicators[1][2].
+
+			Both tests are valuable in assessing knee function, particularly for PFPS, but the Eccentric Step Test is considered more reliable for specifically evaluating patellofemoral pain syndrome[2][3].
+
+.Knowledge Check
+	-The recommended focus of hip muscle training has been mentioned multiple times in this an other lessons and is very similar to. Answer the following question to test your recall of which specific muscles/muscle groups have been mentioned for this purpose.
+		-Select ALL "hip muscles"/"muscle groups" that have been previously mentioned as MOST important to train for providing proximal stability and neuromuscular control (!!)
+			External Rotators
+			Internal Rotators
+			Abductors
+			Adductors
+			Tensor Fascia Lata
+			Rectus Femoris
+			Sartorius
+			Extensors
+			Flexors
+	------------------------------------------------------------------------------
+	Based on the information provided, the hip muscles/muscle groups that have been previously mentioned as most important to train for providing proximal stability and neuromuscular control are:
+		- External Rotators
+		- Abductors
+		- Extensors
+
+	These muscle groups are crucial for maintaining proper alignment of the lower extremity during functional activities and reducing stress on the knee joint. Specifically:
+		1. External Rotators help control femoral internal rotation, which can affect patellar tracking.
+		2. Abductors (particularly the gluteus medius and minimus) are essential for hip stability during single-leg stance and gait.
+		3. Extensors (primarily the gluteus maximus) play a vital role in hip and pelvis control during functional activities.
+
+	Training these muscle groups can significantly improve proximal control and stability, which is beneficial for overall knee function and rehabilitation.
+
+.https://www.ortho-teaching.feinberg.northwestern.edu/cases/leg-knee/index.html (!!)

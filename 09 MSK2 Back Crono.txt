@@ -1,0 +1,1518 @@
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+(Γ)Step by Step Guide (Mod 1-3) - Until this Point
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+
+.Mini Menú (Millorar este menú, sobre tot al principi)(!!)
+	.Physical Therapist's Responsibility
+	.Systematic examination process for patients presenting with low back pain (lumbar and sacral spines)
+		.(0.)
+			ΓInitial Considerations
+		.(1) History
+			.Take a comprehensive patient history (ASK the pt.)
+				Cancer?
+				Infection?
+				Fracture?
+				Abdominal aortic aneurism?
+			---------------------------------
+			.(1.2.) Red Flags
+			.(1.2.a.) Red Flags + Mechanical pain vs. visceral origin
+				.(1.3.a) Rule out Cancer?
+			(1.3.) Systemic Disease?
+			(1.4.) Radiating spine symptoms?
+			----------------------------------
+			(1.7.) [MSK2_1.7. Evaluating Patients with Low Back Pain]
+		.(2) Physical Examination
+			.1.17. Lumbar Spine Exam Summary
+			.(1.8.) Performing a systematic physical examination
+				General Guidelines
+				(1.9.) Observation/Inspection of the Lumbar Spine
+				(1.10.) Lower Quarter Screening (LQS)
+				1.11. Active Range of Motion (AROM) Testing of the Lumbar Spine
+				1.12. Passive (PROM) and Accessory Motion Testing for the Lumbar Spine
+				1.13. Muscle Flexibility Testing
+				1.14. Muscle Performance/Strength Testing Γ& Functional Testing
+				1.15. Palpation in the Lumbar Spine
+				1.16. Special Tests for Lumbar Pathology
+		.(3) Spinal Pathologies and Introduction to the Treatment-Based Classification System
+			.1.18. Spinal Pathologies and Introduction to the Treatment-Based Classification (TBC) System
+			.1.19. Patho-Anatomical Diagnoses of the Lumbar Spine
+			.1.20. Common Structural Spinal Pathologies
+				"Discogenic" Pain
+				Lumbar Radiculopathy
+				Lumbar Stenosis
+				"Facet" Pain
+				Lumbar 'hypermobility' or 'Instability'
+				Muscle/Ligament — Strain/Sprain
+				Degenerative Disc Disease
+				Sacroiliac Joint Dysfunction
+				Spondylolisthesis
+		.(4) Lumbar TBC: Symptom Modulation Approach (See '(2aTBC.)' Com els fisione? ¿?)
+			.1.21. The Treatment-Based Classification (TBC) System
+			.(NO GASTAR ESTE!)2.2. Treatment-Based Classification Systems for Management of Spinal Conditions: The Pioneers
+			.(SI GASTAR ESTE!)2.3. 2007 Version of Treatment-Based Classification for Low Back Pain
+				.Classification Categories
+					1.Stabilization
+					2.Specific Exercise
+						2a.Specific Exercise "Flexion"
+						2b.Specific Exercise "Extension"
+						2c.Specific Exercise "Lateral Shift"
+					3.Manipulation
+					4.Traction
+					Decition-Making Chart Γfor Classification Categories of Low Back
+		.(5) ΓTriage for exercise
+			.2.4./2.6.¿? Updated TBC Content
+				Triage Criteria and Rehabilitation Sub-Groups
+					.1TBC.(RED)Medical Management / First-contact healthcare providers - Clinical Findings
+					.2TBC.(YELLOW)Rehabilitation Management / Rehabilitation providers - Clinical Findings
+						.2aTBC.Symptom modulation (RED) (GRAN CONEXIÓ) !!
+							(2.6.a)Rehabilitation Approaches (GRAN CONEXIÓ) !! (See '(1.21.)')
+								.Directional preference exercises
+									.2.8.Overview of Specific Exercise Subgroups
+										Specific Exercise Classification
+											Centralization
+											Peripheralization
+											-------------------------
+											Examination Findings
+											Criteria for Status Change
+											Indications from the History
+									.2.9.Overview of Specific Exercise: Extension Classification
+										2.9.1.Patho-Mechanics of Patients with "Extension Classification Grouping"
+										2.9.2.Treatment for Extension Specific Exercise
+										2.9.3.Education for Extension Classification
+										2.9.4.Manual Therapy to Enable Extension
+									.2.10.Evidence for Centralization and Directional Preference Exercises & Procedures (ignora este)
+									.2.11.Overview of Specific Exercise: Flexion Classification
+										2.11.1.Patho-Mechanics of Patients with Flexion Classification Grouping
+										('28 Mod 2 Specific Exercise Flexion Classification Non-Surgical Treat.mp4')
+									.2.12.Traction Sub-Classification
+									.2.13.Lesson 2B Summary
+								.Manipulation/mobilization
+								.Traction
+								.Active rest
+						.2bTBC.Movement control (YELLOW)
+						.2cTBC.Functional Optimization (GREEN)
+							Rehabilitation Approach
+					.3TBC.(GREEN)Self-Care Management - Clinical Findings
+				('Criteria for Levels of Triage.py')
+END Mini Menú -------------------------------------------------------------------------------
+
+.Physical Therapist's Responsibility
+	Ask the appropriate questions
+	Possess the knowledge to interpret
+		How to put the puzzle together including History and Physical Exam
+	Make sure they are appropriate for your care!
+	Re-assessment of status during episode of care
+	Effectively communicate with referral sources
+		(See 'Harm vs. Benefits of Using Structural Language with Patients')
+
+.Systematic examination process for patients presenting with low back pain (lumbar and sacral spines)
+
+(0.).ΓInitial Considerations 
+	Les que fica (REPE) es per que venen d'un altre puesto però es poden fer ací també
+	----------------------------------------------------------------------------------
+	(1.9.)(REPE)Pay special attention to the patient’s level of apparent discomfort, ability to move in/out of chair for examination, etc. 
+		This may provide further information about SINSS.
+	(1.7.)Patient Age [MSK2_LBP_1.7.AgeClassifCondition]
+		Younger (<20 y.o.)
+			LBP rare
+			Spondylolisthesis, ankylosing spondylitis, disc pathology
+		20-50 y.o.
+			Disc pathology, facet pathology, instability, muscle strain
+		Older (>50 y.o.)
+			Degenerative conditions
+				Degenerative disc disease, stenosis, degenerative spondylolisthesis
+
+.Take a comprehensive patient history (ASK the pt.)
+    -Identify (screenig=identify? or screening means refer and we PT only identify? ¿?) for red flags [(.5.)needs 2 or 3 or more red flags!] that may present as typical mechanical low back pain
+    	(1.6.)
+    		More pratice in "Breakout Session 1: Screening for Red Flags"
+    		-------------------------------------------------------------
+    		The Best Predictor of Red Flag Conditions is the History
+	    		Cancer: The best predictor is a previous Hx of Cancer (At '(1.2.a.) & (1.3.a)')
+	    			Follow along from next (1.2.)
+	    		Infection: Presence of fever is the best predictor (At '(1.2.::Fever) & (1.3.::Constitutional signs)')
+	    			Follow along from next (1.2.)
+	    		Fracture: Individuals of older age and a history of trauma should always be screened for fracture
+	    			(!!)
+	    		Abdominal aortic aneurism: May be ruled out with an abdominal girth measurement of < 100 cm (sensitivity 100%)
+	    			(!!)
+    	(1.2.)
+    		-¦5.Freddy Krueger//1.m'asusta, em fa correr i em fica malalt//4.acabe tornant la llet en galletes//2.perc pes de la correguda//3.de l'estrés acabe fatigat i amb cancer (el de la cara de Freddy)
+    		--------------------------------------------------------------------------------
+    		1.¹(³)Fever/chills/sweats?
+    		2.²(³)Unexplained weight loss? 
+    		3.Fatigue/³(²)malaise Γ(general, non-specific symptom that can indicate an underlying illness)? 
+    		4.Nausea and vomiting? 
+    		5.Nighttime pain? (Go to '(1.7.)')
+    	(1.2.a.)
+    		1.backache and/or history of a malignancy Γ(cancerous or malignant tumors) during the previous 2 years? → secondary malignant deposits in the spine until proven otherwise
+    			(1.3.a) Rule out Cancer? (100% sensitivity)
+    				¦1.Antes de la mitat de la vida (jove i curvy=50)//2.es carranc d'oròscop//3.Flaca//4.Conservadora (que guisa, planxa, etc.)
+    				1.Age is less than 50 y-o
+    				2.No prior history of cancer
+    				3.No unexplained ²(³)weight loss
+    				4.Conservative treatment is successful
+    		2.Elder & NO history of back symptoms? Yes → osteoporosis? ← need pt. to be screened
+    		3.(1.5.a)Continuous Pain Unrelated to Posture (Visceral vs. Mechanical Pain)?
+    			[MSK2_Back_RF03_ViscVs.Mech] & [MSK2_Live01_Back]
+    			-------------------------------------------------
+    			NO →
+    				Mechanical pain
+    					¹(²)Changes with position and activity? YES
+    					Associated with mechanical stress on the spine? YES 
+    					Follows known spinal referral patterns? YES
+    			YES → Unlikely to be mechanical in origin
+						Pain of visceral origin
+							Often referred to the spine and other anatomical regions? → YES
+							May be characterized as dull, diffuse, poorly, localized? → YES
+							May rhythmically build and recede? → YES
+							¹(²)Commonly constant and unchanged with posture or position? → YES
+								-------------------------------------------------------------
+								Visceral pain due to pathology of internal organs may refer in the following patterns:
+									('Visceral Referred Pain.pdf') ('Referred pain') (See: OneNote::Dermatmes) (pendent mnemotèctnia)(!!)
+										Liver & gallbladder
+										Lungs & diaphragm
+										Kidneys
+										Heart
+										Stomach
+										Pancreas
+										Ovary (female) Ovary (female)
+										Appendix
+										Small intestine
+										Colon
+										Ureter Urinary bladder    				
+    		4.⁴(²)Loss of Strength too Widespread to be Accountable by a Single Nerve Root Lesion? → Often suggests a neurological disease
+    			If not (Go to '(1.10.)(LQS)')
+    		5.Loss of Sphincter Control? → Never due to simple mechanical causes
+    	(1.3.) Systemic Disease?
+    		Very intense pain which requires morphine for more than 48 hours?
+    		Severe ...↓ in areas of the spine other than lower cervical and lower lumbar?
+    			pain,
+    			deformity, and
+    			muscle spasm
+    		Constitutional signs which accompany back pain like
+    			¹(³)pyrexia (fever),
+    			²(³)loss of weight,
+    			³(²)malaise, and
+    			⁴(²)excessive weakness
+    		Inflammatory
+    			Body Temperature ¹(³)(Fever)
+    				> 100° F // Γrange between 97ºF (36.1ºC) and 99ºF (37.2ºC) or more.
+    			Blood Pressure
+    				> 160/95 mmHg // ΓStage 2: Systolic at least 140 or diastolic at least 90 mm Hg
+    			Resting Pulse
+    				> 100 beats per minute (BPM) // ΓHR - Normal: 60-100 beats per minute (bpm)
+    			Resting Respiration
+    				> 25 breaths per minute // ΓAdult Normal: 12-20, Preschool (4 — 6 y) Normal: 18-26
+    			Discoloration
+    				Example: jaundice
+    	(1.4.)Radiating spine symptoms?
+    		pain (i.e.: sciatica)
+    		numbness, tingling, or paresthesias
+    		Weakness or diminished reflexes in specific myotomes (muscle groups) supplied by the affected nerve root
+    		-----------------------------------------------------
+    		YES → screened for Myelopathy (spinal cord compression) to differenciate from Radiculopathy? →
+    			[MSK2_RadiculopathyVs.Myelopathy]
+    				Sign/Symptom                          Radiculopathy     Myelopathy
+    				--------------------------------------------------------------------
+    				1.Myotomal weakness	                  Positive (+)	    Positive (+)
+    				2.Dermatomal change	                  Positive (+)	    Positive (+)
+    				3.Deep tendon reflex	              Diminished	    Hyperreflexia (overactive reflexes)
+    				4.Upper motor neuron signs            N/A	            Positive (+)
+    				5.Ataxia	                          N/A	            Positive (+)
+    				6.Unilateral or bilateral neuro signs Unilateral	    Bilateral
+    				---------------------------------------------------------------------
+    					-(Γ)RESUM del tauler i lo de la resta de la secció 1.4: [MSK2_MyelopathyRefer]
+    						Si Positive (+) en ...↓ es degut a Myelopathy.
+    							UMN i
+    							Ataxia, i
+    							Bilateral
+    				Si
+    					impaired bowel & bladder function" or
+    					"saddle anesthesia."
+    						[MSK2_Screening for Cauda Equina] [MSK2_Back_RF02_CEq] → No tractar, referir xa screening.
+    		NO → Treat Radiculopathy
+    			1st appearance in 'SIN3.a.Classification of problem', then '(Go to '(1.10.)(LQS)')'
+    	(Γ)Summary of Red Flags condtions
+			1.Mechanical/Typical Low Back Pain Indicators
+				Pain that changes with position and activity[1.5]
+				Pain associated with mechanical stress on the spine[1.5] 
+				Pain that follows known spinal referral patterns[1.5]
+				Younger age (20-50 years old)[1.7]
+			2.Red Flag Findings (Presence of multiple red flags, especially 3 or more[1.4][1.5])
+				Among these we have "Constitutional signs which accompany back pain like" & "Inflammatory Condition"
+				-----------------------------------------------------
+				Fever/chills/sweats[1.2][1.3]
+				Unexplained weight loss[1.2]
+				Fatigue/malaise[1.2]
+				Nausea/vomiting[1.2]
+				Nighttime pain[1.2]
+				Excessive weakness
+				Backache and/or History of malignancy (cancer)[1.4]
+				Pain that does NOT change with position and activity
+				Onset of back pain late in life (elderly age & NO history of back symptoms) = osteoporosis[1.4]
+				Signs of myelopathy (spinal cord compression)[1.4]
+				Impaired bowel/bladder function (cauda equina syndrome)[1.4]
+				Saddle anesthesia (cauda equina syndrome)[1.4]
+				Abdominal girth ≥ 100 cm (risk for abdominal aortic aneurysm)[1.6]
+			Need for Referral
+				-If red flag findings are present, especially multiple red flags, it may warrant referral to a practitioner other than a physical therapist for further evaluation and management.
+			Potential referrals based on red flags:
+				Primary care physician or internist for further medical workup
+				Oncologist if history of malignancy[1.4]
+				Neurologist or neurosurgeon for signs of myelopathy or cauda equina[1.4]
+				Vascular surgeon for suspected abdominal aortic aneurysm[1.6]
+			The decision to refer would depend on the specific red flags present and their severity. Close communication and collaboration with other providers is recommended for optimal patient care.
+		Do we go to (2.4.) if Red Flags '+'? And if not, do we go to (1.7.) inmmediatelly down below? ¿?
+    (1.7.) [MSK2_1.7. Evaluating Patients with Low Back Pain]
+    	"Aggravating/Easing factors?" + "Understand 24-hour symptom behavior and functional limitations (see 'SIN3.b.')" 
+    		From [MSK1_SINSS] (Example for the Ankle) (Mixed info from MSK2::Back; indicated as "From MSK2 (1.7.)")
+	    		SIN1.Severity
+					SIN1.a.Intensity of symptoms when present
+						SIN1.a1.Numerical Quantification
+							SIN1.a1.A. Numeric Pain Rating Scale/Pain Scale (NPRS) → 0-10
+							SIN1.a1.B. % limitation of function
+							SIN1.a1.C. Minimal-Moderate-Severe
+						SIN1.a2.Other than numbers
+							Through functional behaviour
+							Are they able to work?
+							How are they sleeping? (pain at rest)
+							Do they need to take medications to releaf the pain?
+				SIN2.Irritability						
+					SIN2.a.How easily are symptoms (sx's) provoked?
+					SIN2.b.How long does it take them to subside after beinq provoked?
+				SIN3.Nature of the symptoms (what is going on?/Why is the patient coming to see you?)
+					SIN3.a.Classification of problem
+						Nerve
+							ΓDo you have any numbness, tingling, or burning sensation? (Go to '(1.10.)(LQS)')
+						Muscle/tendon
+							Γ Is the pain deep or superficial?
+							Γ Are you experiencing any swelling or stiffness around the ankle?
+							(Γ)We will have to find out that in the Physical Exam ¿?
+								So,l no questions asked for this
+						Joint/ligament
+							Γ Is the pain deep or superficial?
+							Γ Are you experiencing any swelling or stiffness around the ankle?
+							(Γ)We will have to find out that in the Physical Exam ¿?
+								So,l no questions asked for this
+						Etc. ¿?
+					SIN3.b.Patient considerations (overall patient presentation/from patient's words)
+						Psychosocial
+							From MSK2 (1.7.)
+								Understanding/Beliefs
+									What has the patient been told?
+									What language do they use?
+									These very impactful on prognosis.
+								Additional History Considerations:
+									Previous treatment
+										What have they already tried? What was the outcome?
+											-Get details - "Physical therapy", "Chiropractic", "Stretching", "Core strengthening" can all cover huge ranges of actual interventions.
+									Ask about the rest of your patient's life
+										"Anything unusual going on in your life?
+										Stressed at work or at home?
+									Psychosocial factors appear to be best predictors of prognosis
+						Pain
+							-About pt. with chronic pain
+								-Mesure their progress based on how well functionally (or stregth) they are progressing even if the pain is the same
+									-You may have to explain to them this, to push them to progress (a psichosocial conversation): not focussing on pain but on functionality
+							-ΓWhat make the symptoms worse of better? Any posture, action, or activity, medication, etc.?
+								(0.)(1.9.)(REPE)Pay special attention to the patient’s level of apparent discomfort, ability to move in/out of chair for examination, etc.
+						Tolerance
+						Character
+						Etc. ¿?
+							-----------------------------------------------------------------
+							ΓHow is all of this affecting your ADLs?
+								From MSK2 (1.7.)
+									Sleeping
+									Sitting
+									Walking
+									Standing
+									Others?
+				SIN4.Stage & Stability (S&S)
+					We base this on the information retrieved from before
+					SIN4.a.Stage
+						Acute
+						Subacute
+						Chronic
+					SIN4.b.Stability
+						Gotten worse, etc.
+
+END of "History", INI of "Physical Examination" ---------------------------------------------------------------------------
+
+.1.17. Lumbar Spine Exam Summary Γ(Why are we doing these next steps?)
+	Identifying common patterns of signs and symptoms with which patients present
+	After completing this lesson, you should be able to recall that: 
+		-Performing an examination for the lumbar spine includes similar categories of tests and measures as in other body regions.  
+		-These test and measures are just specific to lumbar spine structures. As with other areas, screening should be performed to rule out the presence of serious red flag conditions.
+		-A primary focus of the lumbar exam is determining what actions or motions provoke or relieve the patient’s familiar symptoms.
+
+.(1.8.)Performing a systematic physical examination
+	General Guidelines for the Physical Exam Γ(Things to consider before start)
+		The following factors should guide how you conduct your physical exam:
+			Establish baseline symptoms before you start movement testing
+			Seek (in most cases) to reproduce a comparable sign
+				-Movement that reproduces patient’s familiar symptom
+					-The ability to identify a comparable sign associated with the patient’s familiar symptoms has been associated with a better prognosis.
+				-Multiple symptoms may = multiple comparable signs.
+			Plan the vigor of your assessment through tests and measures based on the patient’s identified SINSS.
+	---------------------------------------------------------
+    (1.9.)Observation/Inspection of the Lumbar Spine
+    	The ones that are taget as (0.) can be done while the pt. enters from the fromt door already
+    	------------------------------------------------------------------------
+		When performing observation and inspection specific to the lumbar spine:
+			Γ(You will understand this when your read '(1.20.)')
+			----------------------------------------------------
+			The lumbar region should be directly observable. 
+			Have the patient remove overlying clothing as able. 
+			(0.)Pay special attention to the patient’s level of apparent discomfort, ability to move in/out of chair for examination, etc. 
+				This may provide further information about SINSS.
+			Look for antalgic positions such as: Γ(This could be observale at "(0.)")
+				An inability to stand erect. 
+				Unwillingness or avoidance of weight-bearing to a particular side. 
+				A lateral shift of the trunk relative to pelvis.
+		Clinical note: ('lateral shift of the trunk relative to pelvis')
+			-A lateral shift, pictured below, occurs when the patient is reflexively positioned with the upper trunk notably shifted so it is no longer aligned with the lower trunk. The image on the right shows a lateral shift to the right, while the image on the left shows a more subtle shift to the left.
+		A reminder when drawing conclusions about a patient’s posture
+			Static posture/self-selected posture is not always well-correlated with LBP.
+			However, any posture can become painful over time.
+			Do not assume that a patient’s self-selected posture is associated with decreased symptoms.
+				Patients will sometimes persist with a posture even though it increases pain.
+		----------------------------------------------------------------------
+	    See 'Case: Kelsey' (!!)Estudiar millor xa Midterm 
+    (1.10.)Lower Quarter Screening (LQS) (See [MSK1_LQS])(!!)Review
+    	When appropriate, perform a lower quarter screening (LQS).
+    		A LQS is performed when neurological involvement is SUSPECTED or POSSIBLE but not certain.
+    			Standard components of the LQS include:
+    				Sensation/Dermatome Testing 
+    					Sensory innervation of spinal nerve roots.
+    				Myotome Testing
+    					Motor innervation of spinal nerve roots. 
+    				Deep Tendon Reflexes
+    					Assessment of the involuntary reflex loop between musculotendinous structures and the spinal cord.
+    		If neurological involvement is CERTAIN then screening is omitted and detailed neuromuscular exam is performed.
+    	('02 Mod1 LowerQuarterScreen.mp4')
+    		PLEASE NOTE:
+    			-The following video describes sensation screening using both Key ASIA (American Spinal Cord Association) Points AND sensation testing using longer strokes covering representative areas within each dermatome. Circumstances under which each are appropriate will be discussed further during live sessions but as we learned in MSK 1, it is typically more useful to screen sensation using the longer representative strokes within each dermatome. 
+    		As a review, this involves:
+    			-Performing 6-8" Γ(15.24 to 20.32 cm) strokes in similar areas on right and left sides of the body
+    			-Performing multiple strokes within each dermatome, with the goal being to assess sensation of the skin in the MAJORITY of the dermatome
+    				-i.e., you do not need to assess every millimeter of skin - just enough to be sure you are not missing any large areas)
+    			-With the patient's eyes closed, asking him/her if they note any differences in sensation from side to side
+    1.11. Active Range of Motion (AROM) Testing of the Lumbar Spine
+    	-When performing AROM testing: ('trunk movements.png')
+    		-Be certain you can directly observe the patient’s spine down to the skin. 
+    		-Assess forward bending, backwards bending, side bending bilaterally. 
+    		-While viewing these consider, at which lumbar segments movement is occurring as well as which segments ARE NOT moving/contributing during the motion.
+    		-If trunk rotation is assessed, it should be assessed with the patient’s pelvis fixed in a seated position.
+    	-Lumbar AROM testing performance and lumbar rotation. ('03 Mod1 Lumbar AROM Assessment.mp4')
+    	-Lumbar ROM screen and single motion testing of the lumbar spine. ('04 Mod1 Lumbar_Screen_and_Combine_Motion-Quadrant_Testing.mp4')
+    	-Γ(See 'MSK1::02 MSKI Hip All.txt::Evaluate and Treat Lumbosacral Pathology::Patient performs') ¿?
+    		-------------------------------------------------------------------------------------------------
+    		.1.11.1. Variations of Lumbar Motion Testing
+    			-Variations of lumbar motion testing include:
+    				1.Quadrant Testing
+    				2.Repeated Movement Testing
+    				3.Passive Lumbar Motion Testing (See [MSK2_1.12.Passive Lumbar Motion Testing])
+    				4.Accessory Lumbar Motion Testing (See ¿?)
+    			-Review the following information for each of the variation tests. Please note that passive and accessory lumbar motion tests will be covered on the next page. 
+    				1.Quadrant Testing (Combined Movement Testing) ('combined movement testing of the lumbar spine.png')
+    					-Quadrant testing, also known as combined movement testing of the lumbar spine, is another way to attempt to provoke the patient’s symptoms. This is especially helpful when the patient’s symptoms are not provoked with straight plane movements of flexion, extension and side bend. 
+    						-Common combined movements include either extension combined with side bend left or right (pictured below) or flexion combined with side bending​. 
+    					-Variations on interpretation:
+    						-SB & Ext same side painful: Possible tissue/joint compression? 
+    						-SB / Ext opposite side painful: Possible tissue stretch? 
+    						-Most accurate interpretation? Simply another way to provoke sxs in addition to cardinal plane movement or when cardinal plane motion is normal.
+    				2.Repeated Movement Testing ('2024-05-07 12_05_51-StrokesPlus')
+    					-Repeated movement testing is most appropriate for patients who report a pattern of change or variability in the location of their symptoms.
+    						Peripheralization: Pain moving further away from the spine
+    						Centralization: Pain moving closer to the spine
+    							Note that intensity of pain is not the key here in identifying a movement preference. 
+    					Repeated Movement (RM) Assessment 
+    						-McKenzie examination protocol calls for repeated movements of multiple reps to assess for worsening/peripheralization of symptoms. 
+    					Considerations for RM testing: 
+    							Let history, SINSS, and rest of exam guide: 
+    								Number of reps/sets
+    								Position in which you test
+    								Centralization typically more important to identify than peripheralization
+    					Repeated movement testing variations 
+    						The following are examples of possible positions in which to test repeated extension: 
+    							Prone lying (positioning) 
+    							Prone on elbows 
+    							Prone on hands 
+    							Extension in plantigrade 
+    							Extension in standing (partial) 
+    							Extension in standing (full)
+    			Knowledge Check
+    				-Repeated movement testing in a given direction should be implemented into the treatment plan when that movement causes: 
+    					More pain
+    					Less pain
+    					Peripheralization of symptoms 
+    					Centralization of symptoms
+
+    					Centralization of symptoms
+    						Repeated movement should be implemented into the treatment plan when the movement causes symptoms to be focused closer to the spine (centralization) and not when they radiate (peripheralization). Note that decreased pain is not necessarily the goal, but rather to see which movements reduce peripheralization.
+
+    				-Which of the following situations is an example of centralization of symptoms in a patient who has low back pain and tingling and numbness that goes down the posterior thigh to the knee? 
+    					Repeated flexion increases the intensity of the tingling and numbness 
+    					Repeated extension does not change the tingling and numbness 
+    					Repeated flexion reduces numbness in the thigh but intensifies pain across the waistline 
+    					Repeated extension causes back pain to move into the buttock and thigh  
+    					None of these are an example of centralization 
+
+    					Repeated flexion reduces numbness in the thigh but intensifies pain across the waistline
+    						While the other options all either represent no change or further peripheralization, this option is the only example of centralization. Note that even though pain is increased in the low back, it is still considered centralization because distal symptoms are lessened.
+    1.12. Passive (PROM) and Accessory Motion Testing for the Lumbar Spine [MSK2_1.12.Passive Lumbar Motion Testing]
+    	Physiologic PROM/Segmental Mobility Testing
+    		What is meant by physiologic motion?
+    			Physiologic Motion
+    				-Physiologic motion is global movement – which can be assessed passively in the lumbar spine in a sidelying position​.
+    				-With the patient in this position, the therapist can leverage his or her body to see and feel the effects of:
+    					Flexion
+    					Extension
+    					Rotation
+    					Side Bending
+    				-Sidelying techniques for assessing the lumbar spine ('05 Mod1 Passive_Lumbar_Spine_Mobility_Assessment.mp4')
+    	Accessory Testing/Joint Mobility Assessment
+    		What is meant by accessory motion/arthrokinematics?
+    			Accessory Motion
+    	 			-Accessory motion, on the other hand, is typically assessed by performing posterior to anterior spring testing of each individual vertebrae.​
+    	 			-For this procedure, the therapist uses the base of his hand to spring the vertebrae in an anterior direction.​
+    	 			-This can be done centrally, with pressure applied over the spinous process, or unilaterally applying pressure to the articular pillars.​
+    	 			-In performing this technique, the therapist is assessing:​
+    		 			-The total amount of motion through which the vertebra is able to move as compared to the other segments as well as the typical patient.​
+    		 			-End feel noting whether this is gradual or abrupt.​
+    		 			-And perhaps most importantly, if this motion provokes the patient’s familiar symptoms.
+    	 			Posterior to anterior stress of the lumbar spine ('06 Mod1 Lumbar Posterior Anterior Stress.mp4')
+    	Clinical note: When evaluating a patient with low back pain, it is also essential to assess hip ROM.
+    	 	This is performed for the purpose of:
+    	 		Ruling out the hip as a source of the patient’s pathology.
+    	 		Determining if abnormal motion at the hip may be contributing to the patient’s low back pain. 
+    	 	Relevant motions to assess include:
+    	 		In Supine: Hip flexion, internal/external rotation, abduction.
+    	 		In Prone: Hip extension, internal/external rotation.  
+    1.13. Muscle Flexibility Testing
+    	As with other regions, decreased tissue flexibility may alter lumbar mechanics. 
+    		Tests used for this purpose include: 
+    			Hip Flexors 
+    				Thomas Test (iliopsoas and rectus femoris) ('07 Mod1 Thomas Test') 
+    				Ely’s Test (rectus femoris) ('08 Mod1 Ely’s Test')
+    			Hamstrings 
+    				Popliteal Angle/90-90 Test ('09 Mod1 90-90 Test')
+    				Straight Leg Raise ('10 Mod1 Straight Leg Raise')
+    			ITB/TFL 
+    				Thomas Test 
+    				Obers Test ('11 Mod1 Obers Test') and Modified Obers Test ('12 Mod1 Modified Obers Test')
+    			Piriformis
+    				Piriformis Test
+    1.14. Muscle Performance/Strength Testing Γ& Functional Testing
+    	Muscle performance and strength testing of the lumbar spine. ('13 Mod1 Muscle Performance_Strength Testing.mp4')
+    		Assessment of "Core" Strength:
+    			Glut max
+    			Glut med
+    			Curl up and hold
+    			Curl up and hold in a diagonal plane
+    		Assess myotomes as appropriate
+    	"Functional" Testing
+    		Gait
+    			Symmetry
+    			Fluidity
+    			Arm swing
+    			Stride length
+    			Particularly important in patients who report worsening symptoms with walking.
+    		Single limb stance:
+    			Symptom provocation
+    			Asymmetry of motor control
+    			Ability to maintain an upright trunk
+    		Single/Double leg squat
+    			Quick screen of whole-leg strength
+    			Habitual movement pattern
+    			Asymmetry of depth/quality of movement
+    1.15. Palpation in the Lumbar Spine
+    	Palpation in the lumbar spine is typically performed for the purpose of assessing:
+    		Muscular Tone and Sensitivity
+    			Are muscles in spasm / demonstrating increased tension?
+    			Are there tender points of local muscle spasm known as ‘trigger points’ within muscle bellies? 
+    		Skin Mobility 
+    			While slightly different than traditional palpation, skin mobility is often worthwhile to assess. 
+    				In patients with chronic pain, skin often becomes adhered to the tissues below due to decreased movement.   
+    			Tender spots over interspinous ligaments.
+    			Pain with palpation directly over the spinous process may be indicative of spinal fracture.
+    1.16. Special Tests for Lumbar Pathology ('14 Mod1 LBP Tests.mp4')
+    	Straight Leg Raise ('Straight Leg Raise')
+    		Basic SLR test is passively raising the leg while keeping knee straight.
+    			-Most traditionally a test for herniated disc
+    				But also may provoke sxs for any radiculopathy
+    			-Positive Test = Reproduction of Familiar Symptoms
+    				Especially Radiating Symptoms
+    			-Variations to increase neural tension include and bias specific peripheral nerves include adding Adduction, IR, and DF
+    		Straight Leg Raise Accuracy
+    			SLR is Sensitive but not Specific for lumbar HNP with radiculopathy → "SnOut"
+    			Cross-positive SLR - reproduction of contralateral leg pain - is Specific but not Sensitive ("SpPin")
+    				(Γ)-------------------------------------------------------
+    				"SnOut" and "SpPin" are mnemonics used in medicine to describe the properties of diagnostic tests:
+
+    				1. "SnOut": (¦Si vullc que siga sensible, xo no està)
+    				   - "SnOut" stands for "Sensitive, Negative rules Out." 
+    				   - This means that a test with high sensitivity (ability to correctly identify those with the condition) and a negative result effectively rules out the presence of the condition.
+    				   - In other words, if the test accurately detects the absence of the condition when it's truly not there, it's considered helpful for ruling out the condition.
+    				   - In the context of the Straight Leg Raise (SLR) test for lumbar herniated nucleus pulposus (HNP) with radiculopathy, "SnOut" suggests that SLR, being sensitive (picking up most cases of the condition), is useful for ruling out lumbar HNP with radiculopathy when the test result is negative.
+
+    				2. "SpPin":
+    				   - "SpPin" stands for "Specific, Positive rules In." (¦Especialment tú no, xo ahí estàs)
+    				   - This means that a test with high specificity (ability to correctly identify those without the condition) and a positive result effectively confirms the presence of the condition.
+    				   - In other words, if the test accurately detects the presence of the condition when it's truly there, it's considered helpful for confirming the condition.
+    				   - In the context of the SLR test, "SpPin" suggests that a cross-positive SLR (reproduction of contralateral leg pain) is specific (unlikely to be positive in the absence of the condition) and helpful for confirming lumbar HNP with radiculopathy when the test result is positive.
+    	Slump Test
+    		Patient seated with hands behind back to achieve a neutral spine
+    		Have the patient slump forward at the thoracic and lumbar spine.
+    		Have the patient flex the neck by placing the chin on the chest and then extending one knee as much as possible.
+    		Ask patient to actively dorsiflex the ankle
+    	Identifying Pain Related to Loading of the Sacroiliac Joint: (Folder: 'Sacroiliac Joint Tests')
+    		No single test is reliable for identifying pain of sacroiliac origin.
+    		Current recommendation is to use a Test Item Cluster (TIC).
+    			Gaenslen's test
+    			FABER / Patrick's test
+    			Thigh thrust / Posterior shear test
+    			ASIS distraction (supine)
+    			Sacral compression (sidelying)
+    		3/5 positive → Y 85% sensitivity and 79% specificity
+    		0/5 positive → Y reliably excludes S1 as source of pain
+    	Performance of Tests
+    		Gaenslen's test:
+    			-Pt supine with both legs extended. The test leg is passively brought into full knee flexion, while the opposite hip remains in extension. Overpressure is then applied to the flexed extremity.
+    		FABER's test (AKA Patrick's Test ¿?):
+    			-The leg is placed in a figure-4 position. While stabilizing the opposite side of the pelvis at the anterior superior iliac spine, an external rotation, abduction and posterior directed force is applied.
+    		Thigh Thrust Test (a.k.a. Posterior Shear Test):
+    			Pt supine. Examiner place hip in 90 deg flexion and adduction. Examiner then applies posteriorly directed force through
+    		the femur at varying angles of abduction/adduction
+    		ASIS distraction Test:
+    			Pt supine. Examiner applies posterolateral directed pressure to bilateral ASIS.
+    		Sacral compression Test:
+    			Pt sidelying. Examiner compresses pelvis with pressure applied over the iliac crest directed at the oppositeiliac crest
+    	Prone Instability Test (P.I.T.) ('Prone Instability Test (P.I.T.)')
+    	Waddell's Signs
+    		Category + Signs
+    			Tenderness
+    				Superficial: light pinching causing pain = positive
+    				Non-anatomic: deep tenderness over a wide area = positive
+    			Simulation
+    				Axial loading: downward pressure on the head causing low back pain = positive
+    				Pain = positive
+    			Distraction
+    				-Straight leg raise causes pain when formally tested, but straightening the leg with hip flexed 90 degrees to check Babinski does not
+    			Regional
+    				Weakness: partial cogwheel "giving way" in multiple muscle groups
+    				Sensation: glove and stocking loss of sensation.
+    			Overreaction
+    				Excessive show of emotion
+
+    			Hoover's Test: Patient supine, instruct to lift one LE while testing for pressure under opposite heel
+    	Demonstration videos of each test
+    		('15 Mod1 Straight_Leg_Raise')
+    		('16 Mod1 Sit_Slump')
+    		('17 Mod1 Prone Instability')
+    		('18 Mod1 Test_Cluster')
+    	Knowledge Check
+    		A Prone Instability Test is considered positive when the therapist performs P-A glides and the patient reports: 
+    			Pain with both the feet on the ground and raised 
+    			Pain with neither feet on the ground, nor raised 
+    			No pain with feet on the ground, but pain with feet raised 
+    			Pain with feet on the ground but no pain with feet raised 
+
+    			Pain with feet on the ground but no pain with feet raised
+
+    		The reason that a patient might have less pain with feet raised during Prone Instability Testing is because: 
+    			The fully extended position of the spine provides more stability for the unstable segment 
+    			The unstable segment is stabilized by contracting muscles in and around the spine 
+    			The flexed position closes down facet joints causing greater compression on unstable spinal structures 
+    			Raising the feet provides a distraction from the pain induced by PA glides in the unstable segment 
+
+    			The unstable segment is stabilized by contracting muscles in and around the spine
+
+END of "Physical Examination", INI of "Spinal Pathologies and Introduction to the Treatment-Based Classification System"------------------------------------------------------------------------------------------------------------------------------------
+
+Based on these patterns (see above: "Physical Examination"), categorizing patients into classification groups and subgroups to determine the most effective interventions to manage their conditions.
+
+.1.18. Spinal Pathologies and Introduction to the Treatment-Based Classification (TBC) System
+	In this lesson, you will learn about: 
+		Common patho-anatomical diagnoses that are the source of low back pain.
+		Limitations of using spinal pathologies to guide treatment.
+		An overview of treatment-based classifications for low back pain. 
+
+.1.19. Patho-Anatomical Diagnoses of the Lumbar Spine Γ(So, look to "identify a comparable sign associated with the patient’s familiar symptoms", not the "affected anatomy")
+	-As with other body regions, anatomical structures of the lumbar spine when injured, degenerated, or otherwise affected can create pain and impairment. 
+	-While there is utility in understanding how mechanical stresses on these structures can generate painful stimuli, evidence suggests that identifying the affected anatomy in the spine has limited value for treatment, and for some patients, may even be harmful. 
+	('19a Mod1 Patho-Anatomical Diagnoses of the Lumbar Spine.mp4')
+	('19b Mod1 Patho-Anatomical Diagnoses of the Lumbar Spine.mp4')
+
+.1.20. Common Structural Spinal Pathologies ('20 Mod1 Spinal Pathologies.mp4') rrr
+	-Increase your knowledge of this section by answering the questions on "Q&A doc::1.20. Common Structural Spinal Pathologies Q&A"
+	----------------------------------------------------
+	"Discogenic" Pain
+		Subjective/Hx Findings
+			Younger patient
+			Pain worse with sitting, relieved by walking
+			Coughing/sneezing reproduce pain
+			Pain may be local or may radiate to the buttock or leg; below knee less common
+		Note:
+			Most patients with "discogenic" pain fit fairly well into the "Specific Exercise" subgroup of the Treatment-Based Classification system
+		Objective Findings
+			Possible lateral shift
+			Possible neural screen findings consistent with affected nerve root level
+			Myotomes
+			Dermatomes
+			DTRs
+			(+) SLR
+			Relief with traction? ΓNo, it can even worsen the symptoms 
+	Lumbar Radiculopathy
+		Subjective Findings
+			Radiating pain below the knee
+			Pain may be increased by cough/sneeze
+		Objective Findings
+			Deficits on neurological examination in a myotomal distribution
+			Asymmetrical deep tendon reflex and/or sensation testing
+			Positive straight leg raise test
+				Positive crossed straight leg raise test - Specific
+	Lumbar Stenosis - Narrowing of Spinal Canal (Central) or Foramina (Foraminal)
+		Subjective Findings
+			Older age
+			Relief with flexion
+				Often flexed posture is preferred
+			Pain with any extension posture or activity
+				Pain in legs when walking, standing
+			Symptoms relieved mostly by rest
+		Objective Findings
+			Pain with P-A testing — often radiating
+			Extension/Closing pattern of pain/limitation
+			Possible neuro signs at affected levels
+	"Facet" Pain
+		Subjective/Hx Findings
+			"Older" population
+			Symptoms are typically local
+			Pain with prolonged standing, walking
+		Objective Findings
+			Pain is provoked by extension, extension/rotation, quadrant testing.
+			Pain relieved by flexion
+			Knee to chest, sitting, sidebending away if symptom € unilateral
+			Pain with P-A testing?
+	Lumbar 'hypermobility' or 'Instability'
+		Subjective Findings
+			Generally, "younger" population
+				More flexible individuals
+				Symptoms local, non-radiating
+		Objective Findings
+			Minimal loss of motion, but pain with motion testing
+			Possible aberrant movement patterns
+			"Gower's Sign" ('Gower's Sign') ('Gower's Sign 2')
+			(+) Prone Instability Test
+	Muscle/Ligament — Strain/Sprain
+		Subjective Findings
+			Traumatic and recent onset common
+			May not have a clear directional preference — 'everything hurts'.
+			Associated with muscular bracing/tension.
+			Local symptoms
+		Objective Findings
+			Flexion most painful; possibly side bend away
+			Negative neuro exam
+			Tender over affected muscle
+	Degenerative Disc Disease
+		Subjective Findings
+			Older population
+			Distribution of pain is typically back and/or buttocks.
+		Objective Findings
+			Symptoms worse with extension, particularly loaded extension
+			Symptoms improve with flexion
+			Imaging has shown degenerative changes.
+			Considerable overlap between this group and 'facet syndrome'
+	Sacroiliac Joint Dysfunction
+		Subjective Findings
+			sxs local to area
+			Possibly Hx of impact on pelvis
+			Aggravated by lifting, cycling, sit to stand
+		Objective Findings
+			"Older" system (sacral torsions, innominate rotations)
+			Asymmetric pelvic landmarks
+			(+) Standing flexion ('Standing flexion test') ('Standing flexion test 2') and long sit tests ('long sit tests')
+				Minimal evidence for these methods
+			See Sacro-Iliac Test Cluster
+	Spondylolisthesis
+		Subjective Findings
+			In a Younger patient:
+				History of impact, loading activities
+			In an Older patient:
+				May be degenerative in nature
+			Viewed medically as a hypermobility syndrome
+		Objective Findings
+			Pain with P-A pressures
+			Painful/limited trunk extension ROM
+			Possible palpable "step-off sign" in spine
+
+	Knowledge Check
+		A 34 year-old patient injured his low back lifting a heavy crate from the floor one week ago. Pain is isolated on the right side of the low back and is made worse by forward bending and sidebending to the left. This presentation is most consistent with: 
+			Sprain/Strain 
+			Herniated disc 
+			Degenerative disc disease 
+			Lumbar instability 
+			Spondylolisthesis
+
+			Sprain/Strain (Because of the sudden onset)
+				Based on the information provided, this presentation is most consistent with a low back strain or sprain, rather than a herniated disc. Here's why:
+
+				## Low Back Strain/Sprain
+				- The injury occurred during lifting, which can strain the low back muscles, tendons or ligaments.[1][3]
+				- The pain is isolated to one side (right side) of the low back, which is typical of a strain/sprain.[1][3][4]
+				- Movements like forward bending and side bending to the opposite side (left) worsen the pain, as these motions stretch the strained muscles/ligaments on the right side.[1][3]
+				- The acute onset one week ago after a lifting incident is characteristic of a strain/sprain mechanism.[1][3][4]
+
+				## Why Not Herniated Disc
+				- A herniated disc typically causes radiating pain into the leg due to nerve root compression, which is not mentioned.[3][4][5]
+				- Herniated discs often have neurological symptoms like numbness/tingling or weakness in the leg, which are not described.[4][5]
+				- While bending can worsen disc pain, the pain is usually more central rather than strictly unilateral as with this case.[4][5]
+				- The acute traumatic lifting event is more consistent with a strain/sprain than a disc herniation, which can have a more insidious onset.[3][4]
+
+				In summary, the unilateral right-sided low back pain exacerbated by bending/twisting, without radiating leg symptoms or neurological deficits, points to a muscular strain or ligamentous sprain as the most likely diagnosis based on the provided history and mechanism of injury.
+
+		A 34 year-old patient has low back pain that began 3 months ago with no known precipitating factor. Pain is worse when lifting objects from the floor or when changing position. Lumbar flexion is painful but if he side bends slightly during forward bending, pain can be avoided. He also has pain when returning to upright from a flexed position that is better if he walks his hands up his legs during the action. This presentation is most consistent with: 
+			Spondylolisthesis
+			Herniated disc 
+			Lumbar instability 
+			Degenerative disc disease 
+			Sprain/Strain 
+
+			Lumbar instability
+
+END of "Spinal Pathologies and Introduction to the Treatment-Based Classification System", INI of "Module 2 - Lumbar TBC: Symptom Modulation Approach"---------------------------------------------------------------------------------------------
+
+.1.21. The Treatment-Based Classification (TBC) System
+	-This system evolved as a response to the failures of the patho-anatomical model.
+	-Treatment-Based Classification (TBC) is a model whereby the clinician makes treatment decisions based on the patient's clinical presentation.
+	-The primary purpose of the TBC approach is to identify baseline patient characteristics that predict responsiveness to varying treatment strategies. 
+	-The TBC for the spine is not without its critics, however. Reasons for this include:
+		Some patients are difficult to classify.
+			The overall reliability of an early system is 75.5% (Henry et al 2012) – which is not bad, but not high either. 
+		It may not attend enough to psychosocial factors.
+		There is conflicting research on its effectiveness.
+
+.(NO GASTAR ESTE!)2.2. Treatment-Based Classification Systems for Management of Spinal Conditions: The Pioneers
+	.Levels of Classification - A Treatment-based Classification Approach to Low Back Syndrome: Identifying and Staging Patients for Conservative Treatment [MSK2_Back_LevelsClass]
+			The first iteration of the TBC system was based on three levels of classification.  
+				Level 1 Classification:
+					Identifying WHO should manage the patient’s care
+						Consultation
+						physical Therapy
+							Stage I
+								Extension
+								Flexion
+								Lateral Shift
+								Immobilization
+								Traction
+								Mobilization
+							Stage II
+								Deficits in:
+									Flexibility
+									Strength
+									Cardiovascular
+									Coordination
+									Body Mechanics
+							Stage III
+								Activity intolerance
+								Work intolerance
+						Referral 
+				Level 2 Classification:
+					Determining the patient’s level of severity and disability 
+				Level 3 Classification:
+					Placing the patient into distinct categories that guide treatment →
+					(See [MSK2_Treatment-based Classification Approach to Low Back Syndrome]) →
+
+.(SI GASTAR ESTE!)2.3. 2007 Version of Treatment-Based Classification for Low Back Pain [MSK2_2007TBC_LBP]
+	-The next iteration of classification systems upon which the present-day version is based was published in the Journal of Orthopedic and Sports Physical Therapy in 2007.
+		('Subgrouping Patients With Low.pdf')
+
+	.Classification Categories
+		[MSK2_Classification Categories Low Back]
+		Γ(See [MSK2_Treatment-based Classification Approach to Low Back Syndrome])
+		('MSK2 - Mod2 - Classification Categories Low Back.emmx') ('MSK2 - Mod2 - Classification Categories Low Back MindMap.png')
+		------------------------------------------------------------------
+		('PT 2232_Mod 2_Proposed Patient Classification Criteria Based on Signs and Symptoms.pdf')
+		('22 Mod 2 Subgroupings of Classification.mp4')
+		-------------------------------------------------------------------
+		This model described five major classification categories including:
+			1.Stabilization 
+				Factors Favoring
+					¹ Younger age
+					⁵ Positive prone instability test
+					⁴ Aberrant motions present
+					Greater SLR ROM
+					² Hypermobility with spring testing
+					³ Increased episode frequency (Busquen altres raons o no? ¿?)
+					3 or more prior episodes
+				Factors Against
+					Discrepancy in SLR ROM (> 10°)
+					"Low" FABQ scores (FABQPA score < 9) (Why is this here if it "Low"=Favorable? ¿?)
+				----------------------------------------------------------------------------
+				1.Description of Sub-Categories - Patient Profile
+					¹,² Young, Often Flexible or Hypermobile
+				2.Description of Sub-Categories - Proposed Intervention Focus
+					Exercises focused on recruitment of trunk musculature / motor control
+				----------------------------------------------------------------------------
+				Original Classification Criteria
+					• ³ Frequent recurrent episodes of LBP with minimal perturbation 
+					• ² Hypermobility of the lumbar spine 
+					• Previous history of lateral-shift deformity with alternating sides 
+					• Frequent prior use of manipulation with dramatic but short-term results 
+					• Trauma, pregnancy, or use of oral contraceptives 
+					• Relief with immobilization (e.g., bracing) 
+				Updated Classification Criteria 
+					• ¹ Younger age (< 40 y)  
+					• ⁴ ”Instability catch” or aberrant movements during lumbar flexion/extension ROM 
+					• ⁵ Positive findings for the prone instability test 
+					• ² Greater general flexibility (postpartum, average SLR ROM > 91°)
+						• For patients who are postpartum: 
+							• Positive posterior pelvic pain provocation (P4), and ASLR and modified Trendelenburg tests 
+							• Pain provocation with palpation of the long dorsal sacroiliac ligament or pubic symphysis 
+			2.Specific Exercise – divided into 3 subcategories of: ¦Ieh! els adults i els vells a fer exercici ique irradien-rabien en els radis de la bici!
+				Factors Favoring
+					Strong preference for sitting or walking
+					Centralization with motion testing ('CENTRALIZATION.jpg')
+					Peripheralization in direction opposite centralization
+				Factors Against
+					LBP only (no distal symptoms) ¿?
+					Status quo with all movements
+				---------------------------------------------------- (See [MSK2_CVs.P])
+				2a.Specific Exercise "Flexion"
+					1.Description of Sub-Categories - Patient Profile
+						Older individual with spinal stenosis
+					2.Description of Sub-Categories - Proposed Intervention Focus
+						Exercises biased towards positions/directions of lumbar extension (No, es Flexion. ¿?)
+					----------------------------------------------------
+					Original Classification Criteria
+						• Symptoms centralized with lumbar flexion 
+						• Symptoms peripheralize with lumbar extension 
+						• Diagnosis of lumbar spinal stenosis
+					Updated Classification Criteria 
+						• Older age (> 50 years) 
+						• Directional preference for flexion 
+						• Imaging evidence of lumbar spinal stenosis
+				2b.Specific Exercise "Extension"
+					1.Description of Sub-Categories - Patient Profile
+						Young adult or Adult with radiating Symptoms
+					2.Description of Sub-Categories - Proposed Intervention Focus
+						Exercises biased towards positions/directions of lumbar extension
+					----------------------------------------------------
+					Original Classification Criteria
+						• Symptoms centralized with lumbar extension 
+						• Symptoms peripheralize with lumbar flexion 
+					Updated Classification Criteria 
+						• Symptoms distal to the buttock 
+						• Symptoms centralize with lumbar extension 
+						• Symptoms peripheralize with lumbar flexion 
+						• Directional preference for extension
+				2c.Specific Exercise "Lateral Shift"
+					----------------------------------------------------
+					1.Description of Sub-Categories - Patient Profile
+						Stands with Pelvis Shifted
+					2.Description of Sub-Categories - Proposed Intervention Focus
+						Positional interventions to reduce Pelvic shift
+					----------------------------------------------------
+					Original Classification Criteria
+						• Visible frontal plane deviation of the shoulders relative to the pelvis 
+						• Asymmetrical side-bending active ROM 
+						• Painful and restricted extension active ROM 
+					Updated Classification Criteria 
+						• Visible frontal plane deviation of the shoulders relative to the pelvis 
+						• Directional preference for lateral "translation" movements of the pelvis (Translation on the pelvis? ¿?) 
+			3.Manipulation ¦Al revés que l'anteror: no irradiating symptoms required 
+				Factors Favoring
+					More recent onset of symptoms
+					Hypomobility with spring testing
+					LBP only (no distal symptoms)
+					Low FABQ scores (FABQW score < 19)
+				Factors Against
+					Symptoms below the knee
+					Increasing episode frequency
+					Peripheralization with motion testing
+					No pain with spring test
+				----------------------------------------------------
+				1.Description of Sub-Categories - Patient Profile
+					Acute Presentation Minimal Radiating Symptoms 
+				2.Description of Sub-Categories - Proposed Intervention Focus
+					Manual Therapy, Lumbar Manipulation
+				----------------------------------------------------
+				I.Original Classification Criteria
+					• Asymmetrical lateral flexion ROM (i.e., capsular pattern of motion restriction)  
+					• Unilateral LBP without symptoms in the lower extremities 
+					• Asymmetrical bony landmarks of the pelvis 
+					• Positive sacroiliac dysfunction tests (i.e., supine long sit test, prone knee bend test, standing flexion test) 
+				II.Updated Classification Criteria 
+					• No symptoms distal to the knee 
+					• Recent onset of symptoms (< 16 days) 
+					• Low FABQW score (< 19) 
+					• Hypomobility of the lumbar spine 
+					• Hip internal rotation ROM (> 35° for at least one hip) 
+			4.Traction 
+				1.Description of Sub-Categories - Patient Profile
+					Signs/Symptoms of Nerve root compression
+				2.Description of Sub-Categories - Proposed Intervention Focus
+					Interventions to decompress structures of lumbar spine 
+				----------------------------------------------------
+				Original Classification Criteria
+					• Signs and symptoms of nerve root compression 
+					• No movements centralized symptoms 
+				Updated Classification Criteria 
+					• Signs and symptoms of nerve root compression 
+					• No movements centralized symptoms
+
+		('MSK2 - Mod2 - Decition-Making Chart for Classification Categories of Low Back.emmx')
+		('Decition-Making Chart for Classification Categories of Low Back MindMap.png')
+		--------------------------------------------------------------------------------------
+		Decition-Making Chart Γfor Classification Categories of Low Back ('patient_classification.py')
+			1.Does the patient 
+				Centralize with 2 or more movements in the same direction (i.e., flexion or extension) "OR" 
+				Centralize with a movement in 1 direction or peripheralized with an opposite movement
+					--------------------------------------
+					If yes (Specific Exercise classification)
+					NO (Go to 2)
+			2.Does the patient
+				Have a recent onset of symptoms (<16 days) "AND"
+				No symptoms distal to the knee
+					--------------------------------------
+					If YES (Manipulation classification)
+					NO (Go to 3)
+			3.Does the patient have at least 3 of the following
+				Average SLR ROM >91 degrees
+				Positive prone instability test
+				Positive aberrant movement
+				Age <40 yrs
+					--------------------------------------
+					If YES (stabilization Classification)
+					NO
+
+.2.4./2.6.¿? Updated TBC Content
+	('23 Mod 2 Triage Criteria and Rehab Groups.mp4')
+		Triage Criteria and Rehabilitation Sub-Groups [MSK2_Live01_Back::RedFlag]
+			.('Triage Criteria.png')
+			-Since we PTs are now first contact practitioner (first care provider the pt. sees), we have to be able to determine the appropiate management strategey and classify patients into these three categories 
+				-----------------------------------------------------------
+				Triage by the First Contact Health Care Provider ('TRIAGE BY THE FIRST-CONTACT HEALTH CARE PROVIDER.png') [MSK2_Live02_Back::Triage1stStep]
+				↓
+				Determine the Appropriate Management Approach [MSK2_Live02_Back::Triage1stStep]
+					.1TBC.(RED)Medical Management / First-contact healthcare providers - Clinical Findings (no appropiate for PT) (Do we come here afer Red Flags if '+'? ¿?) (no es açò "(2.2.)::Level 1 Classification::Referral"? ¿?)
+						"Red flags"
+						Medical comorbidities precluding rehabilitation
+						Leg pain with progressive neurological deficits
+							------------------------------
+							Refer them primarily to physician for medical testing and medical management
+						-Medium-to-high psychosocial risk status (considering their mental and emotional well-being) (este va ací? ¿?)
+							Patients with high psychological risk profiles may benefit from
+								psychologically informed rehabilitation, which includes
+									education about pain theory
+									coping skills, and
+									addressing catastrophizing
+					.2TBC.(YELLOW)Rehabilitation Management / Rehabilitation providers - Clinical Findings (appropiate for PT but with psychosocial risks factors)
+						Low psychosocial risk status with predominantly leg pain (where psychosocial factors play a role).
+						Minor or controlled medical comorbidities (less severe health issues)
+						For these patients, rehabilitation-based approaches are suitable
+							--------------------------------------------------------------
+							-If rehabilitation is the correct path, three approaches to physical therapy management based on assessment of the patient’s pain intensity, disability, and the perceived clinical status. 
+							-Three rehabilitation approaches (Subgroup-matched treatment approaches) include: [MSK2_RehabilitationApproachesX3]
+								(Mix with (2.6.a)) → Determine the appropriate rehabilitation approach Table
+								[MSK2_Back::DetermRehabApproach::Triage2.1stStep] [MSK2_Live02_Back]
+								('TBC Rehabilitation Approaches')
+									.2aTBC.Symptom modulation [MSK2_SymptomModulationSubgroups] [MSK2_Live02_Back]
+										See Multiple-Choice Questions training in this doc Q&A
+										-----------------------------------------------
+										Volatile symptoms: patients with new/recent/recurrent episode of LBP
+										High levels of pain and disability
+										----------------------------------------------- rrr
+										(RED)Symptom Modulation
+											Clinical Findings
+												Disability: high
+												Symptom status: volatile (Qué significa ¿?)
+												Pain: high to moderate
+											Treatments
+												Directional preference exercises
+													Criteria for Classification
+														-Preferred movement with AROM testing
+														-Pain or paresthesia moving distally from spine
+														-Centralization with single, repeated or sustained movements opposite direction of peripheralization
+													Other Factors
+														-Extension preference usually seen with people late 20’s to early 50’s
+														-Flexion preference usually seen with people over the age of 50
+														-Decreased ROM often seen in one or more directions
+												Manipulation/mobilization
+													Criteria for Classification
+														Clinical Prediction Rule for Grade V Mobilization:
+															No symptoms distal to the knee
+															Duration of symptoms < 16 days
+															FABQ work score < 19 (STarT Back Tool - low/medium risk)
+															Hypomobility during lumbar spring testing
+															At least one of the hips has internal rotation > 35°
+														(4 of 5 tests positive with 95% success with spinal mobilization)
+													Other Factors
+														Ruled out red flags
+														Status quo with all movements
+												Traction
+													Criteria for Classification
+														-Presence of sciatica 
+														-Signs of nerve root compression 
+														-Peripheralization with extension movement
+														-(+) Crossed straight leg raise
+															OR
+														-Other typical findings:
+														-No change in symptoms with use of directional preference exercises (status quo)
+													Other Factors
+														-Often overlap with findings from EITHER flexion OR extension subgroups
+														-Or no centralization of symptoms with use of directional preference exercises
+												Active rest
+													Criteria for Classification
+														Highly irritable, may require activity modification
+													Other Factors
+														May be worse with all movements, easily provoked
+														Inflammatory factors predominate
+										Go to (2.6.a)→[MSK2_RehabilitationApproachesX3] (GRAN CONEXIÓ) !!
+									.2bTBC.Movement control (See [MSK2_MovementControlSubgroups])
+										Patients with moderate levels of pain and disability, stable symptoms
+										----------------------------------------------------
+										(YELLOW)Movement Control
+											Clinical Findings
+												• Disability: moderate
+												• Symptom status: stable (Qué significa ¿?)
+												• Pain: moderate to low
+											Treatments
+												• Sensorimotor exercises
+												• Stabilization exercises
+												• Flexibility exercises
+									.2cTBC.Functional Optimization
+										low pain/disability, controlled symptoms
+										---------------------------------------------
+										(GREEN)Functional Optimization
+											Clinical Findings
+												• Disability: low
+												• Symptom status: controlled (Qué significa ¿?)
+												• Pain: low to absent
+											Treatments
+												• Strength and conditioning exercises
+												• Work-specific or sport-specific exercises
+												• Aerobic exercises
+												• General fitness exercises
+												---------------------------------------------------------------
+												(3nd. Step) Triage Process and Matching Criteria for the Rehabilitation Provider
+													[MSK2_Back::TriageMatchingCriteria::Triage2.0stStep]
+													Rehabilitation Approach (Chart)
+														Classification
+															Pain rating
+																1.Symptom Modulation
+																	High to moderate
+																2.Movement Control
+																	Moderate to low
+																3.Functional Optimization
+																	Low to absent
+															Disability rating
+																1.Symptom modulation
+																	High
+																2.Movement Control
+																	Medium
+																3.Functional Optimization
+																	Low
+															Clinical status
+																1.Symptom Modulation
+																	Volatile: symptoms predominate
+																2.Movement Control
+																	Stable: movement impairments predominate
+																3.Functional Optimization
+																	Well-controlled: performance deficits predominate
+														Treatment Modifying Variables (Qué significa tot açò ¿?)
+															Psychosocial status
+																1.Symptom Modulation
+																	+/-
+																2.Movement Control
+																	+/-
+																3.Functional Optimization
+																	+/-
+															Comorbidities
+																1.Symptom Modulation
+																	+/-
+																2.Movement Control
+																	+/-
+																3.Functional Optimization
+																	+/-
+									A patient may enter at any phase and progress or reqress from one phase to another
+									Note the Inclusion of Aspects from the 2007 TBC Classification System!!!
+										Manipulation
+										Stabilization
+										Specific Exercise Flexion/Extension (AKA: Directional Preference)
+										Traction
+					.3TBC.(GREEN)Self-Care Management - Clinical Findings (appropiate for PT)
+						Low psychosocial risk status (mental and emotional factors are less concerning)
+						Predominately axial low back pain (pain primarily in the back)
+						Minor or controlled medical comorbidities
+
+			.('Criteria for Levels of Triage') ('Criteria for Levels of Triage.py')
+
+.(2.6.a)Rehabilitation Approaches [MSK2_RehabilitationApproachesX3] (GRAN CONEXIÓ) !!
+	Determine the Appropriate Rehabilitation Approach ('Rehabilitation Approach')=('Phases within a Continuum.png')
+		(RED)Symptom Modulation
+			Clinical Findings
+				• Disability: high
+				• Symptom status: volatile
+				• Pain: high to moderate
+			Treatments (See [MSK2_SymptomModulationSubgroups])
+				---------------------------------------
+				Mini Index
+					Directional preference exercises
+					Manipulation/mobilization
+					Traction
+					Active rest
+				---------------------------------------
+				• Directional preference exercises
+					[MSK2_2.8.Overview of Specific Exercise Subgroups]
+						('24 Mod 2 Matching Interventions with the Rehabilitation Approach.mp4')
+							Specific Exercise Classification (AKA: Directional Preferences)
+								-"The basic premise advocated for treating patients in a specific-exercise classification is
+								to use repeated end-range movernents in the direction that caused centralization.
+								-----------------------------------------
+								Definitions ('Centralization Vs Peripheralization.png') [MSK2_CVs.P] (also from [MSK2_Live01_Back::CentrVsPeriph])
+									For pt. with lumbar radiculopaty
+										-To see how symptoms change in response to particular movements
+										-An increase in symptoms is not considered here; it does not affect these concepts!! 
+									---------------------------------------------------
+									Centralization:
+										1.Pain, or paresthesia that moves centrally, towards the spine
+											-A pain or paresthesia which was present is abolished
+											-A symptom diminished or abolished during a specific movement (or position) and remains so for at least 30 seconds
+											-Symptoms of tingling, numbness, or pain are traveling towards the origin of pain
+												I.e.: If a pt. with paresthesia while we take them to a particular movement, and the symptoms move proximally or the symptoms of the leg go away alltogether.
+											-Sometimes, when we are centralizing the symptoms, this also coincides with a local low back pain so. Taking away the symptoms from the leg is the most important at the moment though.
+											-PTs use patient positioning, moving testing, and certain manual tests to assess and cause centralization. This is then a desireble fact.  
+									Peripheralization:
+										1.A pain, or paresthesia moves distally, away from the spine
+											-A paresthesia or radiating pain is produced which was not previously present
+											-A symptom present (or produced) increases in intensity and remains increased for at least 30 seconds after completion of the movement.
+											-Symptoms of tingling, numbness, or pain are traveling away from the origin of pain.
+											-Not a desirable effect; avoid it
+												Educate the patient to avoid that movement that provke this 
+								-------------------------------------------
+								Examination Findings [MSK2_Live01_Back]
+									Status improves (centralizes) during movement testing
+										• Single test movements
+											• Flexion
+											• Extension
+											• Anterior/Posterior pelvic rotation
+										• Repeated/Sustained movements
+										• Very acute patients possibly only with sustained positions of flexion/extension/pelvic positioning
+											--------------------------------
+											I.e.: ('Examination Findings Centr vs Periph')
+												-In this case we see that for this patient, flexion peripheralizes the symptoms and extension centralize them.
+												 -You will imitate this movements when testing the pt. 
+								--------------------------------------------
+								Criteria for Status Change
+									WORSENED
+										• Neuro Signs Increase
+										• Paresthesia Peripheralizes
+										• Paresthesia Increases
+										• Pain Peripheralizes
+										• Deformity Increases
+										• Pain Increases
+										• AROM Decreases
+									IMPROVED
+										• Neuro Signs Decrease
+										• Paresthesia Centralizes
+										• Paresthesia Decreases
+										• Pain Centralizes
+										• Deformity Decreases
+										• Pain Decreases
+										• AROM Increases
+								----------------------------------------------
+								Indications from the History
+									Reported improvement or worsening with certain functional activities
+										Flexion preference:
+											• Improves with sitting, hook-lying, forward bending
+											• Worsens with standing, walking, backward bending
+										Extension preference
+											• Improves with standing, walking, backward bending
+											• Worsens with sitting, hook-lying, forward bending
+					[MSK2_2.9.Overview of Specific Exercise: Extension Classification]
+						-Patients who fit into the "specific exercise extension" classification commonly are of the following profile: (El grup fa menció a la postura que NO fa mal; en contra de la meua lògica)
+							-Younger age range: late 20’s to early 50’s
+							-Acute mechanism of onset
+							-Lifting, bending, or twisting mechanism
+							-Sometimes insidious onset
+							-Pain, parathesia, numbness often radiates unilaterally from the spine into buttocks, thigh, and lower leg
+							-May exhibit a trunk “shift behavior”
+							-An antalgic, muscular spasm that results in involuntary repositioning of the trunk
+							-These patients may have difficulty attaining erect, upright postures (Cóm pot ser açò? extensió alivia ¿?)
+						-Specific Exercise Extension Subgroup - Exam Findings 
+							Symptoms centralize with lumbar extension 
+							Symptoms peripheralize with lumbar flexion 
+							(+) SLR / Slump Γ(peripheralize or centralize? ¿?)
+								-In the "Extension Classification Group," for the "Exam Findings," what a positive SLR and Slump test may indicate? Also, is this positive test meaning peripheralize or just painful?
+							POSSIBLE (+) neuro signs (sensation, myotomes, reflexes) 
+							Centralization with P-A pressures
+						------------------------------------------------------------
+						Knowledge Check
+							Complete the following knowledge check before continuing on to the next section. 
+								-Based on the information above, what functional activities do you think would cause centralized symptoms vs. peripheralization for a patient with a directional preference for EXTENSION? 
+								-WOULD YOU EXPECT THIS ACTIVITY TO CAUSE CENTRALIZATION OR PERIPHERALIZATION?
+									Centralize
+										Standing
+										Walking
+										Lying in prone
+									Peripheralize
+										Forward bending
+										Sitting
+						----------------------------------------------------------
+						[MSK2_2.9.1.Patho-Mechanics of Patients with "Extension Classification Grouping"]
+							('25 Mod 2 Patho-Mechanics of Patients with Extension Classification.mp4')
+								●	Why do some patients centralize with extension?
+									○	Proposed Theories
+										■	Extension creates mechanical compression of posterior portion of lumbar discs
+											●	Results in anterior migration of nucleus material
+										■	Extension transfers compressive force from disc to the facet joints
+										■	Extension may permit the discs to “rehydrate” by reducing compression
+								('L4-L5 Intra-Discal Pressure in 8 Healthy')
+								●	Intervertebral disc biomechanics
+									○	Internal Disc disruption
+										■	A condition in which the internal architecture of the disc is disrupted, even through its external appearance remains normal
+											●	Normal x-ray and CT scan
+											●	Diagnosed with discography
+								●	Extension Classification and Lateral Shift ('Extension Classification and Lateral Shift')
+									○	Proposed Pathomechanics:
+										■	Disc Herniation
+										■	Protective muscle spasm
+								●	The Lateral Shift ('The Lateral Shift')
+									○	Frontal plane deviation of the shoulder in relation to the pelvis, accompanied by some degree of flexion
+									Other terms:
+										Lumbar list
+										trunk list
+										sciatic scoliosis
+								●	Matsui et al (Spine, 1998) ('The Lateral Shift 2')
+									○	40 patients with lateral shift and HNP undergoing discectomy 
+									○	80% shifted away from the herniation
+									○	Shift disappeared in 45% after surgery
+						-------------------------------------------------------------------
+						[MSK2_2.9.2.Treatment for Extension Specific Exercise]
+							●	Treatment for Extension Specific Exercise
+								○	In prescribing exercises for patients that centralize with positions of extension, the physical therapist should determine what positions or modes of achieving extension:
+									■	Are best tolerated by the patient 
+									■	Most effectively achieve centralization
+								('PT 2232_Mod 1_Treatment Progression_Extension.pdf')
+									Treatment Progression 
+										-Note that approaches to achieving extension, or moving in and out of extension, typical represent a progression. 
+										-------------------------------------------------------------
+										-Progression of Positioning 
+											○	These positions/exercises/movements can and will change throughout the course of the patient’s recovery
+																				More acute/severe ↓
+												■	Prone lying (positioning)
+												■	Prone on elbows
+												■	Prone on hands
+												■	Extension in plantigrade Γ('Extension in plantigrade')
+												■	Extension in standing (partial)
+												■	Extension in standing (full)
+																				Less acute/severe ↑
+											-The positions at the top are typically tolerated better by more acute patients while those towards the bottom are better with patients that have progressed. Patients may also backslide to previously used positions during exacerbations as noted by the double-sided arrow.
+										-Progression of Movements 
+											-In addition, progression of movements within each position can be progressed as listed below. Again, the descriptors at the top represent earlier progressions while those towards the bottom are more advanced.
+																				More acute/severe ↓
+												• Movement in/out of slight extension within each position 
+												• Movement in/out of greater ranges of extension within each position 
+												• End-range extension movement within each position 
+												• Sustained end-range positioning within each position 
+																				Less acute/severe ↑
+							('26 Mod 2 Prone_Repeated_Extension_Progression.mp4')
+						----------------------------------------------------------------
+						[MSK2_2.9.3.Education for Extension Classification]
+							-Patients in this classification category may benefit from common considerations for education.
+							-Review the following considerations
+								Early Morning Considerations
+									-Patients with disc injuries may be at increased risk of re-injury with flexion early in the morning. This is due to rehydration of the discs and other tissues during the night. (Why if they are hydratated? ¿?) 
+									-For this reason, it is often recommended that patients follow these guidelines upon awakening: 
+										-Prior to rising, spend some time lying prone, in prone on elbows, or performing prone press-ups as tolerated.
+										-Maintain extension while transferring from lying to seated and standing. (How is possible to mantain extension while sitting? ¿?) 
+										-Restrict flexion for the first hour or so.
+								Considerations for Sitting
+									-Because sitting is commonly symptomatic, patient education should include: 
+										-Limiting the total amount of time spent sitting and change position BEFORE symptoms appear. 
+										-Maintenance of the lordosis while sitting either actively or while using lumbar supports. 
+										-Selectively choose only very supportive seating surfaces and chairs.
+								Knowledge Check
+									-A physical therapist is evaluating a patient whose symptoms are worsened in sitting. It seems the symptoms centralize as she stands but moving into extension while standing is not well tolerated. Which of the following could the PT have the patient attempt to promote centralization of symptoms?
+										Prone on elbows 
+										Side lying rotation 
+										Posterior pelvic tilt  
+										Forward bend 
+
+										Prone on elbows (I need more explanation ¿?)
+						-------------------------------------------------------------------
+						[MSK2_2.9.4.Manual Therapy to Enable Extension]
+							-There are a number of manual approaches from which patients in this classification may benefit, however those with an increased focus on extension include: 
+								Prone P-A Glide Techniques
+									Performed with the patient lying flat in prone 
+									And with the patient performing press-ups 
+										Onto the Elbows 
+										Or onto the Hands
+								NOTE:
+									-The PA glide applied during active extension by the patient was demonstrated in the video on the prior page of this module. If a PA glide with active extension is not tolerated by the patient that is when the PT would default to PA glides in a static prone position without movement.
+					[MSK2_2.10.Evidence for Centralization and Directional Preference Exercises & Procedures] (Ignora este)(!!)
+						('27 Mod 2 Evidence for Centralization and Directional Preference Exe.mp4')
+							●	Evidence for Centralization and Directional Preference Exercises & Procedures 
+								○	Systematic Review of RCTs investigating efficacy of McKenzie (directional) Γ('McKenzie exercises') therapy for spinal pain
+								○	5 eligible trials for comparison
+								○	Short term f/u (<3 mo)
+									■	McKenzie therapy with mean 8.6 pt greater pain reduction and 5.4 pt greater reduction in disability vs comparison
+
+							●	Extension Exercises
+								○	N=48, LBP & symptoms distal to buttocks that centralized with extension movement
+								○	Extension oriented treatment vs strengthening program (8 visits + HEP)
+									■	Repeated/sustained ext in prone and standing; PA mobilization; avoid sitting >20-30 min; avoid positions/activities that peripheralize sxs
+									■	Strengthening - “stabilization” approach per Hicks
+								○	F/U: 1 wk, 4 wks, 6-mo: Oswestry Score and Pain Ratings (0-10)
+
+								○	Extension-Oriented Treatment 
+									■	Greater improvements in disability vs trunk strengthening group at 1wk, 4wks, 6 mo
+									■	Greater change in pain at 1 wk
+
+							●	The McKenzie Method Compared with Manipulation
+								○	RCT, n=350, LBP > 6 wk duration with centralization/peripheralization of sxs
+								○	Groups: Mckenzie (MDT credentialed PTs) to SMT( DCs)
+									■	McKenzie
+										●	No mob/manipulation allowed
+									■	SPinal Manipulation
+										●	Could include low or high velocity mob/manipulation &/or myofascial trigger point massage
+										●	Specific therex in directional preference not allowed 
+									■	Both Groups 
+										●	Education: stay active, general back care, “Back Book”
+								○	Both groups - clinically meaningful improvements 
+
+								○	“Success” at 2 months - McKenzie superior (71% vs 59)
+								○	Disability - 2 & 12 months - McKenzie with greater improvement on RMQ
+								○	No difference in other outcomes collected 
+					[MSK2_2.11.Overview of Specific Exercise: Flexion Classification]
+						●	Overview of Specific Exercise: Flexion Classification
+							○	Mechanism of onset
+								■	More commonly there is no specific mechanism and a gradual onset
+							○	Age range 
+								■	May vary but typically associated with those age >50 and older
+							○	Primary complaints are of a stiff, achy back
+								■	BUT - when exacerbated, often accompanied by radiating features
+							○	Imaging evidence of spinal stenosis (or spondylosis/DJD)
+							○	Exacerbating/Relieving Factors: 
+								■	Less pain (or better with) sitting
+								■	More pain standing & walking
+								■	Better in hooklying & sidelying (rarely better in prone)
+								■	Pain may be accompanied by “claudicant behavior”
+						●	A sense of weakness when standing & walking
+							○	Specific exercise flexion sub-group exam findings include:
+								■	Decreased pain or relief with flexion & side-bending away
+								■	More pain with extension & side-bending same side
+								■	Symptoms MAY centralize with lumbar flexion
+								■	Symptoms MAY peripheralize with lumbar extension
+								■	POSSIBLE (+) neuro signs (sensation, myotomes, reflexes)
+								■	Pain and possible peripheralization with P-A pressures
+						[MSK2_2.11.1.Patho-Mechanics of Patients with Flexion Classification Grouping]
+							●	Patho-Mechanics of Patients with Flexion Classification Grouping 
+								○	Lumbar Degenerative Joint Disease (DJD)/Spondylosis
+									■	Decreased disc height
+									■	Degeneration of the facet joints
+								○	Lumbar spinal stenosis
+									■	Any narrowing of the lumbar spinal canal, nerve root canal, or intervertebral foramina that produces compression of the neural elements
+							●	Treatment for Patients with Degenerative Conditions of the Spine 
+								○	Most sources agree that spinal stenosis is a fixed pathology more amendable to surgical management, however less advanced cases may still be managed conservatively
+								○	Degenerative conditions are more amenable to conservative care, but again severe cases may require surgical intervention
+								○	Surgical intervention is most indicated in instances where there is significant impingement on neural structures that has the potential to result in lasting neurological impairment
+						('28 Mod 2 Specific Exercise Flexion Classification Non-Surgical Treat.mp4')
+							●	Specific Exercise Flexion Classification Non-Surgical Treatment
+								○	Flexion-oriented exercises ('Flexion-oriented exercises')
+									■	Unilateral knee to chest, cat-cows, bilateral knee to chest 
+								○	Unloading via De-weighted treadmill ambulation
+									('Unloading via De-weighted treadmill ambulation')
+								○	Hip Treatment for LBP ('Hip Treatment for LBP')
+								○	Exercises for individual impairments (D'on ix açò? ¿?)
+									■	Trunk Strength and Stabilization
+									■	Lower Extremity Strength
+									■	Hip and Spinal Mobility 
+							Knowledge Check
+								-A patient describes back pain when at the grocery store, that seems to be relieved when he leans on his cart. Which directional preference is he likely to have?
+									Extension
+									Lateral shift
+									Flexion
+									Rotation 
+
+									Flexion
+					[MSK2_2.12.Traction Sub-Classification]
+						-In general, this rehabilitation approach is considered for patients with radicular signs and symptoms who are unable to centralize with either flexion OR extension during ROM testing.
+							('29 Mod 2 Traction Sub-Classification.mp4')
+								●	Traction Sub-Classification
+									○	Indications for Traction
+										■	Most common: 
+											●	LBP and leg pain due to herniated disc, spinal stenosis or DJD
+										■	Other proposed indications:
+											●	Reduce Muscle spasm, joint hypomobility, facet joint dysfunction
+
+								●	Proposed Mechanical Effects of Spinal Tractions
+									○	Vertebral decompression
+									○	Facet Joint distraction
+									○	Creation of negative pressure within the disc
+									○	Widening of the inter-vertebral foramina
+									○	Reduce Muscle Spasm
+									○	Elongation of soft tissue
+
+								●	Patient positioning for traction
+									○	Traction in Extension
+										■	Younger patients
+										■	Worsened status with flexion
+										■	Prefer stand/walking vs. sitting 
+									○	Traction in Flexion
+										■	Older individuals
+										■	Worsened status with extension
+										■	Prefer sitting vs stand/walk
+
+								●	General Parameters
+									○	Traction in Flexion
+										■	Hips and knees in flexion (supported on a stool)
+										■	Intermittent traction
+										■	Relatively low traction forces (20% -50% body weight) 15-20 minute treatments
+									○	Traction in Extension
+										■	Patient prone
+										■	Greater traction forces (work up to 50% body weight or more still start at 25%)
+										■	Intermittent 
+											●	Progress to longer hol-times and/or static holds
+										■	25-30 minute treatments
+
+								●	Manual Traction
+
+								●	Contraindications to Mechanical Lumbar Traction
+									○	Acute soft tissue injury 
+									○	Highly unstable spinal segments
+									○	Diseases affecting spinal cord or vertebrae tissue
+										■	Cancer
+										■	Meningitis
+										■	Rheumatoid arthritis
+									○	Pregnancy
+									○	Sever cardiac or pulmonary involvement 
+									○	Advanced osteoporosis
+									○	Claustrophobia
+									○	Pain with manual traction techniques
+
+								●	Evidence for Use of Lumbar Traction? 
+								○	When patients are grouped into those categories they respond well to traction 
+							('30 Mod 2 Sidelying_Lumbar_Mobilization_Traction.mp4')
+					[MSK2_2.13.Lesson 2B Summary]
+						After completing Lesson 2B, you should have an understanding of the:
+							-Three subcategories associated with the symptom modulation approach include specific exercise extension, specific exercise flexion, and traction. 
+							-Patients who fit into each subcategory tend to follow a certain profile with common characteristics. 
+							-Patients who fit into the extension or flexion groups tend to experience centralization of symptoms in the direction of preference and peripheralization of symptoms in the opposite direction. 
+							-Patients fitting into the traction sub-group that may benefit from a trial of lumbar mechanical traction. 
+				• Manipulation/mobilization
+				• Traction
+				• Active rest
+
+.Answer important general questions until this point to gain general knowlege at "Breakout Session 2: Examination of the Lumbar Spine" & at the same section, with the answers, at this Q&A doc
+
+.Ongoing Reevaluation and Adjustment (Este on aniria? ¿?)
+		Patients may be reclassified into different rehabilitation approaches as their clinical status changes
+
+. Discharge patient once symptoms are resolved and functional goals are met
+
+END of "Spinal Pathologies and Introduction to the Treatment-Based Classification System"-----------------------------------
